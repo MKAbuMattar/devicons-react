@@ -1,8 +1,3 @@
-/package/README.md
-/package/LICENSE
-node_modules
-
-
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -16,8 +11,6 @@ node_modules
 # next.js
 /.next/
 /out/
-
-/.next
 
 # production
 /build
@@ -39,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+/package/README.md
+/package/LICENSE
