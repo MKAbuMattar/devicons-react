@@ -32,6 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+.git
 
 /package/README.md
 /package/LICENSE
