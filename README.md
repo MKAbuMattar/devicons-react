@@ -26,7 +26,23 @@
 <h2>Install package</h2>
 
 ```bash
+#npm
 npm install --save devicons-react
+
+#yarn
+yarn add devicons-react
+```
+
+<h2>Add CDN</h2>
+
+```html
+<!-- jsdelivr -->
+
+<script src="https://cdn.jsdelivr.net/npm/devicons-react@0.1.6/dist/index.min.js"></script>
+
+<!-- unpkg -->
+
+<script src="https://unpkg.com/devicons-react@0.1.6/dist/index.js"></script>
 ```
 
 <h3 id="default">Icon Behavior / props</h3>
