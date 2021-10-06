@@ -93,6 +93,28 @@ import {
   GroovyPlain,
   GruntPlain,
   GulpPlain,
+  HandlebarsOriginal,
+  HaskellPlain,
+  HaxePlain,
+  HerokuPlain,
+  HTML5Plain,
+  IE10Original,
+  IllustratorPlain,
+  InkscapePlain,
+  IntellijPlain,
+  IonicOriginal,
+  JamstackOriginal,
+  JasminePlain,
+  JavaPlain,
+  JavascriptPlain,
+  JeetPlain,
+  JenkinsPlain,
+  JestPlain,
+  JetbrainsPlain,
+  JiraPlain,
+  JQueryPlain,
+  JuliaPlain,
+  JupyterPlain,
 } from 'devicons-react'
 
 const List = ({ items }) => {
@@ -384,6 +406,72 @@ const List = ({ items }) => {
 
               {item.componentName.toLowerCase() ===
                 'GulpPlain'.toLowerCase() && <GulpPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'HandlebarsOriginal'.toLowerCase() && <HandlebarsOriginal />}
+
+              {item.componentName.toLowerCase() ===
+                'HaskellPlain'.toLowerCase() && <HaskellPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'HaxePlain'.toLowerCase() && <HaxePlain />}
+
+              {item.componentName.toLowerCase() ===
+                'HerokuPlain'.toLowerCase() && <HerokuPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'HTML5Plain'.toLowerCase() && <HTML5Plain />}
+
+              {item.componentName.toLowerCase() ===
+                'IE10Original'.toLowerCase() && <IE10Original />}
+
+              {item.componentName.toLowerCase() ===
+                'IllustratorPlain'.toLowerCase() && <IllustratorPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'InkscapePlain'.toLowerCase() && <InkscapePlain />}
+
+              {item.componentName.toLowerCase() ===
+                'IntellijPlain'.toLowerCase() && <IntellijPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'IonicOriginal'.toLowerCase() && <IonicOriginal />}
+
+              {item.componentName.toLowerCase() ===
+                'JamstackOriginal'.toLowerCase() && <JamstackOriginal />}
+
+              {item.componentName.toLowerCase() ===
+                'JasminePlain'.toLowerCase() && <JasminePlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JavaPlain'.toLowerCase() && <JavaPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JavascriptPlain'.toLowerCase() && <JavascriptPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JeetPlain'.toLowerCase() && <JeetPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JenkinsPlain'.toLowerCase() && <JenkinsPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JestPlain'.toLowerCase() && <JestPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JetbrainsPlain'.toLowerCase() && <JetbrainsPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JiraPlain'.toLowerCase() && <JiraPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JQueryPlain'.toLowerCase() && <JQueryPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JuliaPlain'.toLowerCase() && <JuliaPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'JupyterPlain'.toLowerCase() && <JupyterPlain />}
 
               <h3 className="title">{item.name}</h3>
             </div>

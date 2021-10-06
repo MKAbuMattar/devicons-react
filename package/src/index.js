@@ -264,3 +264,69 @@ export { default as GruntPlain } from './icons/grunt/grunt-plain/grunt-plain'
 
 //gulp
 export { default as GulpPlain } from './icons/gulp/gulp-plain/gulp-plain'
+
+//handlebars
+export { default as HandlebarsOriginal } from './icons/handlebars/handlebars-original/handlebars-original'
+
+//haskell
+export { default as HaskellPlain } from './icons/haskell/haskell-plain/haskell-plain'
+
+//haxe
+export { default as HaxePlain } from './icons/haxe/haxe-plain/haxe-plain'
+
+//heroku
+export { default as HerokuPlain } from './icons/heroku/heroku-plain/heroku-plain'
+
+//html5
+export { default as HTML5Plain } from './icons/html5/html5-plain/html5-plain'
+
+//ie10
+export { default as IE10Original } from './icons/ie10/ie10-original/ie10-original'
+
+//illustrator
+export { default as IllustratorPlain } from './icons/illustrator/illustrator-plain/illustrator-plain'
+
+//inkscape
+export { default as InkscapePlain } from './icons/inkscape/inkscape-plain/inkscape-plain'
+
+//intellij
+export { default as IntellijPlain } from './icons/intellij/intellij-plain/intellij-plain'
+
+//ionic
+export { default as IonicOriginal } from './icons/ionic/ionic-original/ionic-original'
+
+//jamstack
+export { default as JamstackOriginal } from './icons/jamstack/jamstack-original/jamstack-original'
+
+//jasmine
+export { default as JasminePlain } from './icons/jasmine/jasmine-plain/jasmine-plain'
+
+//java
+export { default as JavaPlain } from './icons/java/java-plain/java-plain'
+
+//javascript
+export { default as JavascriptPlain } from './icons/javascript/javascript-plain/javascript-plain'
+
+//jeet
+export { default as JeetPlain } from './icons/jeet/jeet-plain/jeet-plain'
+
+//jenkins
+export { default as JenkinsPlain } from './icons/jenkins/jenkins-plain/jenkins-plain'
+
+//jest
+export { default as JestPlain } from './icons/jest/jest-plain/jest-plain'
+
+//jetbrains
+export { default as JetbrainsPlain } from './icons/jetbrains/jetbrains-plain/jetbrains-plain'
+
+//jira
+export { default as JiraPlain } from './icons/jira/jira-plain/jira-plain'
+
+//jquery
+export { default as JQueryPlain } from './icons/jquery/jquery-plain/jquery-plain'
+
+//julia
+export { default as JuliaPlain } from './icons/julia/julia-plain/julia-plain'
+
+//jupyter
+export { default as JupyterPlain } from './icons/jupyter/jupyter-plain/jupyter-plain'

@@ -26,5 +26,3 @@ yarn-error.log*
 .temp
 temp.js
 *.svg
-
-.storybook

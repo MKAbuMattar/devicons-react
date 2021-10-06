@@ -350,4 +350,92 @@ export const initialItems = [
     name: 'gulp',
     componentName: 'GulpPlain',
   },
+  {
+    name: 'handlebars',
+    componentName: 'HandlebarsOriginal',
+  },
+  {
+    name: 'haskell',
+    componentName: 'HaskellPlain',
+  },
+  {
+    name: 'haxe',
+    componentName: 'HaxePlain',
+  },
+  {
+    name: 'heroku',
+    componentName: 'HerokuPlain',
+  },
+  {
+    name: 'html5',
+    componentName: 'HTML5Plain',
+  },
+  {
+    name: 'ie10',
+    componentName: 'IE10Original',
+  },
+  {
+    name: 'illustrator',
+    componentName: 'IllustratorPlain',
+  },
+  {
+    name: 'inkscape',
+    componentName: 'InkscapePlain',
+  },
+  {
+    name: 'intellij',
+    componentName: 'IntellijPlain',
+  },
+  {
+    name: 'ionic',
+    componentName: 'IonicOriginal',
+  },
+  {
+    name: 'jamstack',
+    componentName: 'JamstackOriginal',
+  },
+  {
+    name: 'jasmine',
+    componentName: 'JasminePlain',
+  },
+  {
+    name: 'java',
+    componentName: 'JavaPlain',
+  },
+  {
+    name: 'javascript',
+    componentName: 'JavascriptPlain',
+  },
+  {
+    name: 'jeet',
+    componentName: 'JeetPlain',
+  },
+  {
+    name: 'jenkins',
+    componentName: 'JenkinsPlain',
+  },
+  {
+    name: 'jest',
+    componentName: 'JestPlain',
+  },
+  {
+    name: 'jetbrains',
+    componentName: 'JetbrainsPlain',
+  },
+  {
+    name: 'jira',
+    componentName: 'JiraPlain',
+  },
+  {
+    name: 'jquery',
+    componentName: 'JQueryPlain',
+  },
+  {
+    name: 'julia',
+    componentName: 'JuliaPlain',
+  },
+  {
+    name: 'jupyter',
+    componentName: 'JupyterPlain',
+  },
 ]

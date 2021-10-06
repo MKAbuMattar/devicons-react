@@ -1,6 +1,6 @@
 {
   "name": "devicons-react",
-  "version": "0.1.05",
+  "version": "0.1.06",
   "description": "Programming icons",
   "main": "dist/index.js",
   "module": "dist/index.es.js",

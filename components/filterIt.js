@@ -1,5 +1,5 @@
 export const filterIt = (terms, arr) => {
-  if ('' === terms || terms.length < 3) {
+  if ('' === terms || terms.length < 1) {
     return arr
   }
 
