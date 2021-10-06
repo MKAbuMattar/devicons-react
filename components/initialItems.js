@@ -438,4 +438,200 @@ export const initialItems = [
     name: 'jupyter',
     componentName: 'JupyterPlain',
   },
+  {
+    name: 'karma',
+    componentName: 'KarmaPlain',
+  },
+  {
+    name: 'knockout',
+    componentName: 'KnockoutPlainWordmark',
+  },
+  {
+    name: 'kotlin',
+    componentName: 'KotlinPlain',
+  },
+  {
+    name: 'krakenjs',
+    componentName: 'KrakenjsPlain',
+  },
+  {
+    name: 'kubernetes',
+    componentName: 'KubernetesPlain',
+  },
+  {
+    name: 'laravel',
+    componentName: 'LaravelPlain',
+  },
+  {
+    name: 'less',
+    componentName: 'LESSPlainWordmark',
+  },
+  {
+    name: 'linkedin',
+    componentName: 'LinkedinPlain',
+  },
+  {
+    name: 'linux',
+    componentName: 'LinuxPlain',
+  },
+  {
+    name: 'magento',
+    componentName: 'MagentoOriginal',
+  },
+  {
+    name: 'markdown',
+    componentName: 'MarkdownOriginal',
+  },
+  {
+    name: 'materialui',
+    componentName: 'MaterialUIPlain',
+  },
+  {
+    name: 'matlab',
+    componentName: 'MatlabPlain',
+  },
+  {
+    name: 'meteor',
+    componentName: 'MeteorPlain',
+  },
+  {
+    name: 'minitab',
+    componentName: 'MinitabPlain',
+  },
+  {
+    name: 'mocha',
+    componentName: 'MochaPlain',
+  },
+  {
+    name: 'modx',
+    componentName: 'ModxPlain',
+  },
+  {
+    name: 'mongodb',
+    componentName: 'MongoDBPlain',
+  },
+  {
+    name: 'moodle',
+    componentName: 'MoodlePlain',
+  },
+  {
+    name: 'msdos',
+    componentName: 'MSDosPlain',
+  },
+  {
+    name: 'mysql',
+    componentName: 'MySQLPlain',
+  },
+  {
+    name: 'neo4j',
+    componentName: 'Neo4jPlain',
+  },
+  {
+    name: 'nestjs',
+    componentName: 'NestJSPlain',
+  },
+  {
+    name: 'nextjs',
+    componentName: 'NextJSOriginal',
+  },
+  {
+    name: 'nginx',
+    componentName: 'NginxOriginal',
+  },
+  {
+    name: 'nixos',
+    componentName: 'NixosPlain',
+  },
+  {
+    name: 'nodejs',
+    componentName: 'NodeJSPlain',
+  },
+  {
+    name: 'nodewebkit',
+    componentName: 'NodewebkitPlain',
+  },
+  {
+    name: 'npm',
+    componentName: 'NPMOriginalWordmark',
+  },
+  {
+    name: 'numpy',
+    componentName: 'NumpyPlain',
+  },
+  {
+    name: 'nuxtjs',
+    componentName: 'NuxtJSPlain',
+  },
+  {
+    name: 'objectivec',
+    componentName: 'ObjectivecPlain',
+  },
+  {
+    name: 'ocaml',
+    componentName: 'OcamlPlain',
+  },
+  {
+    name: 'opengl',
+    componentName: 'OpenGLPlain',
+  },
+  {
+    name: 'opera',
+    componentName: 'OperaPlain',
+  },
+  {
+    name: 'oracle',
+    componentName: 'OracleOriginal',
+  },
+  {
+    name: 'pandas',
+    componentName: 'PandasPlain',
+  },
+  {
+    name: 'phalcon',
+    componentName: 'PhalconPlain',
+  },
+  {
+    name: 'photoshop',
+    componentName: 'PhotoshopPlain',
+  },
+  {
+    name: 'php',
+    componentName: 'PHPPlain',
+  },
+  {
+    name: 'phpstorm',
+    componentName: 'PHPStormPlain',
+  },
+  {
+    name: 'postgresql',
+    componentName: 'PostgreSQLPlain',
+  },
+  {
+    name: 'premierepro',
+    componentName: 'PremiereProPlain',
+  },
+  {
+    name: 'processing',
+    componentName: 'ProcessingPlain',
+  },
+  {
+    name: 'protractor',
+    componentName: 'ProtractorPlain',
+  },
+  {
+    name: 'putty',
+    componentName: 'PuttyPlain',
+  },
+  {
+    name: 'pycharm',
+    componentName: 'PycharmPlain',
+  },
+  {
+    name: 'python',
+    componentName: 'PythonPlain',
+  },
+  {
+    name: 'qt',
+    componentName: 'QtOriginal',
+  },
 ]

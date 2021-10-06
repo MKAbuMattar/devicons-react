@@ -330,3 +330,159 @@ export { default as JuliaPlain } from './icons/julia/julia-plain/julia-plain'
 
 //jupyter
 export { default as JupyterPlain } from './icons/jupyter/jupyter-plain/jupyter-plain'
+
+//karma
+export { default as KarmaPlain } from './icons/karma/karma-plain/karma-plain'
+
+//knockout
+export { default as KnockoutPlainWordmark } from './icons/knockout/knockout-plain-wordmark/knockout-plain-wordmark'
+
+//kotlin
+export { default as KotlinPlain } from './icons/kotlin/kotlin-plain/kotlin-plain'
+
+//krakenjs
+export { default as KrakenjsPlain } from './icons/krakenjs/krakenjs-plain/krakenjs-plain'
+
+//kubernetes
+export { default as KubernetesPlain } from './icons/kubernetes/kubernetes-plain/kubernetes-plain'
+
+//labview
+export { default as LabviewPlain } from './icons/labview/labview-plain/labview-plain'
+
+//laravel
+export { default as LaravelPlain } from './icons/laravel/laravel-plain/laravel-plain'
+
+//less
+export { default as LESSPlainWordmark } from './icons/less/less-plain-wordmark/less-plain-wordmark'
+
+//linkedin
+export { default as LinkedinPlain } from './icons/linkedin/linkedin-plain/linkedin-plain'
+
+//linux
+export { default as LinuxPlain } from './icons/linux/linux-plain/linux-plain'
+
+//lua
+export { default as LuaPlain } from './icons/lua/lua-plain/lua-plain'
+
+//magento
+export { default as MagentoOriginal } from './icons/magento/magento-original/magento-original'
+
+//markdown
+export { default as MarkdownOriginal } from './icons/markdown/markdown-original/markdown-original'
+
+//materialui
+export { default as MaterialUIPlain } from './icons/materialui/materialui-plain/materialui-plain'
+
+//matlab
+export { default as MatlabPlain } from './icons/matlab/matlab-plain/matlab-plain'
+
+//meteor
+export { default as MeteorPlain } from './icons/meteor/meteor-plain/meteor-plain'
+
+//minitab
+export { default as MinitabPlain } from './icons/minitab/minitab-plain/minitab-plain'
+
+//mocha
+export { default as MochaPlain } from './icons/mocha/mocha-plain/mocha-plain'
+
+//modx
+export { default as ModxPlain } from './icons/modx/modx-plain/modx-plain'
+
+//mongodb
+export { default as MongoDBPlain } from './icons/mongodb/mongodb-plain/mongodb-plain'
+
+//moodle
+export { default as MoodlePlain } from './icons/moodle/moodle-plain/moodle-plain'
+
+//msdos
+export { default as MSDosPlain } from './icons/msdos/msdos-plain/msdos-plain'
+
+//mysql
+export { default as MySQLPlain } from './icons/mysql/mysql-plain/mysql-plain'
+
+//neo4j
+export { default as Neo4jPlain } from './icons/neo4j/neo4j-plain/neo4j-plain'
+
+//nestjs
+export { default as NestJSPlain } from './icons/nestjs/nestjs-plain/nestjs-plain'
+
+//nextjs
+export { default as NextJSOriginal } from './icons/nextjs/nextjs-original/nextjs-original'
+
+//nginx
+export { default as NginxOriginal } from './icons/nginx/nginx-original/nginx-original'
+
+//nixos
+export { default as NixosPlain } from './icons/nixos/nixos-plain/nixos-plain'
+
+//nodejs
+export { default as NodeJSPlain } from './icons/nodejs/nodejs-plain/nodejs-plain'
+
+//nodewebkit
+export { default as NodewebkitPlain } from './icons/nodewebkit/nodewebkit-plain/nodewebkit-plain'
+
+//npm
+export { default as NPMOriginalWordmark } from './icons/npm/npm-original-wordmark/npm-original-wordmark'
+
+//numpy
+export { default as NumpyPlain } from './icons/numpy/numpy-plain/numpy-plain'
+
+//nuxtjs
+export { default as NuxtJSPlain } from './icons/nuxtjs/nuxtjs-plain/nuxtjs-plain'
+
+//objectivec
+export { default as ObjectivecPlain } from './icons/objectivec/objectivec-plain/objectivec-plain'
+
+//ocaml
+export { default as OcamlPlain } from './icons/ocaml/ocaml-plain/ocaml-plain'
+
+//opengl
+export { default as OpenGLPlain } from './icons/opengl/opengl-plain/opengl-plain'
+
+//opera
+export { default as OperaPlain } from './icons/opera/opera-plain/opera-plain'
+
+//oracle
+export { default as OracleOriginal } from './icons/oracle/oracle-original/oracle-original'
+
+//pandas
+export { default as PandasPlain } from './icons/pandas/pandas-origina/pandas-plain'
+
+//perl
+export { default as PerlPlain } from './icons/perl/perl-plain/perl-plain'
+
+//phalcon
+export { default as PhalconPlain } from './icons/phalcon/phalcon-plain/phalcon-plain'
+
+//photoshop
+export { default as PhotoshopPlain } from './icons/photoshop/photoshop-plain/photoshop-plain'
+
+//php
+export { default as PHPPlain } from './icons/php/php-plain/php-plain'
+
+//phpstorm
+export { default as PHPStormPlain } from './icons/phpstorm/phpstorm-plain/phpstorm-plain'
+
+//postgresql
+export { default as PostgreSQLPlain } from './icons/postgresql/postgresql-plain/postgresql-plain'
+
+//premierepro
+export { default as PremiereProPlain } from './icons/premierepro/premierepro-plain/premierepro-plain'
+
+//processing
+export { default as ProcessingPlain } from './icons/processing/processing-plain/processing-plain'
+
+//protractor
+export { default as ProtractorPlain } from './icons/protractor/protractor-plain/protractor-plain'
+
+//putty
+export { default as PuttyPlain } from './icons/putty/putty-plain/putty-plain'
+
+//pycharm
+export { default as PycharmPlain } from './icons/pycharm/pycharm-plain/pycharm-plain'
+
+//python
+export { default as PythonPlain } from './icons/python/python-plain/python-plain'
+
+//qt
+export { default as QtOriginal } from './icons/qt/qt-original/qt-original'

@@ -26,7 +26,11 @@ const FilteredList = () => {
         <h2>Devicons React</h2>
         <pre style={{ fontSize: 'initial' }}>
           <code className="bash language-bash hljs">
-            {`npm install --save devicons-react`}
+            {`#npm
+npm install --save devicons-react
+
+#yarn
+yarn add devicons-react`}
           </code>
         </pre>
         <span>beta</span>

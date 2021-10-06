@@ -115,6 +115,58 @@ import {
   JQueryPlain,
   JuliaPlain,
   JupyterPlain,
+  KarmaPlain,
+  KnockoutPlainWordmark,
+  KotlinPlain,
+  KrakenjsPlain,
+  KubernetesPlain,
+  LabviewPlain,
+  LaravelPlain,
+  LESSPlainWordmark,
+  LinkedinPlain,
+  LinuxPlain,
+  LuaPlain,
+  MagentoOriginal,
+  MarkdownOriginal,
+  MaterialUIPlain,
+  MatlabPlain,
+  MeteorPlain,
+  MinitabPlain,
+  MochaPlain,
+  ModxPlain,
+  MongoDBPlain,
+  MoodlePlain,
+  MSDosPlain,
+  MySQLPlain,
+  Neo4jPlain,
+  NestJSPlain,
+  NextJSOriginal,
+  NginxOriginal,
+  NixosPlain,
+  NodeJSPlain,
+  NodewebkitPlain,
+  NPMOriginalWordmark,
+  NumpyPlain,
+  NuxtJSPlain,
+  ObjectivecPlain,
+  OcamlPlain,
+  OpenGLPlain,
+  OperaPlain,
+  OracleOriginal,
+  PandasPlain,
+  PerlPlain,
+  PhalconPlain,
+  PhotoshopPlain,
+  PHPPlain,
+  PHPStormPlain,
+  PostgreSQLPlain,
+  PremiereProPlain,
+  ProcessingPlain,
+  ProtractorPlain,
+  PuttyPlain,
+  PycharmPlain,
+  PythonPlain,
+  QtOriginal,
 } from 'devicons-react'
 
 const List = ({ items }) => {
@@ -472,6 +524,164 @@ const List = ({ items }) => {
 
               {item.componentName.toLowerCase() ===
                 'JupyterPlain'.toLowerCase() && <JupyterPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'KarmaPlain'.toLowerCase() && <KarmaPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'KnockoutPlainWordmark'.toLowerCase() && (
+                <KnockoutPlainWordmark />
+              )}
+
+              {item.componentName.toLowerCase() ===
+                'KotlinPlain'.toLowerCase() && <KotlinPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'KrakenjsPlain'.toLowerCase() && <KrakenjsPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'KubernetesPlain'.toLowerCase() && <KubernetesPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'LabviewPlain'.toLowerCase() && <LabviewPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'LaravelPlain'.toLowerCase() && <LaravelPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'LESSPlainWordmark'.toLowerCase() && <LESSPlainWordmark />}
+
+              {item.componentName.toLowerCase() ===
+                'LinkedinPlain'.toLowerCase() && <LinkedinPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'LinuxPlain'.toLowerCase() && <LinuxPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'LuaPlain'.toLowerCase() && <LuaPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'MagentoOriginal'.toLowerCase() && <MagentoOriginal />}
+
+              {item.componentName.toLowerCase() ===
+                'MarkdownOriginal'.toLowerCase() && <MarkdownOriginal />}
+
+              {item.componentName.toLowerCase() ===
+                'MaterialUIPlain'.toLowerCase() && <MaterialUIPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'MatlabPlain'.toLowerCase() && <MatlabPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'MeteorPlain'.toLowerCase() && <MeteorPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'MinitabPlain'.toLowerCase() && <MinitabPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'MochaPlain'.toLowerCase() && <MochaPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'ModxPlain'.toLowerCase() && <ModxPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'MongoDBPlain'.toLowerCase() && <MongoDBPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'MoodlePlain'.toLowerCase() && <MoodlePlain />}
+
+              {item.componentName.toLowerCase() ===
+                'MSDosPlain'.toLowerCase() && <MSDosPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'MySQLPlain'.toLowerCase() && <MySQLPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'Neo4jPlain'.toLowerCase() && <Neo4jPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'NestJSPlain'.toLowerCase() && <NestJSPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'NextJSOriginal'.toLowerCase() && <NextJSOriginal />}
+
+              {item.componentName.toLowerCase() ===
+                'NginxOriginal'.toLowerCase() && <NginxOriginal />}
+
+              {item.componentName.toLowerCase() ===
+                'NixosPlain'.toLowerCase() && <NixosPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'NodeJSPlain'.toLowerCase() && <NodeJSPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'NodewebkitPlain'.toLowerCase() && <NodewebkitPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'NPMOriginalWordmark'.toLowerCase() && <NPMOriginalWordmark />}
+
+              {item.componentName.toLowerCase() ===
+                'NumpyPlain'.toLowerCase() && <NumpyPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'NuxtJSPlain'.toLowerCase() && <NuxtJSPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'ObjectivecPlain'.toLowerCase() && <ObjectivecPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'OcamlPlain'.toLowerCase() && <OcamlPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'OpenGLPlain'.toLowerCase() && <OpenGLPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'OperaPlain'.toLowerCase() && <OperaPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'OracleOriginal'.toLowerCase() && <OracleOriginal />}
+
+              {item.componentName.toLowerCase() ===
+                'PandasPlain'.toLowerCase() && <PandasPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PerlPlain'.toLowerCase() && <PerlPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PhalconPlain'.toLowerCase() && <PhalconPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PhotoshopPlain'.toLowerCase() && <PhotoshopPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PHPPlain'.toLowerCase() && <PHPPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PHPStormPlain'.toLowerCase() && <PHPStormPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PostgreSQLPlain'.toLowerCase() && <PostgreSQLPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PremiereProPlain'.toLowerCase() && <PremiereProPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'ProcessingPlain'.toLowerCase() && <ProcessingPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'ProtractorPlain'.toLowerCase() && <ProtractorPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PuttyPlain'.toLowerCase() && <PuttyPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PycharmPlain'.toLowerCase() && <PycharmPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'PythonPlain'.toLowerCase() && <PythonPlain />}
+
+              {item.componentName.toLowerCase() ===
+                'QtOriginal'.toLowerCase() && <QtOriginal />}
 
               <h3 className="title">{item.name}</h3>
             </div>
