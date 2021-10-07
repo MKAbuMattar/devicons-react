@@ -4,29 +4,31 @@ import javascript from 'highlight.js/lib/languages/javascript'
 import ListIcons from './ListIcons'
 hljs.registerLanguage('javascript', javascript)
 
+import { Cards, Card, CardInfo, CardTitle } from './Style'
+
 const List = ({ items }) => {
   useEffect(() => {
     hljs.initHighlighting()
-  }, [])
+  }, [items])
 
   return (
     <Fragment>
-      <div className="cards">
+      <Cards>
         {items.map((item, idx) => (
-          <div className="card" key={idx}>
-            <div className="info">
+          <Card key={idx}>
+            <CardInfo>
               <ListIcons componentName={item.componentName} />
 
-              <h3 className="title">{item.name}</h3>
-            </div>
-            <pre style={{ fontSize: 'initial' }}>
+              <CardTitle>{item.name}</CardTitle>
+            </CardInfo>
+            <pre>
               <code className="js hljs language-javascript">
                 {`import { ${item.componentName} } from 'devicons-react'`}
               </code>
             </pre>
-          </div>
+          </Card>
         ))}
-      </div>
+      </Cards>
     </Fragment>
   )
 }

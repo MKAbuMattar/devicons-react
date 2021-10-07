@@ -15,9 +15,9 @@ const initialItems = [
     key: ['adobe after effects'],
   },
   {
-    name: 'Amazon Web Services',
+    name: 'AWS',
     componentName: 'AmazonwebservicesPlainWordmark',
-    key: ['aws'],
+    key: ['Amazon Web Services'],
   },
   {
     name: 'Android',

@@ -1,7 +1,7 @@
 {
-  "short_name": "",
-  "name": "",
-  "description": "",
+  "short_name": "Devicons React",
+  "name": "Devicons React",
+  "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
   "icons": [
     {
       "src": "/icon/favicon.ico",

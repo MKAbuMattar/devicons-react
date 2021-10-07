@@ -2,63 +2,30 @@ import { createGlobalStyle } from 'styled-components'
 
 export const GlobalStyle = createGlobalStyle`
 
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
+html {
+  scroll-behavior: smooth;
+}
 
-*{
-    scroll-behavior: smooth;
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 body {
-  word-wrap: break-word;
   margin: 0;
   font-family: "Montserrat", sans-serif;
   color: #2e2e2e;
 }
 
-#search-list {
-  padding: 60px;
-  max-width: 800px;
-  margin: auto;
+::-webkit-scrollbar {
+    width: 0.6rem;
+    height: 0.6rem;
+    background-color: #071013;
 }
 
-#search-list input {
-  line-height: 2;
-  font-size: 18px;
-  height: auto;
-  padding-left: 20px;
-}
-
-.cards {
-  margin: 0;
-  display: flex;
-  gap: 1rem;
-  justify-content: center;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
-.card {
-  margin-top: -1px;
-  line-height: 2;
-  font-size: 140px;
-  background: white;
-  border-radius: 10px;
-  width: 48%;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
-}
-
-.info {
-  padding:20px 20px 5px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 1.5rem;
-  flex-direction: column;
-}
-
-.title {
-  color: darkblue;
-  margin-bottom: 5px;
+::-webkit-scrollbar-thumb {
+    background-color: #44575f;
 }
 
 .hljs {
@@ -66,7 +33,6 @@ body {
   overflow-x: auto;
   padding: .5em;
   background: #282a36;
-  border-radius: 0 0 10px 10px !important;
   border: 0;
 }
 
@@ -122,6 +88,14 @@ body {
 
 .hljs-emphasis {
   font-style: italic
+}
+
+@keyframes animate-arrow-wave {
+  0%   { opacity: 0.2; }
+  25%  { opacity: 0.2; }
+  50%  { opacity: 0.2; }
+  75%  { opacity: 1.0; }
+  100% { opacity: 0.2; }
 }
 
 `
