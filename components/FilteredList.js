@@ -5,7 +5,7 @@ hljs.registerLanguage('javascript', javascript)
 
 import List from './List'
 import { filterIt } from './filterIt'
-import { initialItems } from './initialItems'
+import initialItems from './initialItems'
 
 const FilteredList = () => {
   const [items, setItems] = useState(initialItems)

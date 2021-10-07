@@ -136,6 +136,9 @@ export { default as DebianPlain } from './icons/debian/debian-plain/debian-plain
 //denojs
 export { default as DenojsOriginal } from './icons/denojs/denojs-original/denojs-original'
 
+//deviconsreact
+export { default as DeviconsReactOriginal } from './icons/deviconsreact/deviconsreact-original/deviconsreact-original'
+
 //digitalocean
 export { default as DigitaloceanPlain } from './icons/digitalocean/digitalocean-plain/digitalocean-plain'
 
@@ -379,6 +382,9 @@ export { default as MatlabPlain } from './icons/matlab/matlab-plain/matlab-plain
 //meteor
 export { default as MeteorPlain } from './icons/meteor/meteor-plain/meteor-plain'
 
+//microsoftsqlserver
+export { default as MicrosoftsqlserverPlain } from './icons/microsoftsqlserver/microsoftsqlserver-plain/microsoftsqlserver-plain'
+
 //minitab
 export { default as MinitabPlain } from './icons/minitab/minitab-plain/minitab-plain'
 
@@ -486,3 +492,201 @@ export { default as PythonPlain } from './icons/python/python-plain/python-plain
 
 //qt
 export { default as QtOriginal } from './icons/qt/qt-original/qt-original'
+
+//r
+export { default as RPlain } from './icons/r/r-plain/r-plain'
+
+//rails
+export { default as RailsPlain } from './icons/rails/rails-plain/rails-plain'
+
+//raspberrypi
+export { default as RaspberrypiLine } from './icons/raspberrypi/raspberrypi-line/raspberrypi-line'
+
+//react
+export { default as ReactOriginal } from './icons/react/react-original/react-original'
+
+//redhat
+export { default as RedhatPlain } from './icons/redhat/redhat-plain/redhat-plain'
+
+//redis
+export { default as RedisPlain } from './icons/redis/redis-plain/redis-plain'
+
+//redux
+export { default as ReduxOriginal } from './icons/redux/redux-original/redux-original'
+
+//rocksdb
+export { default as RocksDBPlain } from './icons/rocksdb/rocksdb-plain/rocksdb-plain'
+
+//rstudio
+export { default as RstudioPlain } from './icons/rstudio/rstudio-plain/rstudio-plain'
+
+//ruby
+export { default as RubyPlain } from './icons/ruby/ruby-plain/ruby-plain'
+
+//rubymine
+export { default as RubyMinePlain } from './icons/rubymine/rubymine-plain/rubymine-plain'
+
+//rust
+export { default as RustPlain } from './icons/rust/rust-plain/rust-plain'
+
+//safari
+export { default as SafariPlain } from './icons/safari/safari-plain/safari-plain'
+
+//salesforce
+export { default as SalesforcePlain } from './icons/salesforce/salesforce-plain/salesforce-plain'
+
+//sass
+export { default as SASSOriginal } from './icons/sass/sass-original/sass-original'
+
+//scala
+export { default as ScalaPlain } from './icons/scala/scala-plain/scala-plain'
+
+//sequelize
+export { default as SequelizePlain } from './icons/sequelize/sequelize-plain/sequelize-plain'
+
+//shopware
+export { default as ShopwareOriginal } from './icons/shopware/shopware-original/shopware-original'
+
+//sketch
+export { default as SketchLine } from './icons/sketch/sketch-line/sketch-line'
+
+//slack
+export { default as SlackPlain } from './icons/slack/slack-plain/slack-plain'
+
+//socketio
+export { default as SocketioOriginal } from './icons/socketio/socketio-original/socketio-original'
+
+//sourcetree
+export { default as SourcetreeOriginal } from './icons/sourcetree/sourcetree-original/sourcetree-original'
+
+//spring
+export { default as SpringPlain } from './icons/spring/spring-plain/spring-plain'
+
+//spss
+export { default as SpssPlain } from './icons/spss/spss-plain/spss-plain'
+
+//sqlalchemy
+export { default as SQLAlchemyPlain } from './icons/sqlalchemy/sqlalchemy-plain/sqlalchemy-plain'
+
+//ssh
+export { default as SSHOriginal } from './icons/ssh/ssh-original/ssh-original'
+
+//storybook
+export { default as StorybookPlain } from './icons/storybook/storybook-plain/storybook-plain'
+
+//stylus
+export { default as StylusOriginal } from './icons/stylus/stylus-original/stylus-original'
+
+//subversion
+export { default as SubversionOriginal } from './icons/subversion/subversion-original/subversion-original'
+
+//svelte
+export { default as SveltePlain } from './icons/svelte/svelte-plain/svelte-plain'
+
+//swift
+export { default as SwiftPlain } from './icons/swift/swift-plain/swift-plain'
+
+//symfony
+export { default as SymfonyOriginal } from './icons/symfony/symfony-original/symfony-original'
+
+//tailwindcss
+export { default as TailwindCSSPlain } from './icons/tailwindcss/tailwindcss-plain/tailwindcss-plain'
+
+//tensorflow
+export { default as TensorflowPlain } from './icons/tensorflow/tensorflow-plain/tensorflow-plain'
+
+//thealgorithms
+export { default as ThealgorithmsPlain } from './icons/thealgorithms/thealgorithms-plain/thealgorithms-plain'
+
+//threejs
+export { default as ThreeJSOriginal } from './icons/threejs/threejs-original/threejs-original'
+
+//tomcat
+export { default as TomcatLine } from './icons/tomcat/tomcat-line/tomcat-line'
+
+//tortoisegit
+export { default as TortoisegitPlain } from './icons/tortoisegit/tortoisegit-plain/tortoisegit-plain'
+
+//towergit
+export { default as TowergitPlain } from './icons/towergit/towergit-plain/towergit-plain'
+
+//travis
+export { default as TravisPlain } from './icons/travis/travis-plain/travis-plain'
+
+//trello
+export { default as TrelloPlain } from './icons/trello/trello-plain/trello-plain'
+
+//twitter
+export { default as TwitterOriginal } from './icons/twitter/twitter-original/twitter-original'
+
+//typescript
+export { default as TypeScriptPlain } from './icons/typescript/typescript-plain/typescript-plain'
+
+//typo3
+export { default as Typo3Plain } from './icons/typo3/typo3-plain/typo3-plain'
+
+//ubuntu
+export { default as UbuntuPlain } from './icons/ubuntu/ubuntu-plain/ubuntu-plain'
+
+//unity
+export { default as UnityOriginal } from './icons/unity/unity-original/unity-original'
+
+//unix
+export { default as UnixOriginal } from './icons/unix/unix-original/unix-original'
+
+//uwsgi
+export { default as UwsgiPlain } from './icons/uwsgi/uwsgi-plain/uwsgi-plain'
+
+//vagrant
+export { default as VagrantPlain } from './icons/vagrant/vagrant-plain/vagrant-plain'
+
+//vim
+export { default as VimPlain } from './icons/vim/vim-plain/vim-plain'
+
+//visualstudio
+export { default as VisualStudioPlain } from './icons/visualstudio/visualstudio-plain/visualstudio-plain'
+
+//vscode
+export { default as VSCodePlain } from './icons/vscode/vscode-plain/vscode-plain'
+
+//vuejs
+export { default as VueJSPlain } from './icons/vuejs/vuejs-plain/vuejs-plain'
+
+//vuestorefront
+export { default as VuestorefrontPlain } from './icons/vuestorefront/vuestorefront-plain/vuestorefront-plain'
+
+//weblate
+export { default as WeblatePlain } from './icons/weblate/weblate-plain/weblate-plain'
+
+//webpack
+export { default as WebPackPlain } from './icons/webpack/webpack-plain/webpack-plain'
+
+//webstorm
+export { default as WebStormPlain } from './icons/webstorm/webstorm-plain/webstorm-plain'
+
+//windows8
+export { default as Windows8Original } from './icons/windows8/windows8-original/windows8-original'
+
+//woocommerce
+export { default as WooCommercePlain } from './icons/woocommerce/woocommerce-plain/woocommerce-plain'
+
+//wordpress
+export { default as WordPressPlain } from './icons/wordpress/wordpress-plain/wordpress-plain'
+
+//xd
+export { default as XDPlain } from './icons/xd/xd-plain/xd-plain'
+
+//yarn
+export { default as YarnOriginal } from './icons/yarn/yarn-original/yarn-original'
+
+//yii
+export { default as YiiPlain } from './icons/yii/yii-plain/yii-plain'
+
+//yunohost
+export { default as YunohostPlain } from './icons/yunohost/yunohost-plain/yunohost-plain'
+
+//zend
+export { default as ZendPlain } from './icons/zend/zend-plain/zend-plain'
+
+//zig
+export { default as ZigOriginal } from './icons/zig/zig-original/zig-original'
