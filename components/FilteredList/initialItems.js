@@ -40,6 +40,11 @@ const initialItems = [
     key: [],
   },
   {
+    name: 'Appcelerator',
+    componentName: 'AppceleratorOriginal',
+    key: [],
+  },
+  {
     name: 'apple',
     componentName: 'AppleOriginal',
     key: [],
@@ -85,6 +90,11 @@ const initialItems = [
     key: [],
   },
   {
+    name: 'Bitbucket',
+    componentName: 'BitbucketOriginal',
+    key: [],
+  },
+  {
     name: 'bootstrap',
     componentName: 'BootstrapPlain',
     key: [],
@@ -92,6 +102,11 @@ const initialItems = [
   {
     name: 'bower',
     componentName: 'BowerPlain',
+    key: [],
+  },
+  {
+    name: 'Bulma',
+    componentName: 'BulmaPlain',
     key: [],
   },
   {
@@ -570,6 +585,11 @@ const initialItems = [
     key: [],
   },
   {
+    name: 'Labview',
+    componentName: 'LabviewPlain',
+    key: [],
+  },
+  {
     name: 'laravel',
     componentName: 'LaravelPlain',
     key: [],
@@ -587,6 +607,11 @@ const initialItems = [
   {
     name: 'linux',
     componentName: 'LinuxPlain',
+    key: [],
+  },
+  {
+    name: 'lua',
+    componentName: 'LuaPlain',
     key: [],
   },
   {
@@ -730,8 +755,18 @@ const initialItems = [
     key: [],
   },
   {
+    name: 'Perl',
+    componentName: 'PerlPlain',
+    key: [],
+  },
+  {
     name: 'phalcon',
     componentName: 'PhalconPlain',
+    key: [],
+  },
+  {
+    name: 'Phoenix',
+    componentName: 'PhoenixPlain',
     key: [],
   },
   {

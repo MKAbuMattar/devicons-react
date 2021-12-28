@@ -22,6 +22,7 @@ import {
   BitbucketOriginal,
   BootstrapPlain,
   BowerPlain,
+  BulmaPlain,
   CPlain,
   CakephpPlain,
   CanvaOriginal,
@@ -153,6 +154,7 @@ import {
   PandasPlain,
   PerlPlain,
   PhalconPlain,
+  PhoenixPlain,
   PhotoshopPlain,
   PHPPlain,
   PHPStormPlain,
@@ -321,6 +323,10 @@ const ListIcons = ({ componentName }) => {
 
       {componentName.toLowerCase() === 'BowerPlain'.toLowerCase() && (
         <BowerPlain />
+      )}
+
+      {componentName.toLowerCase() === 'BulmaPlain'.toLowerCase() && (
+        <BulmaPlain />
       )}
 
       {componentName.toLowerCase() === 'CPlain'.toLowerCase() && <CPlain />}
@@ -833,6 +839,10 @@ const ListIcons = ({ componentName }) => {
         <PhalconPlain />
       )}
 
+      {componentName.toLowerCase() === 'PhoenixPlain'.toLowerCase() && (
+        <PhoenixPlain />
+      )}
+
       {componentName.toLowerCase() === 'PhotoshopPlain'.toLowerCase() && (
         <PhotoshopPlain />
       )}
@@ -881,203 +891,261 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() ===
         'MicrosoftsqlserverPlain'.toLowerCase() && <MicrosoftsqlserverPlain />}
 
-      {componentName.toLowerCase() ===
-        'RPlain'.toLowerCase() && <RPlain />}
+      {componentName.toLowerCase() === 'RPlain'.toLowerCase() && <RPlain />}
+
+      {componentName.toLowerCase() === 'RailsPlain'.toLowerCase() && (
+        <RailsPlain />
+      )}
+
+      {componentName.toLowerCase() === 'RaspberrypiLine'.toLowerCase() && (
+        <RaspberrypiLine />
+      )}
+
+      {componentName.toLowerCase() === 'ReactOriginal'.toLowerCase() && (
+        <ReactOriginal />
+      )}
+
+      {componentName.toLowerCase() === 'RedhatPlain'.toLowerCase() && (
+        <RedhatPlain />
+      )}
+
+      {componentName.toLowerCase() === 'RedisPlain'.toLowerCase() && (
+        <RedisPlain />
+      )}
+
+      {componentName.toLowerCase() === 'ReduxOriginal'.toLowerCase() && (
+        <ReduxOriginal />
+      )}
+
+      {componentName.toLowerCase() === 'RocksDBPlain'.toLowerCase() && (
+        <RocksDBPlain />
+      )}
+
+      {componentName.toLowerCase() === 'RstudioPlain'.toLowerCase() && (
+        <RstudioPlain />
+      )}
+
+      {componentName.toLowerCase() === 'RubyPlain'.toLowerCase() && (
+        <RubyPlain />
+      )}
+
+      {componentName.toLowerCase() === 'RubyMinePlain'.toLowerCase() && (
+        <RubyMinePlain />
+      )}
+
+      {componentName.toLowerCase() === 'RustPlain'.toLowerCase() && (
+        <RustPlain />
+      )}
+
+      {componentName.toLowerCase() === 'SafariPlain'.toLowerCase() && (
+        <SafariPlain />
+      )}
+
+      {componentName.toLowerCase() === 'SalesforcePlain'.toLowerCase() && (
+        <SalesforcePlain />
+      )}
+
+      {componentName.toLowerCase() === 'SASSOriginal'.toLowerCase() && (
+        <SASSOriginal />
+      )}
+
+      {componentName.toLowerCase() === 'ScalaPlain'.toLowerCase() && (
+        <ScalaPlain />
+      )}
+
+      {componentName.toLowerCase() === 'SequelizePlain'.toLowerCase() && (
+        <SequelizePlain />
+      )}
+
+      {componentName.toLowerCase() === 'ShopwareOriginal'.toLowerCase() && (
+        <ShopwareOriginal />
+      )}
+
+      {componentName.toLowerCase() === 'SketchLine'.toLowerCase() && (
+        <SketchLine />
+      )}
+
+      {componentName.toLowerCase() === 'SlackPlain'.toLowerCase() && (
+        <SlackPlain />
+      )}
+
+      {componentName.toLowerCase() === 'SocketioOriginal'.toLowerCase() && (
+        <SocketioOriginal />
+      )}
+
+      {componentName.toLowerCase() === 'SourcetreeOriginal'.toLowerCase() && (
+        <SourcetreeOriginal />
+      )}
+
+      {componentName.toLowerCase() === 'SpringPlain'.toLowerCase() && (
+        <SpringPlain />
+      )}
+
+      {componentName.toLowerCase() === 'SpssPlain'.toLowerCase() && (
+        <SpssPlain />
+      )}
+
+      {componentName.toLowerCase() === 'SQLAlchemyPlain'.toLowerCase() && (
+        <SQLAlchemyPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'RailsPlain'.toLowerCase() && <RailsPlain />}
+      {componentName.toLowerCase() === 'SSHOriginal'.toLowerCase() && (
+        <SSHOriginal />
+      )}
 
-      {componentName.toLowerCase() ===
-        'RaspberrypiLine'.toLowerCase() && <RaspberrypiLine />}
+      {componentName.toLowerCase() === 'StorybookPlain'.toLowerCase() && (
+        <StorybookPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'ReactOriginal'.toLowerCase() && <ReactOriginal />}
+      {componentName.toLowerCase() === 'StylusOriginal'.toLowerCase() && (
+        <StylusOriginal />
+      )}
 
-      {componentName.toLowerCase() ===
-        'RedhatPlain'.toLowerCase() && <RedhatPlain />}
+      {componentName.toLowerCase() === 'SubversionOriginal'.toLowerCase() && (
+        <SubversionOriginal />
+      )}
 
-      {componentName.toLowerCase() ===
-        'RedisPlain'.toLowerCase() && <RedisPlain />}
+      {componentName.toLowerCase() === 'SveltePlain'.toLowerCase() && (
+        <SveltePlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'ReduxOriginal'.toLowerCase() && <ReduxOriginal />}
+      {componentName.toLowerCase() === 'SwiftPlain'.toLowerCase() && (
+        <SwiftPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'RocksDBPlain'.toLowerCase() && <RocksDBPlain />}
+      {componentName.toLowerCase() === 'SymfonyOriginal'.toLowerCase() && (
+        <SymfonyOriginal />
+      )}
 
-      {componentName.toLowerCase() ===
-        'RstudioPlain'.toLowerCase() && <RstudioPlain />}
+      {componentName.toLowerCase() === 'TailwindCSSPlain'.toLowerCase() && (
+        <TailwindCSSPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'RubyPlain'.toLowerCase() && <RubyPlain />}
+      {componentName.toLowerCase() === 'TensorflowPlain'.toLowerCase() && (
+        <TensorflowPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'RubyMinePlain'.toLowerCase() && <RubyMinePlain />}
+      {componentName.toLowerCase() === 'ThealgorithmsPlain'.toLowerCase() && (
+        <ThealgorithmsPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'RustPlain'.toLowerCase() && <RustPlain />}
+      {componentName.toLowerCase() === 'ThreeJSOriginal'.toLowerCase() && (
+        <ThreeJSOriginal />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SafariPlain'.toLowerCase() && <SafariPlain />}
+      {componentName.toLowerCase() === 'TomcatLine'.toLowerCase() && (
+        <TomcatLine />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SalesforcePlain'.toLowerCase() && <SalesforcePlain />}
+      {componentName.toLowerCase() === 'TortoisegitPlain'.toLowerCase() && (
+        <TortoisegitPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SASSOriginal'.toLowerCase() && <SASSOriginal />}
+      {componentName.toLowerCase() === 'TowergitPlain'.toLowerCase() && (
+        <TowergitPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'ScalaPlain'.toLowerCase() && <ScalaPlain />}
+      {componentName.toLowerCase() === 'TravisPlain'.toLowerCase() && (
+        <TravisPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SequelizePlain'.toLowerCase() && <SequelizePlain />}
+      {componentName.toLowerCase() === 'TrelloPlain'.toLowerCase() && (
+        <TrelloPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'ShopwareOriginal'.toLowerCase() && <ShopwareOriginal />}
+      {componentName.toLowerCase() === 'TwitterOriginal'.toLowerCase() && (
+        <TwitterOriginal />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SketchLine'.toLowerCase() && <SketchLine />}
+      {componentName.toLowerCase() === 'TypeScriptPlain'.toLowerCase() && (
+        <TypeScriptPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SlackPlain'.toLowerCase() && <SlackPlain />}
+      {componentName.toLowerCase() === 'Typo3Plain'.toLowerCase() && (
+        <Typo3Plain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SocketioOriginal'.toLowerCase() && <SocketioOriginal />}
+      {componentName.toLowerCase() === 'UbuntuPlain'.toLowerCase() && (
+        <UbuntuPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SourcetreeOriginal'.toLowerCase() && <SourcetreeOriginal />}
+      {componentName.toLowerCase() === 'UnityOriginal'.toLowerCase() && (
+        <UnityOriginal />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SpringPlain'.toLowerCase() && <SpringPlain />}
+      {componentName.toLowerCase() === 'UnixOriginal'.toLowerCase() && (
+        <UnixOriginal />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SpssPlain'.toLowerCase() && <SpssPlain />}
+      {componentName.toLowerCase() === 'UwsgiPlain'.toLowerCase() && (
+        <UwsgiPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SQLAlchemyPlain'.toLowerCase() && <SQLAlchemyPlain />}
+      {componentName.toLowerCase() === 'VagrantPlain'.toLowerCase() && (
+        <VagrantPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SSHOriginal'.toLowerCase() && <SSHOriginal />}
+      {componentName.toLowerCase() === 'VimPlain'.toLowerCase() && <VimPlain />}
 
-      {componentName.toLowerCase() ===
-        'StorybookPlain'.toLowerCase() && <StorybookPlain />}
+      {componentName.toLowerCase() === 'VisualStudioPlain'.toLowerCase() && (
+        <VisualStudioPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'StylusOriginal'.toLowerCase() && <StylusOriginal />}
+      {componentName.toLowerCase() === 'VSCodePlain'.toLowerCase() && (
+        <VSCodePlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SubversionOriginal'.toLowerCase() && <SubversionOriginal />}
+      {componentName.toLowerCase() === 'VueJSPlain'.toLowerCase() && (
+        <VueJSPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SveltePlain'.toLowerCase() && <SveltePlain />}
+      {componentName.toLowerCase() === 'VuestorefrontPlain'.toLowerCase() && (
+        <VuestorefrontPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SwiftPlain'.toLowerCase() && <SwiftPlain />}
+      {componentName.toLowerCase() === 'WeblatePlain'.toLowerCase() && (
+        <WeblatePlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'SymfonyOriginal'.toLowerCase() && <SymfonyOriginal />}
+      {componentName.toLowerCase() === 'WebPackPlain'.toLowerCase() && (
+        <WebPackPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'TailwindCSSPlain'.toLowerCase() && <TailwindCSSPlain />}
+      {componentName.toLowerCase() === 'WebStormPlain'.toLowerCase() && (
+        <WebStormPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'TensorflowPlain'.toLowerCase() && <TensorflowPlain />}
+      {componentName.toLowerCase() === 'Windows8Original'.toLowerCase() && (
+        <Windows8Original />
+      )}
 
-      {componentName.toLowerCase() ===
-        'ThealgorithmsPlain'.toLowerCase() && <ThealgorithmsPlain />}
+      {componentName.toLowerCase() === 'WooCommercePlain'.toLowerCase() && (
+        <WooCommercePlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'ThreeJSOriginal'.toLowerCase() && <ThreeJSOriginal />}
+      {componentName.toLowerCase() === 'WordPressPlain'.toLowerCase() && (
+        <WordPressPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'TomcatLine'.toLowerCase() && <TomcatLine />}
+      {componentName.toLowerCase() === 'XDPlain'.toLowerCase() && <XDPlain />}
 
-      {componentName.toLowerCase() ===
-        'TortoisegitPlain'.toLowerCase() && <TortoisegitPlain />}
+      {componentName.toLowerCase() === 'YarnOriginal'.toLowerCase() && (
+        <YarnOriginal />
+      )}
 
-      {componentName.toLowerCase() ===
-        'TowergitPlain'.toLowerCase() && <TowergitPlain />}
+      {componentName.toLowerCase() === 'YiiPlain'.toLowerCase() && <YiiPlain />}
 
-      {componentName.toLowerCase() ===
-        'TravisPlain'.toLowerCase() && <TravisPlain />}
+      {componentName.toLowerCase() === 'YunohostPlain'.toLowerCase() && (
+        <YunohostPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'TrelloPlain'.toLowerCase() && <TrelloPlain />}
+      {componentName.toLowerCase() === 'ZendPlain'.toLowerCase() && (
+        <ZendPlain />
+      )}
 
-      {componentName.toLowerCase() ===
-        'TwitterOriginal'.toLowerCase() && <TwitterOriginal />}
-
-      {componentName.toLowerCase() ===
-        'TypeScriptPlain'.toLowerCase() && <TypeScriptPlain />}
-
-      {componentName.toLowerCase() ===
-        'Typo3Plain'.toLowerCase() && <Typo3Plain />}
-
-      {componentName.toLowerCase() ===
-        'UbuntuPlain'.toLowerCase() && <UbuntuPlain />}
-
-      {componentName.toLowerCase() ===
-        'UnityOriginal'.toLowerCase() && <UnityOriginal />}
-
-      {componentName.toLowerCase() ===
-        'UnixOriginal'.toLowerCase() && <UnixOriginal />}
-
-      {componentName.toLowerCase() ===
-        'UwsgiPlain'.toLowerCase() && <UwsgiPlain />}
-
-      {componentName.toLowerCase() ===
-        'VagrantPlain'.toLowerCase() && <VagrantPlain />}
-
-      {componentName.toLowerCase() ===
-        'VimPlain'.toLowerCase() && <VimPlain />}
-
-      {componentName.toLowerCase() ===
-        'VisualStudioPlain'.toLowerCase() && <VisualStudioPlain />}
-
-      {componentName.toLowerCase() ===
-        'VSCodePlain'.toLowerCase() && <VSCodePlain />}
-
-      {componentName.toLowerCase() ===
-        'VueJSPlain'.toLowerCase() && <VueJSPlain />}
-
-      {componentName.toLowerCase() ===
-        'VuestorefrontPlain'.toLowerCase() && <VuestorefrontPlain />}
-
-      {componentName.toLowerCase() ===
-        'WeblatePlain'.toLowerCase() && <WeblatePlain />}
-
-      {componentName.toLowerCase() ===
-        'WebPackPlain'.toLowerCase() && <WebPackPlain />}
-
-      {componentName.toLowerCase() ===
-        'WebStormPlain'.toLowerCase() && <WebStormPlain />}
-
-      {componentName.toLowerCase() ===
-        'Windows8Original'.toLowerCase() && <Windows8Original />}
-
-      {componentName.toLowerCase() ===
-        'WooCommercePlain'.toLowerCase() && <WooCommercePlain />}
-
-      {componentName.toLowerCase() ===
-        'WordPressPlain'.toLowerCase() && <WordPressPlain />}
-
-      {componentName.toLowerCase() ===
-        'XDPlain'.toLowerCase() && <XDPlain />}
-
-      {componentName.toLowerCase() ===
-        'YarnOriginal'.toLowerCase() && <YarnOriginal />}
-
-      {componentName.toLowerCase() ===
-        'YiiPlain'.toLowerCase() && <YiiPlain />}
-
-      {componentName.toLowerCase() ===
-        'YunohostPlain'.toLowerCase() && <YunohostPlain />}
-
-      {componentName.toLowerCase() ===
-        'ZendPlain'.toLowerCase() && <ZendPlain />}
-
-      {componentName.toLowerCase() ===
-        'ZigOriginal'.toLowerCase() && <ZigOriginal />}
+      {componentName.toLowerCase() === 'ZigOriginal'.toLowerCase() && (
+        <ZigOriginal />
+      )}
     </Fragment>
   )
 }
