@@ -1,18 +1,24 @@
 const initialItems = [
   {
-    name: 'Aarch64',
+    name: 'AArch64',
     componentName: 'Aarch64Plain',
-    key: [],
+    key: ['ARM64', 'ARM', '64-bit'],
   },
   {
     name: 'AdonisJS',
     componentName: 'AdonisjsOriginalWordmark',
-    key: [],
+    key: [
+      'BPM',
+      'Business Process Management',
+      'SOPs',
+      'Standard Operating Procedures',
+      'framework',
+    ],
   },
   {
     name: 'After Effects',
     componentName: 'AftereffectsPlain',
-    key: ['adobe after effects'],
+    key: ['adobe', 'adobe after effects'],
   },
   {
     name: 'AWS',
