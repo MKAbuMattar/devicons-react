@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="https://github.com/MKAbuMattar/devicons-react">
-        <img src="https://raw.githubusercontent.com/MKAbuMattar/devicons-react/main/assets/img/logo.png" alt="Devicon Logo" height="140" />
+        <img src="https://raw.githubusercontent.com/MKAbuMattar/devicons-react/main/docs/assets/img/logo.png" alt="Devicon Logo" height="140" />
     </a>
     <p align="center">
         devicons-react aims to gather all logos representing development languages and tools, build into <a href="https://github.com/devicons/devicon">devicon</a>
