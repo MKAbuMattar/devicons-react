@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "devicons-react": "^1.0.3",
+    "devicons-react": "^1.0.8",
     "eslint": "^7.32.0",
     "highlight.js": "^11.2.0",
     "next": "latest",

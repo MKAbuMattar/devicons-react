@@ -55,12 +55,15 @@ export default App
 
 ```js
 import { Fragment } from 'react'
-import { Aarch64Plain } from 'devicons-react'
+import { Aarch64Plain, ReactOriginal } from 'devicons-react'
+import DeviconsReactOriginal from 'devicons-react/dist/icon/deviconsreact-original'
 
 const App = () => {
   return (
     <Fragment>
-      <Aarch64Plain color="red" size="500" />
+      <Aarch64Plain />
+      <ReactOriginal color="red" size="500" />
+      <DeviconsReactOriginal />
     </Fragment>
   )
 }
