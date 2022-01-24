@@ -8,10 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "devicons-react": "^1.0.8",
-    "eslint": "^7.32.0",
+    "devicons-react": "^1.1.1",
+    "eslint": "^8.7.0",
     "highlight.js": "^11.2.0",
-    "next": "latest",
+    "next": "^12.0.8",
     "next-pwa": "^5.3.1",
     "next-seo": "^4.26.0",
     "react": "^17.0.2",
@@ -20,6 +20,6 @@
     "styled-components": "^5.2.3"
   },
   "devDependencies": {
-    "babel-plugin-styled-components": "^1.12.0"
+    "babel-plugin-styled-components": "^2.0.2"
   }
 }

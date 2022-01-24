@@ -1,11 +1,11 @@
 {
   "name": "devicons-react",
-  "version": "1.0.8",
+  "version": "1.1.1",
   "description": "Programming icons",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
-    "clean": "rm -rf dist icon",
+    "clean": "rm -rf icons && find ./ -type f -name \"index-*.js\" ! -path \"./docs/*\" ! -path \"./node_modules/*\" -delete",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "build:lib": "npm run clean && rollup -c"

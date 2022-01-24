@@ -25,7 +25,7 @@ const List = ({ items }) => {
               <code className="js hljs language-javascript">
                 {`import { ${item.componentName} } from 'devicons-react'
 
-import ${item.componentName} from 'devicons-react/dist/icon/${item.fileName}'`}
+import ${item.componentName} from 'devicons-react/icons/${item.fileName}'`}
               </code>
             </pre>
           </Card>
