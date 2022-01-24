@@ -56,7 +56,7 @@ export default App
 ```js
 import { Fragment } from 'react'
 import { Aarch64Plain, ReactOriginal } from 'devicons-react'
-import DeviconsReactOriginal from 'devicons-react/dist/icon/deviconsreact-original'
+import DeviconsReactOriginal from 'devicons-react/icons/deviconsreact-original'
 
 const App = () => {
   return (

@@ -29,10 +29,12 @@ yarn-error.log*
 temp.js
 *.svg
 
+docs
+
 .storybook
 
 rollup.config.js
 
-.eslintrc.json
+.eslintrc
 
 .prettierrc

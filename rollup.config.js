@@ -12,11 +12,11 @@ export default [
     output: [
       {
         format: 'es',
-        dir: 'dist',
+        dir: './',
       },
       {
         format: 'cjs',
-        dir: 'dist',
+        dir: './',
       },
     ],
     plugins: [
@@ -25,7 +25,7 @@ export default [
         transformOutputPath: (output, input) =>
           `${path.basename(output)}`.toLowerCase().includes('index'.toLowerCase())
             ? `${path.basename(output)}`
-            : `icon/${path.basename(output)}`,
+            : `icons/${path.basename(output)}`,
       }),
       babel({
         exclude: '**/node_modules/**',
