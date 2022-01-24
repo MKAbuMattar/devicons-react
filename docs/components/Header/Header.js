@@ -11,6 +11,7 @@ import {
   HeaderTitleBox,
   HeaderTitle,
   HeaderInfo,
+  HeaderBoxGitHubLabel,
   HeaderLink,
   HeaderCard,
   HeaderCardInfo,
@@ -40,6 +41,27 @@ const Header = () => {
             Devicons React is a collection of icons that symbolize programming
             languages, design tools, and development software.
           </HeaderInfo>
+
+          <HeaderBoxGitHubLabel>
+            <a href="https://github.com/MKAbuMattar/devicons-react/releases">
+              <img
+                alt="GitHub release (latest by semver)"
+                src="https://img.shields.io/github/v/release/MKAbuMattar/devicons-react?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver"
+              />
+            </a>
+            <a href="/LICENSE">
+              <img
+                alt="GitHub"
+                src="https://img.shields.io/github/license/MKAbuMattar/devicons-react?color=%2360be86&style=for-the-badge"
+              />
+            </a>
+            <a href="https://github.com/MKAbuMattar/devicons-react/stargazers">
+              <img
+                alt="GitHub Repo stars"
+                src="https://img.shields.io/github/stars/MKAbuMattar/devicons-react?color=%2360be86&label=github%20stars&style=for-the-badge"
+              />
+            </a>
+          </HeaderBoxGitHubLabel>
 
           <HeaderArrowWaveBox>
             <Link href="#search">

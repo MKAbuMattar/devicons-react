@@ -38,6 +38,16 @@ export const HeaderInfo = styled.p`
   color: #eeeeee;
 `
 
+export const HeaderBoxGitHubLabel = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 2rem;
+  flex-wrap: wrap;
+`
+
 export const HeaderLink = styled.a`
   text-decoration: none;
   color: inherit;
