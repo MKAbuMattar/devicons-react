@@ -5,10 +5,11 @@
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
-    "clean": "rm -rf icons && find ./ -type f -name \"index-*.js\" ! -path \"./docs/*\" ! -path \"./node_modules/*\" -delete",
+    "clean": "rm -rf lib",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "build:lib": "npm run clean && rollup -c"
+    "build:lib": "npm run clean && rollup -c",
+    "publish:lib": "npm run build:lib && cd lib && npm publish"
   },
   "author": "Mohammad Abu Mattar",
   "license": "MIT",
@@ -26,6 +27,7 @@
     "react-dom": "^17.0.2",
     "rollup": "^2.58.0",
     "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-multi-input": "^1.3.1",
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "rollup-plugin-terser": "^7.0.2"
