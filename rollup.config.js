@@ -4,6 +4,7 @@ import external from 'rollup-plugin-peer-deps-external'
 import commonjs from '@rollup/plugin-commonjs'
 import { terser } from 'rollup-plugin-terser'
 import multiInput from 'rollup-plugin-multi-input'
+import copy from 'rollup-plugin-copy'
 import path from 'path'
 
 export default [
@@ -12,11 +13,11 @@ export default [
     output: [
       {
         format: 'es',
-        dir: './',
+        dir: './lib',
       },
       {
         format: 'cjs',
-        dir: './',
+        dir: './lib',
       },
     ],
     plugins: [
@@ -35,6 +36,14 @@ export default [
       external(),
       terser(),
       commonjs({ include: ['./index.js', 'node_modules/**'] }),
+      copy({
+        targets: [
+          { src: './README.md', dest: 'lib' },
+          { src: './LICENSE', dest: 'lib' },
+          { src: './package-lock.json', dest: 'lib' },
+          { src: './package.json', dest: 'lib' },
+        ],
+      }),
     ],
   },
 ]
