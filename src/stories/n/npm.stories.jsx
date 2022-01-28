@@ -5,7 +5,7 @@ import { NPMOriginalWordmark } from '../../index'
 
 const stories = storiesOf('npm', module)
 
-stories.add('original word mark', () => {
+stories.add('original wordmark', () => {
   return (
     <Fragment>
       <NPMOriginalWordmark />
