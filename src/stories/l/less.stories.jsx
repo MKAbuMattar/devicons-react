@@ -5,7 +5,7 @@ import { LESSPlainWordmark } from '../../index'
 
 const stories = storiesOf('less', module)
 
-stories.add('plain word mark', () => {
+stories.add('plain wordmark', () => {
   return (
     <Fragment>
       <LESSPlainWordmark />

@@ -23,10 +23,10 @@ export default [
     plugins: [
       multiInput({
         relative: 'src/',
-        transformOutputPath: (output, input) =>
-          `${path.basename(output)}`.toLowerCase().includes('index'.toLowerCase())
-            ? `${path.basename(output)}`
-            : `icons/${path.basename(output)}`,
+        // transformOutputPath: (output, input) =>
+        //   `${path.basename(output)}`.toLowerCase().includes('index'.toLowerCase())
+        //     ? `${path.basename(output)}`
+        //     : `icons/${path.basename(output)}`,
       }),
       babel({
         exclude: '**/node_modules/**',
@@ -40,7 +40,6 @@ export default [
         targets: [
           { src: './README.md', dest: 'lib' },
           { src: './LICENSE', dest: 'lib' },
-          { src: './package-lock.json', dest: 'lib' },
           { src: './package.json', dest: 'lib' },
         ],
       }),

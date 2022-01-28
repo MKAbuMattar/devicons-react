@@ -1,44 +1,73 @@
 //aarch64
-export { default as Aarch64Plain } from './icons/aarch64/aarch64-plain/aarch64-plain'
+export { default as Aarch64Original } from './icons/aarch64/original/index'
+export { default as Aarch64Plain } from './icons/aarch64/plain/index'
 
 //adonisjs
-export { default as AdonisjsOriginalWordmark } from './icons/adonisjs/adonisjs-original-wordmark/adonisjs-original-wordmark'
+export { default as AdonisjsOriginal } from './icons/adonisjs/original/index'
+export { default as AdonisjsOriginalWordmark } from './icons/adonisjs/original-wordmark/index'
 
 //aftereffects
-export { default as AftereffectsPlain } from './icons/aftereffects/aftereffects-plain/aftereffects-plain'
+export { default as AftereffectsOriginal } from './icons/aftereffects/original/index'
+export { default as AftereffectsPlain } from './icons/aftereffects/plain/index'
 
 //amazonwebservices
-export { default as AmazonwebservicesPlainWordmark } from './icons/amazonwebservices/amazonwebservices-plain-wordmark/amazonwebservices-plain-wordmark'
+export { default as AmazonwebservicesOriginal } from './icons/amazonwebservices/original/index'
+export { default as AmazonwebservicesOriginalWordmark } from './icons/amazonwebservices/original-wordmark/index'
+export { default as AmazonwebservicesPlainWordmark } from './icons/amazonwebservices/plain-wordmark/index'
 
 //android
-export { default as AndroidPlain } from './icons/android/android-plain/android-plain'
+export { default as AndroidOriginal } from './icons/android/original/index'
+export { default as AndroidOriginalWordmark } from './icons/android/original-wordmark/index'
+export { default as AndroidPlain } from './icons/android/plain/index'
+export { default as AndroidPlainWordmark } from './icons/android/plain-wordmark/index'
 
 //angularjs
-export { default as AngularjsPlain } from './icons/angularjs/angularjs-plain/angularjs-plain'
+export { default as AngularjsOriginal } from './icons/angularjs/original/index'
+export { default as AngularjsOriginalWordmark } from './icons/angularjs/original-wordmark/index'
+export { default as AngularjsPlain } from './icons/angularjs/plain/index'
+export { default as AngularjsPlainWordmark } from './icons/angularjs/plain-wordmark/index'
 
 //apache
-export { default as ApachePlain } from './icons/apache/apache-plain/apache-plain'
+export { default as ApacheLine } from './icons/apache/line/index'
+export { default as ApacheLineWordmark } from './icons/apache/line-wordmark/index'
+export { default as ApacheOriginal } from './icons/apache/original/index'
+export { default as ApacheOriginalWordmark } from './icons/apache/original-wordmark/index'
+export { default as ApachePlain } from './icons/apache/plain/index'
+export { default as ApachePlainWordmark } from './icons/apache/plain-wordmark/index'
 
 //apachekafka
-export { default as ApachekafkaOriginal } from './icons/apachekafka/apachekafka-original/apachekafka-original'
+export { default as ApachekafkaOriginal } from './icons/apachekafka/original/index'
+export { default as ApachekafkaOriginalWordmark } from './icons/apachekafka/original-wordmark/index'
 
 //appcelerator
-export { default as AppceleratorOriginal } from './icons/appcelerator/appcelerator-original/appcelerator-original'
+export { default as AppceleratorOriginal } from './icons/appcelerator/original/index'
+export { default as AppceleratorOriginalWordmark } from './icons/appcelerator/original-wordmark/index'
+export { default as AppceleratorPlainWordmark } from './icons/appcelerator/plain-wordmark/index'
 
 //apple
-export { default as AppleOriginal } from './icons/apple/apple-original/apple-original'
+export { default as AppleOriginal } from './icons/apple/original/index'
 
 //appwrite
-export { default as AppwritePlain } from './icons/appwrite/appwrite-plain/appwrite-plain'
+export { default as AppwriteOriginal } from './icons/appwrite/original/index'
+export { default as AppwriteOriginalWordmark } from './icons/appwrite/original-wordmark/index'
+export { default as AppwritePlain } from './icons/appwrite/plain/index'
+export { default as AppwritePlainWordmark } from './icons/appwrite/plain-wordmark/index'
 
 //arduino
-export { default as ArduinoPlain } from './icons/arduino/arduino-plain/arduino-plain'
+export { default as ArduinoOriginal } from './icons/arduino/original/index'
+export { default as ArduinoOriginalWordmark } from './icons/arduino/original-wordmark/index'
+export { default as ArduinoPlain } from './icons/arduino/plain/index'
+export { default as ArduinoPlainWordmark } from './icons/arduino/plain-wordmark/index'
 
 //atom
-export { default as AtomOriginal } from './icons/atom/atom-original/atom-original'
+export { default as AtomOriginal } from './icons/atom/original/index'
+export { default as AtomOriginalWordmark } from './icons/atom/original-wordmark/index'
 
 //azure
-export { default as AzurePlain } from './icons/azure/azure-plain/azure-plain'
+export { default as AzureOriginal } from './icons/azure/original/index'
+export { default as AzureOriginalWordmark } from './icons/azure/original-wordmark/index'
+export { default as AzurePlain } from './icons/azure/plain/index'
+export { default as AzurePlainWordmark } from './icons/azure/plain-wordmark/index'
 
 //babel
 export { default as BabelPlain } from './icons/babel/babel-plain/babel-plain'

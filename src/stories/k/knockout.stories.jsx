@@ -5,7 +5,7 @@ import { KnockoutPlainWordmark } from '../../index'
 
 const stories = storiesOf('knockout', module)
 
-stories.add('plain word mark', () => {
+stories.add('plain wordmark', () => {
   return (
     <Fragment>
       <KnockoutPlainWordmark />
