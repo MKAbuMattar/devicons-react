@@ -20,7 +20,7 @@ import {
   HeaderArrowWave,
 } from './Style'
 
-import { DeviconsReactOriginal } from 'devicons-react'
+import ReactLogo from './Logo'
 
 const Header = () => {
   useEffect(() => {
@@ -32,7 +32,7 @@ const Header = () => {
       <HeaderContainer>
         <HeaderBox>
           <HeaderTitleBox>
-            <DeviconsReactOriginal size="60" />
+            <ReactLogo size="60" />
             <HeaderTitle>
               Devicons <span>React</span>
             </HeaderTitle>
@@ -98,14 +98,14 @@ yarn add devicons-react`}
               <code className="js hljs language-javascript">
                 {`import { Fragment } from 'react'
 import { Aarch64Plain, ReactOriginal } from 'devicons-react'
-import DeviconsReactOriginal from 'devicons-react/icons/deviconsreact-original'
+import AndroidOriginal from 'devicons-react/icons/AndroidOriginal'
 
 const App = () => {
   return (
     <Fragment>
       <Aarch64Plain />
-      <ReactOriginal color="red" size="500" />
-      <DeviconsReactOriginal />
+      <ReactOriginal fill="red" height="500" width="500" />
+      <AndroidOriginal fill="#d35" height="128" width="128"/>
     </Fragment>
   )
 }

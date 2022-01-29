@@ -1,16 +1,15 @@
-import { Fragment } from 'react'
-import FilteredList from '../components/FilteredList/FilteredList'
 import Header from '../components/Header/Header'
+import Main from '../components/Main/Main'
 import Footer from '../components/Footer/Footer'
 
-const index = () => {
+const Home = () => {
   return (
-    <Fragment>
+    <div>
       <Header />
-      <FilteredList />
-      <Footer/>
-    </Fragment>
+      <Main />
+      <Footer />
+    </div>
   )
 }
 
-export default index
+export default Home

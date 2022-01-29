@@ -1,11 +1,10 @@
-import babel from 'rollup-plugin-babel'
+import { babel } from '@rollup/plugin-babel'
 import resolve from '@rollup/plugin-node-resolve'
 import external from 'rollup-plugin-peer-deps-external'
 import commonjs from '@rollup/plugin-commonjs'
 import { terser } from 'rollup-plugin-terser'
 import multiInput from 'rollup-plugin-multi-input'
 import copy from 'rollup-plugin-copy'
-import path from 'path'
 
 export default [
   {
@@ -19,16 +18,19 @@ export default [
         format: 'cjs',
         dir: './lib',
       },
+      {
+        format: 'esm',
+        dir: './lib',
+      },
     ],
+    external: [/@babel\/runtime/, 'react'],
     plugins: [
       multiInput({
         relative: 'src/',
-        // transformOutputPath: (output, input) =>
-        //   `${path.basename(output)}`.toLowerCase().includes('index'.toLowerCase())
-        //     ? `${path.basename(output)}`
-        //     : `icons/${path.basename(output)}`,
       }),
       babel({
+        babelHelpers: 'runtime',
+        plugins: ['@babel/plugin-transform-runtime'],
         exclude: '**/node_modules/**',
         presets: ['@babel/preset-react'],
       }),

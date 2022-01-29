@@ -1,727 +1,674 @@
-//aarch64
-export { default as Aarch64Original } from './icons/aarch64/original/index'
-export { default as Aarch64Plain } from './icons/aarch64/plain/index'
-
-//adonisjs
-export { default as AdonisjsOriginal } from './icons/adonisjs/original/index'
-export { default as AdonisjsOriginalWordmark } from './icons/adonisjs/original-wordmark/index'
-
-//aftereffects
-export { default as AftereffectsOriginal } from './icons/aftereffects/original/index'
-export { default as AftereffectsPlain } from './icons/aftereffects/plain/index'
-
-//amazonwebservices
-export { default as AmazonwebservicesOriginal } from './icons/amazonwebservices/original/index'
-export { default as AmazonwebservicesOriginalWordmark } from './icons/amazonwebservices/original-wordmark/index'
-export { default as AmazonwebservicesPlainWordmark } from './icons/amazonwebservices/plain-wordmark/index'
-
-//android
-export { default as AndroidOriginal } from './icons/android/original/index'
-export { default as AndroidOriginalWordmark } from './icons/android/original-wordmark/index'
-export { default as AndroidPlain } from './icons/android/plain/index'
-export { default as AndroidPlainWordmark } from './icons/android/plain-wordmark/index'
-
-//angularjs
-export { default as AngularjsOriginal } from './icons/angularjs/original/index'
-export { default as AngularjsOriginalWordmark } from './icons/angularjs/original-wordmark/index'
-export { default as AngularjsPlain } from './icons/angularjs/plain/index'
-export { default as AngularjsPlainWordmark } from './icons/angularjs/plain-wordmark/index'
-
-//apache
-export { default as ApacheLine } from './icons/apache/line/index'
-export { default as ApacheLineWordmark } from './icons/apache/line-wordmark/index'
-export { default as ApacheOriginal } from './icons/apache/original/index'
-export { default as ApacheOriginalWordmark } from './icons/apache/original-wordmark/index'
-export { default as ApachePlain } from './icons/apache/plain/index'
-export { default as ApachePlainWordmark } from './icons/apache/plain-wordmark/index'
-
-//apachekafka
-export { default as ApachekafkaOriginal } from './icons/apachekafka/original/index'
-export { default as ApachekafkaOriginalWordmark } from './icons/apachekafka/original-wordmark/index'
-
-//appcelerator
-export { default as AppceleratorOriginal } from './icons/appcelerator/original/index'
-export { default as AppceleratorOriginalWordmark } from './icons/appcelerator/original-wordmark/index'
-export { default as AppceleratorPlainWordmark } from './icons/appcelerator/plain-wordmark/index'
-
-//apple
-export { default as AppleOriginal } from './icons/apple/original/index'
-
-//appwrite
-export { default as AppwriteOriginal } from './icons/appwrite/original/index'
-export { default as AppwriteOriginalWordmark } from './icons/appwrite/original-wordmark/index'
-export { default as AppwritePlain } from './icons/appwrite/plain/index'
-export { default as AppwritePlainWordmark } from './icons/appwrite/plain-wordmark/index'
-
-//arduino
-export { default as ArduinoOriginal } from './icons/arduino/original/index'
-export { default as ArduinoOriginalWordmark } from './icons/arduino/original-wordmark/index'
-export { default as ArduinoPlain } from './icons/arduino/plain/index'
-export { default as ArduinoPlainWordmark } from './icons/arduino/plain-wordmark/index'
-
-//atom
-export { default as AtomOriginal } from './icons/atom/original/index'
-export { default as AtomOriginalWordmark } from './icons/atom/original-wordmark/index'
-
-//azure
-export { default as AzureOriginal } from './icons/azure/original/index'
-export { default as AzureOriginalWordmark } from './icons/azure/original-wordmark/index'
-export { default as AzurePlain } from './icons/azure/plain/index'
-export { default as AzurePlainWordmark } from './icons/azure/plain-wordmark/index'
-
-//babel
-export { default as BabelPlain } from './icons/babel/babel-plain/babel-plain'
-
-//backbonejs
-export { default as BackbonejsPlain } from './icons/backbonejs/backbonejs-plain/backbonejs-plain'
-
-//bash
-export { default as BashPlain } from './icons/bash/bash-plain/bash-plain'
-
-//behance
-export { default as BehancePlain } from './icons/behance/behance-plain/behance-plain'
-
-//bitbucket
-export { default as BitbucketOriginal } from './icons/bitbucket/bitbucket-original/bitbucket-original'
-
-//bootstrap
-export { default as BootstrapPlain } from './icons/bootstrap/bootstrap-plain/bootstrap-plain'
-
-//bower
-export { default as BowerPlain } from './icons/bower/bower-plain/bower-plain'
-
-//bulma
-export { default as BulmaPlain } from './icons/bulma/bulma-plain/bulma-plain'
-
-//c
-export { default as CPlain } from './icons/c/c-plain/c-plain'
-
-//cakephp
-export { default as CakephpPlain } from './icons/cakephp/cakephp-plain/cakephp-plain'
-
-//canva
-export { default as CanvaOriginal } from './icons/canva/canva-original/canva-original'
-
-//centos
-export { default as CentosPlain } from './icons/centos/centos-plain/centos-plain'
-
-//ceylon
-export { default as CeylonPlain } from './icons/ceylon/ceylon-plain/ceylon-plain'
-
-//chrome
-export { default as ChromePlain } from './icons/chrome/chrome-plain/chrome-plain'
-
-//circleci
-export { default as CircleciPlain } from './icons/circleci/circleci-plain/circleci-plain'
-
-//clojure
-export { default as ClojureLine } from './icons/clojure/clojure-line/clojure-line'
-
-//clojurescript
-export { default as ClojurescriptPlain } from './icons/clojurescript/clojurescript-plain/clojurescript-plain'
-
-//codecov
-export { default as CodecovPlain } from './icons/codecov/codecov-plain/codecov-plain'
-
-//codeigniter
-export { default as CodeigniterPlain } from './icons/codeigniter/codeigniter-plain/codeigniter-plain'
-
-//codepen
-export { default as CodepenPlain } from './icons/codepen/codepen-plain/codepen-plain'
-
-//coffeescript
-export { default as CoffeescriptOriginal } from './icons/coffeescript/coffeescript-original/coffeescript-original'
-
-//composer
-export { default as ComposerLine } from './icons/composer/composer-line/composer-line'
-
-//confluence
-export { default as ConfluenceOriginal } from './icons/confluence/confluence-original/confluence-original'
-
-//couchdb
-export { default as CouchdbPlain } from './icons/couchdb/couchdb-plain/couchdb-plain'
-
-//cplusplus
-export { default as CPlusPlusPlain } from './icons/cplusplus/cplusplus-plain/cplusplus-plain'
-
-//crystal
-export { default as CrystalOriginal } from './icons/crystal/crystal-original/crystal-original'
-
-//csharp
-export { default as CSharpPlain } from './icons/csharp/csharp-plain/csharp-plain'
-
-//css3
-export { default as CSS3Plain } from './icons/css3/css3-plain/css3-plain'
-
-//cucumber
-export { default as CucumberPlain } from './icons/cucumber/cucumber-plain/cucumber-plain'
-
-//d3js
-export { default as D3jsPlain } from './icons/d3js/d3js-plain/d3js-plain'
-
-//dart
-export { default as DartPlain } from './icons/dart/dart-plain/dart-plain'
-
-//debian
-export { default as DebianPlain } from './icons/debian/debian-plain/debian-plain'
-
-//denojs
-export { default as DenojsOriginal } from './icons/denojs/denojs-original/denojs-original'
-
-//deviconsreact
-export { default as DeviconsReactOriginal } from './icons/deviconsreact/deviconsreact-original/deviconsreact-original'
-
-//digitalocean
-export { default as DigitaloceanPlain } from './icons/digitalocean/digitalocean-plain/digitalocean-plain'
-
-//django
-export { default as DjangoPlain } from './icons/django/django-plain/django-plain'
-
-//docker
-export { default as DockerPlain } from './icons/docker/docker-plain/docker-plain'
-
-//doctrine
-export { default as DoctrinePlain } from './icons/doctrine/doctrine-plain/doctrine-plain'
-
-//dot-net
-export { default as DotNetPlain } from './icons/dot-net/dot-net-plain/dot-net-plain'
-
-//dotnetcore
-export { default as DotnetcorePlain } from './icons/dotnetcore/dotnetcore-plain/dotnetcore-plain'
-
-//drupal
-export { default as DrupalPlain } from './icons/drupal/drupal-plain/drupal-plain'
-
-//electron
-export { default as ElectronOriginal } from './icons/electron/electron-original/electron-original'
-
-//eleventy
-export { default as EleventyPlain } from './icons/eleventy/eleventy-plain/eleventy-plain'
-
-//elixir
-export { default as ElixirPlain } from './icons/elixir/elixir-plain/elixir-plain'
-
-//elm
-export { default as ElmPlain } from './icons/elm/elm-plain/elm-plain'
-
-//embeddedc
-export { default as EmbeddedcPlain } from './icons/embeddedc/embeddedc-plain/embeddedc-plain'
-
-//ember
-export { default as EmberOriginalWordmark } from './icons/ember/ember-original-wordmark/ember-original-wordmark'
-
-//erlang
-export { default as ErlangPlain } from './icons/erlang/erlang-plain/erlang-plain'
-
-//express
-export { default as ExpressOriginal } from './icons/express/express-original/express-original'
-
-//facebook
-export { default as FacebookPlain } from './icons/facebook/facebook-plain/facebook-plain'
-
-//feathersjs
-export { default as FeathersjsOriginal } from './icons/feathersjs/feathersjs-original/feathersjs-original'
-
-//figma
-export { default as FigmaPlain } from './icons/figma/figma-plain/figma-plain'
-
-//filezilla
-export { default as FilezillaPlain } from './icons/filezilla/filezilla-plain/filezilla-plain'
-
-//firebase
-export { default as FirebasePlain } from './icons/firebase/firebase-plain/firebase-plain'
-
-//firefox
-export { default as FirefoxPlain } from './icons/firefox/firefox-plain/firefox-plain'
-
-//flask
-export { default as FlaskOriginal } from './icons/flask/flask-original/flask-original'
-
-//flutter
-export { default as FlutterPlain } from './icons/flutter/flutter-plain/flutter-plain'
-
-//foundation
-export { default as FoundationPlain } from './icons/foundation/foundation-plain/foundation-plain'
-
-//fsharp
-export { default as FSharpPlain } from './icons/fsharp/fsharp-plain/fsharp-plain'
-
-//gatling
-export { default as GatlingPlain } from './icons/gatling/gatling-plain/gatling-plain'
-
-//gatsby
-export { default as GatsbyPlain } from './icons/gatsby/gatsby-plain/gatsby-plain'
-
-//gcc
-export { default as GCCPlain } from './icons/gcc/gcc-plain/gcc-plain'
-
-//gimp
-export { default as GIMPPlain } from './icons/gimp/gimp-plain/gimp-plain'
-
-//git
-export { default as GitPlain } from './icons/git/git-plain/git-plain'
-
-//github
-export { default as GitHubOriginal } from './icons/github/github-original/github-original'
-
-//gitlab
-export { default as GitLabPlain } from './icons/gitlab/gitlab-plain/gitlab-plain'
-
-//gitter
-export { default as GitterPlain } from './icons/gitter/gitter-plain/gitter-plain'
-
-//go
-export { default as GoPlain } from './icons/go/go-plain/go-plain'
-
-//godot
-export { default as GodotPlain } from './icons/godot/godot-plain/godot-plain'
-
-//google
-export { default as GooglePlain } from './icons/google/google-plain/google-plain'
-
-//googlecloud
-export { default as GoogleCloudPlain } from './icons/googlecloud/googlecloud-plain/googlecloud-plain'
-
-//gradle
-export { default as GradlePlain } from './icons/gradle/gradle-plain/gradle-plain'
-
-//grails
-export { default as GrailsPlain } from './icons/grails/grails-plain/grails-plain'
-
-//graphql
-export { default as GraphqlPlain } from './icons/graphql/graphql-plain/graphql-plain'
-
-//groovy
-export { default as GroovyPlain } from './icons/groovy/groovy-plain/groovy-plain'
-
-//grunt
-export { default as GruntPlain } from './icons/grunt/grunt-plain/grunt-plain'
-
-//gulp
-export { default as GulpPlain } from './icons/gulp/gulp-plain/gulp-plain'
-
-//handlebars
-export { default as HandlebarsOriginal } from './icons/handlebars/handlebars-original/handlebars-original'
-
-//haskell
-export { default as HaskellPlain } from './icons/haskell/haskell-plain/haskell-plain'
-
-//haxe
-export { default as HaxePlain } from './icons/haxe/haxe-plain/haxe-plain'
-
-//heroku
-export { default as HerokuPlain } from './icons/heroku/heroku-plain/heroku-plain'
-
-//html5
-export { default as HTML5Plain } from './icons/html5/html5-plain/html5-plain'
-
-//ie10
-export { default as IE10Original } from './icons/ie10/ie10-original/ie10-original'
-
-//illustrator
-export { default as IllustratorPlain } from './icons/illustrator/illustrator-plain/illustrator-plain'
-
-//inkscape
-export { default as InkscapePlain } from './icons/inkscape/inkscape-plain/inkscape-plain'
-
-//intellij
-export { default as IntellijPlain } from './icons/intellij/intellij-plain/intellij-plain'
-
-//ionic
-export { default as IonicOriginal } from './icons/ionic/ionic-original/ionic-original'
-
-//jamstack
-export { default as JamstackOriginal } from './icons/jamstack/jamstack-original/jamstack-original'
-
-//jasmine
-export { default as JasminePlain } from './icons/jasmine/jasmine-plain/jasmine-plain'
-
-//java
-export { default as JavaPlain } from './icons/java/java-plain/java-plain'
-
-//javascript
-export { default as JavascriptPlain } from './icons/javascript/javascript-plain/javascript-plain'
-
-//jeet
-export { default as JeetPlain } from './icons/jeet/jeet-plain/jeet-plain'
-
-//jenkins
-export { default as JenkinsPlain } from './icons/jenkins/jenkins-plain/jenkins-plain'
-
-//jest
-export { default as JestPlain } from './icons/jest/jest-plain/jest-plain'
-
-//jetbrains
-export { default as JetbrainsPlain } from './icons/jetbrains/jetbrains-plain/jetbrains-plain'
-
-//jira
-export { default as JiraPlain } from './icons/jira/jira-plain/jira-plain'
-
-//jquery
-export { default as JQueryPlain } from './icons/jquery/jquery-plain/jquery-plain'
-
-//julia
-export { default as JuliaPlain } from './icons/julia/julia-plain/julia-plain'
-
-//jupyter
-export { default as JupyterPlain } from './icons/jupyter/jupyter-plain/jupyter-plain'
-
-//karma
-export { default as KarmaPlain } from './icons/karma/karma-plain/karma-plain'
-
-//knockout
-export { default as KnockoutPlainWordmark } from './icons/knockout/knockout-plain-wordmark/knockout-plain-wordmark'
-
-//kotlin
-export { default as KotlinPlain } from './icons/kotlin/kotlin-plain/kotlin-plain'
-
-//krakenjs
-export { default as KrakenjsPlain } from './icons/krakenjs/krakenjs-plain/krakenjs-plain'
-
-//kubernetes
-export { default as KubernetesPlain } from './icons/kubernetes/kubernetes-plain/kubernetes-plain'
-
-//labview
-export { default as LabviewPlain } from './icons/labview/labview-plain/labview-plain'
-
-//laravel
-export { default as LaravelPlain } from './icons/laravel/laravel-plain/laravel-plain'
-
-//less
-export { default as LESSPlainWordmark } from './icons/less/less-plain-wordmark/less-plain-wordmark'
-
-//linkedin
-export { default as LinkedinPlain } from './icons/linkedin/linkedin-plain/linkedin-plain'
-
-//linux
-export { default as LinuxPlain } from './icons/linux/linux-plain/linux-plain'
-
-//lua
-export { default as LuaPlain } from './icons/lua/lua-plain/lua-plain'
-
-//magento
-export { default as MagentoOriginal } from './icons/magento/magento-original/magento-original'
-
-//markdown
-export { default as MarkdownOriginal } from './icons/markdown/markdown-original/markdown-original'
-
-//materialui
-export { default as MaterialUIPlain } from './icons/materialui/materialui-plain/materialui-plain'
-
-//matlab
-export { default as MatlabPlain } from './icons/matlab/matlab-plain/matlab-plain'
-
-//meteor
-export { default as MeteorPlain } from './icons/meteor/meteor-plain/meteor-plain'
-
-//microsoftsqlserver
-export { default as MicrosoftsqlserverPlain } from './icons/microsoftsqlserver/microsoftsqlserver-plain/microsoftsqlserver-plain'
-
-//minitab
-export { default as MinitabPlain } from './icons/minitab/minitab-plain/minitab-plain'
-
-//mocha
-export { default as MochaPlain } from './icons/mocha/mocha-plain/mocha-plain'
-
-//modx
-export { default as ModxPlain } from './icons/modx/modx-plain/modx-plain'
-
-//mongodb
-export { default as MongoDBPlain } from './icons/mongodb/mongodb-plain/mongodb-plain'
-
-//moodle
-export { default as MoodlePlain } from './icons/moodle/moodle-plain/moodle-plain'
-
-//msdos
-export { default as MSDosPlain } from './icons/msdos/msdos-plain/msdos-plain'
-
-//mysql
-export { default as MySQLPlain } from './icons/mysql/mysql-plain/mysql-plain'
-
-//neo4j
-export { default as Neo4jPlain } from './icons/neo4j/neo4j-plain/neo4j-plain'
-
-//nestjs
-export { default as NestJSPlain } from './icons/nestjs/nestjs-plain/nestjs-plain'
-
-//nextjs
-export { default as NextJSOriginal } from './icons/nextjs/nextjs-original/nextjs-original'
-
-//nginx
-export { default as NginxOriginal } from './icons/nginx/nginx-original/nginx-original'
-
-//nixos
-export { default as NixosPlain } from './icons/nixos/nixos-plain/nixos-plain'
-
-//nodejs
-export { default as NodeJSPlain } from './icons/nodejs/nodejs-plain/nodejs-plain'
-
-//nodewebkit
-export { default as NodewebkitPlain } from './icons/nodewebkit/nodewebkit-plain/nodewebkit-plain'
-
-//npm
-export { default as NPMOriginalWordmark } from './icons/npm/npm-original-wordmark/npm-original-wordmark'
-
-//numpy
-export { default as NumpyPlain } from './icons/numpy/numpy-plain/numpy-plain'
-
-//nuxtjs
-export { default as NuxtJSPlain } from './icons/nuxtjs/nuxtjs-plain/nuxtjs-plain'
-
-//objectivec
-export { default as ObjectivecPlain } from './icons/objectivec/objectivec-plain/objectivec-plain'
-
-//ocaml
-export { default as OcamlPlain } from './icons/ocaml/ocaml-plain/ocaml-plain'
-
-//opengl
-export { default as OpenGLPlain } from './icons/opengl/opengl-plain/opengl-plain'
-
-//opera
-export { default as OperaPlain } from './icons/opera/opera-plain/opera-plain'
-
-//oracle
-export { default as OracleOriginal } from './icons/oracle/oracle-original/oracle-original'
-
-//pandas
-export { default as PandasPlain } from './icons/pandas/pandas-origina/pandas-plain'
-
-//perl
-export { default as PerlPlain } from './icons/perl/perl-plain/perl-plain'
-
-//phalcon
-export { default as PhalconPlain } from './icons/phalcon/phalcon-plain/phalcon-plain'
-
-//phoenix
-export { default as PhoenixPlain } from './icons/phoenix/phoenix-plain/phoenix-plain'
-
-//photoshop
-export { default as PhotoshopPlain } from './icons/photoshop/photoshop-plain/photoshop-plain'
-
-//php
-export { default as PHPPlain } from './icons/php/php-plain/php-plain'
-
-//phpstorm
-export { default as PHPStormPlain } from './icons/phpstorm/phpstorm-plain/phpstorm-plain'
-
-//postgresql
-export { default as PostgreSQLPlain } from './icons/postgresql/postgresql-plain/postgresql-plain'
-
-//premierepro
-export { default as PremiereProPlain } from './icons/premierepro/premierepro-plain/premierepro-plain'
-
-//processing
-export { default as ProcessingPlain } from './icons/processing/processing-plain/processing-plain'
-
-//protractor
-export { default as ProtractorPlain } from './icons/protractor/protractor-plain/protractor-plain'
-
-//putty
-export { default as PuttyPlain } from './icons/putty/putty-plain/putty-plain'
-
-//pycharm
-export { default as PycharmPlain } from './icons/pycharm/pycharm-plain/pycharm-plain'
-
-//python
-export { default as PythonPlain } from './icons/python/python-plain/python-plain'
-
-//qt
-export { default as QtOriginal } from './icons/qt/qt-original/qt-original'
-
-//r
-export { default as RPlain } from './icons/r/r-plain/r-plain'
-
-//rails
-export { default as RailsPlain } from './icons/rails/rails-plain/rails-plain'
-
-//raspberrypi
-export { default as RaspberrypiLine } from './icons/raspberrypi/raspberrypi-line/raspberrypi-line'
-
-//react
-export { default as ReactOriginal } from './icons/react/react-original/react-original'
-
-//redhat
-export { default as RedhatPlain } from './icons/redhat/redhat-plain/redhat-plain'
-
-//redis
-export { default as RedisPlain } from './icons/redis/redis-plain/redis-plain'
-
-//redux
-export { default as ReduxOriginal } from './icons/redux/redux-original/redux-original'
-
-//rocksdb
-export { default as RocksDBPlain } from './icons/rocksdb/rocksdb-plain/rocksdb-plain'
-
-//rstudio
-export { default as RstudioPlain } from './icons/rstudio/rstudio-plain/rstudio-plain'
-
-//ruby
-export { default as RubyPlain } from './icons/ruby/ruby-plain/ruby-plain'
-
-//rubymine
-export { default as RubyMinePlain } from './icons/rubymine/rubymine-plain/rubymine-plain'
-
-//rust
-export { default as RustPlain } from './icons/rust/rust-plain/rust-plain'
-
-//safari
-export { default as SafariPlain } from './icons/safari/safari-plain/safari-plain'
-
-//salesforce
-export { default as SalesforcePlain } from './icons/salesforce/salesforce-plain/salesforce-plain'
-
-//sass
-export { default as SASSOriginal } from './icons/sass/sass-original/sass-original'
-
-//scala
-export { default as ScalaPlain } from './icons/scala/scala-plain/scala-plain'
-
-//sequelize
-export { default as SequelizePlain } from './icons/sequelize/sequelize-plain/sequelize-plain'
-
-//shopware
-export { default as ShopwareOriginal } from './icons/shopware/shopware-original/shopware-original'
-
-//sketch
-export { default as SketchLine } from './icons/sketch/sketch-line/sketch-line'
-
-//slack
-export { default as SlackPlain } from './icons/slack/slack-plain/slack-plain'
-
-//socketio
-export { default as SocketioOriginal } from './icons/socketio/socketio-original/socketio-original'
-
-//sourcetree
-export { default as SourcetreeOriginal } from './icons/sourcetree/sourcetree-original/sourcetree-original'
-
-//spring
-export { default as SpringPlain } from './icons/spring/spring-plain/spring-plain'
-
-//spss
-export { default as SpssPlain } from './icons/spss/spss-plain/spss-plain'
-
-//sqlalchemy
-export { default as SQLAlchemyPlain } from './icons/sqlalchemy/sqlalchemy-plain/sqlalchemy-plain'
-
-//ssh
-export { default as SSHOriginal } from './icons/ssh/ssh-original/ssh-original'
-
-//storybook
-export { default as StorybookPlain } from './icons/storybook/storybook-plain/storybook-plain'
-
-//stylus
-export { default as StylusOriginal } from './icons/stylus/stylus-original/stylus-original'
-
-//subversion
-export { default as SubversionOriginal } from './icons/subversion/subversion-original/subversion-original'
-
-//svelte
-export { default as SveltePlain } from './icons/svelte/svelte-plain/svelte-plain'
-
-//swift
-export { default as SwiftPlain } from './icons/swift/swift-plain/swift-plain'
-
-//symfony
-export { default as SymfonyOriginal } from './icons/symfony/symfony-original/symfony-original'
-
-//tailwindcss
-export { default as TailwindCSSPlain } from './icons/tailwindcss/tailwindcss-plain/tailwindcss-plain'
-
-//tensorflow
-export { default as TensorflowPlain } from './icons/tensorflow/tensorflow-plain/tensorflow-plain'
-
-//thealgorithms
-export { default as ThealgorithmsPlain } from './icons/thealgorithms/thealgorithms-plain/thealgorithms-plain'
-
-//threejs
-export { default as ThreeJSOriginal } from './icons/threejs/threejs-original/threejs-original'
-
-//tomcat
-export { default as TomcatLine } from './icons/tomcat/tomcat-line/tomcat-line'
-
-//tortoisegit
-export { default as TortoisegitPlain } from './icons/tortoisegit/tortoisegit-plain/tortoisegit-plain'
-
-//towergit
-export { default as TowergitPlain } from './icons/towergit/towergit-plain/towergit-plain'
-
-//travis
-export { default as TravisPlain } from './icons/travis/travis-plain/travis-plain'
-
-//trello
-export { default as TrelloPlain } from './icons/trello/trello-plain/trello-plain'
-
-//twitter
-export { default as TwitterOriginal } from './icons/twitter/twitter-original/twitter-original'
-
-//typescript
-export { default as TypeScriptPlain } from './icons/typescript/typescript-plain/typescript-plain'
-
-//typo3
-export { default as Typo3Plain } from './icons/typo3/typo3-plain/typo3-plain'
-
-//ubuntu
-export { default as UbuntuPlain } from './icons/ubuntu/ubuntu-plain/ubuntu-plain'
-
-//unity
-export { default as UnityOriginal } from './icons/unity/unity-original/unity-original'
-
-//unix
-export { default as UnixOriginal } from './icons/unix/unix-original/unix-original'
-
-//uwsgi
-export { default as UwsgiPlain } from './icons/uwsgi/uwsgi-plain/uwsgi-plain'
-
-//vagrant
-export { default as VagrantPlain } from './icons/vagrant/vagrant-plain/vagrant-plain'
-
-//vim
-export { default as VimPlain } from './icons/vim/vim-plain/vim-plain'
-
-//visualstudio
-export { default as VisualStudioPlain } from './icons/visualstudio/visualstudio-plain/visualstudio-plain'
-
-//vscode
-export { default as VSCodePlain } from './icons/vscode/vscode-plain/vscode-plain'
-
-//vuejs
-export { default as VueJSPlain } from './icons/vuejs/vuejs-plain/vuejs-plain'
-
-//vuestorefront
-export { default as VuestorefrontPlain } from './icons/vuestorefront/vuestorefront-plain/vuestorefront-plain'
-
-//weblate
-export { default as WeblatePlain } from './icons/weblate/weblate-plain/weblate-plain'
-
-//webpack
-export { default as WebPackPlain } from './icons/webpack/webpack-plain/webpack-plain'
-
-//webstorm
-export { default as WebStormPlain } from './icons/webstorm/webstorm-plain/webstorm-plain'
-
-//windows8
-export { default as Windows8Original } from './icons/windows8/windows8-original/windows8-original'
-
-//woocommerce
-export { default as WooCommercePlain } from './icons/woocommerce/woocommerce-plain/woocommerce-plain'
-
-//wordpress
-export { default as WordPressPlain } from './icons/wordpress/wordpress-plain/wordpress-plain'
-
-//xd
-export { default as XDPlain } from './icons/xd/xd-plain/xd-plain'
-
-//yarn
-export { default as YarnOriginal } from './icons/yarn/yarn-original/yarn-original'
-
-//yii
-export { default as YiiPlain } from './icons/yii/yii-plain/yii-plain'
-
-//yunohost
-export { default as YunohostPlain } from './icons/yunohost/yunohost-plain/yunohost-plain'
-
-//zend
-export { default as ZendPlain } from './icons/zend/zend-plain/zend-plain'
-
-//zig
-export { default as ZigOriginal } from './icons/zig/zig-original/zig-original'
+export { default as Aarch64Original } from './icons/Aarch64Original'
+export { default as Aarch64Plain } from './icons/Aarch64Plain'
+export { default as AdonisjsOriginalWordmark } from './icons/AdonisjsOriginalWordmark'
+export { default as AdonisjsOriginal } from './icons/AdonisjsOriginal'
+export { default as AftereffectsOriginal } from './icons/AftereffectsOriginal'
+export { default as AftereffectsPlain } from './icons/AftereffectsPlain'
+export { default as AmazonwebservicesOriginalWordmark } from './icons/AmazonwebservicesOriginalWordmark'
+export { default as AmazonwebservicesOriginal } from './icons/AmazonwebservicesOriginal'
+export { default as AmazonwebservicesPlainWordmark } from './icons/AmazonwebservicesPlainWordmark'
+export { default as AndroidOriginalWordmark } from './icons/AndroidOriginalWordmark'
+export { default as AndroidOriginal } from './icons/AndroidOriginal'
+export { default as AndroidPlainWordmark } from './icons/AndroidPlainWordmark'
+export { default as AndroidPlain } from './icons/AndroidPlain'
+export { default as AngularjsOriginalWordmark } from './icons/AngularjsOriginalWordmark'
+export { default as AngularjsOriginal } from './icons/AngularjsOriginal'
+export { default as AngularjsPlainWordmark } from './icons/AngularjsPlainWordmark'
+export { default as AngularjsPlain } from './icons/AngularjsPlain'
+export { default as ApacheLineWordmark } from './icons/ApacheLineWordmark'
+export { default as ApacheLine } from './icons/ApacheLine'
+export { default as ApacheOriginalWordmark } from './icons/ApacheOriginalWordmark'
+export { default as ApacheOriginal } from './icons/ApacheOriginal'
+export { default as ApachePlainWordmark } from './icons/ApachePlainWordmark'
+export { default as ApachePlain } from './icons/ApachePlain'
+export { default as ApachekafkaOriginalWordmark } from './icons/ApachekafkaOriginalWordmark'
+export { default as ApachekafkaOriginal } from './icons/ApachekafkaOriginal'
+export { default as AppceleratorOriginalWordmark } from './icons/AppceleratorOriginalWordmark'
+export { default as AppceleratorOriginal } from './icons/AppceleratorOriginal'
+export { default as AppceleratorPlainWordmark } from './icons/AppceleratorPlainWordmark'
+export { default as AppleOriginal } from './icons/AppleOriginal'
+export { default as AppwriteOriginalWordmark } from './icons/AppwriteOriginalWordmark'
+export { default as AppwriteOriginal } from './icons/AppwriteOriginal'
+export { default as AppwritePlainWordmark } from './icons/AppwritePlainWordmark'
+export { default as AppwritePlain } from './icons/AppwritePlain'
+export { default as ArduinoOriginalWordmark } from './icons/ArduinoOriginalWordmark'
+export { default as ArduinoOriginal } from './icons/ArduinoOriginal'
+export { default as ArduinoPlainWordmark } from './icons/ArduinoPlainWordmark'
+export { default as ArduinoPlain } from './icons/ArduinoPlain'
+export { default as AtomOriginalWordmark } from './icons/AtomOriginalWordmark'
+export { default as AtomOriginal } from './icons/AtomOriginal'
+export { default as AzureOriginalWordmark } from './icons/AzureOriginalWordmark'
+export { default as AzureOriginal } from './icons/AzureOriginal'
+export { default as AzurePlainWordmark } from './icons/AzurePlainWordmark'
+export { default as AzurePlain } from './icons/AzurePlain'
+export { default as BabelOriginal } from './icons/BabelOriginal'
+export { default as BabelPlain } from './icons/BabelPlain'
+export { default as BackbonejsOriginalWordmark } from './icons/BackbonejsOriginalWordmark'
+export { default as BackbonejsOriginal } from './icons/BackbonejsOriginal'
+export { default as BackbonejsPlainWordmark } from './icons/BackbonejsPlainWordmark'
+export { default as BackbonejsPlain } from './icons/BackbonejsPlain'
+export { default as BashOriginal } from './icons/BashOriginal'
+export { default as BashPlain } from './icons/BashPlain'
+export { default as BehanceOriginalWordmark } from './icons/BehanceOriginalWordmark'
+export { default as BehanceOriginal } from './icons/BehanceOriginal'
+export { default as BehancePlainWordmark } from './icons/BehancePlainWordmark'
+export { default as BehancePlain } from './icons/BehancePlain'
+export { default as BitbucketOriginalWordmark } from './icons/BitbucketOriginalWordmark'
+export { default as BitbucketOriginal } from './icons/BitbucketOriginal'
+export { default as BootstrapOriginal } from './icons/BootstrapOriginal'
+export { default as BootstrapPlainWordmark } from './icons/BootstrapPlainWordmark'
+export { default as BootstrapPlain } from './icons/BootstrapPlain'
+export { default as BowerLineWordmark } from './icons/BowerLineWordmark'
+export { default as BowerLine } from './icons/BowerLine'
+export { default as BowerOriginalWordmark } from './icons/BowerOriginalWordmark'
+export { default as BowerOriginal } from './icons/BowerOriginal'
+export { default as BowerPlainWordmark } from './icons/BowerPlainWordmark'
+export { default as BowerPlain } from './icons/BowerPlain'
+export { default as BulmaPlain } from './icons/BulmaPlain'
+export { default as CLine } from './icons/CLine'
+export { default as COriginal } from './icons/COriginal'
+export { default as CPlain } from './icons/CPlain'
+export { default as CakephpOriginalWordmark } from './icons/CakephpOriginalWordmark'
+export { default as CakephpOriginal } from './icons/CakephpOriginal'
+export { default as CakephpPlainWordmark } from './icons/CakephpPlainWordmark'
+export { default as CakephpPlain } from './icons/CakephpPlain'
+export { default as CanvaOriginal } from './icons/CanvaOriginal'
+export { default as CentosOriginalWordmark } from './icons/CentosOriginalWordmark'
+export { default as CentosOriginal } from './icons/CentosOriginal'
+export { default as CentosPlainWordmark } from './icons/CentosPlainWordmark'
+export { default as CentosPlain } from './icons/CentosPlain'
+export { default as CeylonOriginalWordmark } from './icons/CeylonOriginalWordmark'
+export { default as CeylonOriginal } from './icons/CeylonOriginal'
+export { default as CeylonPlainWordmark } from './icons/CeylonPlainWordmark'
+export { default as CeylonPlain } from './icons/CeylonPlain'
+export { default as ChromeOriginalWordmark } from './icons/ChromeOriginalWordmark'
+export { default as ChromeOriginal } from './icons/ChromeOriginal'
+export { default as ChromePlainWordmark } from './icons/ChromePlainWordmark'
+export { default as ChromePlain } from './icons/ChromePlain'
+export { default as CircleciPlainWordmark } from './icons/CircleciPlainWordmark'
+export { default as CircleciPlain } from './icons/CircleciPlain'
+export { default as ClojureLine } from './icons/ClojureLine'
+export { default as ClojureOriginal } from './icons/ClojureOriginal'
+export { default as ClojurescriptOriginal } from './icons/ClojurescriptOriginal'
+export { default as ClojurescriptPlain } from './icons/ClojurescriptPlain'
+export { default as CodecovPlain } from './icons/CodecovPlain'
+export { default as CodeigniterPlainWordmark } from './icons/CodeigniterPlainWordmark'
+export { default as CodeigniterPlain } from './icons/CodeigniterPlain'
+export { default as CodepenOriginalWordmark } from './icons/CodepenOriginalWordmark'
+export { default as CodepenPlain } from './icons/CodepenPlain'
+export { default as CoffeescriptOriginalWordmark } from './icons/CoffeescriptOriginalWordmark'
+export { default as CoffeescriptOriginal } from './icons/CoffeescriptOriginal'
+export { default as ComposerLineWordmark } from './icons/ComposerLineWordmark'
+export { default as ComposerLine } from './icons/ComposerLine'
+export { default as ComposerOriginal } from './icons/ComposerOriginal'
+export { default as ConfluenceOriginalWordmark } from './icons/ConfluenceOriginalWordmark'
+export { default as ConfluenceOriginal } from './icons/ConfluenceOriginal'
+export { default as CouchdbOriginalWordmark } from './icons/CouchdbOriginalWordmark'
+export { default as CouchdbOriginal } from './icons/CouchdbOriginal'
+export { default as CouchdbPlainWordmark } from './icons/CouchdbPlainWordmark'
+export { default as CouchdbPlain } from './icons/CouchdbPlain'
+export { default as CplusplusLine } from './icons/CplusplusLine'
+export { default as CplusplusOriginal } from './icons/CplusplusOriginal'
+export { default as CplusplusPlain } from './icons/CplusplusPlain'
+export { default as CrystalOriginalWordmark } from './icons/CrystalOriginalWordmark'
+export { default as CrystalOriginal } from './icons/CrystalOriginal'
+export { default as CsharpLine } from './icons/CsharpLine'
+export { default as CsharpOriginal } from './icons/CsharpOriginal'
+export { default as CsharpPlain } from './icons/CsharpPlain'
+export { default as Css3OriginalWordmark } from './icons/Css3OriginalWordmark'
+export { default as Css3Original } from './icons/Css3Original'
+export { default as Css3PlainWordmark } from './icons/Css3PlainWordmark'
+export { default as Css3Plain } from './icons/Css3Plain'
+export { default as CucumberPlainWordmark } from './icons/CucumberPlainWordmark'
+export { default as CucumberPlain } from './icons/CucumberPlain'
+export { default as D3JsOriginal } from './icons/D3JsOriginal'
+export { default as D3JsPlain } from './icons/D3JsPlain'
+export { default as DartOriginalWordmark } from './icons/DartOriginalWordmark'
+export { default as DartOriginal } from './icons/DartOriginal'
+export { default as DartPlainWordmark } from './icons/DartPlainWordmark'
+export { default as DartPlain } from './icons/DartPlain'
+export { default as DebianOriginalWordmark } from './icons/DebianOriginalWordmark'
+export { default as DebianOriginal } from './icons/DebianOriginal'
+export { default as DebianPlainWordmark } from './icons/DebianPlainWordmark'
+export { default as DebianPlain } from './icons/DebianPlain'
+export { default as DenojsOriginalWordmark } from './icons/DenojsOriginalWordmark'
+export { default as DenojsOriginal } from './icons/DenojsOriginal'
+export { default as DeviconLineWordmark } from './icons/DeviconLineWordmark'
+export { default as DeviconLine } from './icons/DeviconLine'
+export { default as DeviconOriginalWordmark } from './icons/DeviconOriginalWordmark'
+export { default as DeviconOriginal } from './icons/DeviconOriginal'
+export { default as DeviconPlainWordmark } from './icons/DeviconPlainWordmark'
+export { default as DeviconPlain } from './icons/DeviconPlain'
+export { default as DigitaloceanOriginalWordmark } from './icons/DigitaloceanOriginalWordmark'
+export { default as DigitaloceanOriginal } from './icons/DigitaloceanOriginal'
+export { default as DigitaloceanPlainWordmark } from './icons/DigitaloceanPlainWordmark'
+export { default as DigitaloceanPlain } from './icons/DigitaloceanPlain'
+export { default as DjangoLine } from './icons/DjangoLine'
+export { default as DjangoOriginal } from './icons/DjangoOriginal'
+export { default as DjangoPlain } from './icons/DjangoPlain'
+export { default as DockerOriginalWordmark } from './icons/DockerOriginalWordmark'
+export { default as DockerOriginal } from './icons/DockerOriginal'
+export { default as DockerPlainWordmark } from './icons/DockerPlainWordmark'
+export { default as DockerPlain } from './icons/DockerPlain'
+export { default as DoctrineLineWordmark } from './icons/DoctrineLineWordmark'
+export { default as DoctrineLine } from './icons/DoctrineLine'
+export { default as DoctrineOriginalWordmark } from './icons/DoctrineOriginalWordmark'
+export { default as DoctrineOriginal } from './icons/DoctrineOriginal'
+export { default as DoctrinePlainWordmark } from './icons/DoctrinePlainWordmark'
+export { default as DoctrinePlain } from './icons/DoctrinePlain'
+export { default as DotNetOriginalWordmark } from './icons/DotNetOriginalWordmark'
+export { default as DotNetOriginal } from './icons/DotNetOriginal'
+export { default as DotNetPlainWordmark } from './icons/DotNetPlainWordmark'
+export { default as DotNetPlain } from './icons/DotNetPlain'
+export { default as DotnetcoreOriginal } from './icons/DotnetcoreOriginal'
+export { default as DotnetcorePlain } from './icons/DotnetcorePlain'
+export { default as DrupalOriginalWordmark } from './icons/DrupalOriginalWordmark'
+export { default as DrupalOriginal } from './icons/DrupalOriginal'
+export { default as DrupalPlainWordmark } from './icons/DrupalPlainWordmark'
+export { default as DrupalPlain } from './icons/DrupalPlain'
+export { default as ElectronOriginalWordmark } from './icons/ElectronOriginalWordmark'
+export { default as ElectronOriginal } from './icons/ElectronOriginal'
+export { default as EleventyOriginal } from './icons/EleventyOriginal'
+export { default as EleventyPlain } from './icons/EleventyPlain'
+export { default as ElixirOriginalWordmark } from './icons/ElixirOriginalWordmark'
+export { default as ElixirOriginal } from './icons/ElixirOriginal'
+export { default as ElixirPlainWordmark } from './icons/ElixirPlainWordmark'
+export { default as ElixirPlain } from './icons/ElixirPlain'
+export { default as ElmOriginalWordmark } from './icons/ElmOriginalWordmark'
+export { default as ElmOriginal } from './icons/ElmOriginal'
+export { default as ElmPlainWordmark } from './icons/ElmPlainWordmark'
+export { default as ElmPlain } from './icons/ElmPlain'
+export { default as EmbeddedcOriginalWordmark } from './icons/EmbeddedcOriginalWordmark'
+export { default as EmbeddedcOriginal } from './icons/EmbeddedcOriginal'
+export { default as EmbeddedcPlainWordmark } from './icons/EmbeddedcPlainWordmark'
+export { default as EmbeddedcPlain } from './icons/EmbeddedcPlain'
+export { default as EmberOriginalWordmark } from './icons/EmberOriginalWordmark'
+export { default as ErlangOriginalWordmark } from './icons/ErlangOriginalWordmark'
+export { default as ErlangOriginal } from './icons/ErlangOriginal'
+export { default as ErlangPlainWordmark } from './icons/ErlangPlainWordmark'
+export { default as ErlangPlain } from './icons/ErlangPlain'
+export { default as ExpressOriginalWordmark } from './icons/ExpressOriginalWordmark'
+export { default as ExpressOriginal } from './icons/ExpressOriginal'
+export { default as FacebookOriginal } from './icons/FacebookOriginal'
+export { default as FacebookPlain } from './icons/FacebookPlain'
+export { default as FeathersjsOriginal } from './icons/FeathersjsOriginal'
+export { default as FigmaOriginal } from './icons/FigmaOriginal'
+export { default as FigmaPlain } from './icons/FigmaPlain'
+export { default as FilezillaPlainWordmark } from './icons/FilezillaPlainWordmark'
+export { default as FilezillaPlain } from './icons/FilezillaPlain'
+export { default as FirebasePlainWordmark } from './icons/FirebasePlainWordmark'
+export { default as FirebasePlain } from './icons/FirebasePlain'
+export { default as FirefoxOriginalWordmark } from './icons/FirefoxOriginalWordmark'
+export { default as FirefoxOriginal } from './icons/FirefoxOriginal'
+export { default as FirefoxPlainWordmark } from './icons/FirefoxPlainWordmark'
+export { default as FirefoxPlain } from './icons/FirefoxPlain'
+export { default as FlaskOriginalWordmark } from './icons/FlaskOriginalWordmark'
+export { default as FlaskOriginal } from './icons/FlaskOriginal'
+export { default as FlutterOriginal } from './icons/FlutterOriginal'
+export { default as FlutterPlain } from './icons/FlutterPlain'
+export { default as FoundationOriginalWordmark } from './icons/FoundationOriginalWordmark'
+export { default as FoundationOriginal } from './icons/FoundationOriginal'
+export { default as FoundationPlainWordmark } from './icons/FoundationPlainWordmark'
+export { default as FoundationPlain } from './icons/FoundationPlain'
+export { default as FsharpOriginal } from './icons/FsharpOriginal'
+export { default as FsharpPlain } from './icons/FsharpPlain'
+export { default as GatlingPlainWordmark } from './icons/GatlingPlainWordmark'
+export { default as GatlingPlain } from './icons/GatlingPlain'
+export { default as GatsbyOriginalWordmark } from './icons/GatsbyOriginalWordmark'
+export { default as GatsbyOriginal } from './icons/GatsbyOriginal'
+export { default as GatsbyPlainWordmark } from './icons/GatsbyPlainWordmark'
+export { default as GatsbyPlain } from './icons/GatsbyPlain'
+export { default as GccOriginal } from './icons/GccOriginal'
+export { default as GccPlain } from './icons/GccPlain'
+export { default as GimpOriginalWordmark } from './icons/GimpOriginalWordmark'
+export { default as GimpOriginal } from './icons/GimpOriginal'
+export { default as GimpPlainWordmark } from './icons/GimpPlainWordmark'
+export { default as GimpPlain } from './icons/GimpPlain'
+export { default as GitOriginalWordmark } from './icons/GitOriginalWordmark'
+export { default as GitOriginal } from './icons/GitOriginal'
+export { default as GitPlainWordmark } from './icons/GitPlainWordmark'
+export { default as GitPlain } from './icons/GitPlain'
+export { default as GithubOriginalWordmark } from './icons/GithubOriginalWordmark'
+export { default as GithubOriginal } from './icons/GithubOriginal'
+export { default as GitlabOriginalWordmark } from './icons/GitlabOriginalWordmark'
+export { default as GitlabOriginal } from './icons/GitlabOriginal'
+export { default as GitlabPlainWordmark } from './icons/GitlabPlainWordmark'
+export { default as GitlabPlain } from './icons/GitlabPlain'
+export { default as GitterPlainWordmark } from './icons/GitterPlainWordmark'
+export { default as GitterPlain } from './icons/GitterPlain'
+export { default as GoLine } from './icons/GoLine'
+export { default as GoOriginalWordmark } from './icons/GoOriginalWordmark'
+export { default as GoOriginal } from './icons/GoOriginal'
+export { default as GoPlain } from './icons/GoPlain'
+export { default as GodotOriginalWordmark } from './icons/GodotOriginalWordmark'
+export { default as GodotOriginal } from './icons/GodotOriginal'
+export { default as GodotPlainWordmark } from './icons/GodotPlainWordmark'
+export { default as GodotPlain } from './icons/GodotPlain'
+export { default as GoogleOriginalWordmark } from './icons/GoogleOriginalWordmark'
+export { default as GoogleOriginal } from './icons/GoogleOriginal'
+export { default as GooglePlainWordmark } from './icons/GooglePlainWordmark'
+export { default as GooglePlain } from './icons/GooglePlain'
+export { default as GooglecloudOriginalWordmark } from './icons/GooglecloudOriginalWordmark'
+export { default as GooglecloudOriginal } from './icons/GooglecloudOriginal'
+export { default as GooglecloudPlainWordmark } from './icons/GooglecloudPlainWordmark'
+export { default as GooglecloudPlain } from './icons/GooglecloudPlain'
+export { default as GradlePlainWordmark } from './icons/GradlePlainWordmark'
+export { default as GradlePlain } from './icons/GradlePlain'
+export { default as GrailsOriginal } from './icons/GrailsOriginal'
+export { default as GrailsPlain } from './icons/GrailsPlain'
+export { default as GraphqlPlainWordmark } from './icons/GraphqlPlainWordmark'
+export { default as GraphqlPlain } from './icons/GraphqlPlain'
+export { default as GroovyOriginal } from './icons/GroovyOriginal'
+export { default as GroovyPlain } from './icons/GroovyPlain'
+export { default as GruntLineWordmark } from './icons/GruntLineWordmark'
+export { default as GruntLine } from './icons/GruntLine'
+export { default as GruntOriginalWordmark } from './icons/GruntOriginalWordmark'
+export { default as GruntOriginal } from './icons/GruntOriginal'
+export { default as GruntPlainWordmark } from './icons/GruntPlainWordmark'
+export { default as GruntPlain } from './icons/GruntPlain'
+export { default as GulpPlain } from './icons/GulpPlain'
+export { default as HandlebarsOriginalWordmark } from './icons/HandlebarsOriginalWordmark'
+export { default as HandlebarsOriginal } from './icons/HandlebarsOriginal'
+export { default as HaskellOriginalWordmark } from './icons/HaskellOriginalWordmark'
+export { default as HaskellOriginal } from './icons/HaskellOriginal'
+export { default as HaskellPlainWordmark } from './icons/HaskellPlainWordmark'
+export { default as HaskellPlain } from './icons/HaskellPlain'
+export { default as HaxeOriginal } from './icons/HaxeOriginal'
+export { default as HaxePlain } from './icons/HaxePlain'
+export { default as HerokuOriginalWordmark } from './icons/HerokuOriginalWordmark'
+export { default as HerokuOriginal } from './icons/HerokuOriginal'
+export { default as HerokuPlainWordmark } from './icons/HerokuPlainWordmark'
+export { default as HerokuPlain } from './icons/HerokuPlain'
+export { default as Html5OriginalWordmark } from './icons/Html5OriginalWordmark'
+export { default as Html5Original } from './icons/Html5Original'
+export { default as Html5PlainWordmark } from './icons/Html5PlainWordmark'
+export { default as Html5Plain } from './icons/Html5Plain'
+export { default as Ie10Original } from './icons/Ie10Original'
+export { default as IllustratorLine } from './icons/IllustratorLine'
+export { default as IllustratorPlain } from './icons/IllustratorPlain'
+export { default as InkscapeOriginalWordmark } from './icons/InkscapeOriginalWordmark'
+export { default as InkscapeOriginal } from './icons/InkscapeOriginal'
+export { default as InkscapePlainWordmark } from './icons/InkscapePlainWordmark'
+export { default as InkscapePlain } from './icons/InkscapePlain'
+export { default as IntellijOriginalWordmark } from './icons/IntellijOriginalWordmark'
+export { default as IntellijOriginal } from './icons/IntellijOriginal'
+export { default as IntellijPlainWordmark } from './icons/IntellijPlainWordmark'
+export { default as IntellijPlain } from './icons/IntellijPlain'
+export { default as IonicOriginalWordmark } from './icons/IonicOriginalWordmark'
+export { default as IonicOriginal } from './icons/IonicOriginal'
+export { default as JamstackOriginalWordmark } from './icons/JamstackOriginalWordmark'
+export { default as JamstackOriginal } from './icons/JamstackOriginal'
+export { default as JamstackPlainWordmark } from './icons/JamstackPlainWordmark'
+export { default as JasminePlainWordmark } from './icons/JasminePlainWordmark'
+export { default as JasminePlain } from './icons/JasminePlain'
+export { default as JavaOriginalWordmark } from './icons/JavaOriginalWordmark'
+export { default as JavaOriginal } from './icons/JavaOriginal'
+export { default as JavaPlainWordmark } from './icons/JavaPlainWordmark'
+export { default as JavaPlain } from './icons/JavaPlain'
+export { default as JavascriptOriginal } from './icons/JavascriptOriginal'
+export { default as JavascriptPlain } from './icons/JavascriptPlain'
+export { default as JeetOriginalWordmark } from './icons/JeetOriginalWordmark'
+export { default as JeetOriginal } from './icons/JeetOriginal'
+export { default as JeetPlainWordmark } from './icons/JeetPlainWordmark'
+export { default as JeetPlain } from './icons/JeetPlain'
+export { default as JenkinsLine } from './icons/JenkinsLine'
+export { default as JenkinsOriginal } from './icons/JenkinsOriginal'
+export { default as JenkinsPlain } from './icons/JenkinsPlain'
+export { default as JestPlain } from './icons/JestPlain'
+export { default as JetbrainsOriginal } from './icons/JetbrainsOriginal'
+export { default as JetbrainsPlain } from './icons/JetbrainsPlain'
+export { default as JiraOriginalWordmark } from './icons/JiraOriginalWordmark'
+export { default as JiraOriginal } from './icons/JiraOriginal'
+export { default as JiraPlainWordmark } from './icons/JiraPlainWordmark'
+export { default as JiraPlain } from './icons/JiraPlain'
+export { default as JqueryOriginalWordmark } from './icons/JqueryOriginalWordmark'
+export { default as JqueryOriginal } from './icons/JqueryOriginal'
+export { default as JqueryPlainWordmark } from './icons/JqueryPlainWordmark'
+export { default as JqueryPlain } from './icons/JqueryPlain'
+export { default as JuliaOriginalWordmark } from './icons/JuliaOriginalWordmark'
+export { default as JuliaOriginal } from './icons/JuliaOriginal'
+export { default as JuliaPlainWordmark } from './icons/JuliaPlainWordmark'
+export { default as JuliaPlain } from './icons/JuliaPlain'
+export { default as JupyterOriginalWordmark } from './icons/JupyterOriginalWordmark'
+export { default as JupyterOriginal } from './icons/JupyterOriginal'
+export { default as JupyterPlainWordmark } from './icons/JupyterPlainWordmark'
+export { default as JupyterPlain } from './icons/JupyterPlain'
+export { default as KarmaOriginal } from './icons/KarmaOriginal'
+export { default as KarmaPlain } from './icons/KarmaPlain'
+export { default as KnockoutPlainWordmark } from './icons/KnockoutPlainWordmark'
+export { default as KotlinOriginalWordmark } from './icons/KotlinOriginalWordmark'
+export { default as KotlinOriginal } from './icons/KotlinOriginal'
+export { default as KotlinPlainWordmark } from './icons/KotlinPlainWordmark'
+export { default as KotlinPlain } from './icons/KotlinPlain'
+export { default as KrakenjsOriginalWordmark } from './icons/KrakenjsOriginalWordmark'
+export { default as KrakenjsOriginal } from './icons/KrakenjsOriginal'
+export { default as KrakenjsPlainWordmark } from './icons/KrakenjsPlainWordmark'
+export { default as KrakenjsPlain } from './icons/KrakenjsPlain'
+export { default as KubernetesPlainWordmark } from './icons/KubernetesPlainWordmark'
+export { default as KubernetesPlain } from './icons/KubernetesPlain'
+export { default as LabviewOriginalWordmark } from './icons/LabviewOriginalWordmark'
+export { default as LabviewOriginal } from './icons/LabviewOriginal'
+export { default as LabviewPlainWordmark } from './icons/LabviewPlainWordmark'
+export { default as LabviewPlain } from './icons/LabviewPlain'
+export { default as LaravelPlainWordmark } from './icons/LaravelPlainWordmark'
+export { default as LaravelPlain } from './icons/LaravelPlain'
+export { default as LessPlainWordmark } from './icons/LessPlainWordmark'
+export { default as LinkedinOriginalWordmark } from './icons/LinkedinOriginalWordmark'
+export { default as LinkedinOriginal } from './icons/LinkedinOriginal'
+export { default as LinkedinPlainWordmark } from './icons/LinkedinPlainWordmark'
+export { default as LinkedinPlain } from './icons/LinkedinPlain'
+export { default as LinuxOriginal } from './icons/LinuxOriginal'
+export { default as LinuxPlain } from './icons/LinuxPlain'
+export { default as LuaOriginalWordmark } from './icons/LuaOriginalWordmark'
+export { default as LuaOriginal } from './icons/LuaOriginal'
+export { default as LuaPlainWordmark } from './icons/LuaPlainWordmark'
+export { default as LuaPlain } from './icons/LuaPlain'
+export { default as MagentoLine } from './icons/MagentoLine'
+export { default as MagentoOriginalWordmark } from './icons/MagentoOriginalWordmark'
+export { default as MagentoOriginal } from './icons/MagentoOriginal'
+export { default as MarkdownOriginal } from './icons/MarkdownOriginal'
+export { default as MaterialuiOriginal } from './icons/MaterialuiOriginal'
+export { default as MaterialuiPlain } from './icons/MaterialuiPlain'
+export { default as MatlabLine } from './icons/MatlabLine'
+export { default as MatlabOriginal } from './icons/MatlabOriginal'
+export { default as MatlabPlain } from './icons/MatlabPlain'
+export { default as MeteorOriginalWordmark } from './icons/MeteorOriginalWordmark'
+export { default as MeteorOriginal } from './icons/MeteorOriginal'
+export { default as MeteorPlainWordmark } from './icons/MeteorPlainWordmark'
+export { default as MeteorPlain } from './icons/MeteorPlain'
+export { default as MicrosoftsqlserverPlainWordmark } from './icons/MicrosoftsqlserverPlainWordmark'
+export { default as MicrosoftsqlserverPlain } from './icons/MicrosoftsqlserverPlain'
+export { default as MinitabOriginal } from './icons/MinitabOriginal'
+export { default as MinitabPlain } from './icons/MinitabPlain'
+export { default as MochaPlain } from './icons/MochaPlain'
+export { default as ModxOriginalWordmark } from './icons/ModxOriginalWordmark'
+export { default as ModxOriginal } from './icons/ModxOriginal'
+export { default as ModxPlainWordmark } from './icons/ModxPlainWordmark'
+export { default as ModxPlain } from './icons/ModxPlain'
+export { default as MongodbOriginalWordmark } from './icons/MongodbOriginalWordmark'
+export { default as MongodbOriginal } from './icons/MongodbOriginal'
+export { default as MongodbPlainWordmark } from './icons/MongodbPlainWordmark'
+export { default as MongodbPlain } from './icons/MongodbPlain'
+export { default as MoodleOriginalWordmark } from './icons/MoodleOriginalWordmark'
+export { default as MoodleOriginal } from './icons/MoodleOriginal'
+export { default as MoodlePlainWordmark } from './icons/MoodlePlainWordmark'
+export { default as MoodlePlain } from './icons/MoodlePlain'
+export { default as MsdosLine } from './icons/MsdosLine'
+export { default as MsdosOriginal } from './icons/MsdosOriginal'
+export { default as MsdosPlain } from './icons/MsdosPlain'
+export { default as MysqlOriginalWordmark } from './icons/MysqlOriginalWordmark'
+export { default as MysqlOriginal } from './icons/MysqlOriginal'
+export { default as MysqlPlainWordmark } from './icons/MysqlPlainWordmark'
+export { default as MysqlPlain } from './icons/MysqlPlain'
+export { default as Neo4JOriginalWordmark } from './icons/Neo4JOriginalWordmark'
+export { default as Neo4JOriginal } from './icons/Neo4JOriginal'
+export { default as Neo4JPlainWordmark } from './icons/Neo4JPlainWordmark'
+export { default as Neo4JPlain } from './icons/Neo4JPlain'
+export { default as NestjsPlainWordmark } from './icons/NestjsPlainWordmark'
+export { default as NestjsPlain } from './icons/NestjsPlain'
+export { default as NextjsLine } from './icons/NextjsLine'
+export { default as NextjsOriginalWordmark } from './icons/NextjsOriginalWordmark'
+export { default as NextjsOriginal } from './icons/NextjsOriginal'
+export { default as NginxOriginal } from './icons/NginxOriginal'
+export { default as NixosOriginalWordmark } from './icons/NixosOriginalWordmark'
+export { default as NixosOriginal } from './icons/NixosOriginal'
+export { default as NixosPlainWordmark } from './icons/NixosPlainWordmark'
+export { default as NixosPlain } from './icons/NixosPlain'
+export { default as NodejsOriginalWordmark } from './icons/NodejsOriginalWordmark'
+export { default as NodejsOriginal } from './icons/NodejsOriginal'
+export { default as NodejsPlainWordmark } from './icons/NodejsPlainWordmark'
+export { default as NodejsPlain } from './icons/NodejsPlain'
+export { default as NodewebkitLineWordmark } from './icons/NodewebkitLineWordmark'
+export { default as NodewebkitLine } from './icons/NodewebkitLine'
+export { default as NodewebkitOriginalWordmark } from './icons/NodewebkitOriginalWordmark'
+export { default as NodewebkitOriginal } from './icons/NodewebkitOriginal'
+export { default as NodewebkitPlainWordmark } from './icons/NodewebkitPlainWordmark'
+export { default as NodewebkitPlain } from './icons/NodewebkitPlain'
+export { default as NpmOriginalWordmark } from './icons/NpmOriginalWordmark'
+export { default as NumpyOriginalWordmark } from './icons/NumpyOriginalWordmark'
+export { default as NumpyOriginal } from './icons/NumpyOriginal'
+export { default as NuxtjsOriginalWordmark } from './icons/NuxtjsOriginalWordmark'
+export { default as NuxtjsOriginal } from './icons/NuxtjsOriginal'
+export { default as NuxtjsPlainWordmark } from './icons/NuxtjsPlainWordmark'
+export { default as NuxtjsPlain } from './icons/NuxtjsPlain'
+export { default as ObjectivecPlain } from './icons/ObjectivecPlain'
+export { default as OcamlOriginalWordmark } from './icons/OcamlOriginalWordmark'
+export { default as OcamlOriginal } from './icons/OcamlOriginal'
+export { default as OcamlPlainWordmark } from './icons/OcamlPlainWordmark'
+export { default as OcamlPlain } from './icons/OcamlPlain'
+export { default as OpenglOriginal } from './icons/OpenglOriginal'
+export { default as OpenglPlain } from './icons/OpenglPlain'
+export { default as OperaOriginalWordmark } from './icons/OperaOriginalWordmark'
+export { default as OperaOriginal } from './icons/OperaOriginal'
+export { default as OperaPlainWordmark } from './icons/OperaPlainWordmark'
+export { default as OperaPlain } from './icons/OperaPlain'
+export { default as OracleOriginal } from './icons/OracleOriginal'
+export { default as PandasOriginalWordmark } from './icons/PandasOriginalWordmark'
+export { default as PandasOriginal } from './icons/PandasOriginal'
+export { default as PerlOriginal } from './icons/PerlOriginal'
+export { default as PerlPlain } from './icons/PerlPlain'
+export { default as PhalconOriginal } from './icons/PhalconOriginal'
+export { default as PhalconPlain } from './icons/PhalconPlain'
+export { default as PhoenixOriginalWordmark } from './icons/PhoenixOriginalWordmark'
+export { default as PhoenixOriginal } from './icons/PhoenixOriginal'
+export { default as PhoenixPlainWordmark } from './icons/PhoenixPlainWordmark'
+export { default as PhoenixPlain } from './icons/PhoenixPlain'
+export { default as PhotoshopLine } from './icons/PhotoshopLine'
+export { default as PhotoshopPlain } from './icons/PhotoshopPlain'
+export { default as PhpOriginal } from './icons/PhpOriginal'
+export { default as PhpPlain } from './icons/PhpPlain'
+export { default as PhpstormOriginalWordmark } from './icons/PhpstormOriginalWordmark'
+export { default as PhpstormOriginal } from './icons/PhpstormOriginal'
+export { default as PhpstormPlainWordmark } from './icons/PhpstormPlainWordmark'
+export { default as PhpstormPlain } from './icons/PhpstormPlain'
+export { default as PostgresqlOriginalWordmark } from './icons/PostgresqlOriginalWordmark'
+export { default as PostgresqlOriginal } from './icons/PostgresqlOriginal'
+export { default as PostgresqlPlainWordmark } from './icons/PostgresqlPlainWordmark'
+export { default as PostgresqlPlain } from './icons/PostgresqlPlain'
+export { default as PremiereproOriginal } from './icons/PremiereproOriginal'
+export { default as PremiereproPlain } from './icons/PremiereproPlain'
+export { default as ProcessingOriginalWordmark } from './icons/ProcessingOriginalWordmark'
+export { default as ProcessingOriginal } from './icons/ProcessingOriginal'
+export { default as ProcessingPlainWordmark } from './icons/ProcessingPlainWordmark'
+export { default as ProcessingPlain } from './icons/ProcessingPlain'
+export { default as ProtractorPlainWordmark } from './icons/ProtractorPlainWordmark'
+export { default as ProtractorPlain } from './icons/ProtractorPlain'
+export { default as PuttyOriginal } from './icons/PuttyOriginal'
+export { default as PuttyPlain } from './icons/PuttyPlain'
+export { default as PycharmOriginalWordmark } from './icons/PycharmOriginalWordmark'
+export { default as PycharmOriginal } from './icons/PycharmOriginal'
+export { default as PycharmPlainWordmark } from './icons/PycharmPlainWordmark'
+export { default as PycharmPlain } from './icons/PycharmPlain'
+export { default as PythonOriginalWordmark } from './icons/PythonOriginalWordmark'
+export { default as PythonOriginal } from './icons/PythonOriginal'
+export { default as PythonPlainWordmark } from './icons/PythonPlainWordmark'
+export { default as PythonPlain } from './icons/PythonPlain'
+export { default as QtOriginal } from './icons/QtOriginal'
+export { default as ROriginal } from './icons/ROriginal'
+export { default as RPlain } from './icons/RPlain'
+export { default as RailsOriginalWordmark } from './icons/RailsOriginalWordmark'
+export { default as RailsPlainWordmark } from './icons/RailsPlainWordmark'
+export { default as RailsPlain } from './icons/RailsPlain'
+export { default as RaspberrypiLineWordmark } from './icons/RaspberrypiLineWordmark'
+export { default as RaspberrypiLine } from './icons/RaspberrypiLine'
+export { default as RaspberrypiOriginalWordmark } from './icons/RaspberrypiOriginalWordmark'
+export { default as RaspberrypiOriginal } from './icons/RaspberrypiOriginal'
+export { default as ReactOriginalWordmark } from './icons/ReactOriginalWordmark'
+export { default as ReactOriginal } from './icons/ReactOriginal'
+export { default as RedhatOriginalWordmark } from './icons/RedhatOriginalWordmark'
+export { default as RedhatOriginal } from './icons/RedhatOriginal'
+export { default as RedhatPlainWordmark } from './icons/RedhatPlainWordmark'
+export { default as RedhatPlain } from './icons/RedhatPlain'
+export { default as RedisOriginalWordmark } from './icons/RedisOriginalWordmark'
+export { default as RedisOriginal } from './icons/RedisOriginal'
+export { default as RedisPlainWordmark } from './icons/RedisPlainWordmark'
+export { default as RedisPlain } from './icons/RedisPlain'
+export { default as ReduxOriginal } from './icons/ReduxOriginal'
+export { default as RocksdbPlain } from './icons/RocksdbPlain'
+export { default as RstudioOriginal } from './icons/RstudioOriginal'
+export { default as RstudioPlain } from './icons/RstudioPlain'
+export { default as RubyOriginalWordmark } from './icons/RubyOriginalWordmark'
+export { default as RubyOriginal } from './icons/RubyOriginal'
+export { default as RubyPlainWordmark } from './icons/RubyPlainWordmark'
+export { default as RubyPlain } from './icons/RubyPlain'
+export { default as RubymineOriginalWordmark } from './icons/RubymineOriginalWordmark'
+export { default as RubymineOriginal } from './icons/RubymineOriginal'
+export { default as RubyminePlainWordmark } from './icons/RubyminePlainWordmark'
+export { default as RubyminePlain } from './icons/RubyminePlain'
+export { default as RustPlain } from './icons/RustPlain'
+export { default as SafariLineWordmark } from './icons/SafariLineWordmark'
+export { default as SafariLine } from './icons/SafariLine'
+export { default as SafariOriginalWordmark } from './icons/SafariOriginalWordmark'
+export { default as SafariOriginal } from './icons/SafariOriginal'
+export { default as SafariPlainWordmark } from './icons/SafariPlainWordmark'
+export { default as SafariPlain } from './icons/SafariPlain'
+export { default as SalesforceOriginal } from './icons/SalesforceOriginal'
+export { default as SalesforcePlain } from './icons/SalesforcePlain'
+export { default as SassOriginal } from './icons/SassOriginal'
+export { default as ScalaOriginalWordmark } from './icons/ScalaOriginalWordmark'
+export { default as ScalaOriginal } from './icons/ScalaOriginal'
+export { default as ScalaPlainWordmark } from './icons/ScalaPlainWordmark'
+export { default as ScalaPlain } from './icons/ScalaPlain'
+export { default as SequelizeOriginalWordmark } from './icons/SequelizeOriginalWordmark'
+export { default as SequelizeOriginal } from './icons/SequelizeOriginal'
+export { default as SequelizePlainWordmark } from './icons/SequelizePlainWordmark'
+export { default as SequelizePlain } from './icons/SequelizePlain'
+export { default as ShopwareOriginalWordmark } from './icons/ShopwareOriginalWordmark'
+export { default as ShopwareOriginal } from './icons/ShopwareOriginal'
+export { default as SketchLineWordmark } from './icons/SketchLineWordmark'
+export { default as SketchLine } from './icons/SketchLine'
+export { default as SketchOriginalWordmark } from './icons/SketchOriginalWordmark'
+export { default as SketchOriginal } from './icons/SketchOriginal'
+export { default as SlackOriginalWordmark } from './icons/SlackOriginalWordmark'
+export { default as SlackOriginal } from './icons/SlackOriginal'
+export { default as SlackPlainWordmark } from './icons/SlackPlainWordmark'
+export { default as SlackPlain } from './icons/SlackPlain'
+export { default as SocketioOriginalWordmark } from './icons/SocketioOriginalWordmark'
+export { default as SocketioOriginal } from './icons/SocketioOriginal'
+export { default as SourcetreeOriginalWordmark } from './icons/SourcetreeOriginalWordmark'
+export { default as SourcetreeOriginal } from './icons/SourcetreeOriginal'
+export { default as SpringOriginalWordmark } from './icons/SpringOriginalWordmark'
+export { default as SpringOriginal } from './icons/SpringOriginal'
+export { default as SpringPlainWordmark } from './icons/SpringPlainWordmark'
+export { default as SpringPlain } from './icons/SpringPlain'
+export { default as SpssOriginal } from './icons/SpssOriginal'
+export { default as SpssPlain } from './icons/SpssPlain'
+export { default as SqlalchemyOriginalWordmark } from './icons/SqlalchemyOriginalWordmark'
+export { default as SqlalchemyOriginal } from './icons/SqlalchemyOriginal'
+export { default as SqlalchemyPlain } from './icons/SqlalchemyPlain'
+export { default as SshOriginalWordmark } from './icons/SshOriginalWordmark'
+export { default as SshOriginal } from './icons/SshOriginal'
+export { default as StorybookOriginalWordmark } from './icons/StorybookOriginalWordmark'
+export { default as StorybookOriginal } from './icons/StorybookOriginal'
+export { default as StorybookPlainWordmark } from './icons/StorybookPlainWordmark'
+export { default as StorybookPlain } from './icons/StorybookPlain'
+export { default as StylusOriginal } from './icons/StylusOriginal'
+export { default as SubversionOriginalWordmark } from './icons/SubversionOriginalWordmark'
+export { default as SubversionOriginal } from './icons/SubversionOriginal'
+export { default as SvelteOriginalWordmark } from './icons/SvelteOriginalWordmark'
+export { default as SvelteOriginal } from './icons/SvelteOriginal'
+export { default as SveltePlainWordmark } from './icons/SveltePlainWordmark'
+export { default as SveltePlain } from './icons/SveltePlain'
+export { default as SwiftOriginalWordmark } from './icons/SwiftOriginalWordmark'
+export { default as SwiftOriginal } from './icons/SwiftOriginal'
+export { default as SwiftPlainWordmark } from './icons/SwiftPlainWordmark'
+export { default as SwiftPlain } from './icons/SwiftPlain'
+export { default as SymfonyOriginalWordmark } from './icons/SymfonyOriginalWordmark'
+export { default as SymfonyOriginal } from './icons/SymfonyOriginal'
+export { default as TailwindcssOriginalWordmark } from './icons/TailwindcssOriginalWordmark'
+export { default as TailwindcssPlain } from './icons/TailwindcssPlain'
+export { default as TensorflowLineWordmark } from './icons/TensorflowLineWordmark'
+export { default as TensorflowLine } from './icons/TensorflowLine'
+export { default as TensorflowOriginalWordmark } from './icons/TensorflowOriginalWordmark'
+export { default as TensorflowOriginal } from './icons/TensorflowOriginal'
+export { default as ThealgorithmsOriginalWordmark } from './icons/ThealgorithmsOriginalWordmark'
+export { default as ThealgorithmsOriginal } from './icons/ThealgorithmsOriginal'
+export { default as ThealgorithmsPlainWordmark } from './icons/ThealgorithmsPlainWordmark'
+export { default as ThealgorithmsPlain } from './icons/ThealgorithmsPlain'
+export { default as ThreejsOriginalWordmark } from './icons/ThreejsOriginalWordmark'
+export { default as ThreejsOriginal } from './icons/ThreejsOriginal'
+export { default as TomcatLineWordmark } from './icons/TomcatLineWordmark'
+export { default as TomcatLine } from './icons/TomcatLine'
+export { default as TomcatOriginalWordmark } from './icons/TomcatOriginalWordmark'
+export { default as TomcatOriginal } from './icons/TomcatOriginal'
+export { default as TortoisegitLine } from './icons/TortoisegitLine'
+export { default as TortoisegitOriginal } from './icons/TortoisegitOriginal'
+export { default as TortoisegitPlain } from './icons/TortoisegitPlain'
+export { default as TowergitOriginalWordmark } from './icons/TowergitOriginalWordmark'
+export { default as TowergitOriginal } from './icons/TowergitOriginal'
+export { default as TowergitPlainWordmark } from './icons/TowergitPlainWordmark'
+export { default as TowergitPlain } from './icons/TowergitPlain'
+export { default as TravisPlainWordmark } from './icons/TravisPlainWordmark'
+export { default as TravisPlain } from './icons/TravisPlain'
+export { default as TrelloPlainWordmark } from './icons/TrelloPlainWordmark'
+export { default as TrelloPlain } from './icons/TrelloPlain'
+export { default as TwitterOriginal } from './icons/TwitterOriginal'
+export { default as TypescriptOriginal } from './icons/TypescriptOriginal'
+export { default as TypescriptPlain } from './icons/TypescriptPlain'
+export { default as Typo3OriginalWordmark } from './icons/Typo3OriginalWordmark'
+export { default as Typo3Original } from './icons/Typo3Original'
+export { default as Typo3PlainWordmark } from './icons/Typo3PlainWordmark'
+export { default as Typo3Plain } from './icons/Typo3Plain'
+export { default as UbuntuPlainWordmark } from './icons/UbuntuPlainWordmark'
+export { default as UbuntuPlain } from './icons/UbuntuPlain'
+export { default as UnityOriginalWordmark } from './icons/UnityOriginalWordmark'
+export { default as UnityOriginal } from './icons/UnityOriginal'
+export { default as UnixOriginal } from './icons/UnixOriginal'
+export { default as UwsgiOriginal } from './icons/UwsgiOriginal'
+export { default as UwsgiPlain } from './icons/UwsgiPlain'
+export { default as VagrantOriginalWordmark } from './icons/VagrantOriginalWordmark'
+export { default as VagrantOriginal } from './icons/VagrantOriginal'
+export { default as VagrantPlainWordmark } from './icons/VagrantPlainWordmark'
+export { default as VagrantPlain } from './icons/VagrantPlain'
+export { default as VimOriginal } from './icons/VimOriginal'
+export { default as VimPlain } from './icons/VimPlain'
+export { default as VisualstudioPlainWordmark } from './icons/VisualstudioPlainWordmark'
+export { default as VisualstudioPlain } from './icons/VisualstudioPlain'
+export { default as VscodeOriginalWordmark } from './icons/VscodeOriginalWordmark'
+export { default as VscodeOriginal } from './icons/VscodeOriginal'
+export { default as VscodePlainWordmark } from './icons/VscodePlainWordmark'
+export { default as VscodePlain } from './icons/VscodePlain'
+export { default as VuejsLineWordmark } from './icons/VuejsLineWordmark'
+export { default as VuejsLine } from './icons/VuejsLine'
+export { default as VuejsOriginalWordmark } from './icons/VuejsOriginalWordmark'
+export { default as VuejsOriginal } from './icons/VuejsOriginal'
+export { default as VuejsPlainWordmark } from './icons/VuejsPlainWordmark'
+export { default as VuejsPlain } from './icons/VuejsPlain'
+export { default as VuestorefrontOriginal } from './icons/VuestorefrontOriginal'
+export { default as VuestorefrontPlain } from './icons/VuestorefrontPlain'
+export { default as WeblateOriginalWordmark } from './icons/WeblateOriginalWordmark'
+export { default as WeblateOriginal } from './icons/WeblateOriginal'
+export { default as WeblatePlainWordmark } from './icons/WeblatePlainWordmark'
+export { default as WeblatePlain } from './icons/WeblatePlain'
+export { default as WebpackOriginalWordmark } from './icons/WebpackOriginalWordmark'
+export { default as WebpackOriginal } from './icons/WebpackOriginal'
+export { default as WebpackPlainWordmark } from './icons/WebpackPlainWordmark'
+export { default as WebpackPlain } from './icons/WebpackPlain'
+export { default as WebstormOriginalWordmark } from './icons/WebstormOriginalWordmark'
+export { default as WebstormOriginal } from './icons/WebstormOriginal'
+export { default as WebstormPlainWordmark } from './icons/WebstormPlainWordmark'
+export { default as WebstormPlain } from './icons/WebstormPlain'
+export { default as Windows8OriginalWordmark } from './icons/Windows8OriginalWordmark'
+export { default as Windows8Original } from './icons/Windows8Original'
+export { default as WoocommerceOriginalWordmark } from './icons/WoocommerceOriginalWordmark'
+export { default as WoocommerceOriginal } from './icons/WoocommerceOriginal'
+export { default as WoocommercePlainWordmark } from './icons/WoocommercePlainWordmark'
+export { default as WoocommercePlain } from './icons/WoocommercePlain'
+export { default as WordpressOriginal } from './icons/WordpressOriginal'
+export { default as WordpressPlainWordmark } from './icons/WordpressPlainWordmark'
+export { default as WordpressPlain } from './icons/WordpressPlain'
+export { default as XdLine } from './icons/XdLine'
+export { default as XdPlain } from './icons/XdPlain'
+export { default as YarnOriginalWordmark } from './icons/YarnOriginalWordmark'
+export { default as YarnOriginal } from './icons/YarnOriginal'
+export { default as YiiOriginalWordmark } from './icons/YiiOriginalWordmark'
+export { default as YiiOriginal } from './icons/YiiOriginal'
+export { default as YiiPlainWordmark } from './icons/YiiPlainWordmark'
+export { default as YiiPlain } from './icons/YiiPlain'
+export { default as YunohostOriginal } from './icons/YunohostOriginal'
+export { default as YunohostPlain } from './icons/YunohostPlain'
+export { default as ZendPlainWordmark } from './icons/ZendPlainWordmark'
+export { default as ZendPlain } from './icons/ZendPlain'
+export { default as ZigOriginalWordmark } from './icons/ZigOriginalWordmark'
+export { default as ZigOriginal } from './icons/ZigOriginal'
+export { default as ZigPlainWordmark } from './icons/ZigPlainWordmark'

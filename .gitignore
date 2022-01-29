@@ -12,9 +12,6 @@
 /.next/
 /out/
 
-# production
-/build
-
 # misc
 .DS_Store
 *.pem
@@ -46,8 +43,14 @@ yarn-error.log*
 **/public/worker-*.js.map
 **/public/fallback-*.js
 
-.temp
-temp.js
-*.svg
+
 
 lib
+
+.idea
+
+/svg
+
+build/build.config.json
+
+*.tgz
