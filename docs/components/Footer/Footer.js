@@ -2,11 +2,16 @@ import { Fragment } from 'react'
 import { FooterContainer, FooterLink } from './Style'
 
 const Footer = () => {
+  const getYear = () => {
+    return new Date().getFullYear()
+  }
+
   return (
     <Fragment>
       <FooterContainer>
         <p>
-          All Copyrights Reserved © 2021, Made With ❤{' '}
+          All Copyrights Reserved ©{' '}
+          {getYear() >= '2021' ? `2021 - ${getYear()}` : getYear()}, Made With ❤{' '}
           <FooterLink href="https://mkabumattar.github.io/">
             MKAbuMattar
           </FooterLink>{' '}
