@@ -1,5 +1,4 @@
 import { Fragment, useEffect } from 'react'
-import Link from 'next/link'
 
 import hljs from 'highlight.js'
 import javascript from 'highlight.js/lib/languages/javascript'
@@ -12,7 +11,6 @@ import {
   HeaderTitle,
   HeaderInfo,
   HeaderBoxGitHubLabel,
-  HeaderLink,
   HeaderCard,
   HeaderCardInfo,
   HeaderCardTitle,
@@ -64,15 +62,13 @@ const Header = () => {
           </HeaderBoxGitHubLabel>
 
           <HeaderArrowWaveBox>
-            <Link href="#search">
-              <a>
-                <HeaderArrowWave>
-                  <span />
-                  <span />
-                  <span />
-                </HeaderArrowWave>
-              </a>
-            </Link>
+            <a href="#search">
+              <HeaderArrowWave>
+                <span />
+                <span />
+                <span />
+              </HeaderArrowWave>
+            </a>
           </HeaderArrowWaveBox>
 
           <HeaderCard>
