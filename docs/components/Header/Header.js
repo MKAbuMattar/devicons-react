@@ -49,7 +49,7 @@ const Header = () => {
                 src="https://img.shields.io/github/v/release/MKAbuMattar/devicons-react?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver"
               />
             </a>
-            <a href="/LICENSE">
+            <a href="https://github.com/MKAbuMattar/devicons-react/LICENSE">
               <img
                 alt="GitHub"
                 src="https://img.shields.io/github/license/MKAbuMattar/devicons-react?color=%2360be86&style=for-the-badge"
