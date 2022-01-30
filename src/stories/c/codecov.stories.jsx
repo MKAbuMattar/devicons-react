@@ -8,7 +8,7 @@ const stories = storiesOf('codecov', module)
 stories.add('plain', () => {
   return (
     <Fragment>
-      <CodecovPlain />
+      <CodecovPlain height="128" width="128" />
     </Fragment>
   )
 })

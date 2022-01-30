@@ -19,7 +19,7 @@
         devicons-react aims to gather all logos representing development languages and tools, build into <a href="https://github.com/devicons/devicon">devicon</a>
     </p>
     <p align="center">
-        <a target="__blank" href="https://devicons-react.netlify.app/">Demo</a>
+        <a target="__blank" href="https://devicons-react.vercel.app/">Demo</a>
     </p>
 </div>
 

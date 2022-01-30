@@ -8,7 +8,7 @@ const stories = storiesOf('appcelerator', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <AppceleratorOriginal />
+      <AppceleratorOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('original wordmark', () => {
   return (
     <Fragment>
-      <AppceleratorOriginalWordmark />
+      <AppceleratorOriginalWordmark height="128" width="128" />
     </Fragment>
   )
 })
@@ -24,7 +24,7 @@ stories.add('original wordmark', () => {
 stories.add('plain wordmark', () => {
   return (
     <Fragment>
-      <AppceleratorPlainWordmark />
+      <AppceleratorPlainWordmark height="128" width="128" />
     </Fragment>
   )
 })

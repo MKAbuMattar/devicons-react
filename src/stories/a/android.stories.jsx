@@ -8,7 +8,7 @@ const stories = storiesOf('android', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <AndroidOriginal />
+      <AndroidOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('original wordmark', () => {
   return (
     <Fragment>
-      <AndroidOriginalWordmark />
+      <AndroidOriginalWordmark height="128" width="128" />
     </Fragment>
   )
 })
@@ -24,7 +24,7 @@ stories.add('original wordmark', () => {
 stories.add('plain', () => {
   return (
     <Fragment>
-      <AndroidPlain />
+      <AndroidPlain height="128" width="128" />
     </Fragment>
   )
 })
@@ -32,7 +32,7 @@ stories.add('plain', () => {
 stories.add('plain wordmark', () => {
   return (
     <Fragment>
-      <AndroidPlainWordmark />
+      <AndroidPlainWordmark height="128" width="128" />
     </Fragment>
   )
 })

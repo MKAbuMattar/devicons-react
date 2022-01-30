@@ -8,7 +8,7 @@ const stories = storiesOf('aarch64', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <Aarch64Original />
+      <Aarch64Original height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('plain', () => {
   return (
     <Fragment>
-      <Aarch64Plain />
+      <Aarch64Plain height="128" width="128" />
     </Fragment>
   )
 })

@@ -45,14 +45,15 @@ export const Cards = styled.div`
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-  align-items: baseline;
+  align-items: stretch;
   justify-content: center;
 `
 
 export const Card = styled.div`
   display: flex;
   flex-direction: column;
-  width: 15rem;
+  justify-content: space-between;
+  width: 16rem;
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
@@ -62,9 +63,7 @@ export const CardInfo = styled.div`
   padding: 2.5em 1em;
   display: flex;
   flex-direction: column;
-  align-items: center;
   gap: 1rem;
-  text-align: center;
 `
 
 export const CardTitle = styled.h4`

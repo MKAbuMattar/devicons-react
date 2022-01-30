@@ -8,7 +8,7 @@ const stories = storiesOf('apache', module)
 stories.add('line', () => {
   return (
     <Fragment>
-      <ApacheLine />
+      <ApacheLine height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('line', () => {
 stories.add('line wordmark', () => {
   return (
     <Fragment>
-      <ApacheLineWordmark />
+      <ApacheLineWordmark height="128" width="128" />
     </Fragment>
   )
 })
@@ -24,7 +24,7 @@ stories.add('line wordmark', () => {
 stories.add('original', () => {
   return (
     <Fragment>
-      <ApacheOriginal />
+      <ApacheOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -32,7 +32,7 @@ stories.add('original', () => {
 stories.add('original wordmark', () => {
   return (
     <Fragment>
-      <ApacheOriginalWordmark />
+      <ApacheOriginalWordmark height="128" width="128" />
     </Fragment>
   )
 })
@@ -40,7 +40,7 @@ stories.add('original wordmark', () => {
 stories.add('plain', () => {
   return (
     <Fragment>
-      <ApachePlain />
+      <ApachePlain height="128" width="128" />
     </Fragment>
   )
 })
@@ -48,7 +48,7 @@ stories.add('plain', () => {
 stories.add('plain wordmark', () => {
   return (
     <Fragment>
-      <ApachePlainWordmark />
+      <ApachePlainWordmark height="128" width="128" />
     </Fragment>
   )
 })

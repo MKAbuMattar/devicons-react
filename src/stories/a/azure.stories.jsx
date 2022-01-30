@@ -8,7 +8,7 @@ const stories = storiesOf('azure', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <AzureOriginal />
+      <AzureOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('original wordmark', () => {
   return (
     <Fragment>
-      <AzureOriginalWordmark />
+      <AzureOriginalWordmark height="128" width="128" />
     </Fragment>
   )
 })
@@ -24,7 +24,7 @@ stories.add('original wordmark', () => {
 stories.add('plain', () => {
   return (
     <Fragment>
-      <AzurePlain />
+      <AzurePlain height="128" width="128" />
     </Fragment>
   )
 })
@@ -32,7 +32,7 @@ stories.add('plain', () => {
 stories.add('plain wordmark', () => {
   return (
     <Fragment>
-      <AzurePlainWordmark />
+      <AzurePlainWordmark height="128" width="128" />
     </Fragment>
   )
 })

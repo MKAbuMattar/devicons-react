@@ -8,7 +8,7 @@ const stories = storiesOf('bulma', module)
 stories.add('plain', () => {
   return (
     <Fragment>
-      <BulmaPlain />
+      <BulmaPlain height="128" width="128" />
     </Fragment>
   )
 })

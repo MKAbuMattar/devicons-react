@@ -8,7 +8,7 @@ const stories = storiesOf('amazonwebservices', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <AmazonwebservicesOriginal />
+      <AmazonwebservicesOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('original wordmark', () => {
   return (
     <Fragment>
-      <AmazonwebservicesOriginalWordmark />
+      <AmazonwebservicesOriginalWordmark height="128" width="128" />
     </Fragment>
   )
 })
@@ -24,7 +24,7 @@ stories.add('original wordmark', () => {
 stories.add('plain wordmark', () => {
   return (
     <Fragment>
-      <AmazonwebservicesPlainWordmark />
+      <AmazonwebservicesPlainWordmark height="128" width="128" />
     </Fragment>
   )
 })
