@@ -8,7 +8,7 @@ const stories = storiesOf('apple', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <AppleOriginal />
+      <AppleOriginal height="128" width="128" />
     </Fragment>
   )
 })

@@ -8,7 +8,7 @@ const stories = storiesOf('atom', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <AtomOriginal />
+      <AtomOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('original wordmark', () => {
   return (
     <Fragment>
-      <AtomOriginalWordmark />
+      <AtomOriginalWordmark height="128" width="128" />
     </Fragment>
   )
 })

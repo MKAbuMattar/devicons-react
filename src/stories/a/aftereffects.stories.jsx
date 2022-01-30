@@ -8,7 +8,7 @@ const stories = storiesOf('aftereffects', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <AftereffectsOriginal />
+      <AftereffectsOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('plain', () => {
   return (
     <Fragment>
-      <AftereffectsPlain />
+      <AftereffectsPlain height="128" width="128" />
     </Fragment>
   )
 })

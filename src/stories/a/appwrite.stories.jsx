@@ -8,7 +8,7 @@ const stories = storiesOf('appwrite', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <AppwriteOriginal />
+      <AppwriteOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('original wordmark', () => {
   return (
     <Fragment>
-      <AppwriteOriginalWordmark />
+      <AppwriteOriginalWordmark height="128" width="128" />
     </Fragment>
   )
 })
@@ -25,7 +25,7 @@ stories.add('original wordmark', () => {
 stories.add('plain', () => {
   return (
     <Fragment>
-      <AppwritePlain />
+      <AppwritePlain height="128" width="128" />
     </Fragment>
   )
 })
@@ -34,7 +34,7 @@ stories.add('plain', () => {
 stories.add('plain wordmark', () => {
   return (
     <Fragment>
-      <AppwritePlainWordmark />
+      <AppwritePlainWordmark height="128" width="128" />
     </Fragment>
   )
 })

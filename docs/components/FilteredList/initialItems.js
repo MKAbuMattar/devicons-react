@@ -675,34 +675,9 @@ const initialItems = [
     fileName: 'devicons-react/icons/DenojsOriginalWordmark',
   },
   {
-    name: 'Devicon Line',
-    componentName: 'DeviconLine',
-    fileName: 'devicons-react/icons/DeviconLine',
-  },
-  {
-    name: 'Devicon Line Wordmark',
-    componentName: 'DeviconLineWordmark',
-    fileName: 'devicons-react/icons/DeviconLineWordmark',
-  },
-  {
-    name: 'Devicon Original',
-    componentName: 'DeviconOriginal',
-    fileName: 'devicons-react/icons/DeviconOriginal',
-  },
-  {
-    name: 'Devicon Original Wordmark',
-    componentName: 'DeviconOriginalWordmark',
-    fileName: 'devicons-react/icons/DeviconOriginalWordmark',
-  },
-  {
-    name: 'Devicon Plain',
-    componentName: 'DeviconPlain',
-    fileName: 'devicons-react/icons/DeviconPlain',
-  },
-  {
-    name: 'Devicon Plain Wordmark',
-    componentName: 'DeviconPlainWordmark',
-    fileName: 'devicons-react/icons/DeviconPlainWordmark',
+    name: 'Devicons React Original',
+    componentName: 'DeviconsReactOriginal',
+    fileName: 'devicons-react/icons/DeviconsReactOriginal',
   },
   {
     name: 'Digitalocean Original',

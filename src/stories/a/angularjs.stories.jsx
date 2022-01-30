@@ -8,7 +8,7 @@ const stories = storiesOf('angularjs', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <AngularjsOriginal />
+      <AngularjsOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('original wordmark', () => {
   return (
     <Fragment>
-      <AngularjsOriginalWordmark />
+      <AngularjsOriginalWordmark height="128" width="128" />
     </Fragment>
   )
 })
@@ -24,7 +24,7 @@ stories.add('original wordmark', () => {
 stories.add('plain', () => {
   return (
     <Fragment>
-      <AngularjsPlain />
+      <AngularjsPlain height="128" width="128" />
     </Fragment>
   )
 })
@@ -32,7 +32,7 @@ stories.add('plain', () => {
 stories.add('plain wordmark', () => {
   return (
     <Fragment>
-      <AngularjsPlainWordmark />
+      <AngularjsPlainWordmark height="128" width="128" />
     </Fragment>
   )
 })

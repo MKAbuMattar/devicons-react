@@ -5,7 +5,7 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en_IE',
-    url: 'https://devicons-react.netlify.app/',
+    url: 'https://devicons-react.vercel.app/',
     site_name: 'Devicons React',
   },
   twitter: {

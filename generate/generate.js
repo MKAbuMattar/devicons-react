@@ -9,7 +9,7 @@ let data
 const obj = []
 
 const names = []
-const trt = []
+const iconslist = []
 
 fs.readdirSync(testFolder).forEach((file) => {
   name = file
@@ -24,9 +24,9 @@ fs.readdirSync(testFolder).forEach((file) => {
     <${componentName}/>
   )}`
   names.push(componentName)
-  trt.push(componentNames)
+  iconslist.push(componentNames)
 })
 
 fs.writeFileSync(path.resolve(__dirname, 'tmp.json'), JSON.stringify(obj))
-fs.writeFileSync(path.resolve(__dirname, 'temp.json'), JSON.stringify(names))
-fs.writeFileSync(path.resolve(__dirname, 'trt.json'), JSON.stringify(trt))
+fs.writeFileSync(path.resolve(__dirname, 'names.js'), names.join(','))
+fs.writeFileSync(path.resolve(__dirname, 'iconslist.js'), iconslist.join('\n'))

@@ -8,7 +8,7 @@ const stories = storiesOf('arduino', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <ArduinoOriginal />
+      <ArduinoOriginal height="128" width="128" />
     </Fragment>
   )
 })
@@ -16,7 +16,7 @@ stories.add('original', () => {
 stories.add('original wordmark', () => {
   return (
     <Fragment>
-      <ArduinoOriginalWordmark />
+      <ArduinoOriginalWordmark height="128" width="128" />
     </Fragment>
   )
 })
@@ -24,7 +24,7 @@ stories.add('original wordmark', () => {
 stories.add('plain', () => {
   return (
     <Fragment>
-      <ArduinoPlain />
+      <ArduinoPlain height="128" width="128" />
     </Fragment>
   )
 })
@@ -32,7 +32,7 @@ stories.add('plain', () => {
 stories.add('plain wordmark', () => {
   return (
     <Fragment>
-      <ArduinoPlainWordmark />
+      <ArduinoPlainWordmark height="128" width="128" />
     </Fragment>
   )
 })

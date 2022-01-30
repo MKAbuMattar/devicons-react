@@ -20,7 +20,7 @@ import {
   HeaderArrowWave,
 } from './Style'
 
-import ReactLogo from './Logo'
+import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal'
 
 const Header = () => {
   useEffect(() => {
@@ -32,7 +32,7 @@ const Header = () => {
       <HeaderContainer>
         <HeaderBox>
           <HeaderTitleBox>
-            <ReactLogo size="60" />
+            <DeviconsReactOriginal height="60" width="60" />
             <HeaderTitle>
               Devicons <span>React</span>
             </HeaderTitle>

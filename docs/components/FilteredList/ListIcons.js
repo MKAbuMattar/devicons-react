@@ -136,12 +136,7 @@ import {
   DebianPlainWordmark,
   DenojsOriginal,
   DenojsOriginalWordmark,
-  DeviconLine,
-  DeviconLineWordmark,
-  DeviconOriginal,
-  DeviconOriginalWordmark,
-  DeviconPlain,
-  DeviconPlainWordmark,
+  DeviconsReactOriginal,
   DigitaloceanOriginal,
   DigitaloceanOriginalWordmark,
   DigitaloceanPlain,
@@ -1073,23 +1068,8 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() ===
         'DenojsOriginalWordmark'.toLowerCase() && <DenojsOriginalWordmark />}
-      {componentName.toLowerCase() === 'DeviconLine'.toLowerCase() && (
-        <DeviconLine />
-      )}
-      {componentName.toLowerCase() === 'DeviconLineWordmark'.toLowerCase() && (
-        <DeviconLineWordmark />
-      )}
-      {componentName.toLowerCase() === 'DeviconOriginal'.toLowerCase() && (
-        <DeviconOriginal />
-      )}
       {componentName.toLowerCase() ===
-        'DeviconOriginalWordmark'.toLowerCase() && <DeviconOriginalWordmark />}
-      {componentName.toLowerCase() === 'DeviconPlain'.toLowerCase() && (
-        <DeviconPlain />
-      )}
-      {componentName.toLowerCase() === 'DeviconPlainWordmark'.toLowerCase() && (
-        <DeviconPlainWordmark />
-      )}
+        'DeviconsReactOriginal'.toLowerCase() && <DeviconsReactOriginal />}
       {componentName.toLowerCase() === 'DigitaloceanOriginal'.toLowerCase() && (
         <DigitaloceanOriginal />
       )}

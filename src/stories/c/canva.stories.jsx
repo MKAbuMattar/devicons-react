@@ -8,7 +8,7 @@ const stories = storiesOf('canva', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <CanvaOriginal />
+      <CanvaOriginal height="128" width="128" />
     </Fragment>
   )
 })

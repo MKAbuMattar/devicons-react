@@ -8,7 +8,7 @@ const stories = storiesOf('dev icons react', module)
 stories.add('original', () => {
   return (
     <Fragment>
-      <DeviconsReactOriginal />
+      <DeviconsReactOriginal height="128" width="128" />
     </Fragment>
   )
 })

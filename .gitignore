@@ -43,7 +43,9 @@ yarn-error.log*
 **/public/worker-*.js.map
 **/public/fallback-*.js
 
-
+generate/iconslist.js
+generate/names.js
+generate/tmp.json
 
 lib
 
