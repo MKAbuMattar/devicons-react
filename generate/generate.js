@@ -1,32 +1,29 @@
-const testFolder = './src/icons'
-const fs = require('fs')
 const path = require('path')
+const fs = require('fs-plus')
+const { parse, stringify } = require('svgson')
 
-let name
-let componentName
-let fileName
-let data
-const obj = []
+const svgsComponentPath = path.join(process.cwd(), 'svg')
+const config = require('./build.config.json')
 
-const names = []
-const iconslist = []
+fs.removeSync(svgsComponentPath)
 
-fs.readdirSync(testFolder).forEach((file) => {
-  name = file
-    .replace(/([A-Z])/g, ' $1')
-    .trim()
-    .replace('.js', '')
-  componentName = file.replace('.js', '')
-  fileName = `devicons-react/icons/${file.replace('.js', '')}`
-  data = { name: name, componentName: componentName, fileName: fileName }
-  obj.push(data)
-  componentNames = ` {componentName.toLowerCase() === '${componentName}'.toLowerCase() && (
-    <${componentName}/>
-  )}`
-  names.push(componentName)
-  iconslist.push(componentNames)
+fs.mkdirSync(svgsComponentPath)
+
+config.forEach((icon) => {
+  if (icon.filename.toLowerCase().includes('.svg'.toLowerCase())) {
+    const baseName = `${icon.filename}`.replace(/\.svg\b/g, '')
+    const svgFile = fs.readFileSync(
+      path.resolve(`./node_modules/devicon/icons/${icon.dirname}`, `${icon.filename}`),
+      'utf-8',
+    )
+
+    parse(`${svgFile}`).then((json) => {
+      const mysvg = stringify(json)
+
+      fs.writeFileSync(
+        path.resolve(__dirname, `${path.join(svgsComponentPath, `${baseName}.svg`)}`),
+        mysvg,
+      )
+    })
+  }
 })
-
-fs.writeFileSync(path.resolve(__dirname, 'tmp.json'), JSON.stringify(obj))
-fs.writeFileSync(path.resolve(__dirname, 'names.js'), names.join(','))
-fs.writeFileSync(path.resolve(__dirname, 'iconslist.js'), iconslist.join('\n'))

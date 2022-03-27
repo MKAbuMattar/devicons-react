@@ -78,3 +78,22 @@ export const CardTitle = styled.h4`
     border-bottom: 3px solid #2e2e2e;
   }
 `
+
+export const CountSection = styled.section`
+  background-color: #e7e7e7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`
+
+export const CountWrapper = styled.div`
+  background-color: #2d2d2d;
+  color: #ffffff;
+  width: 20rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem;
+  border-radius: 5px;
+`

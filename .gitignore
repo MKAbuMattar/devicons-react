@@ -43,9 +43,8 @@ yarn-error.log*
 **/public/worker-*.js.map
 **/public/fallback-*.js
 
-generate/iconslist.js
-generate/names.js
-generate/tmp.json
+
+generate/tmp-data.json
 
 lib
 
@@ -53,6 +52,6 @@ lib
 
 /svg
 
-build/build.config.json
+generate/build.config.json
 
 *.tgz
