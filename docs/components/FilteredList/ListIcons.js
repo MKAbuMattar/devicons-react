@@ -10,14 +10,24 @@ import {
   AmazonwebservicesOriginal,
   AmazonwebservicesOriginalWordmark,
   AmazonwebservicesPlainWordmark,
+  AnacondaOriginal,
+  AnacondaOriginalWordmark,
   AndroidOriginal,
   AndroidOriginalWordmark,
   AndroidPlain,
   AndroidPlainWordmark,
+  AndroidstudioOriginal,
+  AndroidstudioOriginalWordmark,
+  AndroidstudioPlain,
+  AndroidstudioPlainWordmark,
   AngularjsOriginal,
   AngularjsOriginalWordmark,
   AngularjsPlain,
   AngularjsPlainWordmark,
+  AnsibleOriginal,
+  AnsibleOriginalWordmark,
+  AnsiblePlain,
+  AnsiblePlainWordmark,
   ApacheLine,
   ApacheLineWordmark,
   ApacheOriginal,
@@ -38,6 +48,10 @@ import {
   ArduinoOriginalWordmark,
   ArduinoPlain,
   ArduinoPlainWordmark,
+  ArgocdOriginal,
+  ArgocdOriginalWordmark,
+  ArgocdPlain,
+  ArgocdPlainWordmark,
   AtomOriginal,
   AtomOriginalWordmark,
   AzureOriginal,
@@ -50,6 +64,8 @@ import {
   BackbonejsOriginalWordmark,
   BackbonejsPlain,
   BackbonejsPlainWordmark,
+  BambooOriginal,
+  BambooOriginalWordmark,
   BashOriginal,
   BashPlain,
   BehanceOriginal,
@@ -58,7 +74,10 @@ import {
   BehancePlainWordmark,
   BitbucketOriginal,
   BitbucketOriginalWordmark,
+  BlenderOriginal,
+  BlenderOriginalWordmark,
   BootstrapOriginal,
+  BootstrapOriginalWordmark,
   BootstrapPlain,
   BootstrapPlainWordmark,
   BowerLine,
@@ -94,6 +113,10 @@ import {
   ClojureOriginal,
   ClojurescriptOriginal,
   ClojurescriptPlain,
+  CmakeOriginal,
+  CmakeOriginalWordmark,
+  CmakePlain,
+  CmakePlainWordmark,
   CodecovPlain,
   CodeigniterPlain,
   CodeigniterPlainWordmark,
@@ -141,9 +164,12 @@ import {
   DigitaloceanOriginalWordmark,
   DigitaloceanPlain,
   DigitaloceanPlainWordmark,
-  DjangoLine,
-  DjangoOriginal,
+  DiscordjsOriginal,
+  DiscordjsOriginalWordmark,
+  DiscordjsPlain,
+  DiscordjsPlainWordmark,
   DjangoPlain,
+  DjangoPlainWordmark,
   DockerOriginal,
   DockerOriginalWordmark,
   DockerPlain,
@@ -160,6 +186,8 @@ import {
   DotNetPlainWordmark,
   DotnetcoreOriginal,
   DotnetcorePlain,
+  DropwizardOriginal,
+  DropwizardPlain,
   DrupalOriginal,
   DrupalOriginalWordmark,
   DrupalPlain,
@@ -185,11 +213,19 @@ import {
   ErlangOriginalWordmark,
   ErlangPlain,
   ErlangPlainWordmark,
+  EslintOriginal,
+  EslintOriginalWordmark,
   ExpressOriginal,
   ExpressOriginalWordmark,
   FacebookOriginal,
   FacebookPlain,
+  FastapiOriginal,
+  FastapiOriginalWordmark,
+  FastapiPlain,
+  FastapiPlainWordmark,
   FeathersjsOriginal,
+  FedoraOriginal,
+  FedoraPlain,
   FigmaOriginal,
   FigmaPlain,
   FilezillaPlain,
@@ -218,6 +254,8 @@ import {
   GatsbyPlainWordmark,
   GccOriginal,
   GccPlain,
+  GentooPlain,
+  GentooPlainWordmark,
   GimpOriginal,
   GimpOriginalWordmark,
   GimpPlain,
@@ -252,6 +290,8 @@ import {
   GooglecloudPlainWordmark,
   GradlePlain,
   GradlePlainWordmark,
+  GrafanaOriginal,
+  GrafanaOriginalWordmark,
   GrailsOriginal,
   GrailsPlain,
   GraphqlPlain,
@@ -281,7 +321,12 @@ import {
   Html5OriginalWordmark,
   Html5Plain,
   Html5PlainWordmark,
+  HugoOriginal,
+  HugoOriginalWordmark,
+  HugoPlain,
+  HugoPlainWordmark,
   Ie10Original,
+  IftttOriginal,
   IllustratorLine,
   IllustratorPlain,
   InkscapeOriginal,
@@ -331,6 +376,11 @@ import {
   JupyterOriginalWordmark,
   JupyterPlain,
   JupyterPlainWordmark,
+  K3SOriginal,
+  K3SOriginalWordmark,
+  K3SPlainWordmark,
+  KaggleOriginal,
+  KaggleOriginalWordmark,
   KarmaOriginal,
   KarmaPlain,
   KnockoutPlainWordmark,
@@ -350,6 +400,7 @@ import {
   LabviewPlainWordmark,
   LaravelPlain,
   LaravelPlainWordmark,
+  LatexOriginal,
   LessPlainWordmark,
   LinkedinOriginal,
   LinkedinOriginalWordmark,
@@ -370,6 +421,10 @@ import {
   MatlabLine,
   MatlabOriginal,
   MatlabPlain,
+  MayaOriginal,
+  MayaOriginalWordmark,
+  MayaPlain,
+  MayaPlainWordmark,
   MeteorOriginal,
   MeteorOriginalWordmark,
   MeteorPlain,
@@ -404,6 +459,7 @@ import {
   Neo4JPlainWordmark,
   NestjsPlain,
   NestjsPlainWordmark,
+  NetworkxOriginal,
   NextjsLine,
   NextjsOriginal,
   NextjsOriginalWordmark,
@@ -423,6 +479,8 @@ import {
   NodewebkitPlain,
   NodewebkitPlainWordmark,
   NpmOriginalWordmark,
+  NugetOriginal,
+  NugetOriginalWordmark,
   NumpyOriginal,
   NumpyOriginalWordmark,
   NuxtjsOriginal,
@@ -434,13 +492,25 @@ import {
   OcamlOriginalWordmark,
   OcamlPlain,
   OcamlPlainWordmark,
+  OpenalOriginal,
+  OpenalPlain,
+  OpencvOriginal,
+  OpencvOriginalWordmark,
+  OpencvPlain,
+  OpencvPlainWordmark,
   OpenglOriginal,
   OpenglPlain,
+  OpensuseOriginal,
+  OpensuseOriginalWordmark,
+  OpensusePlain,
+  OpensusePlainWordmark,
   OperaOriginal,
   OperaOriginalWordmark,
   OperaPlain,
   OperaPlainWordmark,
   OracleOriginal,
+  PackerOriginal,
+  PackerOriginalWordmark,
   PandasOriginal,
   PandasOriginalWordmark,
   PerlOriginal,
@@ -459,6 +529,12 @@ import {
   PhpstormOriginalWordmark,
   PhpstormPlain,
   PhpstormPlainWordmark,
+  PodmanOriginal,
+  PodmanOriginalWordmark,
+  PodmanPlain,
+  PodmanPlainWordmark,
+  PolygonOriginal,
+  PolygonPlain,
   PostgresqlOriginal,
   PostgresqlOriginalWordmark,
   PostgresqlPlain,
@@ -469,6 +545,8 @@ import {
   ProcessingOriginalWordmark,
   ProcessingPlain,
   ProcessingPlainWordmark,
+  PrometheusOriginal,
+  PrometheusOriginalWordmark,
   ProtractorPlain,
   ProtractorPlainWordmark,
   PuttyOriginal,
@@ -477,10 +555,17 @@ import {
   PycharmOriginalWordmark,
   PycharmPlain,
   PycharmPlainWordmark,
+  PytestOriginal,
+  PytestOriginalWordmark,
+  PytestPlain,
+  PytestPlainWordmark,
   PythonOriginal,
   PythonOriginalWordmark,
   PythonPlain,
   PythonPlainWordmark,
+  PytorchOriginal,
+  PytorchOriginalWordmark,
+  PytorchPlainWordmark,
   QtOriginal,
   ROriginal,
   RPlain,
@@ -493,6 +578,8 @@ import {
   RaspberrypiOriginalWordmark,
   ReactOriginal,
   ReactOriginalWordmark,
+  RectOriginal,
+  RectPlain,
   RedhatOriginal,
   RedhatOriginalWordmark,
   RedhatPlain,
@@ -503,6 +590,8 @@ import {
   RedisPlainWordmark,
   ReduxOriginal,
   RocksdbPlain,
+  RspecOriginal,
+  RspecOriginalWordmark,
   RstudioOriginal,
   RstudioPlain,
   RubyOriginal,
@@ -527,12 +616,18 @@ import {
   ScalaOriginalWordmark,
   ScalaPlain,
   ScalaPlainWordmark,
+  SdlOriginal,
+  SdlPlain,
+  SeleniumOriginal,
   SequelizeOriginal,
   SequelizeOriginalWordmark,
   SequelizePlain,
   SequelizePlainWordmark,
   ShopwareOriginal,
   ShopwareOriginalWordmark,
+  ShotgridOriginal,
+  ShotgridOriginalWordmark,
+  ShotgridPlain,
   SketchLine,
   SketchLineWordmark,
   SketchOriginal,
@@ -543,6 +638,8 @@ import {
   SlackPlainWordmark,
   SocketioOriginal,
   SocketioOriginalWordmark,
+  SolidityOriginal,
+  SolidityPlain,
   SourcetreeOriginal,
   SourcetreeOriginalWordmark,
   SpringOriginal,
@@ -554,6 +651,10 @@ import {
   SqlalchemyOriginal,
   SqlalchemyOriginalWordmark,
   SqlalchemyPlain,
+  SqliteOriginal,
+  SqliteOriginalWordmark,
+  SqlitePlain,
+  SqlitePlainWordmark,
   SshOriginal,
   SshOriginalWordmark,
   StorybookOriginal,
@@ -579,6 +680,10 @@ import {
   TensorflowLineWordmark,
   TensorflowOriginal,
   TensorflowOriginalWordmark,
+  TerraformOriginal,
+  TerraformOriginalWordmark,
+  TerraformPlain,
+  TerraformPlainWordmark,
   ThealgorithmsOriginal,
   ThealgorithmsOriginalWordmark,
   ThealgorithmsPlain,
@@ -612,6 +717,8 @@ import {
   UnityOriginal,
   UnityOriginalWordmark,
   UnixOriginal,
+  UnrealengineOriginal,
+  UnrealengineOriginalWordmark,
   UwsgiOriginal,
   UwsgiPlain,
   VagrantOriginal,
@@ -634,6 +741,10 @@ import {
   VuejsPlainWordmark,
   VuestorefrontOriginal,
   VuestorefrontPlain,
+  VuetifyLine,
+  VuetifyOriginal,
+  VuetifyPlain,
+  WebflowOriginal,
   WeblateOriginal,
   WeblateOriginalWordmark,
   WeblatePlain,
@@ -655,6 +766,10 @@ import {
   WordpressOriginal,
   WordpressPlain,
   WordpressPlainWordmark,
+  XamarinOriginal,
+  XamarinOriginalWordmark,
+  XcodeOriginal,
+  XcodePlain,
   XdLine,
   XdPlain,
   YarnOriginal,
@@ -706,6 +821,13 @@ const ListIcons = ({ componentName }) => {
         'AmazonwebservicesPlainWordmark'.toLowerCase() && (
         <AmazonwebservicesPlainWordmark />
       )}
+      {componentName.toLowerCase() === 'AnacondaOriginal'.toLowerCase() && (
+        <AnacondaOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'AnacondaOriginalWordmark'.toLowerCase() && (
+        <AnacondaOriginalWordmark />
+      )}
       {componentName.toLowerCase() === 'AndroidOriginal'.toLowerCase() && (
         <AndroidOriginal />
       )}
@@ -716,6 +838,19 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() === 'AndroidPlainWordmark'.toLowerCase() && (
         <AndroidPlainWordmark />
+      )}
+      {componentName.toLowerCase() ===
+        'AndroidstudioOriginal'.toLowerCase() && <AndroidstudioOriginal />}
+      {componentName.toLowerCase() ===
+        'AndroidstudioOriginalWordmark'.toLowerCase() && (
+        <AndroidstudioOriginalWordmark />
+      )}
+      {componentName.toLowerCase() === 'AndroidstudioPlain'.toLowerCase() && (
+        <AndroidstudioPlain />
+      )}
+      {componentName.toLowerCase() ===
+        'AndroidstudioPlainWordmark'.toLowerCase() && (
+        <AndroidstudioPlainWordmark />
       )}
       {componentName.toLowerCase() === 'AngularjsOriginal'.toLowerCase() && (
         <AngularjsOriginal />
@@ -729,6 +864,17 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() ===
         'AngularjsPlainWordmark'.toLowerCase() && <AngularjsPlainWordmark />}
+      {componentName.toLowerCase() === 'AnsibleOriginal'.toLowerCase() && (
+        <AnsibleOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'AnsibleOriginalWordmark'.toLowerCase() && <AnsibleOriginalWordmark />}
+      {componentName.toLowerCase() === 'AnsiblePlain'.toLowerCase() && (
+        <AnsiblePlain />
+      )}
+      {componentName.toLowerCase() === 'AnsiblePlainWordmark'.toLowerCase() && (
+        <AnsiblePlainWordmark />
+      )}
       {componentName.toLowerCase() === 'ApacheLine'.toLowerCase() && (
         <ApacheLine />
       )}
@@ -790,6 +936,17 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'ArduinoPlainWordmark'.toLowerCase() && (
         <ArduinoPlainWordmark />
       )}
+      {componentName.toLowerCase() === 'ArgocdOriginal'.toLowerCase() && (
+        <ArgocdOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'ArgocdOriginalWordmark'.toLowerCase() && <ArgocdOriginalWordmark />}
+      {componentName.toLowerCase() === 'ArgocdPlain'.toLowerCase() && (
+        <ArgocdPlain />
+      )}
+      {componentName.toLowerCase() === 'ArgocdPlainWordmark'.toLowerCase() && (
+        <ArgocdPlainWordmark />
+      )}
       {componentName.toLowerCase() === 'AtomOriginal'.toLowerCase() && (
         <AtomOriginal />
       )}
@@ -825,6 +982,11 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() ===
         'BackbonejsPlainWordmark'.toLowerCase() && <BackbonejsPlainWordmark />}
+      {componentName.toLowerCase() === 'BambooOriginal'.toLowerCase() && (
+        <BambooOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'BambooOriginalWordmark'.toLowerCase() && <BambooOriginalWordmark />}
       {componentName.toLowerCase() === 'BashOriginal'.toLowerCase() && (
         <BashOriginal />
       )}
@@ -849,8 +1011,17 @@ const ListIcons = ({ componentName }) => {
         'BitbucketOriginalWordmark'.toLowerCase() && (
         <BitbucketOriginalWordmark />
       )}
+      {componentName.toLowerCase() === 'BlenderOriginal'.toLowerCase() && (
+        <BlenderOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'BlenderOriginalWordmark'.toLowerCase() && <BlenderOriginalWordmark />}
       {componentName.toLowerCase() === 'BootstrapOriginal'.toLowerCase() && (
         <BootstrapOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'BootstrapOriginalWordmark'.toLowerCase() && (
+        <BootstrapOriginalWordmark />
       )}
       {componentName.toLowerCase() === 'BootstrapPlain'.toLowerCase() && (
         <BootstrapPlain />
@@ -944,6 +1115,17 @@ const ListIcons = ({ componentName }) => {
         'ClojurescriptOriginal'.toLowerCase() && <ClojurescriptOriginal />}
       {componentName.toLowerCase() === 'ClojurescriptPlain'.toLowerCase() && (
         <ClojurescriptPlain />
+      )}
+      {componentName.toLowerCase() === 'CmakeOriginal'.toLowerCase() && (
+        <CmakeOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'CmakeOriginalWordmark'.toLowerCase() && <CmakeOriginalWordmark />}
+      {componentName.toLowerCase() === 'CmakePlain'.toLowerCase() && (
+        <CmakePlain />
+      )}
+      {componentName.toLowerCase() === 'CmakePlainWordmark'.toLowerCase() && (
+        <CmakePlainWordmark />
       )}
       {componentName.toLowerCase() === 'CodecovPlain'.toLowerCase() && (
         <CodecovPlain />
@@ -1084,14 +1266,23 @@ const ListIcons = ({ componentName }) => {
         'DigitaloceanPlainWordmark'.toLowerCase() && (
         <DigitaloceanPlainWordmark />
       )}
-      {componentName.toLowerCase() === 'DjangoLine'.toLowerCase() && (
-        <DjangoLine />
+      {componentName.toLowerCase() === 'DiscordjsOriginal'.toLowerCase() && (
+        <DiscordjsOriginal />
       )}
-      {componentName.toLowerCase() === 'DjangoOriginal'.toLowerCase() && (
-        <DjangoOriginal />
+      {componentName.toLowerCase() ===
+        'DiscordjsOriginalWordmark'.toLowerCase() && (
+        <DiscordjsOriginalWordmark />
       )}
+      {componentName.toLowerCase() === 'DiscordjsPlain'.toLowerCase() && (
+        <DiscordjsPlain />
+      )}
+      {componentName.toLowerCase() ===
+        'DiscordjsPlainWordmark'.toLowerCase() && <DiscordjsPlainWordmark />}
       {componentName.toLowerCase() === 'DjangoPlain'.toLowerCase() && (
         <DjangoPlain />
+      )}
+      {componentName.toLowerCase() === 'DjangoPlainWordmark'.toLowerCase() && (
+        <DjangoPlainWordmark />
       )}
       {componentName.toLowerCase() === 'DockerOriginal'.toLowerCase() && (
         <DockerOriginal />
@@ -1138,6 +1329,12 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() === 'DotnetcorePlain'.toLowerCase() && (
         <DotnetcorePlain />
+      )}
+      {componentName.toLowerCase() === 'DropwizardOriginal'.toLowerCase() && (
+        <DropwizardOriginal />
+      )}
+      {componentName.toLowerCase() === 'DropwizardPlain'.toLowerCase() && (
+        <DropwizardPlain />
       )}
       {componentName.toLowerCase() === 'DrupalOriginal'.toLowerCase() && (
         <DrupalOriginal />
@@ -1209,6 +1406,11 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'ErlangPlainWordmark'.toLowerCase() && (
         <ErlangPlainWordmark />
       )}
+      {componentName.toLowerCase() === 'EslintOriginal'.toLowerCase() && (
+        <EslintOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'EslintOriginalWordmark'.toLowerCase() && <EslintOriginalWordmark />}
       {componentName.toLowerCase() === 'ExpressOriginal'.toLowerCase() && (
         <ExpressOriginal />
       )}
@@ -1220,8 +1422,25 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'FacebookPlain'.toLowerCase() && (
         <FacebookPlain />
       )}
+      {componentName.toLowerCase() === 'FastapiOriginal'.toLowerCase() && (
+        <FastapiOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'FastapiOriginalWordmark'.toLowerCase() && <FastapiOriginalWordmark />}
+      {componentName.toLowerCase() === 'FastapiPlain'.toLowerCase() && (
+        <FastapiPlain />
+      )}
+      {componentName.toLowerCase() === 'FastapiPlainWordmark'.toLowerCase() && (
+        <FastapiPlainWordmark />
+      )}
       {componentName.toLowerCase() === 'FeathersjsOriginal'.toLowerCase() && (
         <FeathersjsOriginal />
+      )}
+      {componentName.toLowerCase() === 'FedoraOriginal'.toLowerCase() && (
+        <FedoraOriginal />
+      )}
+      {componentName.toLowerCase() === 'FedoraPlain'.toLowerCase() && (
+        <FedoraPlain />
       )}
       {componentName.toLowerCase() === 'FigmaOriginal'.toLowerCase() && (
         <FigmaOriginal />
@@ -1300,6 +1519,12 @@ const ListIcons = ({ componentName }) => {
         <GccOriginal />
       )}
       {componentName.toLowerCase() === 'GccPlain'.toLowerCase() && <GccPlain />}
+      {componentName.toLowerCase() === 'GentooPlain'.toLowerCase() && (
+        <GentooPlain />
+      )}
+      {componentName.toLowerCase() === 'GentooPlainWordmark'.toLowerCase() && (
+        <GentooPlainWordmark />
+      )}
       {componentName.toLowerCase() === 'GimpOriginal'.toLowerCase() && (
         <GimpOriginal />
       )}
@@ -1394,6 +1619,11 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'GradlePlainWordmark'.toLowerCase() && (
         <GradlePlainWordmark />
       )}
+      {componentName.toLowerCase() === 'GrafanaOriginal'.toLowerCase() && (
+        <GrafanaOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'GrafanaOriginalWordmark'.toLowerCase() && <GrafanaOriginalWordmark />}
       {componentName.toLowerCase() === 'GrailsOriginal'.toLowerCase() && (
         <GrailsOriginal />
       )}
@@ -1478,8 +1708,23 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'Html5PlainWordmark'.toLowerCase() && (
         <Html5PlainWordmark />
       )}
+      {componentName.toLowerCase() === 'HugoOriginal'.toLowerCase() && (
+        <HugoOriginal />
+      )}
+      {componentName.toLowerCase() === 'HugoOriginalWordmark'.toLowerCase() && (
+        <HugoOriginalWordmark />
+      )}
+      {componentName.toLowerCase() === 'HugoPlain'.toLowerCase() && (
+        <HugoPlain />
+      )}
+      {componentName.toLowerCase() === 'HugoPlainWordmark'.toLowerCase() && (
+        <HugoPlainWordmark />
+      )}
       {componentName.toLowerCase() === 'Ie10Original'.toLowerCase() && (
         <Ie10Original />
+      )}
+      {componentName.toLowerCase() === 'IftttOriginal'.toLowerCase() && (
+        <IftttOriginal />
       )}
       {componentName.toLowerCase() === 'IllustratorLine'.toLowerCase() && (
         <IllustratorLine />
@@ -1624,6 +1869,20 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'JupyterPlainWordmark'.toLowerCase() && (
         <JupyterPlainWordmark />
       )}
+      {componentName.toLowerCase() === 'K3SOriginal'.toLowerCase() && (
+        <K3SOriginal />
+      )}
+      {componentName.toLowerCase() === 'K3SOriginalWordmark'.toLowerCase() && (
+        <K3SOriginalWordmark />
+      )}
+      {componentName.toLowerCase() === 'K3SPlainWordmark'.toLowerCase() && (
+        <K3SPlainWordmark />
+      )}
+      {componentName.toLowerCase() === 'KaggleOriginal'.toLowerCase() && (
+        <KaggleOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'KaggleOriginalWordmark'.toLowerCase() && <KaggleOriginalWordmark />}
       {componentName.toLowerCase() === 'KarmaOriginal'.toLowerCase() && (
         <KarmaOriginal />
       )}
@@ -1676,6 +1935,9 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() === 'LaravelPlainWordmark'.toLowerCase() && (
         <LaravelPlainWordmark />
+      )}
+      {componentName.toLowerCase() === 'LatexOriginal'.toLowerCase() && (
+        <LatexOriginal />
       )}
       {componentName.toLowerCase() === 'LessPlainWordmark'.toLowerCase() && (
         <LessPlainWordmark />
@@ -1733,6 +1995,18 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() === 'MatlabPlain'.toLowerCase() && (
         <MatlabPlain />
+      )}
+      {componentName.toLowerCase() === 'MayaOriginal'.toLowerCase() && (
+        <MayaOriginal />
+      )}
+      {componentName.toLowerCase() === 'MayaOriginalWordmark'.toLowerCase() && (
+        <MayaOriginalWordmark />
+      )}
+      {componentName.toLowerCase() === 'MayaPlain'.toLowerCase() && (
+        <MayaPlain />
+      )}
+      {componentName.toLowerCase() === 'MayaPlainWordmark'.toLowerCase() && (
+        <MayaPlainWordmark />
       )}
       {componentName.toLowerCase() === 'MeteorOriginal'.toLowerCase() && (
         <MeteorOriginal />
@@ -1831,6 +2105,9 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'NestjsPlainWordmark'.toLowerCase() && (
         <NestjsPlainWordmark />
       )}
+      {componentName.toLowerCase() === 'NetworkxOriginal'.toLowerCase() && (
+        <NetworkxOriginal />
+      )}
       {componentName.toLowerCase() === 'NextjsLine'.toLowerCase() && (
         <NextjsLine />
       )}
@@ -1884,6 +2161,11 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'NpmOriginalWordmark'.toLowerCase() && (
         <NpmOriginalWordmark />
       )}
+      {componentName.toLowerCase() === 'NugetOriginal'.toLowerCase() && (
+        <NugetOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'NugetOriginalWordmark'.toLowerCase() && <NugetOriginalWordmark />}
       {componentName.toLowerCase() === 'NumpyOriginal'.toLowerCase() && (
         <NumpyOriginal />
       )}
@@ -1914,12 +2196,41 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'OcamlPlainWordmark'.toLowerCase() && (
         <OcamlPlainWordmark />
       )}
+      {componentName.toLowerCase() === 'OpenalOriginal'.toLowerCase() && (
+        <OpenalOriginal />
+      )}
+      {componentName.toLowerCase() === 'OpenalPlain'.toLowerCase() && (
+        <OpenalPlain />
+      )}
+      {componentName.toLowerCase() === 'OpencvOriginal'.toLowerCase() && (
+        <OpencvOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'OpencvOriginalWordmark'.toLowerCase() && <OpencvOriginalWordmark />}
+      {componentName.toLowerCase() === 'OpencvPlain'.toLowerCase() && (
+        <OpencvPlain />
+      )}
+      {componentName.toLowerCase() === 'OpencvPlainWordmark'.toLowerCase() && (
+        <OpencvPlainWordmark />
+      )}
       {componentName.toLowerCase() === 'OpenglOriginal'.toLowerCase() && (
         <OpenglOriginal />
       )}
       {componentName.toLowerCase() === 'OpenglPlain'.toLowerCase() && (
         <OpenglPlain />
       )}
+      {componentName.toLowerCase() === 'OpensuseOriginal'.toLowerCase() && (
+        <OpensuseOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'OpensuseOriginalWordmark'.toLowerCase() && (
+        <OpensuseOriginalWordmark />
+      )}
+      {componentName.toLowerCase() === 'OpensusePlain'.toLowerCase() && (
+        <OpensusePlain />
+      )}
+      {componentName.toLowerCase() ===
+        'OpensusePlainWordmark'.toLowerCase() && <OpensusePlainWordmark />}
       {componentName.toLowerCase() === 'OperaOriginal'.toLowerCase() && (
         <OperaOriginal />
       )}
@@ -1934,6 +2245,11 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'OracleOriginal'.toLowerCase() && (
         <OracleOriginal />
       )}
+      {componentName.toLowerCase() === 'PackerOriginal'.toLowerCase() && (
+        <PackerOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'PackerOriginalWordmark'.toLowerCase() && <PackerOriginalWordmark />}
       {componentName.toLowerCase() === 'PandasOriginal'.toLowerCase() && (
         <PandasOriginal />
       )}
@@ -1984,6 +2300,23 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() ===
         'PhpstormPlainWordmark'.toLowerCase() && <PhpstormPlainWordmark />}
+      {componentName.toLowerCase() === 'PodmanOriginal'.toLowerCase() && (
+        <PodmanOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'PodmanOriginalWordmark'.toLowerCase() && <PodmanOriginalWordmark />}
+      {componentName.toLowerCase() === 'PodmanPlain'.toLowerCase() && (
+        <PodmanPlain />
+      )}
+      {componentName.toLowerCase() === 'PodmanPlainWordmark'.toLowerCase() && (
+        <PodmanPlainWordmark />
+      )}
+      {componentName.toLowerCase() === 'PolygonOriginal'.toLowerCase() && (
+        <PolygonOriginal />
+      )}
+      {componentName.toLowerCase() === 'PolygonPlain'.toLowerCase() && (
+        <PolygonPlain />
+      )}
       {componentName.toLowerCase() === 'PostgresqlOriginal'.toLowerCase() && (
         <PostgresqlOriginal />
       )}
@@ -2014,6 +2347,13 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() ===
         'ProcessingPlainWordmark'.toLowerCase() && <ProcessingPlainWordmark />}
+      {componentName.toLowerCase() === 'PrometheusOriginal'.toLowerCase() && (
+        <PrometheusOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'PrometheusOriginalWordmark'.toLowerCase() && (
+        <PrometheusOriginalWordmark />
+      )}
       {componentName.toLowerCase() === 'ProtractorPlain'.toLowerCase() && (
         <ProtractorPlain />
       )}
@@ -2036,6 +2376,17 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'PycharmPlainWordmark'.toLowerCase() && (
         <PycharmPlainWordmark />
       )}
+      {componentName.toLowerCase() === 'PytestOriginal'.toLowerCase() && (
+        <PytestOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'PytestOriginalWordmark'.toLowerCase() && <PytestOriginalWordmark />}
+      {componentName.toLowerCase() === 'PytestPlain'.toLowerCase() && (
+        <PytestPlain />
+      )}
+      {componentName.toLowerCase() === 'PytestPlainWordmark'.toLowerCase() && (
+        <PytestPlainWordmark />
+      )}
       {componentName.toLowerCase() === 'PythonOriginal'.toLowerCase() && (
         <PythonOriginal />
       )}
@@ -2046,6 +2397,14 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() === 'PythonPlainWordmark'.toLowerCase() && (
         <PythonPlainWordmark />
+      )}
+      {componentName.toLowerCase() === 'PytorchOriginal'.toLowerCase() && (
+        <PytorchOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'PytorchOriginalWordmark'.toLowerCase() && <PytorchOriginalWordmark />}
+      {componentName.toLowerCase() === 'PytorchPlainWordmark'.toLowerCase() && (
+        <PytorchPlainWordmark />
       )}
       {componentName.toLowerCase() === 'QtOriginal'.toLowerCase() && (
         <QtOriginal />
@@ -2079,6 +2438,12 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() ===
         'ReactOriginalWordmark'.toLowerCase() && <ReactOriginalWordmark />}
+      {componentName.toLowerCase() === 'RectOriginal'.toLowerCase() && (
+        <RectOriginal />
+      )}
+      {componentName.toLowerCase() === 'RectPlain'.toLowerCase() && (
+        <RectPlain />
+      )}
       {componentName.toLowerCase() === 'RedhatOriginal'.toLowerCase() && (
         <RedhatOriginal />
       )}
@@ -2107,6 +2472,11 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'RocksdbPlain'.toLowerCase() && (
         <RocksdbPlain />
       )}
+      {componentName.toLowerCase() === 'RspecOriginal'.toLowerCase() && (
+        <RspecOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'RspecOriginalWordmark'.toLowerCase() && <RspecOriginalWordmark />}
       {componentName.toLowerCase() === 'RstudioOriginal'.toLowerCase() && (
         <RstudioOriginal />
       )}
@@ -2177,6 +2547,13 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'ScalaPlainWordmark'.toLowerCase() && (
         <ScalaPlainWordmark />
       )}
+      {componentName.toLowerCase() === 'SdlOriginal'.toLowerCase() && (
+        <SdlOriginal />
+      )}
+      {componentName.toLowerCase() === 'SdlPlain'.toLowerCase() && <SdlPlain />}
+      {componentName.toLowerCase() === 'SeleniumOriginal'.toLowerCase() && (
+        <SeleniumOriginal />
+      )}
       {componentName.toLowerCase() === 'SequelizeOriginal'.toLowerCase() && (
         <SequelizeOriginal />
       )}
@@ -2195,6 +2572,16 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() ===
         'ShopwareOriginalWordmark'.toLowerCase() && (
         <ShopwareOriginalWordmark />
+      )}
+      {componentName.toLowerCase() === 'ShotgridOriginal'.toLowerCase() && (
+        <ShotgridOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'ShotgridOriginalWordmark'.toLowerCase() && (
+        <ShotgridOriginalWordmark />
+      )}
+      {componentName.toLowerCase() === 'ShotgridPlain'.toLowerCase() && (
+        <ShotgridPlain />
       )}
       {componentName.toLowerCase() === 'SketchLine'.toLowerCase() && (
         <SketchLine />
@@ -2224,6 +2611,12 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() ===
         'SocketioOriginalWordmark'.toLowerCase() && (
         <SocketioOriginalWordmark />
+      )}
+      {componentName.toLowerCase() === 'SolidityOriginal'.toLowerCase() && (
+        <SolidityOriginal />
+      )}
+      {componentName.toLowerCase() === 'SolidityPlain'.toLowerCase() && (
+        <SolidityPlain />
       )}
       {componentName.toLowerCase() === 'SourcetreeOriginal'.toLowerCase() && (
         <SourcetreeOriginal />
@@ -2258,6 +2651,17 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() === 'SqlalchemyPlain'.toLowerCase() && (
         <SqlalchemyPlain />
+      )}
+      {componentName.toLowerCase() === 'SqliteOriginal'.toLowerCase() && (
+        <SqliteOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'SqliteOriginalWordmark'.toLowerCase() && <SqliteOriginalWordmark />}
+      {componentName.toLowerCase() === 'SqlitePlain'.toLowerCase() && (
+        <SqlitePlain />
+      )}
+      {componentName.toLowerCase() === 'SqlitePlainWordmark'.toLowerCase() && (
+        <SqlitePlainWordmark />
       )}
       {componentName.toLowerCase() === 'SshOriginal'.toLowerCase() && (
         <SshOriginal />
@@ -2333,6 +2737,18 @@ const ListIcons = ({ componentName }) => {
         'TensorflowOriginalWordmark'.toLowerCase() && (
         <TensorflowOriginalWordmark />
       )}
+      {componentName.toLowerCase() === 'TerraformOriginal'.toLowerCase() && (
+        <TerraformOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'TerraformOriginalWordmark'.toLowerCase() && (
+        <TerraformOriginalWordmark />
+      )}
+      {componentName.toLowerCase() === 'TerraformPlain'.toLowerCase() && (
+        <TerraformPlain />
+      )}
+      {componentName.toLowerCase() ===
+        'TerraformPlainWordmark'.toLowerCase() && <TerraformPlainWordmark />}
       {componentName.toLowerCase() ===
         'ThealgorithmsOriginal'.toLowerCase() && <ThealgorithmsOriginal />}
       {componentName.toLowerCase() ===
@@ -2429,6 +2845,13 @@ const ListIcons = ({ componentName }) => {
       {componentName.toLowerCase() === 'UnixOriginal'.toLowerCase() && (
         <UnixOriginal />
       )}
+      {componentName.toLowerCase() === 'UnrealengineOriginal'.toLowerCase() && (
+        <UnrealengineOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'UnrealengineOriginalWordmark'.toLowerCase() && (
+        <UnrealengineOriginalWordmark />
+      )}
       {componentName.toLowerCase() === 'UwsgiOriginal'.toLowerCase() && (
         <UwsgiOriginal />
       )}
@@ -2489,6 +2912,18 @@ const ListIcons = ({ componentName }) => {
         'VuestorefrontOriginal'.toLowerCase() && <VuestorefrontOriginal />}
       {componentName.toLowerCase() === 'VuestorefrontPlain'.toLowerCase() && (
         <VuestorefrontPlain />
+      )}
+      {componentName.toLowerCase() === 'VuetifyLine'.toLowerCase() && (
+        <VuetifyLine />
+      )}
+      {componentName.toLowerCase() === 'VuetifyOriginal'.toLowerCase() && (
+        <VuetifyOriginal />
+      )}
+      {componentName.toLowerCase() === 'VuetifyPlain'.toLowerCase() && (
+        <VuetifyPlain />
+      )}
+      {componentName.toLowerCase() === 'WebflowOriginal'.toLowerCase() && (
+        <WebflowOriginal />
       )}
       {componentName.toLowerCase() === 'WeblateOriginal'.toLowerCase() && (
         <WeblateOriginal />
@@ -2553,6 +2988,17 @@ const ListIcons = ({ componentName }) => {
       )}
       {componentName.toLowerCase() ===
         'WordpressPlainWordmark'.toLowerCase() && <WordpressPlainWordmark />}
+      {componentName.toLowerCase() === 'XamarinOriginal'.toLowerCase() && (
+        <XamarinOriginal />
+      )}
+      {componentName.toLowerCase() ===
+        'XamarinOriginalWordmark'.toLowerCase() && <XamarinOriginalWordmark />}
+      {componentName.toLowerCase() === 'XcodeOriginal'.toLowerCase() && (
+        <XcodeOriginal />
+      )}
+      {componentName.toLowerCase() === 'XcodePlain'.toLowerCase() && (
+        <XcodePlain />
+      )}
       {componentName.toLowerCase() === 'XdLine'.toLowerCase() && <XdLine />}
       {componentName.toLowerCase() === 'XdPlain'.toLowerCase() && <XdPlain />}
       {componentName.toLowerCase() === 'YarnOriginal'.toLowerCase() && (

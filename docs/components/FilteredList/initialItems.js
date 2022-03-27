@@ -45,6 +45,16 @@ const initialItems = [
     fileName: 'devicons-react/icons/AmazonwebservicesPlainWordmark',
   },
   {
+    name: 'Anaconda Original',
+    componentName: 'AnacondaOriginal',
+    fileName: 'devicons-react/icons/AnacondaOriginal',
+  },
+  {
+    name: 'Anaconda Original Wordmark',
+    componentName: 'AnacondaOriginalWordmark',
+    fileName: 'devicons-react/icons/AnacondaOriginalWordmark',
+  },
+  {
     name: 'Android Original',
     componentName: 'AndroidOriginal',
     fileName: 'devicons-react/icons/AndroidOriginal',
@@ -65,6 +75,26 @@ const initialItems = [
     fileName: 'devicons-react/icons/AndroidPlainWordmark',
   },
   {
+    name: 'Androidstudio Original',
+    componentName: 'AndroidstudioOriginal',
+    fileName: 'devicons-react/icons/AndroidstudioOriginal',
+  },
+  {
+    name: 'Androidstudio Original Wordmark',
+    componentName: 'AndroidstudioOriginalWordmark',
+    fileName: 'devicons-react/icons/AndroidstudioOriginalWordmark',
+  },
+  {
+    name: 'Androidstudio Plain',
+    componentName: 'AndroidstudioPlain',
+    fileName: 'devicons-react/icons/AndroidstudioPlain',
+  },
+  {
+    name: 'Androidstudio Plain Wordmark',
+    componentName: 'AndroidstudioPlainWordmark',
+    fileName: 'devicons-react/icons/AndroidstudioPlainWordmark',
+  },
+  {
     name: 'Angularjs Original',
     componentName: 'AngularjsOriginal',
     fileName: 'devicons-react/icons/AngularjsOriginal',
@@ -83,6 +113,26 @@ const initialItems = [
     name: 'Angularjs Plain Wordmark',
     componentName: 'AngularjsPlainWordmark',
     fileName: 'devicons-react/icons/AngularjsPlainWordmark',
+  },
+  {
+    name: 'Ansible Original',
+    componentName: 'AnsibleOriginal',
+    fileName: 'devicons-react/icons/AnsibleOriginal',
+  },
+  {
+    name: 'Ansible Original Wordmark',
+    componentName: 'AnsibleOriginalWordmark',
+    fileName: 'devicons-react/icons/AnsibleOriginalWordmark',
+  },
+  {
+    name: 'Ansible Plain',
+    componentName: 'AnsiblePlain',
+    fileName: 'devicons-react/icons/AnsiblePlain',
+  },
+  {
+    name: 'Ansible Plain Wordmark',
+    componentName: 'AnsiblePlainWordmark',
+    fileName: 'devicons-react/icons/AnsiblePlainWordmark',
   },
   {
     name: 'Apache Line',
@@ -185,6 +235,26 @@ const initialItems = [
     fileName: 'devicons-react/icons/ArduinoPlainWordmark',
   },
   {
+    name: 'Argocd Original',
+    componentName: 'ArgocdOriginal',
+    fileName: 'devicons-react/icons/ArgocdOriginal',
+  },
+  {
+    name: 'Argocd Original Wordmark',
+    componentName: 'ArgocdOriginalWordmark',
+    fileName: 'devicons-react/icons/ArgocdOriginalWordmark',
+  },
+  {
+    name: 'Argocd Plain',
+    componentName: 'ArgocdPlain',
+    fileName: 'devicons-react/icons/ArgocdPlain',
+  },
+  {
+    name: 'Argocd Plain Wordmark',
+    componentName: 'ArgocdPlainWordmark',
+    fileName: 'devicons-react/icons/ArgocdPlainWordmark',
+  },
+  {
     name: 'Atom Original',
     componentName: 'AtomOriginal',
     fileName: 'devicons-react/icons/AtomOriginal',
@@ -245,6 +315,16 @@ const initialItems = [
     fileName: 'devicons-react/icons/BackbonejsPlainWordmark',
   },
   {
+    name: 'Bamboo Original',
+    componentName: 'BambooOriginal',
+    fileName: 'devicons-react/icons/BambooOriginal',
+  },
+  {
+    name: 'Bamboo Original Wordmark',
+    componentName: 'BambooOriginalWordmark',
+    fileName: 'devicons-react/icons/BambooOriginalWordmark',
+  },
+  {
     name: 'Bash Original',
     componentName: 'BashOriginal',
     fileName: 'devicons-react/icons/BashOriginal',
@@ -285,9 +365,24 @@ const initialItems = [
     fileName: 'devicons-react/icons/BitbucketOriginalWordmark',
   },
   {
+    name: 'Blender Original',
+    componentName: 'BlenderOriginal',
+    fileName: 'devicons-react/icons/BlenderOriginal',
+  },
+  {
+    name: 'Blender Original Wordmark',
+    componentName: 'BlenderOriginalWordmark',
+    fileName: 'devicons-react/icons/BlenderOriginalWordmark',
+  },
+  {
     name: 'Bootstrap Original',
     componentName: 'BootstrapOriginal',
     fileName: 'devicons-react/icons/BootstrapOriginal',
+  },
+  {
+    name: 'Bootstrap Original Wordmark',
+    componentName: 'BootstrapOriginalWordmark',
+    fileName: 'devicons-react/icons/BootstrapOriginalWordmark',
   },
   {
     name: 'Bootstrap Plain',
@@ -463,6 +558,26 @@ const initialItems = [
     name: 'Clojurescript Plain',
     componentName: 'ClojurescriptPlain',
     fileName: 'devicons-react/icons/ClojurescriptPlain',
+  },
+  {
+    name: 'Cmake Original',
+    componentName: 'CmakeOriginal',
+    fileName: 'devicons-react/icons/CmakeOriginal',
+  },
+  {
+    name: 'Cmake Original Wordmark',
+    componentName: 'CmakeOriginalWordmark',
+    fileName: 'devicons-react/icons/CmakeOriginalWordmark',
+  },
+  {
+    name: 'Cmake Plain',
+    componentName: 'CmakePlain',
+    fileName: 'devicons-react/icons/CmakePlain',
+  },
+  {
+    name: 'Cmake Plain Wordmark',
+    componentName: 'CmakePlainWordmark',
+    fileName: 'devicons-react/icons/CmakePlainWordmark',
   },
   {
     name: 'Codecov Plain',
@@ -700,19 +815,34 @@ const initialItems = [
     fileName: 'devicons-react/icons/DigitaloceanPlainWordmark',
   },
   {
-    name: 'Django Line',
-    componentName: 'DjangoLine',
-    fileName: 'devicons-react/icons/DjangoLine',
+    name: 'Discordjs Original',
+    componentName: 'DiscordjsOriginal',
+    fileName: 'devicons-react/icons/DiscordjsOriginal',
   },
   {
-    name: 'Django Original',
-    componentName: 'DjangoOriginal',
-    fileName: 'devicons-react/icons/DjangoOriginal',
+    name: 'Discordjs Original Wordmark',
+    componentName: 'DiscordjsOriginalWordmark',
+    fileName: 'devicons-react/icons/DiscordjsOriginalWordmark',
+  },
+  {
+    name: 'Discordjs Plain',
+    componentName: 'DiscordjsPlain',
+    fileName: 'devicons-react/icons/DiscordjsPlain',
+  },
+  {
+    name: 'Discordjs Plain Wordmark',
+    componentName: 'DiscordjsPlainWordmark',
+    fileName: 'devicons-react/icons/DiscordjsPlainWordmark',
   },
   {
     name: 'Django Plain',
     componentName: 'DjangoPlain',
     fileName: 'devicons-react/icons/DjangoPlain',
+  },
+  {
+    name: 'Django Plain Wordmark',
+    componentName: 'DjangoPlainWordmark',
+    fileName: 'devicons-react/icons/DjangoPlainWordmark',
   },
   {
     name: 'Docker Original',
@@ -793,6 +923,16 @@ const initialItems = [
     name: 'Dotnetcore Plain',
     componentName: 'DotnetcorePlain',
     fileName: 'devicons-react/icons/DotnetcorePlain',
+  },
+  {
+    name: 'Dropwizard Original',
+    componentName: 'DropwizardOriginal',
+    fileName: 'devicons-react/icons/DropwizardOriginal',
+  },
+  {
+    name: 'Dropwizard Plain',
+    componentName: 'DropwizardPlain',
+    fileName: 'devicons-react/icons/DropwizardPlain',
   },
   {
     name: 'Drupal Original',
@@ -920,6 +1060,16 @@ const initialItems = [
     fileName: 'devicons-react/icons/ErlangPlainWordmark',
   },
   {
+    name: 'Eslint Original',
+    componentName: 'EslintOriginal',
+    fileName: 'devicons-react/icons/EslintOriginal',
+  },
+  {
+    name: 'Eslint Original Wordmark',
+    componentName: 'EslintOriginalWordmark',
+    fileName: 'devicons-react/icons/EslintOriginalWordmark',
+  },
+  {
     name: 'Express Original',
     componentName: 'ExpressOriginal',
     fileName: 'devicons-react/icons/ExpressOriginal',
@@ -940,9 +1090,39 @@ const initialItems = [
     fileName: 'devicons-react/icons/FacebookPlain',
   },
   {
+    name: 'Fastapi Original',
+    componentName: 'FastapiOriginal',
+    fileName: 'devicons-react/icons/FastapiOriginal',
+  },
+  {
+    name: 'Fastapi Original Wordmark',
+    componentName: 'FastapiOriginalWordmark',
+    fileName: 'devicons-react/icons/FastapiOriginalWordmark',
+  },
+  {
+    name: 'Fastapi Plain',
+    componentName: 'FastapiPlain',
+    fileName: 'devicons-react/icons/FastapiPlain',
+  },
+  {
+    name: 'Fastapi Plain Wordmark',
+    componentName: 'FastapiPlainWordmark',
+    fileName: 'devicons-react/icons/FastapiPlainWordmark',
+  },
+  {
     name: 'Feathersjs Original',
     componentName: 'FeathersjsOriginal',
     fileName: 'devicons-react/icons/FeathersjsOriginal',
+  },
+  {
+    name: 'Fedora Original',
+    componentName: 'FedoraOriginal',
+    fileName: 'devicons-react/icons/FedoraOriginal',
+  },
+  {
+    name: 'Fedora Plain',
+    componentName: 'FedoraPlain',
+    fileName: 'devicons-react/icons/FedoraPlain',
   },
   {
     name: 'Figma Original',
@@ -1083,6 +1263,16 @@ const initialItems = [
     name: 'Gcc Plain',
     componentName: 'GccPlain',
     fileName: 'devicons-react/icons/GccPlain',
+  },
+  {
+    name: 'Gentoo Plain',
+    componentName: 'GentooPlain',
+    fileName: 'devicons-react/icons/GentooPlain',
+  },
+  {
+    name: 'Gentoo Plain Wordmark',
+    componentName: 'GentooPlainWordmark',
+    fileName: 'devicons-react/icons/GentooPlainWordmark',
   },
   {
     name: 'Gimp Original',
@@ -1255,6 +1445,16 @@ const initialItems = [
     fileName: 'devicons-react/icons/GradlePlainWordmark',
   },
   {
+    name: 'Grafana Original',
+    componentName: 'GrafanaOriginal',
+    fileName: 'devicons-react/icons/GrafanaOriginal',
+  },
+  {
+    name: 'Grafana Original Wordmark',
+    componentName: 'GrafanaOriginalWordmark',
+    fileName: 'devicons-react/icons/GrafanaOriginalWordmark',
+  },
+  {
     name: 'Grails Original',
     componentName: 'GrailsOriginal',
     fileName: 'devicons-react/icons/GrailsOriginal',
@@ -1400,9 +1600,34 @@ const initialItems = [
     fileName: 'devicons-react/icons/Html5PlainWordmark',
   },
   {
+    name: 'Hugo Original',
+    componentName: 'HugoOriginal',
+    fileName: 'devicons-react/icons/HugoOriginal',
+  },
+  {
+    name: 'Hugo Original Wordmark',
+    componentName: 'HugoOriginalWordmark',
+    fileName: 'devicons-react/icons/HugoOriginalWordmark',
+  },
+  {
+    name: 'Hugo Plain',
+    componentName: 'HugoPlain',
+    fileName: 'devicons-react/icons/HugoPlain',
+  },
+  {
+    name: 'Hugo Plain Wordmark',
+    componentName: 'HugoPlainWordmark',
+    fileName: 'devicons-react/icons/HugoPlainWordmark',
+  },
+  {
     name: 'Ie10 Original',
     componentName: 'Ie10Original',
     fileName: 'devicons-react/icons/Ie10Original',
+  },
+  {
+    name: 'Ifttt Original',
+    componentName: 'IftttOriginal',
+    fileName: 'devicons-react/icons/IftttOriginal',
   },
   {
     name: 'Illustrator Line',
@@ -1650,6 +1875,31 @@ const initialItems = [
     fileName: 'devicons-react/icons/JupyterPlainWordmark',
   },
   {
+    name: 'K3 S Original',
+    componentName: 'K3SOriginal',
+    fileName: 'devicons-react/icons/K3SOriginal',
+  },
+  {
+    name: 'K3 S Original Wordmark',
+    componentName: 'K3SOriginalWordmark',
+    fileName: 'devicons-react/icons/K3SOriginalWordmark',
+  },
+  {
+    name: 'K3 S Plain Wordmark',
+    componentName: 'K3SPlainWordmark',
+    fileName: 'devicons-react/icons/K3SPlainWordmark',
+  },
+  {
+    name: 'Kaggle Original',
+    componentName: 'KaggleOriginal',
+    fileName: 'devicons-react/icons/KaggleOriginal',
+  },
+  {
+    name: 'Kaggle Original Wordmark',
+    componentName: 'KaggleOriginalWordmark',
+    fileName: 'devicons-react/icons/KaggleOriginalWordmark',
+  },
+  {
     name: 'Karma Original',
     componentName: 'KarmaOriginal',
     fileName: 'devicons-react/icons/KarmaOriginal',
@@ -1743,6 +1993,11 @@ const initialItems = [
     name: 'Laravel Plain Wordmark',
     componentName: 'LaravelPlainWordmark',
     fileName: 'devicons-react/icons/LaravelPlainWordmark',
+  },
+  {
+    name: 'Latex Original',
+    componentName: 'LatexOriginal',
+    fileName: 'devicons-react/icons/LatexOriginal',
   },
   {
     name: 'Less Plain Wordmark',
@@ -1843,6 +2098,26 @@ const initialItems = [
     name: 'Matlab Plain',
     componentName: 'MatlabPlain',
     fileName: 'devicons-react/icons/MatlabPlain',
+  },
+  {
+    name: 'Maya Original',
+    componentName: 'MayaOriginal',
+    fileName: 'devicons-react/icons/MayaOriginal',
+  },
+  {
+    name: 'Maya Original Wordmark',
+    componentName: 'MayaOriginalWordmark',
+    fileName: 'devicons-react/icons/MayaOriginalWordmark',
+  },
+  {
+    name: 'Maya Plain',
+    componentName: 'MayaPlain',
+    fileName: 'devicons-react/icons/MayaPlain',
+  },
+  {
+    name: 'Maya Plain Wordmark',
+    componentName: 'MayaPlainWordmark',
+    fileName: 'devicons-react/icons/MayaPlainWordmark',
   },
   {
     name: 'Meteor Original',
@@ -2015,6 +2290,11 @@ const initialItems = [
     fileName: 'devicons-react/icons/NestjsPlainWordmark',
   },
   {
+    name: 'Networkx Original',
+    componentName: 'NetworkxOriginal',
+    fileName: 'devicons-react/icons/NetworkxOriginal',
+  },
+  {
     name: 'Nextjs Line',
     componentName: 'NextjsLine',
     fileName: 'devicons-react/icons/NextjsLine',
@@ -2110,6 +2390,16 @@ const initialItems = [
     fileName: 'devicons-react/icons/NpmOriginalWordmark',
   },
   {
+    name: 'Nuget Original',
+    componentName: 'NugetOriginal',
+    fileName: 'devicons-react/icons/NugetOriginal',
+  },
+  {
+    name: 'Nuget Original Wordmark',
+    componentName: 'NugetOriginalWordmark',
+    fileName: 'devicons-react/icons/NugetOriginalWordmark',
+  },
+  {
     name: 'Numpy Original',
     componentName: 'NumpyOriginal',
     fileName: 'devicons-react/icons/NumpyOriginal',
@@ -2165,6 +2455,36 @@ const initialItems = [
     fileName: 'devicons-react/icons/OcamlPlainWordmark',
   },
   {
+    name: 'Openal Original',
+    componentName: 'OpenalOriginal',
+    fileName: 'devicons-react/icons/OpenalOriginal',
+  },
+  {
+    name: 'Openal Plain',
+    componentName: 'OpenalPlain',
+    fileName: 'devicons-react/icons/OpenalPlain',
+  },
+  {
+    name: 'Opencv Original',
+    componentName: 'OpencvOriginal',
+    fileName: 'devicons-react/icons/OpencvOriginal',
+  },
+  {
+    name: 'Opencv Original Wordmark',
+    componentName: 'OpencvOriginalWordmark',
+    fileName: 'devicons-react/icons/OpencvOriginalWordmark',
+  },
+  {
+    name: 'Opencv Plain',
+    componentName: 'OpencvPlain',
+    fileName: 'devicons-react/icons/OpencvPlain',
+  },
+  {
+    name: 'Opencv Plain Wordmark',
+    componentName: 'OpencvPlainWordmark',
+    fileName: 'devicons-react/icons/OpencvPlainWordmark',
+  },
+  {
     name: 'Opengl Original',
     componentName: 'OpenglOriginal',
     fileName: 'devicons-react/icons/OpenglOriginal',
@@ -2173,6 +2493,26 @@ const initialItems = [
     name: 'Opengl Plain',
     componentName: 'OpenglPlain',
     fileName: 'devicons-react/icons/OpenglPlain',
+  },
+  {
+    name: 'Opensuse Original',
+    componentName: 'OpensuseOriginal',
+    fileName: 'devicons-react/icons/OpensuseOriginal',
+  },
+  {
+    name: 'Opensuse Original Wordmark',
+    componentName: 'OpensuseOriginalWordmark',
+    fileName: 'devicons-react/icons/OpensuseOriginalWordmark',
+  },
+  {
+    name: 'Opensuse Plain',
+    componentName: 'OpensusePlain',
+    fileName: 'devicons-react/icons/OpensusePlain',
+  },
+  {
+    name: 'Opensuse Plain Wordmark',
+    componentName: 'OpensusePlainWordmark',
+    fileName: 'devicons-react/icons/OpensusePlainWordmark',
   },
   {
     name: 'Opera Original',
@@ -2198,6 +2538,16 @@ const initialItems = [
     name: 'Oracle Original',
     componentName: 'OracleOriginal',
     fileName: 'devicons-react/icons/OracleOriginal',
+  },
+  {
+    name: 'Packer Original',
+    componentName: 'PackerOriginal',
+    fileName: 'devicons-react/icons/PackerOriginal',
+  },
+  {
+    name: 'Packer Original Wordmark',
+    componentName: 'PackerOriginalWordmark',
+    fileName: 'devicons-react/icons/PackerOriginalWordmark',
   },
   {
     name: 'Pandas Original',
@@ -2290,6 +2640,36 @@ const initialItems = [
     fileName: 'devicons-react/icons/PhpstormPlainWordmark',
   },
   {
+    name: 'Podman Original',
+    componentName: 'PodmanOriginal',
+    fileName: 'devicons-react/icons/PodmanOriginal',
+  },
+  {
+    name: 'Podman Original Wordmark',
+    componentName: 'PodmanOriginalWordmark',
+    fileName: 'devicons-react/icons/PodmanOriginalWordmark',
+  },
+  {
+    name: 'Podman Plain',
+    componentName: 'PodmanPlain',
+    fileName: 'devicons-react/icons/PodmanPlain',
+  },
+  {
+    name: 'Podman Plain Wordmark',
+    componentName: 'PodmanPlainWordmark',
+    fileName: 'devicons-react/icons/PodmanPlainWordmark',
+  },
+  {
+    name: 'Polygon Original',
+    componentName: 'PolygonOriginal',
+    fileName: 'devicons-react/icons/PolygonOriginal',
+  },
+  {
+    name: 'Polygon Plain',
+    componentName: 'PolygonPlain',
+    fileName: 'devicons-react/icons/PolygonPlain',
+  },
+  {
     name: 'Postgresql Original',
     componentName: 'PostgresqlOriginal',
     fileName: 'devicons-react/icons/PostgresqlOriginal',
@@ -2340,6 +2720,16 @@ const initialItems = [
     fileName: 'devicons-react/icons/ProcessingPlainWordmark',
   },
   {
+    name: 'Prometheus Original',
+    componentName: 'PrometheusOriginal',
+    fileName: 'devicons-react/icons/PrometheusOriginal',
+  },
+  {
+    name: 'Prometheus Original Wordmark',
+    componentName: 'PrometheusOriginalWordmark',
+    fileName: 'devicons-react/icons/PrometheusOriginalWordmark',
+  },
+  {
     name: 'Protractor Plain',
     componentName: 'ProtractorPlain',
     fileName: 'devicons-react/icons/ProtractorPlain',
@@ -2380,6 +2770,26 @@ const initialItems = [
     fileName: 'devicons-react/icons/PycharmPlainWordmark',
   },
   {
+    name: 'Pytest Original',
+    componentName: 'PytestOriginal',
+    fileName: 'devicons-react/icons/PytestOriginal',
+  },
+  {
+    name: 'Pytest Original Wordmark',
+    componentName: 'PytestOriginalWordmark',
+    fileName: 'devicons-react/icons/PytestOriginalWordmark',
+  },
+  {
+    name: 'Pytest Plain',
+    componentName: 'PytestPlain',
+    fileName: 'devicons-react/icons/PytestPlain',
+  },
+  {
+    name: 'Pytest Plain Wordmark',
+    componentName: 'PytestPlainWordmark',
+    fileName: 'devicons-react/icons/PytestPlainWordmark',
+  },
+  {
     name: 'Python Original',
     componentName: 'PythonOriginal',
     fileName: 'devicons-react/icons/PythonOriginal',
@@ -2398,6 +2808,21 @@ const initialItems = [
     name: 'Python Plain Wordmark',
     componentName: 'PythonPlainWordmark',
     fileName: 'devicons-react/icons/PythonPlainWordmark',
+  },
+  {
+    name: 'Pytorch Original',
+    componentName: 'PytorchOriginal',
+    fileName: 'devicons-react/icons/PytorchOriginal',
+  },
+  {
+    name: 'Pytorch Original Wordmark',
+    componentName: 'PytorchOriginalWordmark',
+    fileName: 'devicons-react/icons/PytorchOriginalWordmark',
+  },
+  {
+    name: 'Pytorch Plain Wordmark',
+    componentName: 'PytorchPlainWordmark',
+    fileName: 'devicons-react/icons/PytorchPlainWordmark',
   },
   {
     name: 'Qt Original',
@@ -2460,6 +2885,16 @@ const initialItems = [
     fileName: 'devicons-react/icons/ReactOriginalWordmark',
   },
   {
+    name: 'Rect Original',
+    componentName: 'RectOriginal',
+    fileName: 'devicons-react/icons/RectOriginal',
+  },
+  {
+    name: 'Rect Plain',
+    componentName: 'RectPlain',
+    fileName: 'devicons-react/icons/RectPlain',
+  },
+  {
     name: 'Redhat Original',
     componentName: 'RedhatOriginal',
     fileName: 'devicons-react/icons/RedhatOriginal',
@@ -2508,6 +2943,16 @@ const initialItems = [
     name: 'Rocksdb Plain',
     componentName: 'RocksdbPlain',
     fileName: 'devicons-react/icons/RocksdbPlain',
+  },
+  {
+    name: 'Rspec Original',
+    componentName: 'RspecOriginal',
+    fileName: 'devicons-react/icons/RspecOriginal',
+  },
+  {
+    name: 'Rspec Original Wordmark',
+    componentName: 'RspecOriginalWordmark',
+    fileName: 'devicons-react/icons/RspecOriginalWordmark',
   },
   {
     name: 'Rstudio Original',
@@ -2630,6 +3075,21 @@ const initialItems = [
     fileName: 'devicons-react/icons/ScalaPlainWordmark',
   },
   {
+    name: 'Sdl Original',
+    componentName: 'SdlOriginal',
+    fileName: 'devicons-react/icons/SdlOriginal',
+  },
+  {
+    name: 'Sdl Plain',
+    componentName: 'SdlPlain',
+    fileName: 'devicons-react/icons/SdlPlain',
+  },
+  {
+    name: 'Selenium Original',
+    componentName: 'SeleniumOriginal',
+    fileName: 'devicons-react/icons/SeleniumOriginal',
+  },
+  {
     name: 'Sequelize Original',
     componentName: 'SequelizeOriginal',
     fileName: 'devicons-react/icons/SequelizeOriginal',
@@ -2658,6 +3118,21 @@ const initialItems = [
     name: 'Shopware Original Wordmark',
     componentName: 'ShopwareOriginalWordmark',
     fileName: 'devicons-react/icons/ShopwareOriginalWordmark',
+  },
+  {
+    name: 'Shotgrid Original',
+    componentName: 'ShotgridOriginal',
+    fileName: 'devicons-react/icons/ShotgridOriginal',
+  },
+  {
+    name: 'Shotgrid Original Wordmark',
+    componentName: 'ShotgridOriginalWordmark',
+    fileName: 'devicons-react/icons/ShotgridOriginalWordmark',
+  },
+  {
+    name: 'Shotgrid Plain',
+    componentName: 'ShotgridPlain',
+    fileName: 'devicons-react/icons/ShotgridPlain',
   },
   {
     name: 'Sketch Line',
@@ -2708,6 +3183,16 @@ const initialItems = [
     name: 'Socketio Original Wordmark',
     componentName: 'SocketioOriginalWordmark',
     fileName: 'devicons-react/icons/SocketioOriginalWordmark',
+  },
+  {
+    name: 'Solidity Original',
+    componentName: 'SolidityOriginal',
+    fileName: 'devicons-react/icons/SolidityOriginal',
+  },
+  {
+    name: 'Solidity Plain',
+    componentName: 'SolidityPlain',
+    fileName: 'devicons-react/icons/SolidityPlain',
   },
   {
     name: 'Sourcetree Original',
@@ -2763,6 +3248,26 @@ const initialItems = [
     name: 'Sqlalchemy Plain',
     componentName: 'SqlalchemyPlain',
     fileName: 'devicons-react/icons/SqlalchemyPlain',
+  },
+  {
+    name: 'Sqlite Original',
+    componentName: 'SqliteOriginal',
+    fileName: 'devicons-react/icons/SqliteOriginal',
+  },
+  {
+    name: 'Sqlite Original Wordmark',
+    componentName: 'SqliteOriginalWordmark',
+    fileName: 'devicons-react/icons/SqliteOriginalWordmark',
+  },
+  {
+    name: 'Sqlite Plain',
+    componentName: 'SqlitePlain',
+    fileName: 'devicons-react/icons/SqlitePlain',
+  },
+  {
+    name: 'Sqlite Plain Wordmark',
+    componentName: 'SqlitePlainWordmark',
+    fileName: 'devicons-react/icons/SqlitePlainWordmark',
   },
   {
     name: 'Ssh Original',
@@ -2888,6 +3393,26 @@ const initialItems = [
     name: 'Tensorflow Original Wordmark',
     componentName: 'TensorflowOriginalWordmark',
     fileName: 'devicons-react/icons/TensorflowOriginalWordmark',
+  },
+  {
+    name: 'Terraform Original',
+    componentName: 'TerraformOriginal',
+    fileName: 'devicons-react/icons/TerraformOriginal',
+  },
+  {
+    name: 'Terraform Original Wordmark',
+    componentName: 'TerraformOriginalWordmark',
+    fileName: 'devicons-react/icons/TerraformOriginalWordmark',
+  },
+  {
+    name: 'Terraform Plain',
+    componentName: 'TerraformPlain',
+    fileName: 'devicons-react/icons/TerraformPlain',
+  },
+  {
+    name: 'Terraform Plain Wordmark',
+    componentName: 'TerraformPlainWordmark',
+    fileName: 'devicons-react/icons/TerraformPlainWordmark',
   },
   {
     name: 'Thealgorithms Original',
@@ -3055,6 +3580,16 @@ const initialItems = [
     fileName: 'devicons-react/icons/UnixOriginal',
   },
   {
+    name: 'Unrealengine Original',
+    componentName: 'UnrealengineOriginal',
+    fileName: 'devicons-react/icons/UnrealengineOriginal',
+  },
+  {
+    name: 'Unrealengine Original Wordmark',
+    componentName: 'UnrealengineOriginalWordmark',
+    fileName: 'devicons-react/icons/UnrealengineOriginalWordmark',
+  },
+  {
     name: 'Uwsgi Original',
     componentName: 'UwsgiOriginal',
     fileName: 'devicons-react/icons/UwsgiOriginal',
@@ -3165,6 +3700,26 @@ const initialItems = [
     fileName: 'devicons-react/icons/VuestorefrontPlain',
   },
   {
+    name: 'Vuetify Line',
+    componentName: 'VuetifyLine',
+    fileName: 'devicons-react/icons/VuetifyLine',
+  },
+  {
+    name: 'Vuetify Original',
+    componentName: 'VuetifyOriginal',
+    fileName: 'devicons-react/icons/VuetifyOriginal',
+  },
+  {
+    name: 'Vuetify Plain',
+    componentName: 'VuetifyPlain',
+    fileName: 'devicons-react/icons/VuetifyPlain',
+  },
+  {
+    name: 'Webflow Original',
+    componentName: 'WebflowOriginal',
+    fileName: 'devicons-react/icons/WebflowOriginal',
+  },
+  {
     name: 'Weblate Original',
     componentName: 'WeblateOriginal',
     fileName: 'devicons-react/icons/WeblateOriginal',
@@ -3268,6 +3823,26 @@ const initialItems = [
     name: 'Wordpress Plain Wordmark',
     componentName: 'WordpressPlainWordmark',
     fileName: 'devicons-react/icons/WordpressPlainWordmark',
+  },
+  {
+    name: 'Xamarin Original',
+    componentName: 'XamarinOriginal',
+    fileName: 'devicons-react/icons/XamarinOriginal',
+  },
+  {
+    name: 'Xamarin Original Wordmark',
+    componentName: 'XamarinOriginalWordmark',
+    fileName: 'devicons-react/icons/XamarinOriginalWordmark',
+  },
+  {
+    name: 'Xcode Original',
+    componentName: 'XcodeOriginal',
+    fileName: 'devicons-react/icons/XcodeOriginal',
+  },
+  {
+    name: 'Xcode Plain',
+    componentName: 'XcodePlain',
+    fileName: 'devicons-react/icons/XcodePlain',
   },
   {
     name: 'Xd Line',
