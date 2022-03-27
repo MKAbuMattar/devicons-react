@@ -1,7 +1,7 @@
 import * as React from 'react'
 
 const SvgJetbrainsOriginal = (props) => (
-  <svg xmlns="http://www.w3.org/2000/svg" width={128} height={128} {...props}>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" {...props}>
     <defs>
       <linearGradient
         id="jetbrains-original_svg__a"

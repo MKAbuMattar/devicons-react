@@ -84,14 +84,12 @@ const SvgVscodePlainWordmark = (props) => (
     <use xlinkHref="#vscode-plain-wordmark_svg__f" x={26.471} y={113.712} />
     <use xlinkHref="#vscode-plain-wordmark_svg__g" x={33.977} y={113.712} />
     <use xlinkHref="#vscode-plain-wordmark_svg__h" x={40.822} y={113.712} />
-    <use xlinkHref="#vscode-plain-wordmark_svg__i" x={44.101} y={113.712} />
     <use xlinkHref="#vscode-plain-wordmark_svg__i" x={47.331} y={113.712} />
     <use xlinkHref="#vscode-plain-wordmark_svg__j" x={53.896} y={113.712} />
     <use xlinkHref="#vscode-plain-wordmark_svg__f" x={58.682} y={113.712} />
     <use xlinkHref="#vscode-plain-wordmark_svg__k" x={66.189} y={113.712} />
     <use xlinkHref="#vscode-plain-wordmark_svg__d" x={73.696} y={113.712} />
     <use xlinkHref="#vscode-plain-wordmark_svg__l" x={76.975} y={113.712} />
-    <use xlinkHref="#vscode-plain-wordmark_svg__i" x={84.51} y={113.712} />
     <g clipPath="url(#vscode-plain-wordmark_svg__m)">
       <use xlinkHref="#vscode-plain-wordmark_svg__n" />
     </g>
