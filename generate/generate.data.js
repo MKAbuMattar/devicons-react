@@ -12,9 +12,9 @@ fs.readdirSync(testFolder).forEach((file) => {
   name = file
     .replace(/([A-Z])/g, ' $1')
     .trim()
-    .replace('.js', '')
-  componentName = file.replace('.js', '')
-  fileName = `devicons-react/icons/${file.replace('.js', '')}`
+    .replace('.tsx', '')
+  componentName = file.replace('.tsx', '')
+  fileName = `devicons-react/icons/${file.replace('.tsx', '')}`
   obj = { name: name, componentName: componentName, fileName: fileName }
   data.push(obj)
 })

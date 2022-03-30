@@ -5,6 +5,7 @@ import peerDeps from 'rollup-plugin-peer-deps-external'
 import postcss from 'rollup-plugin-postcss'
 import visualizer from 'rollup-plugin-visualizer'
 import { terser } from 'rollup-plugin-terser'
+import copy from 'rollup-plugin-copy'
 import { getFiles } from './generate/utils/build.util'
 
 const extensions = ['.js', '.ts', '.jsx', '.tsx']
@@ -29,6 +30,13 @@ export default {
     }),
     postcss(),
     terser(),
+    copy({
+      targets: [
+        { src: './README.md', dest: 'lib' },
+        { src: './LICENSE', dest: 'lib' },
+        { src: './package.json', dest: 'lib' },
+      ],
+    }),
     visualizer({
       filename: 'bundle.analysis.html',
       open: true,
