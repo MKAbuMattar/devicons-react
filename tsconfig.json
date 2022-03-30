@@ -27,8 +27,5 @@
     "node_modules",
     "build",
     "lib",
-  ],
-  "types": [
-    "typePatches"
   ]
 }
