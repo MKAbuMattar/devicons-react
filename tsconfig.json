@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es5",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "sourceMap": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "outDir": "lib",
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "baseUrl": "src/",
+    "paths": {
+      "icons/*": [
+        "icons/*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+    "lib",
+  ],
+  "types": [
+    "typePatches"
+  ]
+}

@@ -44,7 +44,7 @@ yarn-error.log*
 **/public/fallback-*.js
 
 
-generate/tmp-data.json
+generate/tmp.data.json
 
 lib
 
@@ -55,3 +55,7 @@ lib
 generate/build.config.json
 
 *.tgz
+
+dist
+
+bundle.analysis.html

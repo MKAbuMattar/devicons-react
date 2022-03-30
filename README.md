@@ -16,7 +16,7 @@
         <img src="https://raw.githubusercontent.com/MKAbuMattar/devicons-react/main/docs/assets/img/logo.png" alt="Devicon Logo" height="140" />
     </a>
     <p align="center">
-        devicons-react aims to gather all logos representing development languages and tools, build into <a href="https://github.com/devicons/devicon">devicon</a>
+        Devicons React is a collection of icons that symbolize programming languages, design tools, and development software, build into <a href="https://github.com/devicons/devicon">devicon</a>
     </p>
     <p align="center">
         <a target="__blank" href="https://devicons-react.vercel.app/">Demo</a>

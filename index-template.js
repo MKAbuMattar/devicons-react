@@ -8,7 +8,7 @@ function defaultIndexTemplate(filePaths) {
     const exportName = /^\d/.test(basename) ? `Svg${basename}` : basename
     return `export { default as ${exportName} } from './icons/${basename}'`
   })
-  fs.writeFileSync(path.resolve(__dirname, 'src/index.js'), exportEntries.join('\n'))
+  fs.writeFileSync(path.resolve(__dirname, 'src/index.ts'), exportEntries.join('\n'))
   return exportEntries.join('\n')
 }
 
