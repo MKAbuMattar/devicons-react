@@ -15,7 +15,7 @@ export default {
   input: ['./src/index.ts', ...getFiles('./src/icons', extensions)],
   output: {
     dir: 'lib',
-    format: 'esm',
+    format: 'cjs',
     preserveModules: true,
     preserveModulesRoot: 'src',
   },
