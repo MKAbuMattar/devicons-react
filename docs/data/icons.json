@@ -135,6 +135,26 @@
     "fileName": "devicons-react/icons/AnsiblePlainWordmark"
   },
   {
+    "name": "Antdesign Original",
+    "componentName": "AntdesignOriginal",
+    "fileName": "devicons-react/icons/AntdesignOriginal"
+  },
+  {
+    "name": "Antdesign Original Wordmark",
+    "componentName": "AntdesignOriginalWordmark",
+    "fileName": "devicons-react/icons/AntdesignOriginalWordmark"
+  },
+  {
+    "name": "Antdesign Plain",
+    "componentName": "AntdesignPlain",
+    "fileName": "devicons-react/icons/AntdesignPlain"
+  },
+  {
+    "name": "Antdesign Plain Wordmark",
+    "componentName": "AntdesignPlainWordmark",
+    "fileName": "devicons-react/icons/AntdesignPlainWordmark"
+  },
+  {
     "name": "Apache Line",
     "componentName": "ApacheLine",
     "fileName": "devicons-react/icons/ApacheLine"
@@ -215,6 +235,26 @@
     "fileName": "devicons-react/icons/AppwritePlainWordmark"
   },
   {
+    "name": "Archlinux Original",
+    "componentName": "ArchlinuxOriginal",
+    "fileName": "devicons-react/icons/ArchlinuxOriginal"
+  },
+  {
+    "name": "Archlinux Original Wordmark",
+    "componentName": "ArchlinuxOriginalWordmark",
+    "fileName": "devicons-react/icons/ArchlinuxOriginalWordmark"
+  },
+  {
+    "name": "Archlinux Plain",
+    "componentName": "ArchlinuxPlain",
+    "fileName": "devicons-react/icons/ArchlinuxPlain"
+  },
+  {
+    "name": "Archlinux Plain Wordmark",
+    "componentName": "ArchlinuxPlainWordmark",
+    "fileName": "devicons-react/icons/ArchlinuxPlainWordmark"
+  },
+  {
     "name": "Arduino Original",
     "componentName": "ArduinoOriginal",
     "fileName": "devicons-react/icons/ArduinoOriginal"
@@ -263,6 +303,16 @@
     "name": "Atom Original Wordmark",
     "componentName": "AtomOriginalWordmark",
     "fileName": "devicons-react/icons/AtomOriginalWordmark"
+  },
+  {
+    "name": "Axios Plain",
+    "componentName": "AxiosPlain",
+    "fileName": "devicons-react/icons/AxiosPlain"
+  },
+  {
+    "name": "Axios Plain Wordmark",
+    "componentName": "AxiosPlainWordmark",
+    "fileName": "devicons-react/icons/AxiosPlainWordmark"
   },
   {
     "name": "Azure Original",
@@ -540,6 +590,21 @@
     "fileName": "devicons-react/icons/CircleciPlainWordmark"
   },
   {
+    "name": "Clion Original",
+    "componentName": "ClionOriginal",
+    "fileName": "devicons-react/icons/ClionOriginal"
+  },
+  {
+    "name": "Clion Plain",
+    "componentName": "ClionPlain",
+    "fileName": "devicons-react/icons/ClionPlain"
+  },
+  {
+    "name": "Clion Plain Wordmark",
+    "componentName": "ClionPlainWordmark",
+    "fileName": "devicons-react/icons/ClionPlainWordmark"
+  },
+  {
     "name": "Clojure Line",
     "componentName": "ClojureLine",
     "fileName": "devicons-react/icons/ClojureLine"
@@ -640,6 +705,16 @@
     "fileName": "devicons-react/icons/ConfluenceOriginalWordmark"
   },
   {
+    "name": "Contao Original",
+    "componentName": "ContaoOriginal",
+    "fileName": "devicons-react/icons/ContaoOriginal"
+  },
+  {
+    "name": "Contao Original Wordmark",
+    "componentName": "ContaoOriginalWordmark",
+    "fileName": "devicons-react/icons/ContaoOriginalWordmark"
+  },
+  {
     "name": "Couchdb Original",
     "componentName": "CouchdbOriginal",
     "fileName": "devicons-react/icons/CouchdbOriginal"
@@ -728,6 +803,16 @@
     "name": "Cucumber Plain Wordmark",
     "componentName": "CucumberPlainWordmark",
     "fileName": "devicons-react/icons/CucumberPlainWordmark"
+  },
+  {
+    "name": "Cypressio Original",
+    "componentName": "CypressioOriginal",
+    "fileName": "devicons-react/icons/CypressioOriginal"
+  },
+  {
+    "name": "Cypressio Original Wordmark",
+    "componentName": "CypressioOriginalWordmark",
+    "fileName": "devicons-react/icons/CypressioOriginalWordmark"
   },
   {
     "name": "D3 Js Original",
@@ -1015,6 +1100,11 @@
     "fileName": "devicons-react/icons/ElmPlainWordmark"
   },
   {
+    "name": "Emacs Original",
+    "componentName": "EmacsOriginal",
+    "fileName": "devicons-react/icons/EmacsOriginal"
+  },
+  {
     "name": "Embeddedc Original",
     "componentName": "EmbeddedcOriginal",
     "fileName": "devicons-react/icons/EmbeddedcOriginal"
@@ -1195,6 +1285,11 @@
     "fileName": "devicons-react/icons/FlutterPlain"
   },
   {
+    "name": "Fortran Original",
+    "componentName": "FortranOriginal",
+    "fileName": "devicons-react/icons/FortranOriginal"
+  },
+  {
     "name": "Foundation Original",
     "componentName": "FoundationOriginal",
     "fileName": "devicons-react/icons/FoundationOriginal"
@@ -1273,6 +1368,16 @@
     "name": "Gentoo Plain Wordmark",
     "componentName": "GentooPlainWordmark",
     "fileName": "devicons-react/icons/GentooPlainWordmark"
+  },
+  {
+    "name": "Ghost Original",
+    "componentName": "GhostOriginal",
+    "fileName": "devicons-react/icons/GhostOriginal"
+  },
+  {
+    "name": "Ghost Original Wordmark",
+    "componentName": "GhostOriginalWordmark",
+    "fileName": "devicons-react/icons/GhostOriginalWordmark"
   },
   {
     "name": "Gimp Original",
@@ -1530,6 +1635,16 @@
     "fileName": "devicons-react/icons/HandlebarsOriginalWordmark"
   },
   {
+    "name": "Harvester Original",
+    "componentName": "HarvesterOriginal",
+    "fileName": "devicons-react/icons/HarvesterOriginal"
+  },
+  {
+    "name": "Harvester Original Wordmark",
+    "componentName": "HarvesterOriginalWordmark",
+    "fileName": "devicons-react/icons/HarvesterOriginalWordmark"
+  },
+  {
     "name": "Haskell Original",
     "componentName": "HaskellOriginal",
     "fileName": "devicons-react/icons/HaskellOriginal"
@@ -1558,6 +1673,11 @@
     "name": "Haxe Plain",
     "componentName": "HaxePlain",
     "fileName": "devicons-react/icons/HaxePlain"
+  },
+  {
+    "name": "Helm Original",
+    "componentName": "HelmOriginal",
+    "fileName": "devicons-react/icons/HelmOriginal"
   },
   {
     "name": "Heroku Original",
@@ -1765,6 +1885,26 @@
     "fileName": "devicons-react/icons/JeetPlainWordmark"
   },
   {
+    "name": "Jekyll Original",
+    "componentName": "JekyllOriginal",
+    "fileName": "devicons-react/icons/JekyllOriginal"
+  },
+  {
+    "name": "Jekyll Original Wordmark",
+    "componentName": "JekyllOriginalWordmark",
+    "fileName": "devicons-react/icons/JekyllOriginalWordmark"
+  },
+  {
+    "name": "Jekyll Plain",
+    "componentName": "JekyllPlain",
+    "fileName": "devicons-react/icons/JekyllPlain"
+  },
+  {
+    "name": "Jekyll Plain Wordmark",
+    "componentName": "JekyllPlainWordmark",
+    "fileName": "devicons-react/icons/JekyllPlainWordmark"
+  },
+  {
     "name": "Jenkins Line",
     "componentName": "JenkinsLine",
     "fileName": "devicons-react/icons/JenkinsLine"
@@ -1855,6 +1995,16 @@
     "fileName": "devicons-react/icons/JuliaPlainWordmark"
   },
   {
+    "name": "Junit Original",
+    "componentName": "JunitOriginal",
+    "fileName": "devicons-react/icons/JunitOriginal"
+  },
+  {
+    "name": "Junit Original Wordmark",
+    "componentName": "JunitOriginalWordmark",
+    "fileName": "devicons-react/icons/JunitOriginalWordmark"
+  },
+  {
     "name": "Jupyter Original",
     "componentName": "JupyterOriginal",
     "fileName": "devicons-react/icons/JupyterOriginal"
@@ -1873,6 +2023,16 @@
     "name": "Jupyter Plain Wordmark",
     "componentName": "JupyterPlainWordmark",
     "fileName": "devicons-react/icons/JupyterPlainWordmark"
+  },
+  {
+    "name": "K3 Os Original",
+    "componentName": "K3OsOriginal",
+    "fileName": "devicons-react/icons/K3OsOriginal"
+  },
+  {
+    "name": "K3 Os Original Wordmark",
+    "componentName": "K3OsOriginalWordmark",
+    "fileName": "devicons-react/icons/K3OsOriginalWordmark"
   },
   {
     "name": "K3 S Original",
@@ -2100,6 +2260,26 @@
     "fileName": "devicons-react/icons/MatlabPlain"
   },
   {
+    "name": "Maven Original",
+    "componentName": "MavenOriginal",
+    "fileName": "devicons-react/icons/MavenOriginal"
+  },
+  {
+    "name": "Maven Original Wordmark",
+    "componentName": "MavenOriginalWordmark",
+    "fileName": "devicons-react/icons/MavenOriginalWordmark"
+  },
+  {
+    "name": "Maven Plain",
+    "componentName": "MavenPlain",
+    "fileName": "devicons-react/icons/MavenPlain"
+  },
+  {
+    "name": "Maven Plain Wordmark",
+    "componentName": "MavenPlainWordmark",
+    "fileName": "devicons-react/icons/MavenPlainWordmark"
+  },
+  {
     "name": "Maya Original",
     "componentName": "MayaOriginal",
     "fileName": "devicons-react/icons/MayaOriginal"
@@ -2160,6 +2340,16 @@
     "fileName": "devicons-react/icons/MinitabPlain"
   },
   {
+    "name": "Mobx Original",
+    "componentName": "MobxOriginal",
+    "fileName": "devicons-react/icons/MobxOriginal"
+  },
+  {
+    "name": "Mobx Plain",
+    "componentName": "MobxPlain",
+    "fileName": "devicons-react/icons/MobxPlain"
+  },
+  {
     "name": "Mocha Plain",
     "componentName": "MochaPlain",
     "fileName": "devicons-react/icons/MochaPlain"
@@ -2203,6 +2393,16 @@
     "name": "Mongodb Plain Wordmark",
     "componentName": "MongodbPlainWordmark",
     "fileName": "devicons-react/icons/MongodbPlainWordmark"
+  },
+  {
+    "name": "Mongoose Original",
+    "componentName": "MongooseOriginal",
+    "fileName": "devicons-react/icons/MongooseOriginal"
+  },
+  {
+    "name": "Mongoose Original Wordmark",
+    "componentName": "MongooseOriginalWordmark",
+    "fileName": "devicons-react/icons/MongooseOriginalWordmark"
   },
   {
     "name": "Moodle Original",
@@ -2313,6 +2513,26 @@
     "name": "Nginx Original",
     "componentName": "NginxOriginal",
     "fileName": "devicons-react/icons/NginxOriginal"
+  },
+  {
+    "name": "Nim Original",
+    "componentName": "NimOriginal",
+    "fileName": "devicons-react/icons/NimOriginal"
+  },
+  {
+    "name": "Nim Original Wordmark",
+    "componentName": "NimOriginalWordmark",
+    "fileName": "devicons-react/icons/NimOriginalWordmark"
+  },
+  {
+    "name": "Nimble Original",
+    "componentName": "NimbleOriginal",
+    "fileName": "devicons-react/icons/NimbleOriginal"
+  },
+  {
+    "name": "Nimble Plain",
+    "componentName": "NimblePlain",
+    "fileName": "devicons-react/icons/NimblePlain"
   },
   {
     "name": "Nixos Original",
@@ -2465,6 +2685,16 @@
     "fileName": "devicons-react/icons/OpenalPlain"
   },
   {
+    "name": "Openapi Original",
+    "componentName": "OpenapiOriginal",
+    "fileName": "devicons-react/icons/OpenapiOriginal"
+  },
+  {
+    "name": "Openapi Original Wordmark",
+    "componentName": "OpenapiOriginalWordmark",
+    "fileName": "devicons-react/icons/OpenapiOriginalWordmark"
+  },
+  {
     "name": "Opencv Original",
     "componentName": "OpencvOriginal",
     "fileName": "devicons-react/icons/OpencvOriginal"
@@ -2493,6 +2723,26 @@
     "name": "Opengl Plain",
     "componentName": "OpenglPlain",
     "fileName": "devicons-react/icons/OpenglPlain"
+  },
+  {
+    "name": "Openstack Original",
+    "componentName": "OpenstackOriginal",
+    "fileName": "devicons-react/icons/OpenstackOriginal"
+  },
+  {
+    "name": "Openstack Original Wordmark",
+    "componentName": "OpenstackOriginalWordmark",
+    "fileName": "devicons-react/icons/OpenstackOriginalWordmark"
+  },
+  {
+    "name": "Openstack Plain",
+    "componentName": "OpenstackPlain",
+    "fileName": "devicons-react/icons/OpenstackPlain"
+  },
+  {
+    "name": "Openstack Plain Wordmark",
+    "componentName": "OpenstackPlainWordmark",
+    "fileName": "devicons-react/icons/OpenstackPlainWordmark"
   },
   {
     "name": "Opensuse Original",
@@ -2640,6 +2890,16 @@
     "fileName": "devicons-react/icons/PhpstormPlainWordmark"
   },
   {
+    "name": "Plotly Original",
+    "componentName": "PlotlyOriginal",
+    "fileName": "devicons-react/icons/PlotlyOriginal"
+  },
+  {
+    "name": "Plotly Original Wordmark",
+    "componentName": "PlotlyOriginalWordmark",
+    "fileName": "devicons-react/icons/PlotlyOriginalWordmark"
+  },
+  {
     "name": "Podman Original",
     "componentName": "PodmanOriginal",
     "fileName": "devicons-react/icons/PodmanOriginal"
@@ -2668,6 +2928,16 @@
     "name": "Polygon Plain",
     "componentName": "PolygonPlain",
     "fileName": "devicons-react/icons/PolygonPlain"
+  },
+  {
+    "name": "Portainer Original",
+    "componentName": "PortainerOriginal",
+    "fileName": "devicons-react/icons/PortainerOriginal"
+  },
+  {
+    "name": "Portainer Original Wordmark",
+    "componentName": "PortainerOriginalWordmark",
+    "fileName": "devicons-react/icons/PortainerOriginalWordmark"
   },
   {
     "name": "Postgresql Original",
@@ -2738,6 +3008,16 @@
     "name": "Protractor Plain Wordmark",
     "componentName": "ProtractorPlainWordmark",
     "fileName": "devicons-react/icons/ProtractorPlainWordmark"
+  },
+  {
+    "name": "Purescript Original",
+    "componentName": "PurescriptOriginal",
+    "fileName": "devicons-react/icons/PurescriptOriginal"
+  },
+  {
+    "name": "Purescript Original Wordmark",
+    "componentName": "PurescriptOriginalWordmark",
+    "fileName": "devicons-react/icons/PurescriptOriginalWordmark"
   },
   {
     "name": "Putty Original",
@@ -2840,6 +3120,16 @@
     "fileName": "devicons-react/icons/RPlain"
   },
   {
+    "name": "Rabbitmq Original",
+    "componentName": "RabbitmqOriginal",
+    "fileName": "devicons-react/icons/RabbitmqOriginal"
+  },
+  {
+    "name": "Rabbitmq Original Wordmark",
+    "componentName": "RabbitmqOriginalWordmark",
+    "fileName": "devicons-react/icons/RabbitmqOriginalWordmark"
+  },
+  {
     "name": "Rails Original Wordmark",
     "componentName": "RailsOriginalWordmark",
     "fileName": "devicons-react/icons/RailsOriginalWordmark"
@@ -2853,6 +3143,16 @@
     "name": "Rails Plain Wordmark",
     "componentName": "RailsPlainWordmark",
     "fileName": "devicons-react/icons/RailsPlainWordmark"
+  },
+  {
+    "name": "Rancher Original",
+    "componentName": "RancherOriginal",
+    "fileName": "devicons-react/icons/RancherOriginal"
+  },
+  {
+    "name": "Rancher Original Wordmark",
+    "componentName": "RancherOriginalWordmark",
+    "fileName": "devicons-react/icons/RancherOriginalWordmark"
   },
   {
     "name": "Raspberrypi Line",
@@ -2940,9 +3240,34 @@
     "fileName": "devicons-react/icons/ReduxOriginal"
   },
   {
+    "name": "Rider Original",
+    "componentName": "RiderOriginal",
+    "fileName": "devicons-react/icons/RiderOriginal"
+  },
+  {
+    "name": "Rider Plain",
+    "componentName": "RiderPlain",
+    "fileName": "devicons-react/icons/RiderPlain"
+  },
+  {
+    "name": "Rider Plain Wordmark",
+    "componentName": "RiderPlainWordmark",
+    "fileName": "devicons-react/icons/RiderPlainWordmark"
+  },
+  {
     "name": "Rocksdb Plain",
     "componentName": "RocksdbPlain",
     "fileName": "devicons-react/icons/RocksdbPlain"
+  },
+  {
+    "name": "Ros Original",
+    "componentName": "RosOriginal",
+    "fileName": "devicons-react/icons/RosOriginal"
+  },
+  {
+    "name": "Ros Original Wordmark",
+    "componentName": "RosOriginalWordmark",
+    "fileName": "devicons-react/icons/RosOriginalWordmark"
   },
   {
     "name": "Rspec Original",
@@ -3050,6 +3375,16 @@
     "fileName": "devicons-react/icons/SalesforcePlain"
   },
   {
+    "name": "Sanity Original",
+    "componentName": "SanityOriginal",
+    "fileName": "devicons-react/icons/SanityOriginal"
+  },
+  {
+    "name": "Sanity Plain",
+    "componentName": "SanityPlain",
+    "fileName": "devicons-react/icons/SanityPlain"
+  },
+  {
     "name": "Sass Original",
     "componentName": "SassOriginal",
     "fileName": "devicons-react/icons/SassOriginal"
@@ -3073,6 +3408,16 @@
     "name": "Scala Plain Wordmark",
     "componentName": "ScalaPlainWordmark",
     "fileName": "devicons-react/icons/ScalaPlainWordmark"
+  },
+  {
+    "name": "Scalingo Original",
+    "componentName": "ScalingoOriginal",
+    "fileName": "devicons-react/icons/ScalingoOriginal"
+  },
+  {
+    "name": "Scalingo Original Wordmark",
+    "componentName": "ScalingoOriginalWordmark",
+    "fileName": "devicons-react/icons/ScalingoOriginalWordmark"
   },
   {
     "name": "Sdl Original",
@@ -3620,6 +3965,16 @@
     "fileName": "devicons-react/icons/VagrantPlainWordmark"
   },
   {
+    "name": "Vertx Original",
+    "componentName": "VertxOriginal",
+    "fileName": "devicons-react/icons/VertxOriginal"
+  },
+  {
+    "name": "Vertx Original Wordmark",
+    "componentName": "VertxOriginalWordmark",
+    "fileName": "devicons-react/icons/VertxOriginalWordmark"
+  },
+  {
     "name": "Vim Original",
     "componentName": "VimOriginal",
     "fileName": "devicons-react/icons/VimOriginal"
@@ -3658,6 +4013,16 @@
     "name": "Vscode Plain Wordmark",
     "componentName": "VscodePlainWordmark",
     "fileName": "devicons-react/icons/VscodePlainWordmark"
+  },
+  {
+    "name": "Vsphere Original",
+    "componentName": "VsphereOriginal",
+    "fileName": "devicons-react/icons/VsphereOriginal"
+  },
+  {
+    "name": "Vsphere Original Wordmark",
+    "componentName": "VsphereOriginalWordmark",
+    "fileName": "devicons-react/icons/VsphereOriginalWordmark"
   },
   {
     "name": "Vuejs Line",
@@ -3853,6 +4218,11 @@
     "name": "Xd Plain",
     "componentName": "XdPlain",
     "fileName": "devicons-react/icons/XdPlain"
+  },
+  {
+    "name": "Xml Original",
+    "componentName": "XmlOriginal",
+    "fileName": "devicons-react/icons/XmlOriginal"
   },
   {
     "name": "Yarn Original",
