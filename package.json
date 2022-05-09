@@ -1,6 +1,6 @@
 {
   "name": "devicons-react",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
   "author": "Mohammad Abu Mattar <mohammad.khaled@outlook.com> (http://mkabumattar.github.io/)",
   "main": "lib/index.js",
@@ -58,8 +58,8 @@
     "typescript": "^4.6.3"
   },
   "peerDependencies": {
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "repository": {
     "type": "git",
