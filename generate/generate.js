@@ -13,7 +13,7 @@ config.forEach((icon) => {
   if (icon.filename.toLowerCase().includes('.svg'.toLowerCase())) {
     const baseName = `${icon.filename}`.replace(/\.svg\b/g, '')
     const svgFile = fs.readFileSync(
-      path.resolve(`./node_modules/devicon/icons/${icon.dirname}`, `${icon.filename}`),
+      path.resolve(`./devicon/icons/${icon.dirname}`, `${icon.filename}`),
       'utf-8',
     )
 
