@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   babel-plugin-styled-components: ^2.0.2
-  devicons-react: ^1.2.0
+  devicons-react: ^1.2.1
   eslint: 8.15.0
   eslint-config-next: 12.1.6
   highlight.js: ^11.5.0
@@ -14,7 +14,7 @@ specifiers:
   styled-components: ^5.3.5
 
 dependencies:
-  devicons-react: 1.2.0_ef5jwxihqo6n7gxfmzogljlgcm
+  devicons-react: 1.2.1_ef5jwxihqo6n7gxfmzogljlgcm
   highlight.js: 11.5.1
   next: 12.1.6_ef5jwxihqo6n7gxfmzogljlgcm
   next-pwa: 5.5.2_next@12.1.6
@@ -2025,11 +2025,11 @@ packages:
       rimraf: 2.7.1
     dev: false
 
-  /devicons-react/1.2.0_ef5jwxihqo6n7gxfmzogljlgcm:
-    resolution: {integrity: sha512-Hy9Wfiy5HAZFkGjdCS7SShHxB+QCDDyV7G9fMl8NV+X21h7Cnim7YljgWhoSFGG6GwLXTABTBQ0Bf+JJEc/DRA==}
+  /devicons-react/1.2.1_ef5jwxihqo6n7gxfmzogljlgcm:
+    resolution: {integrity: sha512-rmxX4D8csfaA8IX4NliC6UJGs6XD5KiOsjri0KHNnvYHAmrHwEGyq0k+xvkHQRVUZalT1mPWPRDckasFVginUg==}
     peerDependencies:
-      react: ^17.0.0
-      react-dom: ^17.0.0
+      react: ^18.0.0
+      react-dom: ^18.0.0
     dependencies:
       react: 18.1.0
       react-dom: 18.1.0_react@18.1.0
