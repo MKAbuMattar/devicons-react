@@ -2,10 +2,10 @@ import * as React from 'react'
 import { SVGProps } from 'react'
 
 const SvgVuetifyPlain = (props: SVGProps<SVGSVGElement>) => (
-  <svg viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" {...props}>
     <path
-      d="m34.442 0 29.815 61.824L93.879 0H34.442zM0 18.667 64.257 128 128 18.667H94.843L64.257 80 33.349 18.667H0z"
-      fill="#000"
+      fill="#1697f6"
+      d="M2.668 10.668 33.34 63.797l1.605 2.793 22.883-39.65 9.399-16.273Zm76.336 0L65.297 34.414 40.84 76.79 64 116.922l30.672-53.125 30.66-53.129Zm0 0"
     />
   </svg>
 )
