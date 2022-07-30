@@ -735,6 +735,26 @@
     "fileName": "devicons-react/icons/CloudflarePlainWordmark"
   },
   {
+    "name": "Cloudflareworkers Original",
+    "componentName": "CloudflareworkersOriginal",
+    "fileName": "devicons-react/icons/CloudflareworkersOriginal"
+  },
+  {
+    "name": "Cloudflareworkers Original Wordmark",
+    "componentName": "CloudflareworkersOriginalWordmark",
+    "fileName": "devicons-react/icons/CloudflareworkersOriginalWordmark"
+  },
+  {
+    "name": "Cloudflareworkers Plain",
+    "componentName": "CloudflareworkersPlain",
+    "fileName": "devicons-react/icons/CloudflareworkersPlain"
+  },
+  {
+    "name": "Cloudflareworkers Plain Wordmark",
+    "componentName": "CloudflareworkersPlainWordmark",
+    "fileName": "devicons-react/icons/CloudflareworkersPlainWordmark"
+  },
+  {
     "name": "Cmake Original",
     "componentName": "CmakeOriginal",
     "fileName": "devicons-react/icons/CmakeOriginal"
