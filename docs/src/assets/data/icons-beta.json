@@ -2215,6 +2215,16 @@
     "fileName": "devicons-react/icons/JqueryPlainWordmark"
   },
   {
+    "name": "Json Original",
+    "componentName": "JsonOriginal",
+    "fileName": "devicons-react/icons/JsonOriginal"
+  },
+  {
+    "name": "Json Plain",
+    "componentName": "JsonPlain",
+    "fileName": "devicons-react/icons/JsonPlain"
+  },
+  {
     "name": "Julia Original",
     "componentName": "JuliaOriginal",
     "fileName": "devicons-react/icons/JuliaOriginal"
@@ -3513,6 +3523,21 @@
     "name": "Pytorch Plain Wordmark",
     "componentName": "PytorchPlainWordmark",
     "fileName": "devicons-react/icons/PytorchPlainWordmark"
+  },
+  {
+    "name": "Qodana Original",
+    "componentName": "QodanaOriginal",
+    "fileName": "devicons-react/icons/QodanaOriginal"
+  },
+  {
+    "name": "Qodana Plain",
+    "componentName": "QodanaPlain",
+    "fileName": "devicons-react/icons/QodanaPlain"
+  },
+  {
+    "name": "Qodana Plain Wordmark",
+    "componentName": "QodanaPlainWordmark",
+    "fileName": "devicons-react/icons/QodanaPlainWordmark"
   },
   {
     "name": "Qt Original",

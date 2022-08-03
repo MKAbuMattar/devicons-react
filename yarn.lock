@@ -8119,10 +8119,10 @@ readdirp@~3.6.0:
   dependencies:
     picomatch "^2.2.1"
 
-recursive-directory@^0.0.0-rc0.0.3:
-  version "0.0.0-rc0.0.3"
-  resolved "https://registry.yarnpkg.com/recursive-directory/-/recursive-directory-0.0.0-rc0.0.3.tgz#88e47b1afd9525dcb0f7a04bda42963645d88e9f"
-  integrity sha512-t1TUlGHEPOSIrtvLnpgoJN88pcsaEuF0ywjjDzzfV9o0gLvHZ3XwL41u19E1QBViCxsxRTgR7AsgzKxbC7WZzA==
+recursive-directory@^0.0.0-rc0.0.4:
+  version "0.0.0-rc0.0.4"
+  resolved "https://registry.yarnpkg.com/recursive-directory/-/recursive-directory-0.0.0-rc0.0.4.tgz#6c7612745cfeb1d0c3f6a4408fec08c6a6a57a16"
+  integrity sha512-vNKO4fxx1EuZa2oReM+x79V6gaYPnkWuKQgE+E8quac9wku9PWsQ+0LYi134lFF5L+njI/5QPQCDKNAIR3CvJw==
   dependencies:
     glob "8.0.3"
     zod "3.17.10"
