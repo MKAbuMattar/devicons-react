@@ -105,6 +105,26 @@
     "fileName": "devicons-react/icons/AndroidstudioPlainWordmark"
   },
   {
+    "name": "Angular Original",
+    "componentName": "AngularOriginal",
+    "fileName": "devicons-react/icons/AngularOriginal"
+  },
+  {
+    "name": "Angular Original Wordmark",
+    "componentName": "AngularOriginalWordmark",
+    "fileName": "devicons-react/icons/AngularOriginalWordmark"
+  },
+  {
+    "name": "Angular Plain",
+    "componentName": "AngularPlain",
+    "fileName": "devicons-react/icons/AngularPlain"
+  },
+  {
+    "name": "Angular Plain Wordmark",
+    "componentName": "AngularPlainWordmark",
+    "fileName": "devicons-react/icons/AngularPlainWordmark"
+  },
+  {
     "name": "Angularjs Original",
     "componentName": "AngularjsOriginal",
     "fileName": "devicons-react/icons/AngularjsOriginal"
@@ -203,6 +223,26 @@
     "name": "Apachekafka Original Wordmark",
     "componentName": "ApachekafkaOriginalWordmark",
     "fileName": "devicons-react/icons/ApachekafkaOriginalWordmark"
+  },
+  {
+    "name": "Apachespark Original",
+    "componentName": "ApachesparkOriginal",
+    "fileName": "devicons-react/icons/ApachesparkOriginal"
+  },
+  {
+    "name": "Apachespark Original Wordmark",
+    "componentName": "ApachesparkOriginalWordmark",
+    "fileName": "devicons-react/icons/ApachesparkOriginalWordmark"
+  },
+  {
+    "name": "Apachespark Plain",
+    "componentName": "ApachesparkPlain",
+    "fileName": "devicons-react/icons/ApachesparkPlain"
+  },
+  {
+    "name": "Apachespark Plain Wordmark",
+    "componentName": "ApachesparkPlainWordmark",
+    "fileName": "devicons-react/icons/ApachesparkPlainWordmark"
   },
   {
     "name": "Appcelerator Original",
@@ -1408,6 +1448,26 @@
     "name": "Fastapi Plain Wordmark",
     "componentName": "FastapiPlainWordmark",
     "fileName": "devicons-react/icons/FastapiPlainWordmark"
+  },
+  {
+    "name": "Fastify Original",
+    "componentName": "FastifyOriginal",
+    "fileName": "devicons-react/icons/FastifyOriginal"
+  },
+  {
+    "name": "Fastify Original Wordmark",
+    "componentName": "FastifyOriginalWordmark",
+    "fileName": "devicons-react/icons/FastifyOriginalWordmark"
+  },
+  {
+    "name": "Fastify Plain",
+    "componentName": "FastifyPlain",
+    "fileName": "devicons-react/icons/FastifyPlain"
+  },
+  {
+    "name": "Fastify Plain Wordmark",
+    "componentName": "FastifyPlainWordmark",
+    "fileName": "devicons-react/icons/FastifyPlainWordmark"
   },
   {
     "name": "Feathersjs Original",
@@ -3128,6 +3188,26 @@
     "name": "Opensuse Plain Wordmark",
     "componentName": "OpensusePlainWordmark",
     "fileName": "devicons-react/icons/OpensusePlainWordmark"
+  },
+  {
+    "name": "Opentelemetry Original",
+    "componentName": "OpentelemetryOriginal",
+    "fileName": "devicons-react/icons/OpentelemetryOriginal"
+  },
+  {
+    "name": "Opentelemetry Original Wordmark",
+    "componentName": "OpentelemetryOriginalWordmark",
+    "fileName": "devicons-react/icons/OpentelemetryOriginalWordmark"
+  },
+  {
+    "name": "Opentelemetry Plain",
+    "componentName": "OpentelemetryPlain",
+    "fileName": "devicons-react/icons/OpentelemetryPlain"
+  },
+  {
+    "name": "Opentelemetry Plain Wordmark",
+    "componentName": "OpentelemetryPlainWordmark",
+    "fileName": "devicons-react/icons/OpentelemetryPlainWordmark"
   },
   {
     "name": "Opera Original",
