@@ -355,6 +355,16 @@
     "fileName": "devicons-react/icons/AtomOriginalWordmark"
   },
   {
+    "name": "Awk Original Wordmark",
+    "componentName": "AwkOriginalWordmark",
+    "fileName": "devicons-react/icons/AwkOriginalWordmark"
+  },
+  {
+    "name": "Awk Plain Wordmark",
+    "componentName": "AwkPlainWordmark",
+    "fileName": "devicons-react/icons/AwkPlainWordmark"
+  },
+  {
     "name": "Axios Plain",
     "componentName": "AxiosPlain",
     "fileName": "devicons-react/icons/AxiosPlain"
@@ -2368,6 +2378,26 @@
     "name": "Kaggle Original Wordmark",
     "componentName": "KaggleOriginalWordmark",
     "fileName": "devicons-react/icons/KaggleOriginalWordmark"
+  },
+  {
+    "name": "Karatelabs Original",
+    "componentName": "KaratelabsOriginal",
+    "fileName": "devicons-react/icons/KaratelabsOriginal"
+  },
+  {
+    "name": "Karatelabs Original Wordmark",
+    "componentName": "KaratelabsOriginalWordmark",
+    "fileName": "devicons-react/icons/KaratelabsOriginalWordmark"
+  },
+  {
+    "name": "Karatelabs Plain",
+    "componentName": "KaratelabsPlain",
+    "fileName": "devicons-react/icons/KaratelabsPlain"
+  },
+  {
+    "name": "Karatelabs Plain Wordmark",
+    "componentName": "KaratelabsPlainWordmark",
+    "fileName": "devicons-react/icons/KaratelabsPlainWordmark"
   },
   {
     "name": "Karma Original",
@@ -4503,6 +4533,26 @@
     "name": "Ubuntu Plain Wordmark",
     "componentName": "UbuntuPlainWordmark",
     "fileName": "devicons-react/icons/UbuntuPlainWordmark"
+  },
+  {
+    "name": "Unifiedmodelinglanguage Original",
+    "componentName": "UnifiedmodelinglanguageOriginal",
+    "fileName": "devicons-react/icons/UnifiedmodelinglanguageOriginal"
+  },
+  {
+    "name": "Unifiedmodelinglanguage Original Wordmark",
+    "componentName": "UnifiedmodelinglanguageOriginalWordmark",
+    "fileName": "devicons-react/icons/UnifiedmodelinglanguageOriginalWordmark"
+  },
+  {
+    "name": "Unifiedmodelinglanguage Plain",
+    "componentName": "UnifiedmodelinglanguagePlain",
+    "fileName": "devicons-react/icons/UnifiedmodelinglanguagePlain"
+  },
+  {
+    "name": "Unifiedmodelinglanguage Plain Wordmark",
+    "componentName": "UnifiedmodelinglanguagePlainWordmark",
+    "fileName": "devicons-react/icons/UnifiedmodelinglanguagePlainWordmark"
   },
   {
     "name": "Unity Line",
