@@ -1,19 +1,19 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react';
 
 const useScrollToTop = (top) => {
-  const [visible, setVisible] = useState(false)
+  const [visible, setVisible] = useState(false);
 
   const onScroll = () => {
-    setVisible(document.documentElement.scrollTop > top)
-  }
+    setVisible(document.documentElement.scrollTop > top);
+  };
 
   useEffect(() => {
-    document.addEventListener('scroll', onScroll)
+    document.addEventListener('scroll', onScroll);
     // Remove listener on unmount
-    return () => document.removeEventListener('scroll', onScroll)
-  }, [])
+    return () => document.removeEventListener('scroll', onScroll);
+  }, []);
 
-  return { visible }
-}
+  return { visible };
+};
 
-export default useScrollToTop
+export default useScrollToTop;

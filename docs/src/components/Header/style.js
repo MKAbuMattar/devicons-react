@@ -1,21 +1,21 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const HeaderContainer = styled.header`
   grid-column: span 9 / span 9;
   background-color: #2d2d2d;
-`
+`;
 
 export const HeaderBox = styled.div`
   max-width: 550px;
   padding: 6em 2em;
   margin: 0 auto;
-`
+`;
 
 export const HeaderTitleBox = styled.div`
   display: flex;
   align-items: center;
   gap: 1rem;
-`
+`;
 
 export const HeaderTitle = styled.h1`
   margin: 0;
@@ -31,13 +31,13 @@ export const HeaderTitle = styled.h1`
   @media only screen and (max-width: 512px) {
     font-size: 1.7em;
   }
-`
+`;
 
 export const HeaderInfo = styled.p`
   padding: 2em 0 0 0;
   margin: 0 auto;
   color: #eeeeee;
-`
+`;
 
 export const HeaderBoxGitHubLabel = styled.div`
   display: flex;
@@ -47,7 +47,7 @@ export const HeaderBoxGitHubLabel = styled.div`
   gap: 0.5rem;
   margin: 2rem;
   flex-wrap: wrap;
-`
+`;
 
 export const HeaderLink = styled.a`
   text-decoration: none;
@@ -58,7 +58,7 @@ export const HeaderLink = styled.a`
   &&:hover {
     border-bottom: 2px solid #eeeeee;
   }
-`
+`;
 
 export const HeaderCard = styled.div`
   display: flex;
@@ -68,11 +68,11 @@ export const HeaderCard = styled.div`
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-`
+`;
 
 export const HeaderCardInfo = styled.div`
   padding: 2.5em 3em;
-`
+`;
 
 export const HeaderCardTitle = styled.h4`
   margin: 0;
@@ -85,7 +85,7 @@ export const HeaderCardTitle = styled.h4`
     padding-top: 12px;
     border-bottom: 3px solid #2e2e2e;
   }
-`
+`;
 
 export const HeaderArrowWaveBox = styled.div`
   width: 100%;
@@ -93,7 +93,7 @@ export const HeaderArrowWaveBox = styled.div`
   flex-direction: column;
   align-items: center;
   margin-top: 2rem;
-`
+`;
 
 export const HeaderArrowWave = styled.div`
   display: inline-block;
@@ -146,4 +146,4 @@ export const HeaderArrowWave = styled.div`
       animation-delay: 0.75s;
     }
   }
-`
+`;

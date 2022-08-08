@@ -1,11 +1,11 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const FooterContainer = styled.footer`
   background-color: #fff;
   text-align: center;
   padding: 1em 0 2em 0;
   font-size: 0.8em;
-`
+`;
 
 export const FooterLink = styled.a`
   text-decoration: none;
@@ -16,4 +16,4 @@ export const FooterLink = styled.a`
     color: #000;
     border-bottom: 2px solid #000;
   }
-`
+`;

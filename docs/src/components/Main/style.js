@@ -1,14 +1,14 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const Main = styled.main`
   grid-column: span 9 / span 9;
-`
+`;
 
 export const SearchSection = styled.div`
   /* background-color: #e7e7e7; */
   text-align: center;
   padding: 4em 2em;
-`
+`;
 
 export const SearchInput = styled.input`
   font-size: 18px;
@@ -35,7 +35,7 @@ export const SearchInput = styled.input`
   @media only screen and (max-width: 512px) {
     max-width: 240px;
   }
-`
+`;
 
 export const MainWrapper = styled.section`
   display: flex;
@@ -43,7 +43,7 @@ export const MainWrapper = styled.section`
   align-items: center;
   padding: 4em;
   /* background-color: #e7e7e7; */
-`
+`;
 
 export const Cards = styled.div`
   display: flex;
@@ -51,7 +51,7 @@ export const Cards = styled.div`
   gap: 1rem;
   align-items: stretch;
   justify-content: center;
-`
+`;
 
 export const Card = styled.div`
   display: flex;
@@ -61,14 +61,14 @@ export const Card = styled.div`
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-`
+`;
 
 export const CardInfo = styled.div`
   padding: 2.5em 1em;
   display: flex;
   flex-direction: column;
   gap: 1rem;
-`
+`;
 
 export const CardTitle = styled.h4`
   margin: 0;
@@ -85,14 +85,14 @@ export const CardTitle = styled.h4`
     padding-top: 12px;
     border-bottom: 3px solid #2e2e2e;
   }
-`
+`;
 
 export const CountSection = styled.section`
   /* background-color: #e7e7e7; */
   display: flex;
   flex-direction: column;
   align-items: center;
-`
+`;
 
 export const CountWrapper = styled.div`
   /* background-color: #2d2d2d; */
@@ -104,7 +104,7 @@ export const CountWrapper = styled.div`
   gap: 0.5rem;
   padding: 1rem;
   border-radius: 5px;
-`
+`;
 
 export const MainCard = styled.div`
   display: flex;
@@ -116,11 +116,11 @@ export const MainCard = styled.div`
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-`
+`;
 
 export const MainCardInfo = styled.div`
   padding: 2.5em 3em;
-`
+`;
 
 export const MainCardTitle = styled.h4`
   margin: 0;
@@ -133,4 +133,4 @@ export const MainCardTitle = styled.h4`
     padding-top: 12px;
     border-bottom: 3px solid #2e2e2e;
   }
-`
+`;

@@ -3,4 +3,4 @@ export const removeExtra = (str) =>
     .replace(' Original', '')
     .replace(' Plain', '')
     .replace(' Line', '')
-    .replace(' Wordmark', '')
+    .replace(' Wordmark', '');

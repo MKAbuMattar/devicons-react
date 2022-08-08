@@ -13,4 +13,4 @@ export default {
     site: '@mkabumattar',
     cardType: 'summary_large_image',
   },
-}
+};

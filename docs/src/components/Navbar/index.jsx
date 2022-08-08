@@ -1,20 +1,18 @@
-import React, { useState } from 'react'
+import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal';
+import Link from 'next/link';
+import React, { useState } from 'react';
 
-import Link from 'next/link'
-
-import ScrollToTop from '@/components/ScrollToTop'
-
-import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal'
+import ScrollToTop from '@/components/ScrollToTop';
 
 import {
   Navbar,
-  Sticky,
-  NavbarLogoContainer,
-  NavbarTitle,
-  NavbarScrollToTopBox,
-  NavbarList,
   NavbarItem,
-} from './style'
+  NavbarList,
+  NavbarLogoContainer,
+  NavbarScrollToTopBox,
+  NavbarTitle,
+  Sticky,
+} from './style';
 
 const index = () => {
   return (
@@ -56,7 +54,7 @@ const index = () => {
         </Sticky>
       </Navbar>
     </>
-  )
-}
+  );
+};
 
-export default index
+export default index;

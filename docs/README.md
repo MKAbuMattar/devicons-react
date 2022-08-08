@@ -37,26 +37,26 @@ yarn add devicons-react
 <p>Default behavior for icon</p>
 
 ```js
-import { Fragment } from 'react'
-import { Aarch64Plain } from 'devicons-react'
+import { Fragment } from 'react';
+import { Aarch64Plain } from 'devicons-react';
 
 const App = () => {
   return (
     <Fragment>
       <Aarch64Plain />
     </Fragment>
-  )
-}
+  );
+};
 
-export default App
+export default App;
 ```
 
 <p>Change size and color for icon</p>
 
 ```js
-import { Fragment } from 'react'
-import { Aarch64Plain, ReactOriginal } from 'devicons-react'
-import AndroidOriginal from 'devicons-react/icons/AndroidOriginal'
+import { Fragment } from 'react';
+import { Aarch64Plain, ReactOriginal } from 'devicons-react';
+import AndroidOriginal from 'devicons-react/icons/AndroidOriginal';
 
 const App = () => {
   return (
@@ -65,8 +65,8 @@ const App = () => {
       <ReactOriginal fill="red" height="500" width="500" />
       <AndroidOriginal fill="#d35" height="128" width="128" />
     </Fragment>
-  )
-}
+  );
+};
 
-export default App
+export default App;
 ```
