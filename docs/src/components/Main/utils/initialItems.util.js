@@ -1,11 +1,11 @@
 const initialItems = (icons) => {
-  const items = icons
+  const items = icons;
 
   items.sort((a, b) => {
-    return a.name.localeCompare(b.name)
-  })
+    return a.name.localeCompare(b.name);
+  });
 
-  return items
-}
+  return items;
+};
 
-export default initialItems
+export default initialItems;

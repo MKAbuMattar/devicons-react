@@ -8,30 +8,14 @@
     "rootDir": "./src",
     "baseUrl": "./src",
     "paths": {
-      "@/assets/*": [
-        "assets/*"
-      ],
-      "@/data/*": [
-        "assets/data/*"
-      ],
-      "@/icons/*": [
-        "assets/icons/*"
-      ],
-      "@/style/*": [
-        "assets/style/*"
-      ],
-      "@/components/*": [
-        "components/*"
-      ],
-      "@/config/*": [
-        "config/*"
-      ],
-      "@/pages/*": [
-        "pages/*"
-      ],
-      "@/utils/*": [
-        "utils/*"
-      ]
+      "@/assets/*": ["assets/*"],
+      "@/data/*": ["assets/data/*"],
+      "@/icons/*": ["assets/icons/*"],
+      "@/style/*": ["assets/style/*"],
+      "@/components/*": ["components/*"],
+      "@/config/*": ["config/*"],
+      "@/pages/*": ["pages/*"],
+      "@/utils/*": ["utils/*"]
     }
   },
   "exclude": [
@@ -46,9 +30,6 @@
   ],
   "typeAcquisition": {
     "enable": true,
-    "include": [
-      "react",
-      "react-dom"
-    ]
+    "include": ["react", "react-dom"]
   }
 }

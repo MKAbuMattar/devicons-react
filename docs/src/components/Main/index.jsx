@@ -1,44 +1,43 @@
-import { Fragment, useState, useEffect, useCallback } from 'react'
+import { Fragment, useCallback,useEffect, useState } from 'react';
 
-import List from './List'
-import { filterIt } from './utils/filterIt.util'
-import initialItems from './utils/initialItems.util'
+import { removeExtra } from '@/utils/regex.util';
 
-import { removeExtra } from '@/utils/regex.util'
-
+import List from './List';
 import {
-  Main,
-  SearchSection,
-  SearchInput,
   CountSection,
   CountWrapper,
-  MainWrapper,
+  Main,
   MainCard,
   MainCardInfo,
   MainCardTitle,
-} from './style'
+  MainWrapper,
+  SearchInput,
+  SearchSection,
+} from './style';
+import { filterIt } from './utils/filterIt.util';
+import initialItems from './utils/initialItems.util';
 
 const index = ({ icons = {}, isLatest }) => {
-  const [items, setItems] = useState(initialItems(icons))
-  const [iconsLength, setIonsLength] = useState()
+  const [items, setItems] = useState(initialItems(icons));
+  const [iconsLength, setIonsLength] = useState();
 
   useEffect(() => {
-    setItems(initialItems(icons))
-    setIonsLength(totalIconCount(items).length)
-  }, [])
+    setItems(initialItems(icons));
+    setIonsLength(totalIconCount(items).length);
+  }, []);
 
   const filterList = useCallback(({ target }) => {
-    const searchQuery = target.value.toLowerCase()
-    const updatedList = filterIt(searchQuery, initialItems(icons))
-    setItems(updatedList)
-    setIonsLength(totalIconCount(updatedList).length)
-  }, [])
+    const searchQuery = target.value.toLowerCase();
+    const updatedList = filterIt(searchQuery, initialItems(icons));
+    setItems(updatedList);
+    setIonsLength(totalIconCount(updatedList).length);
+  }, []);
 
   const totalIconCount = (items) => {
-    const data = []
-    items.forEach((result) => data.push(removeExtra(result.name)))
-    return [...new Set(data)]
-  }
+    const data = [];
+    items.forEach((result) => data.push(removeExtra(result.name)));
+    return [...new Set(data)];
+  };
 
   return (
     <Fragment>
@@ -94,7 +93,7 @@ pnpm add devicons-react@beta`}
         </MainWrapper>
       </Main>
     </Fragment>
-  )
-}
+  );
+};
 
-export default index
+export default index;

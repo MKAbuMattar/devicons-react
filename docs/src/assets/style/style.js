@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle } from 'styled-components'
+import styled, { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
 
@@ -103,14 +103,14 @@ a {
   100% { opacity: 0.2; }
 }
 
-`
+`;
 
 export const Grid = styled.div`
   display: grid;
-`
+`;
 
 export const Container = styled(Grid)`
   grid-template-columns: repeat(12, minmax(0, 1fr));
   max-width: 968px;
   margin-inline: auto;
-`
+`;

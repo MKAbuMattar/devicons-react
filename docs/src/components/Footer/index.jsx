@@ -1,10 +1,11 @@
-import { Fragment } from 'react'
-import { FooterContainer, FooterLink } from './style'
+import { Fragment } from 'react';
+
+import { FooterContainer, FooterLink } from './style';
 
 const Footer = () => {
   const getYear = () => {
-    return new Date().getFullYear()
-  }
+    return new Date().getFullYear();
+  };
 
   return (
     <Fragment>
@@ -23,7 +24,7 @@ const Footer = () => {
         </p>
       </FooterContainer>
     </Fragment>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

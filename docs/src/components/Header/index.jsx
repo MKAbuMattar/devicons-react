@@ -1,31 +1,30 @@
-import { Fragment, useEffect } from 'react'
-import Link from 'next/link'
+import hljs from 'highlight.js';
+import javascript from 'highlight.js/lib/languages/javascript';
+import Link from 'next/link';
+import { Fragment, useEffect } from 'react';
+hljs.registerLanguage('javascript', javascript);
 
-import hljs from 'highlight.js'
-import javascript from 'highlight.js/lib/languages/javascript'
-hljs.registerLanguage('javascript', javascript)
+import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal';
 
 import {
-  HeaderContainer,
+  HeaderArrowWave,
+  HeaderArrowWaveBox,
   HeaderBox,
-  HeaderTitleBox,
-  HeaderTitle,
-  HeaderInfo,
   HeaderBoxGitHubLabel,
-  HeaderLink,
   HeaderCard,
   HeaderCardInfo,
   HeaderCardTitle,
-  HeaderArrowWaveBox,
-  HeaderArrowWave,
-} from './style'
-
-import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal'
+  HeaderContainer,
+  HeaderInfo,
+  HeaderLink,
+  HeaderTitle,
+  HeaderTitleBox,
+} from './style';
 
 const Header = () => {
   useEffect(() => {
-    hljs.initHighlighting()
-  }, [])
+    hljs.initHighlighting();
+  }, []);
 
   return (
     <Fragment>
@@ -120,7 +119,7 @@ export default App`}
         </HeaderBox>
       </HeaderContainer>
     </Fragment>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

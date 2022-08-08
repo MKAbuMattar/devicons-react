@@ -1,5 +1,5 @@
 const index = (props) => {
-  const { fill = 'currentColor', size = '24', ...otherProps } = props
+  const { fill = 'currentColor', size = '24', ...otherProps } = props;
 
   return (
     <svg
@@ -15,7 +15,7 @@ const index = (props) => {
         transform="matrix(.1 0 0 -.1 0 300)"
       />
     </svg>
-  )
-}
+  );
+};
 
-export default index
+export default index;

@@ -1,8 +1,7 @@
-import Header from '@/components/Header'
-import Footer from '@/components/Footer'
-import Navbar from '@/components/Navbar'
-
-import { Grid, Container } from '@/style/style'
+import Footer from '@/components/Footer';
+import Header from '@/components/Header';
+import Navbar from '@/components/Navbar';
+import { Container } from '@/style/style';
 
 const Home = () => {
   return (
@@ -13,7 +12,7 @@ const Home = () => {
       </Container>
       <Footer />
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;

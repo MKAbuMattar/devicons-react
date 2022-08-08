@@ -1,30 +1,61 @@
 {
   "name": "devicons-react",
-  "version": "1.2.3-beta-0.0.4",
+  "version": "1.2.3-canary-0.0.4",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
-  "author": "Mohammad Abu Mattar <mohammad.khaled@outlook.com> (http://mkabumattar.github.io/)",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "keywords": [
+    "programming",
+    "icons",
+    "react",
+    "typescript"
+  ],
   "license": "MIT",
+  "author": {
+    "name": "Mohammad Abu Mattar",
+    "email": "mohammad.khaled@outlook.com",
+    "url": "https://mkabumattar.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MKAbuMattar/devicons-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MKAbuMattar/devicons-react/issues"
+  },
+  "homepage": "https://devicons-react.vercel.app/",
+  "engines": {
+    "yarn": ">=1.20.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
-    "storybook": "start-storybook -p 6006",
-    "build:storybook": "build-storybook",
-    "clean:devicon": "rimraf -rf devicon",
-    "clean:lib": "rimraf -rf lib",
-    "clean:svg": "rimraf -rf svg",
-    "clean:svgr": "rimraf -rf src/icons",
-    "clean:svgr:index": "rimraf ./src/icons/index.ts",
-    "clean:svg:devicon": "rimraf ./svg/devicon-line-wordmark.svg ./svg/devicon-line.svg ./svg/devicon-original-wordmark.svg ./svg/devicon-original.svg ./svg/devicon-plain-wordmark.svg ./svg/devicon-plain.svg",
-    "copy:svg:devicons-react": "cp ./generate/devicons-react-original.svg ./svg",
-    "generate:devicon": "yarn clean:devicon && node ./generate/gitclone.config.js",
-    "generate:data": "node ./generate/generate.data.js",
-    "generate:svg": "node ./generate/build.config.js && yarn clean:svg && node ./generate/generate.js && yarn clean:svg:devicon && yarn copy:svg:devicons-react",
-    "generate:svgr": "yarn clean:svgr && npx @svgr/cli --typescript --out-dir src/icons --index-template index-template.js  -- svg && yarn clean:svgr:index",
-    "build:pre": "yarn generate:devicon",
-    "build:lib": "yarn clean:lib && rollup -c",
-    "build": "yarn build:pre && yarn generate:svg && yarn generate:svgr && yarn build:lib && yarn generate:data",
-    "publish:lib": "cd lib && npm publish",
-    "publish:lib:beta": "cd lib && npm publish --tag beta"
+    "lint:fix": "eslint --ignore-path .eslintignore \"src/**/*.ts\" --fix",
+    "lint:check": "eslint --ignore-path .eslintignore \"src/**/*.ts\"",
+    "prettier:fix": "prettier -w ./src --ignore-unknown --no-error-on-unmatched-pattern",
+    "prettier:check": "prettier --check ./src --no-error-on-unmatched-pattern",
+    "check": "yarn lint:check && yarn prettier:check",
+    "fix": "yarn lint:fix && yarn prettier:fix",
+    "clean:devicon": "rm -rf devicon",
+    "clean:svg": "rm -rf svg",
+    "clean:svg:devicon": "rm -rf ./svg/devicon-line-wordmark.svg ./svg/devicon-line.svg ./svg/devicon-original-wordmark.svg ./svg/devicon-original.svg ./svg/devicon-plain-wordmark.svg ./svg/devicon-plain.svg",
+    "clean:svgr:icons": "rm -rf build && mkdir build && touch build/index.ts",
+    "clean:svgr:index": "rm ./build/icons/index.ts",
+    "clean:lib": "rm -rf lib",
+    "clean": "yarn clean:devicon && yarn clean:svg && yarn clean:svgr:icons && yarn clean:lib",
+    "copy:svg:devicons-react": "cp ./src/assets/devicons-react-original.svg ./svg",
+    "build:config:clone": "yarn clean:devicon && node -r esbuild-runner/register src/config/gitclone.config.ts",
+    "build:config:recursive": "node -r esbuild-runner/register src/config/build.config.ts",
+    "build:generate:svg": "yarn clean:svg && node -r esbuild-runner/register src/generate/svg.generate.ts && yarn clean:svg:devicon && yarn copy:svg:devicons-react",
+    "build:generate:svgr": "yarn clean:svgr:icons && npx @svgr/cli --typescript --out-dir build/icons --index-template src/template/index.template.cjs  -- svg && yarn clean:svgr:index",
+    "build:lib": "rollup -c",
+    "build:data": "node -r esbuild-runner/register src/data/generate.data.ts",
+    "build:noclone": "yarn build:config:recursive && yarn build:generate:svg && yarn build:generate:svgr && yarn build:lib && yarn build:data",
+    "build": "yarn build:config:clone && yarn build:config:recursive && yarn build:generate:svg && yarn build:generate:svgr && yarn build:lib && yarn build:data",
+    "publish:lib:latest": "npm publish",
+    "publish:lib:beta": "npm publish --tag beta",
+    "publish:lib:canary": "cd lib && npm publish --tag canary"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.18.9",
@@ -35,44 +66,35 @@
     "@rollup/plugin-commonjs": "22.0.1",
     "@rollup/plugin-node-resolve": "13.3.0",
     "@rollup/plugin-typescript": "8.3.4",
-    "@storybook/react": "6.5.9",
     "@svgr/babel-plugin-remove-jsx-attribute": "6.3.1",
     "@svgr/cli": "6.3.1",
+    "@types/fs-plus": "3.0.2",
     "@types/node": "18.6.2",
     "@types/react": "18.0.15",
     "@types/react-dom": "18.0.6",
+    "@typescript-eslint/eslint-plugin": "5.33.0",
+    "@typescript-eslint/parser": "5.33.0",
     "babel-loader": "8.2.5",
+    "esbuild": "0.14.54",
+    "esbuild-runner": "2.2.1",
+    "eslint": "8.21.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-simple-import-sort": "7.0.0",
+    "eslint-plugin-unused-imports": "2.0.0",
     "fs-plus": "3.1.1",
+    "husky": "8.0.1",
+    "postcss": "8.4.16",
     "react": "18.2.0",
-    "recursive-directory": "^0.0.0-rc-0.0.3",
-    "rimraf": "3.0.2",
+    "recursive-directory": "0.0.0-rc-0.0.3",
     "rollup": "2.77.2",
     "rollup-plugin-copy": "3.4.0",
     "rollup-plugin-dts": "4.2.2",
     "rollup-plugin-peer-deps-external": "2.2.4",
     "rollup-plugin-postcss": "4.0.2",
     "rollup-plugin-terser": "7.0.2",
-    "rollup-plugin-visualizer": "5.7.1",
     "svgson": "5.2.1",
     "tslib": "2.4.0",
     "typescript": "4.7.4"
-  },
-  "peerDependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MKAbuMattar/devicons-react.git"
-  },
-  "keywords": [
-    "programming",
-    "icons",
-    "react",
-    "typescript"
-  ],
-  "bugs": {
-    "url": "https://github.com/MKAbuMattar/devicons-react/issues"
-  },
-  "homepage": "https://devicons-react.vercel.app/"
+  }
 }

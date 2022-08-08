@@ -1,14 +1,12 @@
 // style
-import { ScrollToTopButton } from './style.js'
-
 // component
-import GetIcon from '@/components/GetIcon'
+import GetIcon from '@/components/GetIcon';
 
 // hook
-import useScrollToTop from './hooks/useScrollToTop'
-
+import useScrollToTop from './hooks/useScrollToTop';
+import { ScrollToTopButton } from './style.js';
 // util
-import scrollToTop from './utils/scrollToTop.util'
+import scrollToTop from './utils/scrollToTop.util';
 
 const index = (props) => {
   const {
@@ -18,9 +16,9 @@ const index = (props) => {
     smooth,
     children,
     ...otherProps
-  } = props
+  } = props;
 
-  const { visible } = useScrollToTop(top)
+  const { visible } = useScrollToTop(top);
 
   return (
     <>
@@ -36,7 +34,7 @@ const index = (props) => {
         </ScrollToTopButton>
       )}
     </>
-  )
-}
+  );
+};
 
-export default index
+export default index;

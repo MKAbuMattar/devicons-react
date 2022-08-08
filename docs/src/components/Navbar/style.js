@@ -1,10 +1,10 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const Navbar = styled.nav`
   grid-column: span 3 / span 3;
   background-color: #071013;
   color: #eeeeee;
-`
+`;
 
 export const Sticky = styled.div`
   position: sticky;
@@ -15,7 +15,7 @@ export const Sticky = styled.div`
   padding: 2rem;
   height: calc(100vh - 4rem);
   z-index: 1;
-`
+`;
 
 export const NavbarLogoContainer = styled.div`
   display: flex;
@@ -23,7 +23,7 @@ export const NavbarLogoContainer = styled.div`
   align-items: center;
   gap: 0.5rem;
   padding: 1rem;
-`
+`;
 
 export const NavbarTitle = styled.h2`
   margin: 0;
@@ -39,18 +39,18 @@ export const NavbarTitle = styled.h2`
   @media only screen and (max-width: 512px) {
     font-size: 1.7em;
   }
-`
+`;
 export const NavbarScrollToTopBox = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-`
+`;
 
 export const NavbarList = styled.div`
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-`
+`;
 
 export const NavbarItem = styled.div`
   a {
@@ -60,4 +60,4 @@ export const NavbarItem = styled.div`
       color: #d52128;
     }
   }
-`
+`;

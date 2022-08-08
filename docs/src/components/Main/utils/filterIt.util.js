@@ -1,15 +1,15 @@
 export const filterIt = (terms, arr) => {
   if ('' === terms || terms.length < 2) {
-    return arr
+    return arr;
   }
 
-  const words = terms.match(/\w+|"[^"]+"/g)
+  const words = terms.match(/\w+|"[^"]+"/g);
 
-  words.push(terms)
+  words.push(terms);
 
   return arr.filter((a) => {
-    const v = Object.values(a)
-    const f = JSON.stringify(v).toLowerCase()
-    return words.every((val) => f.includes(val))
-  })
-}
+    const v = Object.values(a);
+    const f = JSON.stringify(v).toLowerCase();
+    return words.every((val) => f.includes(val));
+  });
+};

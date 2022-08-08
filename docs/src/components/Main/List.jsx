@@ -1,17 +1,16 @@
-import { Fragment, useEffect } from 'react'
-import hljs from 'highlight.js'
-import javascript from 'highlight.js/lib/languages/javascript'
-hljs.registerLanguage('javascript', javascript)
+import hljs from 'highlight.js';
+import javascript from 'highlight.js/lib/languages/javascript';
+import { Fragment, useEffect } from 'react';
+hljs.registerLanguage('javascript', javascript);
 
-import ListIcons from './ListIcons'
-import ListIconsBeta from './ListIconsBeta'
-
-import { Cards, Card, CardInfo, CardTitle } from './style'
+import ListIcons from './ListIcons';
+import ListIconsBeta from './ListIconsBeta';
+import { Card, CardInfo, Cards, CardTitle } from './style';
 
 const List = ({ items, isLatest }) => {
   useEffect(() => {
-    hljs.initHighlighting()
-  }, [items])
+    hljs.initHighlighting();
+  }, [items]);
 
   return (
     <Fragment>
@@ -38,7 +37,7 @@ import ${item.componentName} from '${item.fileName}'`}
         ))}
       </Cards>
     </Fragment>
-  )
-}
+  );
+};
 
-export default List
+export default List;

@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const ScrollToTopButton = styled.button`
   display: flex;
@@ -54,4 +54,4 @@ export const ScrollToTopButton = styled.button`
 
   @media screen and (min-width: 1440px) {
   }
-`
+`;

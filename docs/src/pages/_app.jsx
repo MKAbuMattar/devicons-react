@@ -1,10 +1,9 @@
-import { Fragment } from 'react'
-import Head from 'next/head'
+import Head from 'next/head';
+import { DefaultSeo } from 'next-seo';
+import { Fragment } from 'react';
 
-import { DefaultSeo } from 'next-seo'
-import SEO from '@/config/next-seo.config'
-
-import { GlobalStyle } from '@/style/style'
+import SEO from '@/config/next-seo.config';
+import { GlobalStyle } from '@/style/style';
 
 const App = ({ Component, pageProps }) => {
   return (
@@ -16,7 +15,7 @@ const App = ({ Component, pageProps }) => {
       <GlobalStyle />
       <Component {...pageProps} />
     </Fragment>
-  )
-}
+  );
+};
 
-export default App
+export default App;

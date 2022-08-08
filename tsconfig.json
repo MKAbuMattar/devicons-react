@@ -4,14 +4,15 @@
     "target": "es6",
     "sourceMap": true,
     "jsx": "react",
-    "rootDir": "src",
+    "rootDir": "build",
     "outDir": "lib",
     "noImplicitReturns": true,
     "noImplicitThis": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
     "esModuleInterop": true,
-    "baseUrl": "src/",
+    "moduleResolution": "node",
+    "baseUrl": "build/",
     "paths": {
       "icons/*": [
         "icons/*"
@@ -20,7 +21,7 @@
   },
   "exclude": [
     "node_modules",
-    "build",
     "lib",
+    "src",
   ]
 }
