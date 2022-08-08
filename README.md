@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="https://github.com/MKAbuMattar/devicons-react">
-        <img src="https://raw.githubusercontent.com/MKAbuMattar/recursive-directory/main/src/assets/devicons-react-original.svg" alt="Devicon Logo" height="140" />
+        <img src="https://raw.githubusercontent.com/MKAbuMattar/devicons-react/main/src/assets/devicons-react-original.svg" alt="Devicon Logo" height="140" />
     </a>
     <p align="center">
         Devicons React is a collection of icons that symbolize programming languages, design tools, and development software, build into <a href="https://github.com/devicons/devicon">devicon</a>
