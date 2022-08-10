@@ -1,7 +1,7 @@
+import { Fragment, useEffect } from 'react';
+
 import hljs from 'highlight.js';
 import javascript from 'highlight.js/lib/languages/javascript';
-import Link from 'next/link';
-import { Fragment, useEffect } from 'react';
 hljs.registerLanguage('javascript', javascript);
 
 import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal';
@@ -16,7 +16,6 @@ import {
   HeaderCardTitle,
   HeaderContainer,
   HeaderInfo,
-  HeaderLink,
   HeaderTitle,
   HeaderTitleBox,
 } from './style';
@@ -62,17 +61,13 @@ const Header = () => {
             </a>
           </HeaderBoxGitHubLabel>
 
-          {/* <HeaderArrowWaveBox>
-            <Link href="#search">
-              <a>
-                <HeaderArrowWave>
-                  <span />
-                  <span />
-                  <span />
-                </HeaderArrowWave>
-              </a>
-            </Link>
-          </HeaderArrowWaveBox> */}
+          <HeaderArrowWaveBox>
+            <HeaderArrowWave>
+              <span />
+              <span />
+              <span />
+            </HeaderArrowWave>
+          </HeaderArrowWaveBox>
 
           <HeaderCard>
             <HeaderCardInfo>

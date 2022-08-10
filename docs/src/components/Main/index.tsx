@@ -1,4 +1,4 @@
-import { Fragment, useCallback,useEffect, useState } from 'react';
+import { FC, useCallback, useEffect, useState } from 'react';
 
 import { removeExtra } from '@/utils/regex.util';
 
@@ -17,30 +17,39 @@ import {
 import { filterIt } from './utils/filterIt.util';
 import initialItems from './utils/initialItems.util';
 
-const index = ({ icons = {}, isLatest }) => {
+import Item from '@/types/item';
+
+type Props = {
+  icons?: Item[];
+  isLatest?: boolean;
+};
+
+const index: FC<Props> = (props) => {
+  const { icons, isLatest } = props;
+
   const [items, setItems] = useState(initialItems(icons));
   const [iconsLength, setIonsLength] = useState();
 
-  useEffect(() => {
-    setItems(initialItems(icons));
-    setIonsLength(totalIconCount(items).length);
-  }, []);
+  const totalIconCount = (items: Item[]): any => {
+    const data: string[] = [];
+    items.forEach((result) => data.push(removeExtra(result.name)));
+    return [...new Set(data)];
+  };
 
-  const filterList = useCallback(({ target }) => {
+  const filterList = useCallback(({ target }: any) => {
     const searchQuery = target.value.toLowerCase();
     const updatedList = filterIt(searchQuery, initialItems(icons));
     setItems(updatedList);
     setIonsLength(totalIconCount(updatedList).length);
   }, []);
 
-  const totalIconCount = (items) => {
-    const data = [];
-    items.forEach((result) => data.push(removeExtra(result.name)));
-    return [...new Set(data)];
-  };
+  useEffect(() => {
+    setItems(initialItems(icons));
+    setIonsLength(totalIconCount(items).length);
+  }, []);
 
   return (
-    <Fragment>
+    <>
       <Main>
         {isLatest ? (
           <MainCard>
@@ -92,7 +101,7 @@ pnpm add devicons-react@beta`}
           <List items={items} isLatest={isLatest} />
         </MainWrapper>
       </Main>
-    </Fragment>
+    </>
   );
 };
 

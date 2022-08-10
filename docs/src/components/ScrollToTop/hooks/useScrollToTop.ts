@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-const useScrollToTop = (top) => {
+const useScrollToTop = (top: number) => {
   const [visible, setVisible] = useState(false);
 
   const onScroll = () => {

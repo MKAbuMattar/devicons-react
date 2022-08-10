@@ -1,4 +1,4 @@
-export const removeExtra = (str) =>
+export const removeExtra = (str: string): string =>
   str
     .replace(' Original', '')
     .replace(' Plain', '')

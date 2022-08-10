@@ -34,6 +34,10 @@ yarn-error.log*
 .vercel
 .git
 
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
 # PWA files
 **/public/precache.*.*.js
 **/public/sw.js

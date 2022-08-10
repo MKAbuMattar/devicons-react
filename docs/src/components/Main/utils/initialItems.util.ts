@@ -1,7 +1,7 @@
-const initialItems = (icons) => {
+const initialItems = (icons: any) => {
   const items = icons;
 
-  items.sort((a, b) => {
+  items.sort((a: { name: string }, b: { name: any }) => {
     return a.name.localeCompare(b.name);
   });
 

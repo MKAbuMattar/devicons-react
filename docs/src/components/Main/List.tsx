@@ -1,19 +1,29 @@
+import { FC, useEffect } from 'react';
+
 import hljs from 'highlight.js';
 import javascript from 'highlight.js/lib/languages/javascript';
-import { Fragment, useEffect } from 'react';
 hljs.registerLanguage('javascript', javascript);
 
 import ListIcons from './ListIcons';
 import ListIconsBeta from './ListIconsBeta';
 import { Card, CardInfo, Cards, CardTitle } from './style';
 
-const List = ({ items, isLatest }) => {
+import Item from '@/types/item';
+
+type Props = {
+  items: Item[];
+  isLatest?: boolean;
+};
+
+const List: FC<Props> = (props) => {
+  const { items, isLatest } = props;
+
   useEffect(() => {
     hljs.initHighlighting();
   }, [items]);
 
   return (
-    <Fragment>
+    <>
       <Cards>
         {items.map((item, idx) => (
           <Card key={idx}>
@@ -36,7 +46,7 @@ import ${item.componentName} from '${item.fileName}'`}
           </Card>
         ))}
       </Cards>
-    </Fragment>
+    </>
   );
 };
 
