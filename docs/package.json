@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "devicons-react": "^1.2.2",
-    "devicons-react-beta": "npm:devicons-react@1.2.3-beta-0.0.5",
+    "devicons-react-beta": "npm:devicons-react@1.2.3-beta-0.0.6",
     "highlight.js": "11.5.0",
     "next": "12.2.3",
     "next-pwa": "5.4.6",
