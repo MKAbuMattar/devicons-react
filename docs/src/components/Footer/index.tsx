@@ -1,14 +1,12 @@
-import { Fragment } from 'react';
-
 import { FooterContainer, FooterLink } from './style';
 
 const Footer = () => {
   const getYear = () => {
-    return new Date().getFullYear();
+    return new Date().getFullYear().toString();
   };
 
   return (
-    <Fragment>
+    <>
       <FooterContainer>
         <p>
           All Copyrights Reserved ©{' '}
@@ -23,7 +21,7 @@ const Footer = () => {
           )
         </p>
       </FooterContainer>
-    </Fragment>
+    </>
   );
 };
 

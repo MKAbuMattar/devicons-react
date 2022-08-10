@@ -1,11 +1,13 @@
+import type { AppProps } from 'next/app';
+
 import Head from 'next/head';
 import { DefaultSeo } from 'next-seo';
 import { Fragment } from 'react';
 
 import SEO from '@/config/next-seo.config';
-import { GlobalStyle } from '@/style/style';
+import { GlobalStyle } from '@/assets/style/style';
 
-const App = ({ Component, pageProps }) => {
+const App = ({ Component, pageProps }: AppProps) => {
   return (
     <Fragment>
       <Head>

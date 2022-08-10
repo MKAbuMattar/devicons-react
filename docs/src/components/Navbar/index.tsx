@@ -1,6 +1,4 @@
-import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal';
 import Link from 'next/link';
-import React, { useState } from 'react';
 
 import ScrollToTop from '@/components/ScrollToTop';
 
@@ -13,6 +11,8 @@ import {
   NavbarTitle,
   Sticky,
 } from './style';
+
+import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal';
 
 const index = () => {
   return (
@@ -37,13 +37,13 @@ const index = () => {
                 </Link>
               </NavbarItem>
               <NavbarItem>
-                <Link href="/icons">
-                  <a>Icons</a>
+                <Link href="/latest">
+                  <a>Icons @latest</a>
                 </Link>
               </NavbarItem>
               <NavbarItem>
                 <Link href="/beta">
-                  <a>Icons beta</a>
+                  <a>Icons @beta</a>
                 </Link>
               </NavbarItem>
             </NavbarList>

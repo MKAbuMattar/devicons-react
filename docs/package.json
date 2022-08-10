@@ -1,7 +1,29 @@
 {
-  "name": "docs",
+  "name": "devicons-react-docs",
   "version": "0.0.0",
-  "private": false,
+  "private": true,
+  "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
+  "keywords": [
+    "programming",
+    "icons",
+    "react",
+    "typescript",
+    "docs"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mohammad Abu Mattar",
+    "email": "mohammad.khaled@outlook.com",
+    "url": "https://mkabumattar.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MKAbuMattar/devicons-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MKAbuMattar/devicons-react/issues"
+  },
+  "homepage": "https://devicons-react.vercel.app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,7 +32,7 @@
     "prettier": "prettier --write ."
   },
   "dependencies": {
-    "devicons-react": "^1.2.2",
+    "devicons-react": "1.2.2",
     "devicons-react-beta": "npm:devicons-react@1.2.3-beta-0.0.6",
     "highlight.js": "11.5.0",
     "next": "12.2.3",
@@ -21,8 +43,15 @@
     "styled-components": "5.3.5"
   },
   "devDependencies": {
+    "@types/node": "18.7.1",
+    "@types/react": "18.0.17",
+    "@types/react-dom": "18.0.6",
+    "@types/styled-components": "5.1.26",
     "babel-plugin-styled-components": "2.0.2",
     "prettier": "2.7.1",
-    "sass": "^1.54.0"
+    "typescript": "4.7.4"
+  },
+  "resolutions": {
+    "webpack": "^5"
   }
 }

@@ -1,4 +1,4 @@
-const scrollToTop = (smooth = false) => {
+const scrollToTop = (smooth: boolean = false) => {
   if (!smooth) {
     document.documentElement.scrollTop = 0;
   }
