@@ -4,7 +4,7 @@ import hljs from 'highlight.js';
 import javascript from 'highlight.js/lib/languages/javascript';
 hljs.registerLanguage('javascript', javascript);
 
-import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal';
+import DeviconsReactOriginal from 'devicons-react/lib/icons/DeviconsReactOriginal';
 
 import {
   HeaderArrowWave,
@@ -41,22 +41,44 @@ const Header = () => {
           </HeaderInfo>
 
           <HeaderBoxGitHubLabel>
+            <a
+              href="https://www.npmjs.com/package/devicons-react"
+              target="_blank"
+            >
+              <img
+                src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
+                alt=""
+              />
+            </a>
+
+            <a
+              href="https://github.com/MKAbuMattar/devicons-react"
+              target="_blank"
+            >
+              <img
+                src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
+                alt=""
+              />
+            </a>
+
             <a href="https://github.com/MKAbuMattar/devicons-react/releases">
               <img
-                alt="GitHub release (latest by semver)"
-                src="https://img.shields.io/github/v/release/MKAbuMattar/devicons-react?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver"
+                alt="GitHub release"
+                src="https://img.shields.io/github/v/release/MKAbuMattar/devicons-react?color=%23d52128&label=Latest%20release&style=for-the-badge"
               />
             </a>
-            <a href="https://github.com/MKAbuMattar/devicons-react/LICENSE">
+
+            <a href="/LICENSE">
               <img
                 alt="GitHub"
-                src="https://img.shields.io/github/license/MKAbuMattar/devicons-react?color=%2360be86&style=for-the-badge"
+                src="https://img.shields.io/github/license/MKAbuMattar/devicons-react?color=%23d52128&style=for-the-badge"
               />
             </a>
+
             <a href="https://github.com/MKAbuMattar/devicons-react/stargazers">
               <img
                 alt="GitHub Repo stars"
-                src="https://img.shields.io/github/stars/MKAbuMattar/devicons-react?color=%2360be86&label=github%20stars&style=for-the-badge"
+                src="https://img.shields.io/github/stars/MKAbuMattar/devicons-react?color=%23d52128&label=github%20stars&style=for-the-badge"
               />
             </a>
           </HeaderBoxGitHubLabel>
@@ -95,7 +117,7 @@ pnpm add devicons-react`}
               <code className="js hljs language-javascript">
                 {`import { Fragment } from 'react'
 import { Aarch64Plain, ReactOriginal } from 'devicons-react'
-import AndroidOriginal from 'devicons-react/icons/AndroidOriginal'
+import AndroidOriginal from 'devicons-react/lib/icons/AndroidOriginal'
 
 const App = () => {
   return (

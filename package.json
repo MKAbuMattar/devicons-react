@@ -1,6 +1,6 @@
 {
   "name": "devicons-react",
-  "version": "1.2.3-canary-0.0.8",
+  "version": "1.2.5-beta-0.0.1",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
   "keywords": [
     "programming",
@@ -41,7 +41,7 @@
     "build:config:recursive": "node -r esbuild-runner/register src/config/build.config.ts",
     "build:generate:svg": "yarn clean:svg && node -r esbuild-runner/register src/generate/svg.generate.ts && yarn clean:svg:devicon && yarn copy:svg:devicons-react",
     "build:generate:svgr": "yarn clean:svgr:icons && npx @svgr/cli --typescript --out-dir build/icons --index-template src/template/index.template.cjs  -- svg && yarn clean:svgr:index",
-    "build:lib": "rollup -c",
+    "build:lib": "yarn clean:lib && rollup -c",
     "build:data": "node -r esbuild-runner/register src/data/generate.data.ts",
     "build:noclone": "yarn build:config:recursive && yarn build:generate:svg && yarn build:generate:svgr && yarn build:lib && yarn build:data",
     "build": "yarn build:config:clone && yarn build:config:recursive && yarn build:generate:svg && yarn build:generate:svgr && yarn build:lib && yarn build:data",

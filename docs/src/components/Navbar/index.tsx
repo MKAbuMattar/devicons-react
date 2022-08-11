@@ -12,7 +12,7 @@ import {
   Sticky,
 } from './style';
 
-import DeviconsReactOriginal from 'devicons-react/icons/DeviconsReactOriginal';
+import DeviconsReactOriginal from 'devicons-react/lib/icons/DeviconsReactOriginal';
 
 const index = () => {
   return (
