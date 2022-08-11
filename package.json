@@ -1,6 +1,6 @@
 {
   "name": "devicons-react",
-  "version": "1.2.3-beta-0.0.6",
+  "version": "1.2.3-canary-0.0.8",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
   "keywords": [
     "programming",
@@ -22,10 +22,6 @@
     "url": "https://github.com/MKAbuMattar/devicons-react/issues"
   },
   "homepage": "https://devicons-react.vercel.app/",
-  "engines": {
-    "yarn": ">=1.20.0",
-    "npm": "please-use-yarn"
-  },
   "scripts": {
     "lint:fix": "eslint --ignore-path .eslintignore \"src/**/*.ts\" --fix",
     "lint:check": "eslint --ignore-path .eslintignore \"src/**/*.ts\"",
@@ -50,7 +46,7 @@
     "build:noclone": "yarn build:config:recursive && yarn build:generate:svg && yarn build:generate:svgr && yarn build:lib && yarn build:data",
     "build": "yarn build:config:clone && yarn build:config:recursive && yarn build:generate:svg && yarn build:generate:svgr && yarn build:lib && yarn build:data",
     "publish:lib:latest": "npm publish",
-    "publish:lib:beta": "cd lib && npm publish --tag beta",
+    "publish:lib:beta": "npm publish --tag beta",
     "publish:lib:canary": "npm publish --tag canary"
   },
   "peerDependencies": {
@@ -88,7 +84,6 @@
     "react": "18.2.0",
     "recursive-directory": "0.0.0-rc-0.0.3",
     "rollup": "2.77.2",
-    "rollup-plugin-copy": "3.4.0",
     "rollup-plugin-dts": "4.2.2",
     "rollup-plugin-peer-deps-external": "2.2.4",
     "rollup-plugin-postcss": "4.0.2",
@@ -96,5 +91,28 @@
     "svgson": "5.2.1",
     "tslib": "2.4.0",
     "typescript": "4.7.4"
+  },
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "require": "./lib/index.js",
+      "import": "./lib/index.js",
+      "types": "./index.d.ts"
+    },
+    "./lib/icons/*": {
+      "require": "./lib/icons/*.js",
+      "import": "./lib/icons/*.js",
+      "types": "./lib/icons/*.d.ts"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "/lib",
+    "/index.d.ts"
+  ],
+  "support": {
+    "backing": {
+      "npm-funding": true
+    }
   }
 }

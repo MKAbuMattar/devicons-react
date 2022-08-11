@@ -2,3921 +2,3908 @@
   {
     "name": "Aarch64 Original",
     "componentName": "Aarch64Original",
-    "fileName": "devicons-react/icons/Aarch64Original"
+    "tags": ["architecture", "programming", "language", "ARM"]
   },
   {
     "name": "Aarch64 Plain",
     "componentName": "Aarch64Plain",
-    "fileName": "devicons-react/icons/Aarch64Plain"
+    "tags": ["architecture", "programming", "language", "ARM"]
   },
   {
     "name": "Adonisjs Original",
     "componentName": "AdonisjsOriginal",
-    "fileName": "devicons-react/icons/AdonisjsOriginal"
+    "tags": ["nodejs", "framework"]
   },
   {
     "name": "Adonisjs Original Wordmark",
     "componentName": "AdonisjsOriginalWordmark",
-    "fileName": "devicons-react/icons/AdonisjsOriginalWordmark"
+    "tags": ["nodejs", "framework"]
   },
   {
     "name": "Aftereffects Original",
     "componentName": "AftereffectsOriginal",
-    "fileName": "devicons-react/icons/AftereffectsOriginal"
+    "tags": ["video", "editor"]
   },
   {
     "name": "Aftereffects Plain",
     "componentName": "AftereffectsPlain",
-    "fileName": "devicons-react/icons/AftereffectsPlain"
+    "tags": ["video", "editor"]
   },
   {
     "name": "Amazonwebservices Original",
     "componentName": "AmazonwebservicesOriginal",
-    "fileName": "devicons-react/icons/AmazonwebservicesOriginal"
+    "tags": ["cloud", "hosting", "server"]
   },
   {
     "name": "Amazonwebservices Original Wordmark",
     "componentName": "AmazonwebservicesOriginalWordmark",
-    "fileName": "devicons-react/icons/AmazonwebservicesOriginalWordmark"
+    "tags": ["cloud", "hosting", "server"]
   },
   {
     "name": "Amazonwebservices Plain Wordmark",
     "componentName": "AmazonwebservicesPlainWordmark",
-    "fileName": "devicons-react/icons/AmazonwebservicesPlainWordmark"
+    "tags": ["cloud", "hosting", "server"]
   },
   {
     "name": "Anaconda Original",
     "componentName": "AnacondaOriginal",
-    "fileName": "devicons-react/icons/AnacondaOriginal"
+    "tags": ["python", "data-science"]
   },
   {
     "name": "Anaconda Original Wordmark",
     "componentName": "AnacondaOriginalWordmark",
-    "fileName": "devicons-react/icons/AnacondaOriginalWordmark"
+    "tags": ["python", "data-science"]
   },
   {
     "name": "Android Original",
     "componentName": "AndroidOriginal",
-    "fileName": "devicons-react/icons/AndroidOriginal"
+    "tags": ["os", "mobile"]
   },
   {
     "name": "Android Original Wordmark",
     "componentName": "AndroidOriginalWordmark",
-    "fileName": "devicons-react/icons/AndroidOriginalWordmark"
+    "tags": ["os", "mobile"]
   },
   {
     "name": "Android Plain",
     "componentName": "AndroidPlain",
-    "fileName": "devicons-react/icons/AndroidPlain"
+    "tags": ["os", "mobile"]
   },
   {
     "name": "Android Plain Wordmark",
     "componentName": "AndroidPlainWordmark",
-    "fileName": "devicons-react/icons/AndroidPlainWordmark"
+    "tags": ["os", "mobile"]
   },
   {
     "name": "Androidstudio Original",
     "componentName": "AndroidstudioOriginal",
-    "fileName": "devicons-react/icons/AndroidstudioOriginal"
+    "tags": ["application", "editor", "ide", "android", "mobile"]
   },
   {
     "name": "Androidstudio Original Wordmark",
     "componentName": "AndroidstudioOriginalWordmark",
-    "fileName": "devicons-react/icons/AndroidstudioOriginalWordmark"
+    "tags": ["application", "editor", "ide", "android", "mobile"]
   },
   {
     "name": "Androidstudio Plain",
     "componentName": "AndroidstudioPlain",
-    "fileName": "devicons-react/icons/AndroidstudioPlain"
+    "tags": ["application", "editor", "ide", "android", "mobile"]
   },
   {
     "name": "Androidstudio Plain Wordmark",
     "componentName": "AndroidstudioPlainWordmark",
-    "fileName": "devicons-react/icons/AndroidstudioPlainWordmark"
+    "tags": ["application", "editor", "ide", "android", "mobile"]
   },
   {
     "name": "Angularjs Original",
     "componentName": "AngularjsOriginal",
-    "fileName": "devicons-react/icons/AngularjsOriginal"
+    "tags": ["framework", "javascript"]
   },
   {
     "name": "Angularjs Original Wordmark",
     "componentName": "AngularjsOriginalWordmark",
-    "fileName": "devicons-react/icons/AngularjsOriginalWordmark"
+    "tags": ["framework", "javascript"]
   },
   {
     "name": "Angularjs Plain",
     "componentName": "AngularjsPlain",
-    "fileName": "devicons-react/icons/AngularjsPlain"
+    "tags": ["framework", "javascript"]
   },
   {
     "name": "Angularjs Plain Wordmark",
     "componentName": "AngularjsPlainWordmark",
-    "fileName": "devicons-react/icons/AngularjsPlainWordmark"
+    "tags": ["framework", "javascript"]
   },
   {
     "name": "Ansible Original",
     "componentName": "AnsibleOriginal",
-    "fileName": "devicons-react/icons/AnsibleOriginal"
+    "tags": ["automation", "provisioning", "deployment", "continuous-delivery"]
   },
   {
     "name": "Ansible Original Wordmark",
     "componentName": "AnsibleOriginalWordmark",
-    "fileName": "devicons-react/icons/AnsibleOriginalWordmark"
+    "tags": ["automation", "provisioning", "deployment", "continuous-delivery"]
   },
   {
     "name": "Ansible Plain",
     "componentName": "AnsiblePlain",
-    "fileName": "devicons-react/icons/AnsiblePlain"
+    "tags": ["automation", "provisioning", "deployment", "continuous-delivery"]
   },
   {
     "name": "Ansible Plain Wordmark",
     "componentName": "AnsiblePlainWordmark",
-    "fileName": "devicons-react/icons/AnsiblePlainWordmark"
+    "tags": ["automation", "provisioning", "deployment", "continuous-delivery"]
   },
-  {
-    "name": "Apache Line",
-    "componentName": "ApacheLine",
-    "fileName": "devicons-react/icons/ApacheLine"
-  },
+  { "name": "Apache Line", "componentName": "ApacheLine", "tags": ["php"] },
   {
     "name": "Apache Line Wordmark",
     "componentName": "ApacheLineWordmark",
-    "fileName": "devicons-react/icons/ApacheLineWordmark"
+    "tags": ["php"]
   },
   {
     "name": "Apache Original",
     "componentName": "ApacheOriginal",
-    "fileName": "devicons-react/icons/ApacheOriginal"
+    "tags": ["php"]
   },
   {
     "name": "Apache Original Wordmark",
     "componentName": "ApacheOriginalWordmark",
-    "fileName": "devicons-react/icons/ApacheOriginalWordmark"
+    "tags": ["php"]
   },
-  {
-    "name": "Apache Plain",
-    "componentName": "ApachePlain",
-    "fileName": "devicons-react/icons/ApachePlain"
-  },
+  { "name": "Apache Plain", "componentName": "ApachePlain", "tags": ["php"] },
   {
     "name": "Apache Plain Wordmark",
     "componentName": "ApachePlainWordmark",
-    "fileName": "devicons-react/icons/ApachePlainWordmark"
+    "tags": ["php"]
   },
   {
     "name": "Apachekafka Original",
     "componentName": "ApachekafkaOriginal",
-    "fileName": "devicons-react/icons/ApachekafkaOriginal"
+    "tags": ["streaming", "open-source"]
   },
   {
     "name": "Apachekafka Original Wordmark",
     "componentName": "ApachekafkaOriginalWordmark",
-    "fileName": "devicons-react/icons/ApachekafkaOriginalWordmark"
+    "tags": ["streaming", "open-source"]
   },
   {
     "name": "Appcelerator Original",
     "componentName": "AppceleratorOriginal",
-    "fileName": "devicons-react/icons/AppceleratorOriginal"
+    "tags": ["app", "mobile"]
   },
   {
     "name": "Appcelerator Original Wordmark",
     "componentName": "AppceleratorOriginalWordmark",
-    "fileName": "devicons-react/icons/AppceleratorOriginalWordmark"
+    "tags": ["app", "mobile"]
   },
   {
     "name": "Appcelerator Plain Wordmark",
     "componentName": "AppceleratorPlainWordmark",
-    "fileName": "devicons-react/icons/AppceleratorPlainWordmark"
+    "tags": ["app", "mobile"]
   },
   {
     "name": "Apple Original",
     "componentName": "AppleOriginal",
-    "fileName": "devicons-react/icons/AppleOriginal"
+    "tags": ["brand", "mobile"]
   },
   {
     "name": "Appwrite Original",
     "componentName": "AppwriteOriginal",
-    "fileName": "devicons-react/icons/AppwriteOriginal"
+    "tags": ["cloud", "platform", "server"]
   },
   {
     "name": "Appwrite Original Wordmark",
     "componentName": "AppwriteOriginalWordmark",
-    "fileName": "devicons-react/icons/AppwriteOriginalWordmark"
+    "tags": ["cloud", "platform", "server"]
   },
   {
     "name": "Appwrite Plain",
     "componentName": "AppwritePlain",
-    "fileName": "devicons-react/icons/AppwritePlain"
+    "tags": ["cloud", "platform", "server"]
   },
   {
     "name": "Appwrite Plain Wordmark",
     "componentName": "AppwritePlainWordmark",
-    "fileName": "devicons-react/icons/AppwritePlainWordmark"
+    "tags": ["cloud", "platform", "server"]
   },
   {
     "name": "Arduino Original",
     "componentName": "ArduinoOriginal",
-    "fileName": "devicons-react/icons/ArduinoOriginal"
+    "tags": ["microcontroller", "hardware"]
   },
   {
     "name": "Arduino Original Wordmark",
     "componentName": "ArduinoOriginalWordmark",
-    "fileName": "devicons-react/icons/ArduinoOriginalWordmark"
+    "tags": ["microcontroller", "hardware"]
   },
   {
     "name": "Arduino Plain",
     "componentName": "ArduinoPlain",
-    "fileName": "devicons-react/icons/ArduinoPlain"
+    "tags": ["microcontroller", "hardware"]
   },
   {
     "name": "Arduino Plain Wordmark",
     "componentName": "ArduinoPlainWordmark",
-    "fileName": "devicons-react/icons/ArduinoPlainWordmark"
+    "tags": ["microcontroller", "hardware"]
   },
   {
     "name": "Argocd Original",
     "componentName": "ArgocdOriginal",
-    "fileName": "devicons-react/icons/ArgocdOriginal"
+    "tags": ["gitops", "continuous-delivery"]
   },
   {
     "name": "Argocd Original Wordmark",
     "componentName": "ArgocdOriginalWordmark",
-    "fileName": "devicons-react/icons/ArgocdOriginalWordmark"
+    "tags": ["gitops", "continuous-delivery"]
   },
   {
     "name": "Argocd Plain",
     "componentName": "ArgocdPlain",
-    "fileName": "devicons-react/icons/ArgocdPlain"
+    "tags": ["gitops", "continuous-delivery"]
   },
   {
     "name": "Argocd Plain Wordmark",
     "componentName": "ArgocdPlainWordmark",
-    "fileName": "devicons-react/icons/ArgocdPlainWordmark"
+    "tags": ["gitops", "continuous-delivery"]
   },
   {
     "name": "Atom Original",
     "componentName": "AtomOriginal",
-    "fileName": "devicons-react/icons/AtomOriginal"
+    "tags": ["editor"]
   },
   {
     "name": "Atom Original Wordmark",
     "componentName": "AtomOriginalWordmark",
-    "fileName": "devicons-react/icons/AtomOriginalWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Azure Original",
     "componentName": "AzureOriginal",
-    "fileName": "devicons-react/icons/AzureOriginal"
+    "tags": ["cloud", "devops"]
   },
   {
     "name": "Azure Original Wordmark",
     "componentName": "AzureOriginalWordmark",
-    "fileName": "devicons-react/icons/AzureOriginalWordmark"
+    "tags": ["cloud", "devops"]
   },
   {
     "name": "Azure Plain",
     "componentName": "AzurePlain",
-    "fileName": "devicons-react/icons/AzurePlain"
+    "tags": ["cloud", "devops"]
   },
   {
     "name": "Azure Plain Wordmark",
     "componentName": "AzurePlainWordmark",
-    "fileName": "devicons-react/icons/AzurePlainWordmark"
+    "tags": ["cloud", "devops"]
   },
   {
     "name": "Babel Original",
     "componentName": "BabelOriginal",
-    "fileName": "devicons-react/icons/BabelOriginal"
+    "tags": ["javascript", "transpiler"]
   },
   {
     "name": "Babel Plain",
     "componentName": "BabelPlain",
-    "fileName": "devicons-react/icons/BabelPlain"
+    "tags": ["javascript", "transpiler"]
   },
   {
     "name": "Backbonejs Original",
     "componentName": "BackbonejsOriginal",
-    "fileName": "devicons-react/icons/BackbonejsOriginal"
+    "tags": ["javascript", "framework"]
   },
   {
     "name": "Backbonejs Original Wordmark",
     "componentName": "BackbonejsOriginalWordmark",
-    "fileName": "devicons-react/icons/BackbonejsOriginalWordmark"
+    "tags": ["javascript", "framework"]
   },
   {
     "name": "Backbonejs Plain",
     "componentName": "BackbonejsPlain",
-    "fileName": "devicons-react/icons/BackbonejsPlain"
+    "tags": ["javascript", "framework"]
   },
   {
     "name": "Backbonejs Plain Wordmark",
     "componentName": "BackbonejsPlainWordmark",
-    "fileName": "devicons-react/icons/BackbonejsPlainWordmark"
+    "tags": ["javascript", "framework"]
   },
   {
     "name": "Bamboo Original",
     "componentName": "BambooOriginal",
-    "fileName": "devicons-react/icons/BambooOriginal"
+    "tags": ["platform", "integration", "server"]
   },
   {
     "name": "Bamboo Original Wordmark",
     "componentName": "BambooOriginalWordmark",
-    "fileName": "devicons-react/icons/BambooOriginalWordmark"
+    "tags": ["platform", "integration", "server"]
   },
   {
     "name": "Bash Original",
     "componentName": "BashOriginal",
-    "fileName": "devicons-react/icons/BashOriginal"
+    "tags": ["shell", "command"]
   },
   {
     "name": "Bash Plain",
     "componentName": "BashPlain",
-    "fileName": "devicons-react/icons/BashPlain"
+    "tags": ["shell", "command"]
   },
   {
     "name": "Behance Original",
     "componentName": "BehanceOriginal",
-    "fileName": "devicons-react/icons/BehanceOriginal"
+    "tags": ["social", "website"]
   },
   {
     "name": "Behance Original Wordmark",
     "componentName": "BehanceOriginalWordmark",
-    "fileName": "devicons-react/icons/BehanceOriginalWordmark"
+    "tags": ["social", "website"]
   },
   {
     "name": "Behance Plain",
     "componentName": "BehancePlain",
-    "fileName": "devicons-react/icons/BehancePlain"
+    "tags": ["social", "website"]
   },
   {
     "name": "Behance Plain Wordmark",
     "componentName": "BehancePlainWordmark",
-    "fileName": "devicons-react/icons/BehancePlainWordmark"
+    "tags": ["social", "website"]
   },
   {
     "name": "Bitbucket Original",
     "componentName": "BitbucketOriginal",
-    "fileName": "devicons-react/icons/BitbucketOriginal"
+    "tags": ["version-control"]
   },
   {
     "name": "Bitbucket Original Wordmark",
     "componentName": "BitbucketOriginalWordmark",
-    "fileName": "devicons-react/icons/BitbucketOriginalWordmark"
+    "tags": ["version-control"]
   },
   {
     "name": "Blender Original",
     "componentName": "BlenderOriginal",
-    "fileName": "devicons-react/icons/BlenderOriginal"
+    "tags": ["modelling", "python", "3d", "animation"]
   },
   {
     "name": "Blender Original Wordmark",
     "componentName": "BlenderOriginalWordmark",
-    "fileName": "devicons-react/icons/BlenderOriginalWordmark"
+    "tags": ["modelling", "python", "3d", "animation"]
   },
   {
     "name": "Bootstrap Original",
     "componentName": "BootstrapOriginal",
-    "fileName": "devicons-react/icons/BootstrapOriginal"
+    "tags": ["css", "framework"]
   },
   {
     "name": "Bootstrap Original Wordmark",
     "componentName": "BootstrapOriginalWordmark",
-    "fileName": "devicons-react/icons/BootstrapOriginalWordmark"
+    "tags": ["css", "framework"]
   },
   {
     "name": "Bootstrap Plain",
     "componentName": "BootstrapPlain",
-    "fileName": "devicons-react/icons/BootstrapPlain"
+    "tags": ["css", "framework"]
   },
   {
     "name": "Bootstrap Plain Wordmark",
     "componentName": "BootstrapPlainWordmark",
-    "fileName": "devicons-react/icons/BootstrapPlainWordmark"
+    "tags": ["css", "framework"]
   },
   {
     "name": "Bower Line",
     "componentName": "BowerLine",
-    "fileName": "devicons-react/icons/BowerLine"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Bower Line Wordmark",
     "componentName": "BowerLineWordmark",
-    "fileName": "devicons-react/icons/BowerLineWordmark"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Bower Original",
     "componentName": "BowerOriginal",
-    "fileName": "devicons-react/icons/BowerOriginal"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Bower Original Wordmark",
     "componentName": "BowerOriginalWordmark",
-    "fileName": "devicons-react/icons/BowerOriginalWordmark"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Bower Plain",
     "componentName": "BowerPlain",
-    "fileName": "devicons-react/icons/BowerPlain"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Bower Plain Wordmark",
     "componentName": "BowerPlainWordmark",
-    "fileName": "devicons-react/icons/BowerPlainWordmark"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Bulma Plain",
     "componentName": "BulmaPlain",
-    "fileName": "devicons-react/icons/BulmaPlain"
+    "tags": ["css", "framework"]
   },
-  {
-    "name": "C Line",
-    "componentName": "CLine",
-    "fileName": "devicons-react/icons/CLine"
-  },
-  {
-    "name": "C Original",
-    "componentName": "COriginal",
-    "fileName": "devicons-react/icons/COriginal"
-  },
-  {
-    "name": "C Plain",
-    "componentName": "CPlain",
-    "fileName": "devicons-react/icons/CPlain"
-  },
+  { "name": "C Line", "componentName": "CLine", "tags": ["language"] },
+  { "name": "C Original", "componentName": "COriginal", "tags": ["language"] },
+  { "name": "C Plain", "componentName": "CPlain", "tags": ["language"] },
   {
     "name": "Cakephp Original",
     "componentName": "CakephpOriginal",
-    "fileName": "devicons-react/icons/CakephpOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Cakephp Original Wordmark",
     "componentName": "CakephpOriginalWordmark",
-    "fileName": "devicons-react/icons/CakephpOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Cakephp Plain",
     "componentName": "CakephpPlain",
-    "fileName": "devicons-react/icons/CakephpPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Cakephp Plain Wordmark",
     "componentName": "CakephpPlainWordmark",
-    "fileName": "devicons-react/icons/CakephpPlainWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Canva Original",
     "componentName": "CanvaOriginal",
-    "fileName": "devicons-react/icons/CanvaOriginal"
+    "tags": ["design"]
   },
   {
     "name": "Centos Original",
     "componentName": "CentosOriginal",
-    "fileName": "devicons-react/icons/CentosOriginal"
+    "tags": ["server", "linux"]
   },
   {
     "name": "Centos Original Wordmark",
     "componentName": "CentosOriginalWordmark",
-    "fileName": "devicons-react/icons/CentosOriginalWordmark"
+    "tags": ["server", "linux"]
   },
   {
     "name": "Centos Plain",
     "componentName": "CentosPlain",
-    "fileName": "devicons-react/icons/CentosPlain"
+    "tags": ["server", "linux"]
   },
   {
     "name": "Centos Plain Wordmark",
     "componentName": "CentosPlainWordmark",
-    "fileName": "devicons-react/icons/CentosPlainWordmark"
+    "tags": ["server", "linux"]
   },
   {
     "name": "Ceylon Original",
     "componentName": "CeylonOriginal",
-    "fileName": "devicons-react/icons/CeylonOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Ceylon Original Wordmark",
     "componentName": "CeylonOriginalWordmark",
-    "fileName": "devicons-react/icons/CeylonOriginalWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Ceylon Plain",
     "componentName": "CeylonPlain",
-    "fileName": "devicons-react/icons/CeylonPlain"
+    "tags": ["language"]
   },
   {
     "name": "Ceylon Plain Wordmark",
     "componentName": "CeylonPlainWordmark",
-    "fileName": "devicons-react/icons/CeylonPlainWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Chrome Original",
     "componentName": "ChromeOriginal",
-    "fileName": "devicons-react/icons/ChromeOriginal"
+    "tags": ["browser"]
   },
   {
     "name": "Chrome Original Wordmark",
     "componentName": "ChromeOriginalWordmark",
-    "fileName": "devicons-react/icons/ChromeOriginalWordmark"
+    "tags": ["browser"]
   },
   {
     "name": "Chrome Plain",
     "componentName": "ChromePlain",
-    "fileName": "devicons-react/icons/ChromePlain"
+    "tags": ["browser"]
   },
   {
     "name": "Chrome Plain Wordmark",
     "componentName": "ChromePlainWordmark",
-    "fileName": "devicons-react/icons/ChromePlainWordmark"
+    "tags": ["browser"]
   },
   {
     "name": "Circleci Plain",
     "componentName": "CircleciPlain",
-    "fileName": "devicons-react/icons/CircleciPlain"
+    "tags": ["integration", "platform"]
   },
   {
     "name": "Circleci Plain Wordmark",
     "componentName": "CircleciPlainWordmark",
-    "fileName": "devicons-react/icons/CircleciPlainWordmark"
+    "tags": ["integration", "platform"]
   },
   {
     "name": "Clojure Line",
     "componentName": "ClojureLine",
-    "fileName": "devicons-react/icons/ClojureLine"
+    "tags": ["language"]
   },
   {
     "name": "Clojure Original",
     "componentName": "ClojureOriginal",
-    "fileName": "devicons-react/icons/ClojureOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Clojurescript Original",
     "componentName": "ClojurescriptOriginal",
-    "fileName": "devicons-react/icons/ClojurescriptOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Clojurescript Plain",
     "componentName": "ClojurescriptPlain",
-    "fileName": "devicons-react/icons/ClojurescriptPlain"
+    "tags": ["language"]
   },
   {
     "name": "Cmake Original",
     "componentName": "CmakeOriginal",
-    "fileName": "devicons-react/icons/CmakeOriginal"
+    "tags": ["build"]
   },
   {
     "name": "Cmake Original Wordmark",
     "componentName": "CmakeOriginalWordmark",
-    "fileName": "devicons-react/icons/CmakeOriginalWordmark"
+    "tags": ["build"]
   },
-  {
-    "name": "Cmake Plain",
-    "componentName": "CmakePlain",
-    "fileName": "devicons-react/icons/CmakePlain"
-  },
+  { "name": "Cmake Plain", "componentName": "CmakePlain", "tags": ["build"] },
   {
     "name": "Cmake Plain Wordmark",
     "componentName": "CmakePlainWordmark",
-    "fileName": "devicons-react/icons/CmakePlainWordmark"
+    "tags": ["build"]
   },
   {
     "name": "Codecov Plain",
     "componentName": "CodecovPlain",
-    "fileName": "devicons-react/icons/CodecovPlain"
+    "tags": ["platform", "integration"]
   },
   {
     "name": "Codeigniter Plain",
     "componentName": "CodeigniterPlain",
-    "fileName": "devicons-react/icons/CodeigniterPlain"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Codeigniter Plain Wordmark",
     "componentName": "CodeigniterPlainWordmark",
-    "fileName": "devicons-react/icons/CodeigniterPlainWordmark"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Codepen Original Wordmark",
     "componentName": "CodepenOriginalWordmark",
-    "fileName": "devicons-react/icons/CodepenOriginalWordmark"
+    "tags": ["social", "website", "editor"]
   },
   {
     "name": "Codepen Plain",
     "componentName": "CodepenPlain",
-    "fileName": "devicons-react/icons/CodepenPlain"
+    "tags": ["social", "website", "editor"]
   },
   {
     "name": "Coffeescript Original",
     "componentName": "CoffeescriptOriginal",
-    "fileName": "devicons-react/icons/CoffeescriptOriginal"
+    "tags": ["javascript", "language"]
   },
   {
     "name": "Coffeescript Original Wordmark",
     "componentName": "CoffeescriptOriginalWordmark",
-    "fileName": "devicons-react/icons/CoffeescriptOriginalWordmark"
+    "tags": ["javascript", "language"]
   },
   {
     "name": "Composer Line",
     "componentName": "ComposerLine",
-    "fileName": "devicons-react/icons/ComposerLine"
+    "tags": ["package", "manager", "php"]
   },
   {
     "name": "Composer Line Wordmark",
     "componentName": "ComposerLineWordmark",
-    "fileName": "devicons-react/icons/ComposerLineWordmark"
+    "tags": ["package", "manager", "php"]
   },
   {
     "name": "Composer Original",
     "componentName": "ComposerOriginal",
-    "fileName": "devicons-react/icons/ComposerOriginal"
+    "tags": ["package", "manager", "php"]
   },
   {
     "name": "Confluence Original",
     "componentName": "ConfluenceOriginal",
-    "fileName": "devicons-react/icons/ConfluenceOriginal"
+    "tags": ["collaboration", "documentation", "wiki"]
   },
   {
     "name": "Confluence Original Wordmark",
     "componentName": "ConfluenceOriginalWordmark",
-    "fileName": "devicons-react/icons/ConfluenceOriginalWordmark"
+    "tags": ["collaboration", "documentation", "wiki"]
   },
   {
     "name": "Couchdb Original",
     "componentName": "CouchdbOriginal",
-    "fileName": "devicons-react/icons/CouchdbOriginal"
+    "tags": ["database"]
   },
   {
     "name": "Couchdb Original Wordmark",
     "componentName": "CouchdbOriginalWordmark",
-    "fileName": "devicons-react/icons/CouchdbOriginalWordmark"
+    "tags": ["database"]
   },
   {
     "name": "Couchdb Plain",
     "componentName": "CouchdbPlain",
-    "fileName": "devicons-react/icons/CouchdbPlain"
+    "tags": ["database"]
   },
   {
     "name": "Couchdb Plain Wordmark",
     "componentName": "CouchdbPlainWordmark",
-    "fileName": "devicons-react/icons/CouchdbPlainWordmark"
+    "tags": ["database"]
   },
   {
     "name": "Cplusplus Line",
     "componentName": "CplusplusLine",
-    "fileName": "devicons-react/icons/CplusplusLine"
+    "tags": ["language"]
   },
   {
     "name": "Cplusplus Original",
     "componentName": "CplusplusOriginal",
-    "fileName": "devicons-react/icons/CplusplusOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Cplusplus Plain",
     "componentName": "CplusplusPlain",
-    "fileName": "devicons-react/icons/CplusplusPlain"
+    "tags": ["language"]
   },
   {
     "name": "Crystal Original",
     "componentName": "CrystalOriginal",
-    "fileName": "devicons-react/icons/CrystalOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Crystal Original Wordmark",
     "componentName": "CrystalOriginalWordmark",
-    "fileName": "devicons-react/icons/CrystalOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Csharp Line",
     "componentName": "CsharpLine",
-    "fileName": "devicons-react/icons/CsharpLine"
+    "tags": ["language"]
   },
   {
     "name": "Csharp Original",
     "componentName": "CsharpOriginal",
-    "fileName": "devicons-react/icons/CsharpOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Csharp Plain",
     "componentName": "CsharpPlain",
-    "fileName": "devicons-react/icons/CsharpPlain"
+    "tags": ["language"]
   },
   {
     "name": "Css3 Original",
     "componentName": "Css3Original",
-    "fileName": "devicons-react/icons/Css3Original"
+    "tags": ["language", "programming"]
   },
   {
     "name": "Css3 Original Wordmark",
     "componentName": "Css3OriginalWordmark",
-    "fileName": "devicons-react/icons/Css3OriginalWordmark"
+    "tags": ["language", "programming"]
   },
   {
     "name": "Css3 Plain",
     "componentName": "Css3Plain",
-    "fileName": "devicons-react/icons/Css3Plain"
+    "tags": ["language", "programming"]
   },
   {
     "name": "Css3 Plain Wordmark",
     "componentName": "Css3PlainWordmark",
-    "fileName": "devicons-react/icons/Css3PlainWordmark"
+    "tags": ["language", "programming"]
   },
   {
     "name": "Cucumber Plain",
     "componentName": "CucumberPlain",
-    "fileName": "devicons-react/icons/CucumberPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Cucumber Plain Wordmark",
     "componentName": "CucumberPlainWordmark",
-    "fileName": "devicons-react/icons/CucumberPlainWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "D3 Js Original",
     "componentName": "D3JsOriginal",
-    "fileName": "devicons-react/icons/D3JsOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "D3 Js Plain",
     "componentName": "D3JsPlain",
-    "fileName": "devicons-react/icons/D3JsPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Dart Original",
     "componentName": "DartOriginal",
-    "fileName": "devicons-react/icons/DartOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Dart Original Wordmark",
     "componentName": "DartOriginalWordmark",
-    "fileName": "devicons-react/icons/DartOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Dart Plain",
     "componentName": "DartPlain",
-    "fileName": "devicons-react/icons/DartPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Dart Plain Wordmark",
     "componentName": "DartPlainWordmark",
-    "fileName": "devicons-react/icons/DartPlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Debian Original",
     "componentName": "DebianOriginal",
-    "fileName": "devicons-react/icons/DebianOriginal"
+    "tags": ["os", "server"]
   },
   {
     "name": "Debian Original Wordmark",
     "componentName": "DebianOriginalWordmark",
-    "fileName": "devicons-react/icons/DebianOriginalWordmark"
+    "tags": ["os", "server"]
   },
   {
     "name": "Debian Plain",
     "componentName": "DebianPlain",
-    "fileName": "devicons-react/icons/DebianPlain"
+    "tags": ["os", "server"]
   },
   {
     "name": "Debian Plain Wordmark",
     "componentName": "DebianPlainWordmark",
-    "fileName": "devicons-react/icons/DebianPlainWordmark"
+    "tags": ["os", "server"]
   },
   {
     "name": "Denojs Original",
     "componentName": "DenojsOriginal",
-    "fileName": "devicons-react/icons/DenojsOriginal"
+    "tags": ["javascript", "rust", "language"]
   },
   {
     "name": "Denojs Original Wordmark",
     "componentName": "DenojsOriginalWordmark",
-    "fileName": "devicons-react/icons/DenojsOriginalWordmark"
+    "tags": ["javascript", "rust", "language"]
   },
   {
     "name": "Devicons React Original",
     "componentName": "DeviconsReactOriginal",
-    "fileName": "devicons-react/icons/DeviconsReactOriginal"
+    "tags": ["javascript", "rust", "language"]
   },
   {
     "name": "Digitalocean Original",
     "componentName": "DigitaloceanOriginal",
-    "fileName": "devicons-react/icons/DigitaloceanOriginal"
+    "tags": ["cloud", "hosting", "database", "storage"]
   },
   {
     "name": "Digitalocean Original Wordmark",
     "componentName": "DigitaloceanOriginalWordmark",
-    "fileName": "devicons-react/icons/DigitaloceanOriginalWordmark"
+    "tags": ["cloud", "hosting", "database", "storage"]
   },
   {
     "name": "Digitalocean Plain",
     "componentName": "DigitaloceanPlain",
-    "fileName": "devicons-react/icons/DigitaloceanPlain"
+    "tags": ["cloud", "hosting", "database", "storage"]
   },
   {
     "name": "Digitalocean Plain Wordmark",
     "componentName": "DigitaloceanPlainWordmark",
-    "fileName": "devicons-react/icons/DigitaloceanPlainWordmark"
+    "tags": ["cloud", "hosting", "database", "storage"]
   },
   {
     "name": "Discordjs Original",
     "componentName": "DiscordjsOriginal",
-    "fileName": "devicons-react/icons/DiscordjsOriginal"
+    "tags": ["wrapper", "api_wrapper", "nodejs"]
   },
   {
     "name": "Discordjs Original Wordmark",
     "componentName": "DiscordjsOriginalWordmark",
-    "fileName": "devicons-react/icons/DiscordjsOriginalWordmark"
+    "tags": ["wrapper", "api_wrapper", "nodejs"]
   },
   {
     "name": "Discordjs Plain",
     "componentName": "DiscordjsPlain",
-    "fileName": "devicons-react/icons/DiscordjsPlain"
+    "tags": ["wrapper", "api_wrapper", "nodejs"]
   },
   {
     "name": "Discordjs Plain Wordmark",
     "componentName": "DiscordjsPlainWordmark",
-    "fileName": "devicons-react/icons/DiscordjsPlainWordmark"
+    "tags": ["wrapper", "api_wrapper", "nodejs"]
   },
-  {
-    "name": "Django Plain",
-    "componentName": "DjangoPlain",
-    "fileName": "devicons-react/icons/DjangoPlain"
-  },
+  { "name": "Django Plain", "componentName": "DjangoPlain", "tags": [] },
   {
     "name": "Django Plain Wordmark",
     "componentName": "DjangoPlainWordmark",
-    "fileName": "devicons-react/icons/DjangoPlainWordmark"
+    "tags": []
   },
   {
     "name": "Docker Original",
     "componentName": "DockerOriginal",
-    "fileName": "devicons-react/icons/DockerOriginal"
+    "tags": ["platform", "deploy"]
   },
   {
     "name": "Docker Original Wordmark",
     "componentName": "DockerOriginalWordmark",
-    "fileName": "devicons-react/icons/DockerOriginalWordmark"
+    "tags": ["platform", "deploy"]
   },
   {
     "name": "Docker Plain",
     "componentName": "DockerPlain",
-    "fileName": "devicons-react/icons/DockerPlain"
+    "tags": ["platform", "deploy"]
   },
   {
     "name": "Docker Plain Wordmark",
     "componentName": "DockerPlainWordmark",
-    "fileName": "devicons-react/icons/DockerPlainWordmark"
+    "tags": ["platform", "deploy"]
   },
-  {
-    "name": "Doctrine Line",
-    "componentName": "DoctrineLine",
-    "fileName": "devicons-react/icons/DoctrineLine"
-  },
+  { "name": "Doctrine Line", "componentName": "DoctrineLine", "tags": [] },
   {
     "name": "Doctrine Line Wordmark",
     "componentName": "DoctrineLineWordmark",
-    "fileName": "devicons-react/icons/DoctrineLineWordmark"
+    "tags": []
   },
   {
     "name": "Doctrine Original",
     "componentName": "DoctrineOriginal",
-    "fileName": "devicons-react/icons/DoctrineOriginal"
+    "tags": []
   },
   {
     "name": "Doctrine Original Wordmark",
     "componentName": "DoctrineOriginalWordmark",
-    "fileName": "devicons-react/icons/DoctrineOriginalWordmark"
+    "tags": []
   },
-  {
-    "name": "Doctrine Plain",
-    "componentName": "DoctrinePlain",
-    "fileName": "devicons-react/icons/DoctrinePlain"
-  },
+  { "name": "Doctrine Plain", "componentName": "DoctrinePlain", "tags": [] },
   {
     "name": "Doctrine Plain Wordmark",
     "componentName": "DoctrinePlainWordmark",
-    "fileName": "devicons-react/icons/DoctrinePlainWordmark"
+    "tags": []
   },
   {
     "name": "Dot Net Original",
     "componentName": "DotNetOriginal",
-    "fileName": "devicons-react/icons/DotNetOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Dot Net Original Wordmark",
     "componentName": "DotNetOriginalWordmark",
-    "fileName": "devicons-react/icons/DotNetOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Dot Net Plain",
     "componentName": "DotNetPlain",
-    "fileName": "devicons-react/icons/DotNetPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Dot Net Plain Wordmark",
     "componentName": "DotNetPlainWordmark",
-    "fileName": "devicons-react/icons/DotNetPlainWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Dotnetcore Original",
     "componentName": "DotnetcoreOriginal",
-    "fileName": "devicons-react/icons/DotnetcoreOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Dotnetcore Plain",
     "componentName": "DotnetcorePlain",
-    "fileName": "devicons-react/icons/DotnetcorePlain"
+    "tags": ["framework"]
   },
   {
     "name": "Dropwizard Original",
     "componentName": "DropwizardOriginal",
-    "fileName": "devicons-react/icons/DropwizardOriginal"
+    "tags": ["java", "framework"]
   },
   {
     "name": "Dropwizard Plain",
     "componentName": "DropwizardPlain",
-    "fileName": "devicons-react/icons/DropwizardPlain"
+    "tags": ["java", "framework"]
   },
   {
     "name": "Drupal Original",
     "componentName": "DrupalOriginal",
-    "fileName": "devicons-react/icons/DrupalOriginal"
+    "tags": ["cms"]
   },
   {
     "name": "Drupal Original Wordmark",
     "componentName": "DrupalOriginalWordmark",
-    "fileName": "devicons-react/icons/DrupalOriginalWordmark"
+    "tags": ["cms"]
   },
-  {
-    "name": "Drupal Plain",
-    "componentName": "DrupalPlain",
-    "fileName": "devicons-react/icons/DrupalPlain"
-  },
+  { "name": "Drupal Plain", "componentName": "DrupalPlain", "tags": ["cms"] },
   {
     "name": "Drupal Plain Wordmark",
     "componentName": "DrupalPlainWordmark",
-    "fileName": "devicons-react/icons/DrupalPlainWordmark"
+    "tags": ["cms"]
   },
   {
     "name": "Electron Original",
     "componentName": "ElectronOriginal",
-    "fileName": "devicons-react/icons/ElectronOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Electron Original Wordmark",
     "componentName": "ElectronOriginalWordmark",
-    "fileName": "devicons-react/icons/ElectronOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Eleventy Original",
     "componentName": "EleventyOriginal",
-    "fileName": "devicons-react/icons/EleventyOriginal"
+    "tags": ["ssg", "static site generator"]
   },
   {
     "name": "Eleventy Plain",
     "componentName": "EleventyPlain",
-    "fileName": "devicons-react/icons/EleventyPlain"
+    "tags": ["ssg", "static site generator"]
   },
   {
     "name": "Elixir Original",
     "componentName": "ElixirOriginal",
-    "fileName": "devicons-react/icons/ElixirOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Elixir Original Wordmark",
     "componentName": "ElixirOriginalWordmark",
-    "fileName": "devicons-react/icons/ElixirOriginalWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Elixir Plain",
     "componentName": "ElixirPlain",
-    "fileName": "devicons-react/icons/ElixirPlain"
+    "tags": ["language"]
   },
   {
     "name": "Elixir Plain Wordmark",
     "componentName": "ElixirPlainWordmark",
-    "fileName": "devicons-react/icons/ElixirPlainWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Elm Original",
     "componentName": "ElmOriginal",
-    "fileName": "devicons-react/icons/ElmOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Elm Original Wordmark",
     "componentName": "ElmOriginalWordmark",
-    "fileName": "devicons-react/icons/ElmOriginalWordmark"
+    "tags": ["framework"]
   },
-  {
-    "name": "Elm Plain",
-    "componentName": "ElmPlain",
-    "fileName": "devicons-react/icons/ElmPlain"
-  },
+  { "name": "Elm Plain", "componentName": "ElmPlain", "tags": ["framework"] },
   {
     "name": "Elm Plain Wordmark",
     "componentName": "ElmPlainWordmark",
-    "fileName": "devicons-react/icons/ElmPlainWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Embeddedc Original",
     "componentName": "EmbeddedcOriginal",
-    "fileName": "devicons-react/icons/EmbeddedcOriginal"
+    "tags": ["language", "programming"]
   },
   {
     "name": "Embeddedc Original Wordmark",
     "componentName": "EmbeddedcOriginalWordmark",
-    "fileName": "devicons-react/icons/EmbeddedcOriginalWordmark"
+    "tags": ["language", "programming"]
   },
   {
     "name": "Embeddedc Plain",
     "componentName": "EmbeddedcPlain",
-    "fileName": "devicons-react/icons/EmbeddedcPlain"
+    "tags": ["language", "programming"]
   },
   {
     "name": "Embeddedc Plain Wordmark",
     "componentName": "EmbeddedcPlainWordmark",
-    "fileName": "devicons-react/icons/EmbeddedcPlainWordmark"
+    "tags": ["language", "programming"]
   },
   {
     "name": "Ember Original Wordmark",
     "componentName": "EmberOriginalWordmark",
-    "fileName": "devicons-react/icons/EmberOriginalWordmark"
+    "tags": ["framework"]
   },
-  {
-    "name": "Erlang Original",
-    "componentName": "ErlangOriginal",
-    "fileName": "devicons-react/icons/ErlangOriginal"
-  },
+  { "name": "Erlang Original", "componentName": "ErlangOriginal", "tags": [] },
   {
     "name": "Erlang Original Wordmark",
     "componentName": "ErlangOriginalWordmark",
-    "fileName": "devicons-react/icons/ErlangOriginalWordmark"
+    "tags": []
   },
-  {
-    "name": "Erlang Plain",
-    "componentName": "ErlangPlain",
-    "fileName": "devicons-react/icons/ErlangPlain"
-  },
+  { "name": "Erlang Plain", "componentName": "ErlangPlain", "tags": [] },
   {
     "name": "Erlang Plain Wordmark",
     "componentName": "ErlangPlainWordmark",
-    "fileName": "devicons-react/icons/ErlangPlainWordmark"
+    "tags": []
   },
   {
     "name": "Eslint Original",
     "componentName": "EslintOriginal",
-    "fileName": "devicons-react/icons/EslintOriginal"
+    "tags": ["linter", "javascript", "code-quality", "coding-style"]
   },
   {
     "name": "Eslint Original Wordmark",
     "componentName": "EslintOriginalWordmark",
-    "fileName": "devicons-react/icons/EslintOriginalWordmark"
+    "tags": ["linter", "javascript", "code-quality", "coding-style"]
   },
   {
     "name": "Express Original",
     "componentName": "ExpressOriginal",
-    "fileName": "devicons-react/icons/ExpressOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Express Original Wordmark",
     "componentName": "ExpressOriginalWordmark",
-    "fileName": "devicons-react/icons/ExpressOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Facebook Original",
     "componentName": "FacebookOriginal",
-    "fileName": "devicons-react/icons/FacebookOriginal"
+    "tags": ["auth"]
   },
   {
     "name": "Facebook Plain",
     "componentName": "FacebookPlain",
-    "fileName": "devicons-react/icons/FacebookPlain"
+    "tags": ["auth"]
   },
   {
     "name": "Fastapi Original",
     "componentName": "FastapiOriginal",
-    "fileName": "devicons-react/icons/FastapiOriginal"
+    "tags": ["python", "framework"]
   },
   {
     "name": "Fastapi Original Wordmark",
     "componentName": "FastapiOriginalWordmark",
-    "fileName": "devicons-react/icons/FastapiOriginalWordmark"
+    "tags": ["python", "framework"]
   },
   {
     "name": "Fastapi Plain",
     "componentName": "FastapiPlain",
-    "fileName": "devicons-react/icons/FastapiPlain"
+    "tags": ["python", "framework"]
   },
   {
     "name": "Fastapi Plain Wordmark",
     "componentName": "FastapiPlainWordmark",
-    "fileName": "devicons-react/icons/FastapiPlainWordmark"
+    "tags": ["python", "framework"]
   },
   {
     "name": "Feathersjs Original",
     "componentName": "FeathersjsOriginal",
-    "fileName": "devicons-react/icons/FeathersjsOriginal"
+    "tags": ["framework", "rest"]
   },
   {
     "name": "Fedora Original",
     "componentName": "FedoraOriginal",
-    "fileName": "devicons-react/icons/FedoraOriginal"
+    "tags": ["linux", "distribuition", "desktop"]
   },
   {
     "name": "Fedora Plain",
     "componentName": "FedoraPlain",
-    "fileName": "devicons-react/icons/FedoraPlain"
+    "tags": ["linux", "distribuition", "desktop"]
   },
   {
     "name": "Figma Original",
     "componentName": "FigmaOriginal",
-    "fileName": "devicons-react/icons/FigmaOriginal"
+    "tags": ["design"]
   },
-  {
-    "name": "Figma Plain",
-    "componentName": "FigmaPlain",
-    "fileName": "devicons-react/icons/FigmaPlain"
-  },
+  { "name": "Figma Plain", "componentName": "FigmaPlain", "tags": ["design"] },
   {
     "name": "Filezilla Plain",
     "componentName": "FilezillaPlain",
-    "fileName": "devicons-react/icons/FilezillaPlain"
+    "tags": ["ftp"]
   },
   {
     "name": "Filezilla Plain Wordmark",
     "componentName": "FilezillaPlainWordmark",
-    "fileName": "devicons-react/icons/FilezillaPlainWordmark"
+    "tags": ["ftp"]
   },
   {
     "name": "Firebase Plain",
     "componentName": "FirebasePlain",
-    "fileName": "devicons-react/icons/FirebasePlain"
+    "tags": ["auth", "hosting", "storage", "cloud"]
   },
   {
     "name": "Firebase Plain Wordmark",
     "componentName": "FirebasePlainWordmark",
-    "fileName": "devicons-react/icons/FirebasePlainWordmark"
+    "tags": ["auth", "hosting", "storage", "cloud"]
   },
   {
     "name": "Firefox Original",
     "componentName": "FirefoxOriginal",
-    "fileName": "devicons-react/icons/FirefoxOriginal"
+    "tags": ["browser"]
   },
   {
     "name": "Firefox Original Wordmark",
     "componentName": "FirefoxOriginalWordmark",
-    "fileName": "devicons-react/icons/FirefoxOriginalWordmark"
+    "tags": ["browser"]
   },
   {
     "name": "Firefox Plain",
     "componentName": "FirefoxPlain",
-    "fileName": "devicons-react/icons/FirefoxPlain"
+    "tags": ["browser"]
   },
   {
     "name": "Firefox Plain Wordmark",
     "componentName": "FirefoxPlainWordmark",
-    "fileName": "devicons-react/icons/FirefoxPlainWordmark"
+    "tags": ["browser"]
   },
   {
     "name": "Flask Original",
     "componentName": "FlaskOriginal",
-    "fileName": "devicons-react/icons/FlaskOriginal"
+    "tags": ["python", "framework"]
   },
   {
     "name": "Flask Original Wordmark",
     "componentName": "FlaskOriginalWordmark",
-    "fileName": "devicons-react/icons/FlaskOriginalWordmark"
+    "tags": ["python", "framework"]
   },
   {
     "name": "Flutter Original",
     "componentName": "FlutterOriginal",
-    "fileName": "devicons-react/icons/FlutterOriginal"
+    "tags": ["framework", "sdk"]
   },
   {
     "name": "Flutter Plain",
     "componentName": "FlutterPlain",
-    "fileName": "devicons-react/icons/FlutterPlain"
+    "tags": ["framework", "sdk"]
   },
   {
     "name": "Foundation Original",
     "componentName": "FoundationOriginal",
-    "fileName": "devicons-react/icons/FoundationOriginal"
+    "tags": ["framework", "css"]
   },
   {
     "name": "Foundation Original Wordmark",
     "componentName": "FoundationOriginalWordmark",
-    "fileName": "devicons-react/icons/FoundationOriginalWordmark"
+    "tags": ["framework", "css"]
   },
   {
     "name": "Foundation Plain",
     "componentName": "FoundationPlain",
-    "fileName": "devicons-react/icons/FoundationPlain"
+    "tags": ["framework", "css"]
   },
   {
     "name": "Foundation Plain Wordmark",
     "componentName": "FoundationPlainWordmark",
-    "fileName": "devicons-react/icons/FoundationPlainWordmark"
+    "tags": ["framework", "css"]
   },
   {
     "name": "Fsharp Original",
     "componentName": "FsharpOriginal",
-    "fileName": "devicons-react/icons/FsharpOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Fsharp Plain",
     "componentName": "FsharpPlain",
-    "fileName": "devicons-react/icons/FsharpPlain"
+    "tags": ["language"]
   },
   {
     "name": "Gatling Plain",
     "componentName": "GatlingPlain",
-    "fileName": "devicons-react/icons/GatlingPlain"
+    "tags": ["framework", "testing"]
   },
   {
     "name": "Gatling Plain Wordmark",
     "componentName": "GatlingPlainWordmark",
-    "fileName": "devicons-react/icons/GatlingPlainWordmark"
+    "tags": ["framework", "testing"]
   },
   {
     "name": "Gatsby Original",
     "componentName": "GatsbyOriginal",
-    "fileName": "devicons-react/icons/GatsbyOriginal"
+    "tags": ["reactjs", "framework"]
   },
   {
     "name": "Gatsby Original Wordmark",
     "componentName": "GatsbyOriginalWordmark",
-    "fileName": "devicons-react/icons/GatsbyOriginalWordmark"
+    "tags": ["reactjs", "framework"]
   },
   {
     "name": "Gatsby Plain",
     "componentName": "GatsbyPlain",
-    "fileName": "devicons-react/icons/GatsbyPlain"
+    "tags": ["reactjs", "framework"]
   },
   {
     "name": "Gatsby Plain Wordmark",
     "componentName": "GatsbyPlainWordmark",
-    "fileName": "devicons-react/icons/GatsbyPlainWordmark"
+    "tags": ["reactjs", "framework"]
   },
   {
     "name": "Gcc Original",
     "componentName": "GccOriginal",
-    "fileName": "devicons-react/icons/GccOriginal"
+    "tags": ["compiler", "linux"]
   },
   {
     "name": "Gcc Plain",
     "componentName": "GccPlain",
-    "fileName": "devicons-react/icons/GccPlain"
+    "tags": ["compiler", "linux"]
   },
   {
     "name": "Gentoo Plain",
     "componentName": "GentooPlain",
-    "fileName": "devicons-react/icons/GentooPlain"
+    "tags": ["linux", "distribuition", "desktop"]
   },
   {
     "name": "Gentoo Plain Wordmark",
     "componentName": "GentooPlainWordmark",
-    "fileName": "devicons-react/icons/GentooPlainWordmark"
+    "tags": ["linux", "distribuition", "desktop"]
   },
   {
     "name": "Gimp Original",
     "componentName": "GimpOriginal",
-    "fileName": "devicons-react/icons/GimpOriginal"
+    "tags": ["graphic"]
   },
   {
     "name": "Gimp Original Wordmark",
     "componentName": "GimpOriginalWordmark",
-    "fileName": "devicons-react/icons/GimpOriginalWordmark"
+    "tags": ["graphic"]
   },
-  {
-    "name": "Gimp Plain",
-    "componentName": "GimpPlain",
-    "fileName": "devicons-react/icons/GimpPlain"
-  },
+  { "name": "Gimp Plain", "componentName": "GimpPlain", "tags": ["graphic"] },
   {
     "name": "Gimp Plain Wordmark",
     "componentName": "GimpPlainWordmark",
-    "fileName": "devicons-react/icons/GimpPlainWordmark"
+    "tags": ["graphic"]
   },
   {
     "name": "Git Original",
     "componentName": "GitOriginal",
-    "fileName": "devicons-react/icons/GitOriginal"
+    "tags": ["version-control"]
   },
   {
     "name": "Git Original Wordmark",
     "componentName": "GitOriginalWordmark",
-    "fileName": "devicons-react/icons/GitOriginalWordmark"
+    "tags": ["version-control"]
   },
   {
     "name": "Git Plain",
     "componentName": "GitPlain",
-    "fileName": "devicons-react/icons/GitPlain"
+    "tags": ["version-control"]
   },
   {
     "name": "Git Plain Wordmark",
     "componentName": "GitPlainWordmark",
-    "fileName": "devicons-react/icons/GitPlainWordmark"
+    "tags": ["version-control"]
   },
   {
     "name": "Github Original",
     "componentName": "GithubOriginal",
-    "fileName": "devicons-react/icons/GithubOriginal"
+    "tags": ["version-control"]
   },
   {
     "name": "Github Original Wordmark",
     "componentName": "GithubOriginalWordmark",
-    "fileName": "devicons-react/icons/GithubOriginalWordmark"
+    "tags": ["version-control"]
   },
   {
     "name": "Gitlab Original",
     "componentName": "GitlabOriginal",
-    "fileName": "devicons-react/icons/GitlabOriginal"
+    "tags": ["version-control"]
   },
   {
     "name": "Gitlab Original Wordmark",
     "componentName": "GitlabOriginalWordmark",
-    "fileName": "devicons-react/icons/GitlabOriginalWordmark"
+    "tags": ["version-control"]
   },
   {
     "name": "Gitlab Plain",
     "componentName": "GitlabPlain",
-    "fileName": "devicons-react/icons/GitlabPlain"
+    "tags": ["version-control"]
   },
   {
     "name": "Gitlab Plain Wordmark",
     "componentName": "GitlabPlainWordmark",
-    "fileName": "devicons-react/icons/GitlabPlainWordmark"
+    "tags": ["version-control"]
   },
   {
     "name": "Gitter Plain",
     "componentName": "GitterPlain",
-    "fileName": "devicons-react/icons/GitterPlain"
+    "tags": ["social", "chat"]
   },
   {
     "name": "Gitter Plain Wordmark",
     "componentName": "GitterPlainWordmark",
-    "fileName": "devicons-react/icons/GitterPlainWordmark"
+    "tags": ["social", "chat"]
   },
-  {
-    "name": "Go Line",
-    "componentName": "GoLine",
-    "fileName": "devicons-react/icons/GoLine"
-  },
+  { "name": "Go Line", "componentName": "GoLine", "tags": ["language"] },
   {
     "name": "Go Original",
     "componentName": "GoOriginal",
-    "fileName": "devicons-react/icons/GoOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Go Original Wordmark",
     "componentName": "GoOriginalWordmark",
-    "fileName": "devicons-react/icons/GoOriginalWordmark"
+    "tags": ["language"]
   },
-  {
-    "name": "Go Plain",
-    "componentName": "GoPlain",
-    "fileName": "devicons-react/icons/GoPlain"
-  },
+  { "name": "Go Plain", "componentName": "GoPlain", "tags": ["language"] },
   {
     "name": "Godot Original",
     "componentName": "GodotOriginal",
-    "fileName": "devicons-react/icons/GodotOriginal"
+    "tags": ["game-engine", "open-source"]
   },
   {
     "name": "Godot Original Wordmark",
     "componentName": "GodotOriginalWordmark",
-    "fileName": "devicons-react/icons/GodotOriginalWordmark"
+    "tags": ["game-engine", "open-source"]
   },
   {
     "name": "Godot Plain",
     "componentName": "GodotPlain",
-    "fileName": "devicons-react/icons/GodotPlain"
+    "tags": ["game-engine", "open-source"]
   },
   {
     "name": "Godot Plain Wordmark",
     "componentName": "GodotPlainWordmark",
-    "fileName": "devicons-react/icons/GodotPlainWordmark"
+    "tags": ["game-engine", "open-source"]
   },
   {
     "name": "Google Original",
     "componentName": "GoogleOriginal",
-    "fileName": "devicons-react/icons/GoogleOriginal"
+    "tags": ["auth"]
   },
   {
     "name": "Google Original Wordmark",
     "componentName": "GoogleOriginalWordmark",
-    "fileName": "devicons-react/icons/GoogleOriginalWordmark"
+    "tags": ["auth"]
   },
-  {
-    "name": "Google Plain",
-    "componentName": "GooglePlain",
-    "fileName": "devicons-react/icons/GooglePlain"
-  },
+  { "name": "Google Plain", "componentName": "GooglePlain", "tags": ["auth"] },
   {
     "name": "Google Plain Wordmark",
     "componentName": "GooglePlainWordmark",
-    "fileName": "devicons-react/icons/GooglePlainWordmark"
+    "tags": ["auth"]
   },
   {
     "name": "Googlecloud Original",
     "componentName": "GooglecloudOriginal",
-    "fileName": "devicons-react/icons/GooglecloudOriginal"
+    "tags": ["google", "cloud"]
   },
   {
     "name": "Googlecloud Original Wordmark",
     "componentName": "GooglecloudOriginalWordmark",
-    "fileName": "devicons-react/icons/GooglecloudOriginalWordmark"
+    "tags": ["google", "cloud"]
   },
   {
     "name": "Googlecloud Plain",
     "componentName": "GooglecloudPlain",
-    "fileName": "devicons-react/icons/GooglecloudPlain"
+    "tags": ["google", "cloud"]
   },
   {
     "name": "Googlecloud Plain Wordmark",
     "componentName": "GooglecloudPlainWordmark",
-    "fileName": "devicons-react/icons/GooglecloudPlainWordmark"
+    "tags": ["google", "cloud"]
   },
   {
     "name": "Gradle Plain",
     "componentName": "GradlePlain",
-    "fileName": "devicons-react/icons/GradlePlain"
+    "tags": ["task-runner"]
   },
   {
     "name": "Gradle Plain Wordmark",
     "componentName": "GradlePlainWordmark",
-    "fileName": "devicons-react/icons/GradlePlainWordmark"
+    "tags": ["task-runner"]
   },
   {
     "name": "Grafana Original",
     "componentName": "GrafanaOriginal",
-    "fileName": "devicons-react/icons/GrafanaOriginal"
+    "tags": [
+      "monitoring",
+      "analytics",
+      "metrics",
+      "logs",
+      "visualization",
+      "web-application"
+    ]
   },
   {
     "name": "Grafana Original Wordmark",
     "componentName": "GrafanaOriginalWordmark",
-    "fileName": "devicons-react/icons/GrafanaOriginalWordmark"
+    "tags": [
+      "monitoring",
+      "analytics",
+      "metrics",
+      "logs",
+      "visualization",
+      "web-application"
+    ]
   },
   {
     "name": "Grails Original",
     "componentName": "GrailsOriginal",
-    "fileName": "devicons-react/icons/GrailsOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Grails Plain",
     "componentName": "GrailsPlain",
-    "fileName": "devicons-react/icons/GrailsPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Graphql Plain",
     "componentName": "GraphqlPlain",
-    "fileName": "devicons-react/icons/GraphqlPlain"
+    "tags": ["language", "data", "query"]
   },
   {
     "name": "Graphql Plain Wordmark",
     "componentName": "GraphqlPlainWordmark",
-    "fileName": "devicons-react/icons/GraphqlPlainWordmark"
+    "tags": ["language", "data", "query"]
   },
   {
     "name": "Groovy Original",
     "componentName": "GroovyOriginal",
-    "fileName": "devicons-react/icons/GroovyOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Groovy Plain",
     "componentName": "GroovyPlain",
-    "fileName": "devicons-react/icons/GroovyPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Grunt Line",
     "componentName": "GruntLine",
-    "fileName": "devicons-react/icons/GruntLine"
+    "tags": ["task-runner", "nodejs"]
   },
   {
     "name": "Grunt Line Wordmark",
     "componentName": "GruntLineWordmark",
-    "fileName": "devicons-react/icons/GruntLineWordmark"
+    "tags": ["task-runner", "nodejs"]
   },
   {
     "name": "Grunt Original",
     "componentName": "GruntOriginal",
-    "fileName": "devicons-react/icons/GruntOriginal"
+    "tags": ["task-runner", "nodejs"]
   },
   {
     "name": "Grunt Original Wordmark",
     "componentName": "GruntOriginalWordmark",
-    "fileName": "devicons-react/icons/GruntOriginalWordmark"
+    "tags": ["task-runner", "nodejs"]
   },
   {
     "name": "Grunt Plain",
     "componentName": "GruntPlain",
-    "fileName": "devicons-react/icons/GruntPlain"
+    "tags": ["task-runner", "nodejs"]
   },
   {
     "name": "Grunt Plain Wordmark",
     "componentName": "GruntPlainWordmark",
-    "fileName": "devicons-react/icons/GruntPlainWordmark"
+    "tags": ["task-runner", "nodejs"]
   },
   {
     "name": "Gulp Plain",
     "componentName": "GulpPlain",
-    "fileName": "devicons-react/icons/GulpPlain"
+    "tags": ["task-runner", "nodejs"]
   },
   {
     "name": "Handlebars Original",
     "componentName": "HandlebarsOriginal",
-    "fileName": "devicons-react/icons/HandlebarsOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Handlebars Original Wordmark",
     "componentName": "HandlebarsOriginalWordmark",
-    "fileName": "devicons-react/icons/HandlebarsOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Haskell Original",
     "componentName": "HaskellOriginal",
-    "fileName": "devicons-react/icons/HaskellOriginal"
+    "tags": ["language", "functional"]
   },
   {
     "name": "Haskell Original Wordmark",
     "componentName": "HaskellOriginalWordmark",
-    "fileName": "devicons-react/icons/HaskellOriginalWordmark"
+    "tags": ["language", "functional"]
   },
   {
     "name": "Haskell Plain",
     "componentName": "HaskellPlain",
-    "fileName": "devicons-react/icons/HaskellPlain"
+    "tags": ["language", "functional"]
   },
   {
     "name": "Haskell Plain Wordmark",
     "componentName": "HaskellPlainWordmark",
-    "fileName": "devicons-react/icons/HaskellPlainWordmark"
+    "tags": ["language", "functional"]
   },
   {
     "name": "Haxe Original",
     "componentName": "HaxeOriginal",
-    "fileName": "devicons-react/icons/HaxeOriginal"
+    "tags": ["language"]
   },
-  {
-    "name": "Haxe Plain",
-    "componentName": "HaxePlain",
-    "fileName": "devicons-react/icons/HaxePlain"
-  },
+  { "name": "Haxe Plain", "componentName": "HaxePlain", "tags": ["language"] },
   {
     "name": "Heroku Original",
     "componentName": "HerokuOriginal",
-    "fileName": "devicons-react/icons/HerokuOriginal"
+    "tags": ["cloud"]
   },
   {
     "name": "Heroku Original Wordmark",
     "componentName": "HerokuOriginalWordmark",
-    "fileName": "devicons-react/icons/HerokuOriginalWordmark"
+    "tags": ["cloud"]
   },
-  {
-    "name": "Heroku Plain",
-    "componentName": "HerokuPlain",
-    "fileName": "devicons-react/icons/HerokuPlain"
-  },
+  { "name": "Heroku Plain", "componentName": "HerokuPlain", "tags": ["cloud"] },
   {
     "name": "Heroku Plain Wordmark",
     "componentName": "HerokuPlainWordmark",
-    "fileName": "devicons-react/icons/HerokuPlainWordmark"
+    "tags": ["cloud"]
   },
   {
     "name": "Html5 Original",
     "componentName": "Html5Original",
-    "fileName": "devicons-react/icons/Html5Original"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Html5 Original Wordmark",
     "componentName": "Html5OriginalWordmark",
-    "fileName": "devicons-react/icons/Html5OriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Html5 Plain",
     "componentName": "Html5Plain",
-    "fileName": "devicons-react/icons/Html5Plain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Html5 Plain Wordmark",
     "componentName": "Html5PlainWordmark",
-    "fileName": "devicons-react/icons/Html5PlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Hugo Original",
     "componentName": "HugoOriginal",
-    "fileName": "devicons-react/icons/HugoOriginal"
+    "tags": ["framework", "ssg", "static-site-generator", "go", "html", "css"]
   },
   {
     "name": "Hugo Original Wordmark",
     "componentName": "HugoOriginalWordmark",
-    "fileName": "devicons-react/icons/HugoOriginalWordmark"
+    "tags": ["framework", "ssg", "static-site-generator", "go", "html", "css"]
   },
   {
     "name": "Hugo Plain",
     "componentName": "HugoPlain",
-    "fileName": "devicons-react/icons/HugoPlain"
+    "tags": ["framework", "ssg", "static-site-generator", "go", "html", "css"]
   },
   {
     "name": "Hugo Plain Wordmark",
     "componentName": "HugoPlainWordmark",
-    "fileName": "devicons-react/icons/HugoPlainWordmark"
+    "tags": ["framework", "ssg", "static-site-generator", "go", "html", "css"]
   },
   {
     "name": "Ie10 Original",
     "componentName": "Ie10Original",
-    "fileName": "devicons-react/icons/Ie10Original"
+    "tags": ["browser"]
   },
   {
     "name": "Ifttt Original",
     "componentName": "IftttOriginal",
-    "fileName": "devicons-react/icons/IftttOriginal"
+    "tags": ["automation", "applets", "programming"]
   },
   {
     "name": "Illustrator Line",
     "componentName": "IllustratorLine",
-    "fileName": "devicons-react/icons/IllustratorLine"
+    "tags": ["editor", "vector"]
   },
   {
     "name": "Illustrator Plain",
     "componentName": "IllustratorPlain",
-    "fileName": "devicons-react/icons/IllustratorPlain"
+    "tags": ["editor", "vector"]
   },
   {
     "name": "Inkscape Original",
     "componentName": "InkscapeOriginal",
-    "fileName": "devicons-react/icons/InkscapeOriginal"
+    "tags": ["editor", "vector"]
   },
   {
     "name": "Inkscape Original Wordmark",
     "componentName": "InkscapeOriginalWordmark",
-    "fileName": "devicons-react/icons/InkscapeOriginalWordmark"
+    "tags": ["editor", "vector"]
   },
   {
     "name": "Inkscape Plain",
     "componentName": "InkscapePlain",
-    "fileName": "devicons-react/icons/InkscapePlain"
+    "tags": ["editor", "vector"]
   },
   {
     "name": "Inkscape Plain Wordmark",
     "componentName": "InkscapePlainWordmark",
-    "fileName": "devicons-react/icons/InkscapePlainWordmark"
+    "tags": ["editor", "vector"]
   },
   {
     "name": "Intellij Original",
     "componentName": "IntellijOriginal",
-    "fileName": "devicons-react/icons/IntellijOriginal"
+    "tags": ["editor"]
   },
   {
     "name": "Intellij Original Wordmark",
     "componentName": "IntellijOriginalWordmark",
-    "fileName": "devicons-react/icons/IntellijOriginalWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Intellij Plain",
     "componentName": "IntellijPlain",
-    "fileName": "devicons-react/icons/IntellijPlain"
+    "tags": ["editor"]
   },
   {
     "name": "Intellij Plain Wordmark",
     "componentName": "IntellijPlainWordmark",
-    "fileName": "devicons-react/icons/IntellijPlainWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Ionic Original",
     "componentName": "IonicOriginal",
-    "fileName": "devicons-react/icons/IonicOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Ionic Original Wordmark",
     "componentName": "IonicOriginalWordmark",
-    "fileName": "devicons-react/icons/IonicOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Jamstack Original",
     "componentName": "JamstackOriginal",
-    "fileName": "devicons-react/icons/JamstackOriginal"
+    "tags": ["javascript", "markup"]
   },
   {
     "name": "Jamstack Original Wordmark",
     "componentName": "JamstackOriginalWordmark",
-    "fileName": "devicons-react/icons/JamstackOriginalWordmark"
+    "tags": ["javascript", "markup"]
   },
   {
     "name": "Jamstack Plain Wordmark",
     "componentName": "JamstackPlainWordmark",
-    "fileName": "devicons-react/icons/JamstackPlainWordmark"
+    "tags": ["javascript", "markup"]
   },
   {
     "name": "Jasmine Plain",
     "componentName": "JasminePlain",
-    "fileName": "devicons-react/icons/JasminePlain"
+    "tags": ["testing"]
   },
   {
     "name": "Jasmine Plain Wordmark",
     "componentName": "JasminePlainWordmark",
-    "fileName": "devicons-react/icons/JasminePlainWordmark"
+    "tags": ["testing"]
   },
   {
     "name": "Java Original",
     "componentName": "JavaOriginal",
-    "fileName": "devicons-react/icons/JavaOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Java Original Wordmark",
     "componentName": "JavaOriginalWordmark",
-    "fileName": "devicons-react/icons/JavaOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Java Plain",
     "componentName": "JavaPlain",
-    "fileName": "devicons-react/icons/JavaPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Java Plain Wordmark",
     "componentName": "JavaPlainWordmark",
-    "fileName": "devicons-react/icons/JavaPlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Javascript Original",
     "componentName": "JavascriptOriginal",
-    "fileName": "devicons-react/icons/JavascriptOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Javascript Plain",
     "componentName": "JavascriptPlain",
-    "fileName": "devicons-react/icons/JavascriptPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Jeet Original",
     "componentName": "JeetOriginal",
-    "fileName": "devicons-react/icons/JeetOriginal"
+    "tags": ["framework", "css"]
   },
   {
     "name": "Jeet Original Wordmark",
     "componentName": "JeetOriginalWordmark",
-    "fileName": "devicons-react/icons/JeetOriginalWordmark"
+    "tags": ["framework", "css"]
   },
   {
     "name": "Jeet Plain",
     "componentName": "JeetPlain",
-    "fileName": "devicons-react/icons/JeetPlain"
+    "tags": ["framework", "css"]
   },
   {
     "name": "Jeet Plain Wordmark",
     "componentName": "JeetPlainWordmark",
-    "fileName": "devicons-react/icons/JeetPlainWordmark"
+    "tags": ["framework", "css"]
   },
   {
     "name": "Jenkins Line",
     "componentName": "JenkinsLine",
-    "fileName": "devicons-react/icons/JenkinsLine"
+    "tags": ["platform", "integration", "server"]
   },
   {
     "name": "Jenkins Original",
     "componentName": "JenkinsOriginal",
-    "fileName": "devicons-react/icons/JenkinsOriginal"
+    "tags": ["platform", "integration", "server"]
   },
   {
     "name": "Jenkins Plain",
     "componentName": "JenkinsPlain",
-    "fileName": "devicons-react/icons/JenkinsPlain"
+    "tags": ["platform", "integration", "server"]
   },
   {
     "name": "Jest Plain",
     "componentName": "JestPlain",
-    "fileName": "devicons-react/icons/JestPlain"
+    "tags": ["testing", "javascript"]
   },
   {
     "name": "Jetbrains Original",
     "componentName": "JetbrainsOriginal",
-    "fileName": "devicons-react/icons/JetbrainsOriginal"
+    "tags": ["ide"]
   },
   {
     "name": "Jetbrains Plain",
     "componentName": "JetbrainsPlain",
-    "fileName": "devicons-react/icons/JetbrainsPlain"
+    "tags": ["ide"]
   },
   {
     "name": "Jira Original",
     "componentName": "JiraOriginal",
-    "fileName": "devicons-react/icons/JiraOriginal"
+    "tags": ["platform", "organize"]
   },
   {
     "name": "Jira Original Wordmark",
     "componentName": "JiraOriginalWordmark",
-    "fileName": "devicons-react/icons/JiraOriginalWordmark"
+    "tags": ["platform", "organize"]
   },
   {
     "name": "Jira Plain",
     "componentName": "JiraPlain",
-    "fileName": "devicons-react/icons/JiraPlain"
+    "tags": ["platform", "organize"]
   },
   {
     "name": "Jira Plain Wordmark",
     "componentName": "JiraPlainWordmark",
-    "fileName": "devicons-react/icons/JiraPlainWordmark"
+    "tags": ["platform", "organize"]
   },
   {
     "name": "Jquery Original",
     "componentName": "JqueryOriginal",
-    "fileName": "devicons-react/icons/JqueryOriginal"
+    "tags": ["library", "javascript"]
   },
   {
     "name": "Jquery Original Wordmark",
     "componentName": "JqueryOriginalWordmark",
-    "fileName": "devicons-react/icons/JqueryOriginalWordmark"
+    "tags": ["library", "javascript"]
   },
   {
     "name": "Jquery Plain",
     "componentName": "JqueryPlain",
-    "fileName": "devicons-react/icons/JqueryPlain"
+    "tags": ["library", "javascript"]
   },
   {
     "name": "Jquery Plain Wordmark",
     "componentName": "JqueryPlainWordmark",
-    "fileName": "devicons-react/icons/JqueryPlainWordmark"
+    "tags": ["library", "javascript"]
   },
   {
     "name": "Julia Original",
     "componentName": "JuliaOriginal",
-    "fileName": "devicons-react/icons/JuliaOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Julia Original Wordmark",
     "componentName": "JuliaOriginalWordmark",
-    "fileName": "devicons-react/icons/JuliaOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Julia Plain",
     "componentName": "JuliaPlain",
-    "fileName": "devicons-react/icons/JuliaPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Julia Plain Wordmark",
     "componentName": "JuliaPlainWordmark",
-    "fileName": "devicons-react/icons/JuliaPlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Jupyter Original",
     "componentName": "JupyterOriginal",
-    "fileName": "devicons-react/icons/JupyterOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Jupyter Original Wordmark",
     "componentName": "JupyterOriginalWordmark",
-    "fileName": "devicons-react/icons/JupyterOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Jupyter Plain",
     "componentName": "JupyterPlain",
-    "fileName": "devicons-react/icons/JupyterPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Jupyter Plain Wordmark",
     "componentName": "JupyterPlainWordmark",
-    "fileName": "devicons-react/icons/JupyterPlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "K3 S Original",
     "componentName": "K3SOriginal",
-    "fileName": "devicons-react/icons/K3SOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "K3 S Original Wordmark",
     "componentName": "K3SOriginalWordmark",
-    "fileName": "devicons-react/icons/K3SOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "K3 S Plain Wordmark",
     "componentName": "K3SPlainWordmark",
-    "fileName": "devicons-react/icons/K3SPlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Kaggle Original",
     "componentName": "KaggleOriginal",
-    "fileName": "devicons-react/icons/KaggleOriginal"
+    "tags": ["platform", "auth", "machine-learning"]
   },
   {
     "name": "Kaggle Original Wordmark",
     "componentName": "KaggleOriginalWordmark",
-    "fileName": "devicons-react/icons/KaggleOriginalWordmark"
+    "tags": ["platform", "auth", "machine-learning"]
   },
   {
     "name": "Karma Original",
     "componentName": "KarmaOriginal",
-    "fileName": "devicons-react/icons/KarmaOriginal"
+    "tags": ["testing", "test-runner"]
   },
   {
     "name": "Karma Plain",
     "componentName": "KarmaPlain",
-    "fileName": "devicons-react/icons/KarmaPlain"
+    "tags": ["testing", "test-runner"]
   },
   {
     "name": "Knockout Plain Wordmark",
     "componentName": "KnockoutPlainWordmark",
-    "fileName": "devicons-react/icons/KnockoutPlainWordmark"
+    "tags": ["framework", "javascript"]
   },
   {
     "name": "Kotlin Original",
     "componentName": "KotlinOriginal",
-    "fileName": "devicons-react/icons/KotlinOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Kotlin Original Wordmark",
     "componentName": "KotlinOriginalWordmark",
-    "fileName": "devicons-react/icons/KotlinOriginalWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Kotlin Plain",
     "componentName": "KotlinPlain",
-    "fileName": "devicons-react/icons/KotlinPlain"
+    "tags": ["language"]
   },
   {
     "name": "Kotlin Plain Wordmark",
     "componentName": "KotlinPlainWordmark",
-    "fileName": "devicons-react/icons/KotlinPlainWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Krakenjs Original",
     "componentName": "KrakenjsOriginal",
-    "fileName": "devicons-react/icons/KrakenjsOriginal"
+    "tags": ["nodejs", "framework"]
   },
   {
     "name": "Krakenjs Original Wordmark",
     "componentName": "KrakenjsOriginalWordmark",
-    "fileName": "devicons-react/icons/KrakenjsOriginalWordmark"
+    "tags": ["nodejs", "framework"]
   },
   {
     "name": "Krakenjs Plain",
     "componentName": "KrakenjsPlain",
-    "fileName": "devicons-react/icons/KrakenjsPlain"
+    "tags": ["nodejs", "framework"]
   },
   {
     "name": "Krakenjs Plain Wordmark",
     "componentName": "KrakenjsPlainWordmark",
-    "fileName": "devicons-react/icons/KrakenjsPlainWordmark"
+    "tags": ["nodejs", "framework"]
   },
   {
     "name": "Kubernetes Plain",
     "componentName": "KubernetesPlain",
-    "fileName": "devicons-react/icons/KubernetesPlain"
+    "tags": ["container", "deployment"]
   },
   {
     "name": "Kubernetes Plain Wordmark",
     "componentName": "KubernetesPlainWordmark",
-    "fileName": "devicons-react/icons/KubernetesPlainWordmark"
+    "tags": ["container", "deployment"]
   },
   {
     "name": "Labview Original",
     "componentName": "LabviewOriginal",
-    "fileName": "devicons-react/icons/LabviewOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Labview Original Wordmark",
     "componentName": "LabviewOriginalWordmark",
-    "fileName": "devicons-react/icons/LabviewOriginalWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Labview Plain",
     "componentName": "LabviewPlain",
-    "fileName": "devicons-react/icons/LabviewPlain"
+    "tags": ["language"]
   },
   {
     "name": "Labview Plain Wordmark",
     "componentName": "LabviewPlainWordmark",
-    "fileName": "devicons-react/icons/LabviewPlainWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Laravel Plain",
     "componentName": "LaravelPlain",
-    "fileName": "devicons-react/icons/LaravelPlain"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Laravel Plain Wordmark",
     "componentName": "LaravelPlainWordmark",
-    "fileName": "devicons-react/icons/LaravelPlainWordmark"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Latex Original",
     "componentName": "LatexOriginal",
-    "fileName": "devicons-react/icons/LatexOriginal"
+    "tags": ["latex3", "latex2e", "markup", "tex", "typesetting-system"]
   },
   {
     "name": "Less Plain Wordmark",
     "componentName": "LessPlainWordmark",
-    "fileName": "devicons-react/icons/LessPlainWordmark"
+    "tags": ["css", "pre-processor"]
   },
   {
     "name": "Linkedin Original",
     "componentName": "LinkedinOriginal",
-    "fileName": "devicons-react/icons/LinkedinOriginal"
+    "tags": ["social", "auth"]
   },
   {
     "name": "Linkedin Original Wordmark",
     "componentName": "LinkedinOriginalWordmark",
-    "fileName": "devicons-react/icons/LinkedinOriginalWordmark"
+    "tags": ["social", "auth"]
   },
   {
     "name": "Linkedin Plain",
     "componentName": "LinkedinPlain",
-    "fileName": "devicons-react/icons/LinkedinPlain"
+    "tags": ["social", "auth"]
   },
   {
     "name": "Linkedin Plain Wordmark",
     "componentName": "LinkedinPlainWordmark",
-    "fileName": "devicons-react/icons/LinkedinPlainWordmark"
+    "tags": ["social", "auth"]
   },
   {
     "name": "Linux Original",
     "componentName": "LinuxOriginal",
-    "fileName": "devicons-react/icons/LinuxOriginal"
+    "tags": ["os"]
   },
-  {
-    "name": "Linux Plain",
-    "componentName": "LinuxPlain",
-    "fileName": "devicons-react/icons/LinuxPlain"
-  },
+  { "name": "Linux Plain", "componentName": "LinuxPlain", "tags": ["os"] },
   {
     "name": "Lua Original",
     "componentName": "LuaOriginal",
-    "fileName": "devicons-react/icons/LuaOriginal"
+    "tags": [
+      "programming",
+      "language",
+      "object-oriented",
+      "scripting",
+      "procedural",
+      "prototype-based",
+      "functional"
+    ]
   },
   {
     "name": "Lua Original Wordmark",
     "componentName": "LuaOriginalWordmark",
-    "fileName": "devicons-react/icons/LuaOriginalWordmark"
+    "tags": [
+      "programming",
+      "language",
+      "object-oriented",
+      "scripting",
+      "procedural",
+      "prototype-based",
+      "functional"
+    ]
   },
   {
     "name": "Lua Plain",
     "componentName": "LuaPlain",
-    "fileName": "devicons-react/icons/LuaPlain"
+    "tags": [
+      "programming",
+      "language",
+      "object-oriented",
+      "scripting",
+      "procedural",
+      "prototype-based",
+      "functional"
+    ]
   },
   {
     "name": "Lua Plain Wordmark",
     "componentName": "LuaPlainWordmark",
-    "fileName": "devicons-react/icons/LuaPlainWordmark"
+    "tags": [
+      "programming",
+      "language",
+      "object-oriented",
+      "scripting",
+      "procedural",
+      "prototype-based",
+      "functional"
+    ]
   },
   {
     "name": "Magento Line",
     "componentName": "MagentoLine",
-    "fileName": "devicons-react/icons/MagentoLine"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Magento Original",
     "componentName": "MagentoOriginal",
-    "fileName": "devicons-react/icons/MagentoOriginal"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Magento Original Wordmark",
     "componentName": "MagentoOriginalWordmark",
-    "fileName": "devicons-react/icons/MagentoOriginalWordmark"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Markdown Original",
     "componentName": "MarkdownOriginal",
-    "fileName": "devicons-react/icons/MarkdownOriginal"
+    "tags": ["markup", "language"]
   },
   {
     "name": "Materialui Original",
     "componentName": "MaterialuiOriginal",
-    "fileName": "devicons-react/icons/MaterialuiOriginal"
+    "tags": ["framework", "design", "ui"]
   },
   {
     "name": "Materialui Plain",
     "componentName": "MaterialuiPlain",
-    "fileName": "devicons-react/icons/MaterialuiPlain"
+    "tags": ["framework", "design", "ui"]
   },
   {
     "name": "Matlab Line",
     "componentName": "MatlabLine",
-    "fileName": "devicons-react/icons/MatlabLine"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Matlab Original",
     "componentName": "MatlabOriginal",
-    "fileName": "devicons-react/icons/MatlabOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Matlab Plain",
     "componentName": "MatlabPlain",
-    "fileName": "devicons-react/icons/MatlabPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Maya Original",
     "componentName": "MayaOriginal",
-    "fileName": "devicons-react/icons/MayaOriginal"
+    "tags": [
+      "mel",
+      "pymel",
+      "python",
+      "3d",
+      "programming",
+      "vfx",
+      "graphic",
+      "graphics",
+      "game",
+      "animation"
+    ]
   },
   {
     "name": "Maya Original Wordmark",
     "componentName": "MayaOriginalWordmark",
-    "fileName": "devicons-react/icons/MayaOriginalWordmark"
+    "tags": [
+      "mel",
+      "pymel",
+      "python",
+      "3d",
+      "programming",
+      "vfx",
+      "graphic",
+      "graphics",
+      "game",
+      "animation"
+    ]
   },
   {
     "name": "Maya Plain",
     "componentName": "MayaPlain",
-    "fileName": "devicons-react/icons/MayaPlain"
+    "tags": [
+      "mel",
+      "pymel",
+      "python",
+      "3d",
+      "programming",
+      "vfx",
+      "graphic",
+      "graphics",
+      "game",
+      "animation"
+    ]
   },
   {
     "name": "Maya Plain Wordmark",
     "componentName": "MayaPlainWordmark",
-    "fileName": "devicons-react/icons/MayaPlainWordmark"
+    "tags": [
+      "mel",
+      "pymel",
+      "python",
+      "3d",
+      "programming",
+      "vfx",
+      "graphic",
+      "graphics",
+      "game",
+      "animation"
+    ]
   },
   {
     "name": "Meteor Original",
     "componentName": "MeteorOriginal",
-    "fileName": "devicons-react/icons/MeteorOriginal"
+    "tags": ["javascript"]
   },
   {
     "name": "Meteor Original Wordmark",
     "componentName": "MeteorOriginalWordmark",
-    "fileName": "devicons-react/icons/MeteorOriginalWordmark"
+    "tags": ["javascript"]
   },
   {
     "name": "Meteor Plain",
     "componentName": "MeteorPlain",
-    "fileName": "devicons-react/icons/MeteorPlain"
+    "tags": ["javascript"]
   },
   {
     "name": "Meteor Plain Wordmark",
     "componentName": "MeteorPlainWordmark",
-    "fileName": "devicons-react/icons/MeteorPlainWordmark"
+    "tags": ["javascript"]
   },
   {
     "name": "Microsoftsqlserver Plain",
     "componentName": "MicrosoftsqlserverPlain",
-    "fileName": "devicons-react/icons/MicrosoftsqlserverPlain"
+    "tags": ["database"]
   },
   {
     "name": "Microsoftsqlserver Plain Wordmark",
     "componentName": "MicrosoftsqlserverPlainWordmark",
-    "fileName": "devicons-react/icons/MicrosoftsqlserverPlainWordmark"
+    "tags": ["database"]
   },
   {
     "name": "Minitab Original",
     "componentName": "MinitabOriginal",
-    "fileName": "devicons-react/icons/MinitabOriginal"
+    "tags": ["package", "statistics"]
   },
   {
     "name": "Minitab Plain",
     "componentName": "MinitabPlain",
-    "fileName": "devicons-react/icons/MinitabPlain"
+    "tags": ["package", "statistics"]
   },
-  {
-    "name": "Mocha Plain",
-    "componentName": "MochaPlain",
-    "fileName": "devicons-react/icons/MochaPlain"
-  },
+  { "name": "Mocha Plain", "componentName": "MochaPlain", "tags": ["testing"] },
   {
     "name": "Modx Original",
     "componentName": "ModxOriginal",
-    "fileName": "devicons-react/icons/ModxOriginal"
+    "tags": ["cms", "php", "framework"]
   },
   {
     "name": "Modx Original Wordmark",
     "componentName": "ModxOriginalWordmark",
-    "fileName": "devicons-react/icons/ModxOriginalWordmark"
+    "tags": ["cms", "php", "framework"]
   },
   {
     "name": "Modx Plain",
     "componentName": "ModxPlain",
-    "fileName": "devicons-react/icons/ModxPlain"
+    "tags": ["cms", "php", "framework"]
   },
   {
     "name": "Modx Plain Wordmark",
     "componentName": "ModxPlainWordmark",
-    "fileName": "devicons-react/icons/ModxPlainWordmark"
+    "tags": ["cms", "php", "framework"]
   },
   {
     "name": "Mongodb Original",
     "componentName": "MongodbOriginal",
-    "fileName": "devicons-react/icons/MongodbOriginal"
+    "tags": ["database"]
   },
   {
     "name": "Mongodb Original Wordmark",
     "componentName": "MongodbOriginalWordmark",
-    "fileName": "devicons-react/icons/MongodbOriginalWordmark"
+    "tags": ["database"]
   },
   {
     "name": "Mongodb Plain",
     "componentName": "MongodbPlain",
-    "fileName": "devicons-react/icons/MongodbPlain"
+    "tags": ["database"]
   },
   {
     "name": "Mongodb Plain Wordmark",
     "componentName": "MongodbPlainWordmark",
-    "fileName": "devicons-react/icons/MongodbPlainWordmark"
+    "tags": ["database"]
   },
   {
     "name": "Moodle Original",
     "componentName": "MoodleOriginal",
-    "fileName": "devicons-react/icons/MoodleOriginal"
+    "tags": ["platform"]
   },
   {
     "name": "Moodle Original Wordmark",
     "componentName": "MoodleOriginalWordmark",
-    "fileName": "devicons-react/icons/MoodleOriginalWordmark"
+    "tags": ["platform"]
   },
   {
     "name": "Moodle Plain",
     "componentName": "MoodlePlain",
-    "fileName": "devicons-react/icons/MoodlePlain"
+    "tags": ["platform"]
   },
   {
     "name": "Moodle Plain Wordmark",
     "componentName": "MoodlePlainWordmark",
-    "fileName": "devicons-react/icons/MoodlePlainWordmark"
+    "tags": ["platform"]
   },
-  {
-    "name": "Msdos Line",
-    "componentName": "MsdosLine",
-    "fileName": "devicons-react/icons/MsdosLine"
-  },
+  { "name": "Msdos Line", "componentName": "MsdosLine", "tags": ["os"] },
   {
     "name": "Msdos Original",
     "componentName": "MsdosOriginal",
-    "fileName": "devicons-react/icons/MsdosOriginal"
+    "tags": ["os"]
   },
-  {
-    "name": "Msdos Plain",
-    "componentName": "MsdosPlain",
-    "fileName": "devicons-react/icons/MsdosPlain"
-  },
+  { "name": "Msdos Plain", "componentName": "MsdosPlain", "tags": ["os"] },
   {
     "name": "Mysql Original",
     "componentName": "MysqlOriginal",
-    "fileName": "devicons-react/icons/MysqlOriginal"
+    "tags": ["database", "language"]
   },
   {
     "name": "Mysql Original Wordmark",
     "componentName": "MysqlOriginalWordmark",
-    "fileName": "devicons-react/icons/MysqlOriginalWordmark"
+    "tags": ["database", "language"]
   },
   {
     "name": "Mysql Plain",
     "componentName": "MysqlPlain",
-    "fileName": "devicons-react/icons/MysqlPlain"
+    "tags": ["database", "language"]
   },
   {
     "name": "Mysql Plain Wordmark",
     "componentName": "MysqlPlainWordmark",
-    "fileName": "devicons-react/icons/MysqlPlainWordmark"
+    "tags": ["database", "language"]
   },
   {
     "name": "Neo4 J Original",
     "componentName": "Neo4JOriginal",
-    "fileName": "devicons-react/icons/Neo4JOriginal"
+    "tags": ["database", "language"]
   },
   {
     "name": "Neo4 J Original Wordmark",
     "componentName": "Neo4JOriginalWordmark",
-    "fileName": "devicons-react/icons/Neo4JOriginalWordmark"
+    "tags": ["database", "language"]
   },
   {
     "name": "Neo4 J Plain",
     "componentName": "Neo4JPlain",
-    "fileName": "devicons-react/icons/Neo4JPlain"
+    "tags": ["database", "language"]
   },
   {
     "name": "Neo4 J Plain Wordmark",
     "componentName": "Neo4JPlainWordmark",
-    "fileName": "devicons-react/icons/Neo4JPlainWordmark"
+    "tags": ["database", "language"]
   },
   {
     "name": "Nestjs Plain",
     "componentName": "NestjsPlain",
-    "fileName": "devicons-react/icons/NestjsPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Nestjs Plain Wordmark",
     "componentName": "NestjsPlainWordmark",
-    "fileName": "devicons-react/icons/NestjsPlainWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Networkx Original",
     "componentName": "NetworkxOriginal",
-    "fileName": "devicons-react/icons/NetworkxOriginal"
+    "tags": ["graph", "library", "python"]
   },
   {
     "name": "Nextjs Line",
     "componentName": "NextjsLine",
-    "fileName": "devicons-react/icons/NextjsLine"
+    "tags": ["framework"]
   },
   {
     "name": "Nextjs Original",
     "componentName": "NextjsOriginal",
-    "fileName": "devicons-react/icons/NextjsOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Nextjs Original Wordmark",
     "componentName": "NextjsOriginalWordmark",
-    "fileName": "devicons-react/icons/NextjsOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Nginx Original",
     "componentName": "NginxOriginal",
-    "fileName": "devicons-react/icons/NginxOriginal"
+    "tags": ["server"]
   },
   {
     "name": "Nixos Original",
     "componentName": "NixosOriginal",
-    "fileName": "devicons-react/icons/NixosOriginal"
+    "tags": ["os"]
   },
   {
     "name": "Nixos Original Wordmark",
     "componentName": "NixosOriginalWordmark",
-    "fileName": "devicons-react/icons/NixosOriginalWordmark"
+    "tags": ["os"]
   },
-  {
-    "name": "Nixos Plain",
-    "componentName": "NixosPlain",
-    "fileName": "devicons-react/icons/NixosPlain"
-  },
+  { "name": "Nixos Plain", "componentName": "NixosPlain", "tags": ["os"] },
   {
     "name": "Nixos Plain Wordmark",
     "componentName": "NixosPlainWordmark",
-    "fileName": "devicons-react/icons/NixosPlainWordmark"
+    "tags": ["os"]
   },
   {
     "name": "Nodejs Original",
     "componentName": "NodejsOriginal",
-    "fileName": "devicons-react/icons/NodejsOriginal"
+    "tags": ["javascript", "language"]
   },
   {
     "name": "Nodejs Original Wordmark",
     "componentName": "NodejsOriginalWordmark",
-    "fileName": "devicons-react/icons/NodejsOriginalWordmark"
+    "tags": ["javascript", "language"]
   },
   {
     "name": "Nodejs Plain",
     "componentName": "NodejsPlain",
-    "fileName": "devicons-react/icons/NodejsPlain"
+    "tags": ["javascript", "language"]
   },
   {
     "name": "Nodejs Plain Wordmark",
     "componentName": "NodejsPlainWordmark",
-    "fileName": "devicons-react/icons/NodejsPlainWordmark"
+    "tags": ["javascript", "language"]
   },
-  {
-    "name": "Nodewebkit Line",
-    "componentName": "NodewebkitLine",
-    "fileName": "devicons-react/icons/NodewebkitLine"
-  },
+  { "name": "Nodewebkit Line", "componentName": "NodewebkitLine", "tags": [] },
   {
     "name": "Nodewebkit Line Wordmark",
     "componentName": "NodewebkitLineWordmark",
-    "fileName": "devicons-react/icons/NodewebkitLineWordmark"
+    "tags": []
   },
   {
     "name": "Nodewebkit Original",
     "componentName": "NodewebkitOriginal",
-    "fileName": "devicons-react/icons/NodewebkitOriginal"
+    "tags": []
   },
   {
     "name": "Nodewebkit Original Wordmark",
     "componentName": "NodewebkitOriginalWordmark",
-    "fileName": "devicons-react/icons/NodewebkitOriginalWordmark"
+    "tags": []
   },
   {
     "name": "Nodewebkit Plain",
     "componentName": "NodewebkitPlain",
-    "fileName": "devicons-react/icons/NodewebkitPlain"
+    "tags": []
   },
   {
     "name": "Nodewebkit Plain Wordmark",
     "componentName": "NodewebkitPlainWordmark",
-    "fileName": "devicons-react/icons/NodewebkitPlainWordmark"
+    "tags": []
   },
   {
     "name": "Npm Original Wordmark",
     "componentName": "NpmOriginalWordmark",
-    "fileName": "devicons-react/icons/NpmOriginalWordmark"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Nuget Original",
     "componentName": "NugetOriginal",
-    "fileName": "devicons-react/icons/NugetOriginal"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Nuget Original Wordmark",
     "componentName": "NugetOriginalWordmark",
-    "fileName": "devicons-react/icons/NugetOriginalWordmark"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Numpy Original",
     "componentName": "NumpyOriginal",
-    "fileName": "devicons-react/icons/NumpyOriginal"
+    "tags": ["library", "python"]
   },
   {
     "name": "Numpy Original Wordmark",
     "componentName": "NumpyOriginalWordmark",
-    "fileName": "devicons-react/icons/NumpyOriginalWordmark"
+    "tags": ["library", "python"]
   },
   {
     "name": "Nuxtjs Original",
     "componentName": "NuxtjsOriginal",
-    "fileName": "devicons-react/icons/NuxtjsOriginal"
+    "tags": ["js", "javascript", "framework", "frontend", "vuejs"]
   },
   {
     "name": "Nuxtjs Original Wordmark",
     "componentName": "NuxtjsOriginalWordmark",
-    "fileName": "devicons-react/icons/NuxtjsOriginalWordmark"
+    "tags": ["js", "javascript", "framework", "frontend", "vuejs"]
   },
   {
     "name": "Nuxtjs Plain",
     "componentName": "NuxtjsPlain",
-    "fileName": "devicons-react/icons/NuxtjsPlain"
+    "tags": ["js", "javascript", "framework", "frontend", "vuejs"]
   },
   {
     "name": "Nuxtjs Plain Wordmark",
     "componentName": "NuxtjsPlainWordmark",
-    "fileName": "devicons-react/icons/NuxtjsPlainWordmark"
+    "tags": ["js", "javascript", "framework", "frontend", "vuejs"]
   },
   {
     "name": "Objectivec Plain",
     "componentName": "ObjectivecPlain",
-    "fileName": "devicons-react/icons/ObjectivecPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Ocaml Original",
     "componentName": "OcamlOriginal",
-    "fileName": "devicons-react/icons/OcamlOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Ocaml Original Wordmark",
     "componentName": "OcamlOriginalWordmark",
-    "fileName": "devicons-react/icons/OcamlOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Ocaml Plain",
     "componentName": "OcamlPlain",
-    "fileName": "devicons-react/icons/OcamlPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Ocaml Plain Wordmark",
     "componentName": "OcamlPlainWordmark",
-    "fileName": "devicons-react/icons/OcamlPlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Openal Original",
     "componentName": "OpenalOriginal",
-    "fileName": "devicons-react/icons/OpenalOriginal"
+    "tags": ["library", "audio", "game", "3d"]
   },
   {
     "name": "Openal Plain",
     "componentName": "OpenalPlain",
-    "fileName": "devicons-react/icons/OpenalPlain"
+    "tags": ["library", "audio", "game", "3d"]
   },
   {
     "name": "Opencv Original",
     "componentName": "OpencvOriginal",
-    "fileName": "devicons-react/icons/OpencvOriginal"
+    "tags": ["library", "c/c++", "computer-vision"]
   },
   {
     "name": "Opencv Original Wordmark",
     "componentName": "OpencvOriginalWordmark",
-    "fileName": "devicons-react/icons/OpencvOriginalWordmark"
+    "tags": ["library", "c/c++", "computer-vision"]
   },
   {
     "name": "Opencv Plain",
     "componentName": "OpencvPlain",
-    "fileName": "devicons-react/icons/OpencvPlain"
+    "tags": ["library", "c/c++", "computer-vision"]
   },
   {
     "name": "Opencv Plain Wordmark",
     "componentName": "OpencvPlainWordmark",
-    "fileName": "devicons-react/icons/OpencvPlainWordmark"
+    "tags": ["library", "c/c++", "computer-vision"]
   },
   {
     "name": "Opengl Original",
     "componentName": "OpenglOriginal",
-    "fileName": "devicons-react/icons/OpenglOriginal"
+    "tags": ["library", "graphics", "game", "3d"]
   },
   {
     "name": "Opengl Plain",
     "componentName": "OpenglPlain",
-    "fileName": "devicons-react/icons/OpenglPlain"
+    "tags": ["library", "graphics", "game", "3d"]
   },
   {
     "name": "Opensuse Original",
     "componentName": "OpensuseOriginal",
-    "fileName": "devicons-react/icons/OpensuseOriginal"
+    "tags": ["linux", "distribuition", "desktop"]
   },
   {
     "name": "Opensuse Original Wordmark",
     "componentName": "OpensuseOriginalWordmark",
-    "fileName": "devicons-react/icons/OpensuseOriginalWordmark"
+    "tags": ["linux", "distribuition", "desktop"]
   },
   {
     "name": "Opensuse Plain",
     "componentName": "OpensusePlain",
-    "fileName": "devicons-react/icons/OpensusePlain"
+    "tags": ["linux", "distribuition", "desktop"]
   },
   {
     "name": "Opensuse Plain Wordmark",
     "componentName": "OpensusePlainWordmark",
-    "fileName": "devicons-react/icons/OpensusePlainWordmark"
+    "tags": ["linux", "distribuition", "desktop"]
   },
   {
     "name": "Opera Original",
     "componentName": "OperaOriginal",
-    "fileName": "devicons-react/icons/OperaOriginal"
+    "tags": ["browser"]
   },
   {
     "name": "Opera Original Wordmark",
     "componentName": "OperaOriginalWordmark",
-    "fileName": "devicons-react/icons/OperaOriginalWordmark"
+    "tags": ["browser"]
   },
-  {
-    "name": "Opera Plain",
-    "componentName": "OperaPlain",
-    "fileName": "devicons-react/icons/OperaPlain"
-  },
+  { "name": "Opera Plain", "componentName": "OperaPlain", "tags": ["browser"] },
   {
     "name": "Opera Plain Wordmark",
     "componentName": "OperaPlainWordmark",
-    "fileName": "devicons-react/icons/OperaPlainWordmark"
+    "tags": ["browser"]
   },
   {
     "name": "Oracle Original",
     "componentName": "OracleOriginal",
-    "fileName": "devicons-react/icons/OracleOriginal"
+    "tags": ["database"]
   },
   {
     "name": "Packer Original",
     "componentName": "PackerOriginal",
-    "fileName": "devicons-react/icons/PackerOriginal"
+    "tags": ["infrastructure", "infrastructure-as-code", "continuous-delivery"]
   },
   {
     "name": "Packer Original Wordmark",
     "componentName": "PackerOriginalWordmark",
-    "fileName": "devicons-react/icons/PackerOriginalWordmark"
+    "tags": ["infrastructure", "infrastructure-as-code", "continuous-delivery"]
   },
   {
     "name": "Pandas Original",
     "componentName": "PandasOriginal",
-    "fileName": "devicons-react/icons/PandasOriginal"
+    "tags": ["library", "python"]
   },
   {
     "name": "Pandas Original Wordmark",
     "componentName": "PandasOriginalWordmark",
-    "fileName": "devicons-react/icons/PandasOriginalWordmark"
+    "tags": ["library", "python"]
   },
   {
     "name": "Perl Original",
     "componentName": "PerlOriginal",
-    "fileName": "devicons-react/icons/PerlOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Perl Plain",
     "componentName": "PerlPlain",
-    "fileName": "devicons-react/icons/PerlPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Phalcon Original",
     "componentName": "PhalconOriginal",
-    "fileName": "devicons-react/icons/PhalconOriginal"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Phalcon Plain",
     "componentName": "PhalconPlain",
-    "fileName": "devicons-react/icons/PhalconPlain"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Phoenix Original",
     "componentName": "PhoenixOriginal",
-    "fileName": "devicons-react/icons/PhoenixOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Phoenix Original Wordmark",
     "componentName": "PhoenixOriginalWordmark",
-    "fileName": "devicons-react/icons/PhoenixOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Phoenix Plain",
     "componentName": "PhoenixPlain",
-    "fileName": "devicons-react/icons/PhoenixPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Phoenix Plain Wordmark",
     "componentName": "PhoenixPlainWordmark",
-    "fileName": "devicons-react/icons/PhoenixPlainWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Photoshop Line",
     "componentName": "PhotoshopLine",
-    "fileName": "devicons-react/icons/PhotoshopLine"
+    "tags": ["editor", "graphic"]
   },
   {
     "name": "Photoshop Plain",
     "componentName": "PhotoshopPlain",
-    "fileName": "devicons-react/icons/PhotoshopPlain"
+    "tags": ["editor", "graphic"]
   },
   {
     "name": "Php Original",
     "componentName": "PhpOriginal",
-    "fileName": "devicons-react/icons/PhpOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Php Plain",
     "componentName": "PhpPlain",
-    "fileName": "devicons-react/icons/PhpPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Phpstorm Original",
     "componentName": "PhpstormOriginal",
-    "fileName": "devicons-react/icons/PhpstormOriginal"
+    "tags": ["editor"]
   },
   {
     "name": "Phpstorm Original Wordmark",
     "componentName": "PhpstormOriginalWordmark",
-    "fileName": "devicons-react/icons/PhpstormOriginalWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Phpstorm Plain",
     "componentName": "PhpstormPlain",
-    "fileName": "devicons-react/icons/PhpstormPlain"
+    "tags": ["editor"]
   },
   {
     "name": "Phpstorm Plain Wordmark",
     "componentName": "PhpstormPlainWordmark",
-    "fileName": "devicons-react/icons/PhpstormPlainWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Podman Original",
     "componentName": "PodmanOriginal",
-    "fileName": "devicons-react/icons/PodmanOriginal"
+    "tags": ["container", "pods", "docker"]
   },
   {
     "name": "Podman Original Wordmark",
     "componentName": "PodmanOriginalWordmark",
-    "fileName": "devicons-react/icons/PodmanOriginalWordmark"
+    "tags": ["container", "pods", "docker"]
   },
   {
     "name": "Podman Plain",
     "componentName": "PodmanPlain",
-    "fileName": "devicons-react/icons/PodmanPlain"
+    "tags": ["container", "pods", "docker"]
   },
   {
     "name": "Podman Plain Wordmark",
     "componentName": "PodmanPlainWordmark",
-    "fileName": "devicons-react/icons/PodmanPlainWordmark"
+    "tags": ["container", "pods", "docker"]
   },
   {
     "name": "Polygon Original",
     "componentName": "PolygonOriginal",
-    "fileName": "devicons-react/icons/PolygonOriginal"
+    "tags": ["ethereum", "erc20", "blockchain"]
   },
   {
     "name": "Polygon Plain",
     "componentName": "PolygonPlain",
-    "fileName": "devicons-react/icons/PolygonPlain"
+    "tags": ["ethereum", "erc20", "blockchain"]
   },
   {
     "name": "Postgresql Original",
     "componentName": "PostgresqlOriginal",
-    "fileName": "devicons-react/icons/PostgresqlOriginal"
+    "tags": ["database"]
   },
   {
     "name": "Postgresql Original Wordmark",
     "componentName": "PostgresqlOriginalWordmark",
-    "fileName": "devicons-react/icons/PostgresqlOriginalWordmark"
+    "tags": ["database"]
   },
   {
     "name": "Postgresql Plain",
     "componentName": "PostgresqlPlain",
-    "fileName": "devicons-react/icons/PostgresqlPlain"
+    "tags": ["database"]
   },
   {
     "name": "Postgresql Plain Wordmark",
     "componentName": "PostgresqlPlainWordmark",
-    "fileName": "devicons-react/icons/PostgresqlPlainWordmark"
+    "tags": ["database"]
   },
   {
     "name": "Premierepro Original",
     "componentName": "PremiereproOriginal",
-    "fileName": "devicons-react/icons/PremiereproOriginal"
+    "tags": ["editor", "video"]
   },
   {
     "name": "Premierepro Plain",
     "componentName": "PremiereproPlain",
-    "fileName": "devicons-react/icons/PremiereproPlain"
+    "tags": ["editor", "video"]
   },
   {
     "name": "Processing Original",
     "componentName": "ProcessingOriginal",
-    "fileName": "devicons-react/icons/ProcessingOriginal"
+    "tags": ["java", "python", "android", "application", "ide", "framework"]
   },
   {
     "name": "Processing Original Wordmark",
     "componentName": "ProcessingOriginalWordmark",
-    "fileName": "devicons-react/icons/ProcessingOriginalWordmark"
+    "tags": ["java", "python", "android", "application", "ide", "framework"]
   },
   {
     "name": "Processing Plain",
     "componentName": "ProcessingPlain",
-    "fileName": "devicons-react/icons/ProcessingPlain"
+    "tags": ["java", "python", "android", "application", "ide", "framework"]
   },
   {
     "name": "Processing Plain Wordmark",
     "componentName": "ProcessingPlainWordmark",
-    "fileName": "devicons-react/icons/ProcessingPlainWordmark"
+    "tags": ["java", "python", "android", "application", "ide", "framework"]
   },
   {
     "name": "Prometheus Original",
     "componentName": "PrometheusOriginal",
-    "fileName": "devicons-react/icons/PrometheusOriginal"
+    "tags": ["monitoring", "observability", "analysis"]
   },
   {
     "name": "Prometheus Original Wordmark",
     "componentName": "PrometheusOriginalWordmark",
-    "fileName": "devicons-react/icons/PrometheusOriginalWordmark"
+    "tags": ["monitoring", "observability", "analysis"]
   },
   {
     "name": "Protractor Plain",
     "componentName": "ProtractorPlain",
-    "fileName": "devicons-react/icons/ProtractorPlain"
+    "tags": ["framework", "javascript"]
   },
   {
     "name": "Protractor Plain Wordmark",
     "componentName": "ProtractorPlainWordmark",
-    "fileName": "devicons-react/icons/ProtractorPlainWordmark"
+    "tags": ["framework", "javascript"]
   },
   {
     "name": "Putty Original",
     "componentName": "PuttyOriginal",
-    "fileName": "devicons-react/icons/PuttyOriginal"
+    "tags": ["ssh", "server"]
   },
   {
     "name": "Putty Plain",
     "componentName": "PuttyPlain",
-    "fileName": "devicons-react/icons/PuttyPlain"
+    "tags": ["ssh", "server"]
   },
   {
     "name": "Pycharm Original",
     "componentName": "PycharmOriginal",
-    "fileName": "devicons-react/icons/PycharmOriginal"
+    "tags": ["editor"]
   },
   {
     "name": "Pycharm Original Wordmark",
     "componentName": "PycharmOriginalWordmark",
-    "fileName": "devicons-react/icons/PycharmOriginalWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Pycharm Plain",
     "componentName": "PycharmPlain",
-    "fileName": "devicons-react/icons/PycharmPlain"
+    "tags": ["editor"]
   },
   {
     "name": "Pycharm Plain Wordmark",
     "componentName": "PycharmPlainWordmark",
-    "fileName": "devicons-react/icons/PycharmPlainWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Pytest Original",
     "componentName": "PytestOriginal",
-    "fileName": "devicons-react/icons/PytestOriginal"
+    "tags": ["python", "framework", "testing"]
   },
   {
     "name": "Pytest Original Wordmark",
     "componentName": "PytestOriginalWordmark",
-    "fileName": "devicons-react/icons/PytestOriginalWordmark"
+    "tags": ["python", "framework", "testing"]
   },
   {
     "name": "Pytest Plain",
     "componentName": "PytestPlain",
-    "fileName": "devicons-react/icons/PytestPlain"
+    "tags": ["python", "framework", "testing"]
   },
   {
     "name": "Pytest Plain Wordmark",
     "componentName": "PytestPlainWordmark",
-    "fileName": "devicons-react/icons/PytestPlainWordmark"
+    "tags": ["python", "framework", "testing"]
   },
   {
     "name": "Python Original",
     "componentName": "PythonOriginal",
-    "fileName": "devicons-react/icons/PythonOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Python Original Wordmark",
     "componentName": "PythonOriginalWordmark",
-    "fileName": "devicons-react/icons/PythonOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Python Plain",
     "componentName": "PythonPlain",
-    "fileName": "devicons-react/icons/PythonPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Python Plain Wordmark",
     "componentName": "PythonPlainWordmark",
-    "fileName": "devicons-react/icons/PythonPlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Pytorch Original",
     "componentName": "PytorchOriginal",
-    "fileName": "devicons-react/icons/PytorchOriginal"
+    "tags": ["programming", "framework", "machine-learning", "python"]
   },
   {
     "name": "Pytorch Original Wordmark",
     "componentName": "PytorchOriginalWordmark",
-    "fileName": "devicons-react/icons/PytorchOriginalWordmark"
+    "tags": ["programming", "framework", "machine-learning", "python"]
   },
   {
     "name": "Pytorch Plain Wordmark",
     "componentName": "PytorchPlainWordmark",
-    "fileName": "devicons-react/icons/PytorchPlainWordmark"
+    "tags": ["programming", "framework", "machine-learning", "python"]
   },
   {
     "name": "Qt Original",
     "componentName": "QtOriginal",
-    "fileName": "devicons-react/icons/QtOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "R Original",
     "componentName": "ROriginal",
-    "fileName": "devicons-react/icons/ROriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "R Plain",
     "componentName": "RPlain",
-    "fileName": "devicons-react/icons/RPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Rails Original Wordmark",
     "componentName": "RailsOriginalWordmark",
-    "fileName": "devicons-react/icons/RailsOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Rails Plain",
     "componentName": "RailsPlain",
-    "fileName": "devicons-react/icons/RailsPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Rails Plain Wordmark",
     "componentName": "RailsPlainWordmark",
-    "fileName": "devicons-react/icons/RailsPlainWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Raspberrypi Line",
     "componentName": "RaspberrypiLine",
-    "fileName": "devicons-react/icons/RaspberrypiLine"
+    "tags": ["arm", "computer"]
   },
   {
     "name": "Raspberrypi Line Wordmark",
     "componentName": "RaspberrypiLineWordmark",
-    "fileName": "devicons-react/icons/RaspberrypiLineWordmark"
+    "tags": ["arm", "computer"]
   },
   {
     "name": "Raspberrypi Original",
     "componentName": "RaspberrypiOriginal",
-    "fileName": "devicons-react/icons/RaspberrypiOriginal"
+    "tags": ["arm", "computer"]
   },
   {
     "name": "Raspberrypi Original Wordmark",
     "componentName": "RaspberrypiOriginalWordmark",
-    "fileName": "devicons-react/icons/RaspberrypiOriginalWordmark"
+    "tags": ["arm", "computer"]
   },
   {
     "name": "React Original",
     "componentName": "ReactOriginal",
-    "fileName": "devicons-react/icons/ReactOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "React Original Wordmark",
     "componentName": "ReactOriginalWordmark",
-    "fileName": "devicons-react/icons/ReactOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Rect Original",
     "componentName": "RectOriginal",
-    "fileName": "devicons-react/icons/RectOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Rect Plain",
     "componentName": "RectPlain",
-    "fileName": "devicons-react/icons/RectPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Redhat Original",
     "componentName": "RedhatOriginal",
-    "fileName": "devicons-react/icons/RedhatOriginal"
+    "tags": ["server", "linux"]
   },
   {
     "name": "Redhat Original Wordmark",
     "componentName": "RedhatOriginalWordmark",
-    "fileName": "devicons-react/icons/RedhatOriginalWordmark"
+    "tags": ["server", "linux"]
   },
   {
     "name": "Redhat Plain",
     "componentName": "RedhatPlain",
-    "fileName": "devicons-react/icons/RedhatPlain"
+    "tags": ["server", "linux"]
   },
   {
     "name": "Redhat Plain Wordmark",
     "componentName": "RedhatPlainWordmark",
-    "fileName": "devicons-react/icons/RedhatPlainWordmark"
+    "tags": ["server", "linux"]
   },
   {
     "name": "Redis Original",
     "componentName": "RedisOriginal",
-    "fileName": "devicons-react/icons/RedisOriginal"
+    "tags": ["server"]
   },
   {
     "name": "Redis Original Wordmark",
     "componentName": "RedisOriginalWordmark",
-    "fileName": "devicons-react/icons/RedisOriginalWordmark"
+    "tags": ["server"]
   },
-  {
-    "name": "Redis Plain",
-    "componentName": "RedisPlain",
-    "fileName": "devicons-react/icons/RedisPlain"
-  },
+  { "name": "Redis Plain", "componentName": "RedisPlain", "tags": ["server"] },
   {
     "name": "Redis Plain Wordmark",
     "componentName": "RedisPlainWordmark",
-    "fileName": "devicons-react/icons/RedisPlainWordmark"
+    "tags": ["server"]
   },
   {
     "name": "Redux Original",
     "componentName": "ReduxOriginal",
-    "fileName": "devicons-react/icons/ReduxOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Rocksdb Plain",
     "componentName": "RocksdbPlain",
-    "fileName": "devicons-react/icons/RocksdbPlain"
+    "tags": ["database"]
   },
   {
     "name": "Rspec Original",
     "componentName": "RspecOriginal",
-    "fileName": "devicons-react/icons/RspecOriginal"
+    "tags": ["ruby", "framework", "testing"]
   },
   {
     "name": "Rspec Original Wordmark",
     "componentName": "RspecOriginalWordmark",
-    "fileName": "devicons-react/icons/RspecOriginalWordmark"
+    "tags": ["ruby", "framework", "testing"]
   },
   {
     "name": "Rstudio Original",
     "componentName": "RstudioOriginal",
-    "fileName": "devicons-react/icons/RstudioOriginal"
+    "tags": ["editor", "package", "statistics"]
   },
   {
     "name": "Rstudio Plain",
     "componentName": "RstudioPlain",
-    "fileName": "devicons-react/icons/RstudioPlain"
+    "tags": ["editor", "package", "statistics"]
   },
   {
     "name": "Ruby Original",
     "componentName": "RubyOriginal",
-    "fileName": "devicons-react/icons/RubyOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Ruby Original Wordmark",
     "componentName": "RubyOriginalWordmark",
-    "fileName": "devicons-react/icons/RubyOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Ruby Plain",
     "componentName": "RubyPlain",
-    "fileName": "devicons-react/icons/RubyPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Ruby Plain Wordmark",
     "componentName": "RubyPlainWordmark",
-    "fileName": "devicons-react/icons/RubyPlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Rubymine Original",
     "componentName": "RubymineOriginal",
-    "fileName": "devicons-react/icons/RubymineOriginal"
+    "tags": ["editor"]
   },
   {
     "name": "Rubymine Original Wordmark",
     "componentName": "RubymineOriginalWordmark",
-    "fileName": "devicons-react/icons/RubymineOriginalWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Rubymine Plain",
     "componentName": "RubyminePlain",
-    "fileName": "devicons-react/icons/RubyminePlain"
+    "tags": ["editor"]
   },
   {
     "name": "Rubymine Plain Wordmark",
     "componentName": "RubyminePlainWordmark",
-    "fileName": "devicons-react/icons/RubyminePlainWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Rust Plain",
     "componentName": "RustPlain",
-    "fileName": "devicons-react/icons/RustPlain"
+    "tags": ["programming", "language"]
   },
-  {
-    "name": "Safari Line",
-    "componentName": "SafariLine",
-    "fileName": "devicons-react/icons/SafariLine"
-  },
+  { "name": "Safari Line", "componentName": "SafariLine", "tags": ["browser"] },
   {
     "name": "Safari Line Wordmark",
     "componentName": "SafariLineWordmark",
-    "fileName": "devicons-react/icons/SafariLineWordmark"
+    "tags": ["browser"]
   },
   {
     "name": "Safari Original",
     "componentName": "SafariOriginal",
-    "fileName": "devicons-react/icons/SafariOriginal"
+    "tags": ["browser"]
   },
   {
     "name": "Safari Original Wordmark",
     "componentName": "SafariOriginalWordmark",
-    "fileName": "devicons-react/icons/SafariOriginalWordmark"
+    "tags": ["browser"]
   },
   {
     "name": "Safari Plain",
     "componentName": "SafariPlain",
-    "fileName": "devicons-react/icons/SafariPlain"
+    "tags": ["browser"]
   },
   {
     "name": "Safari Plain Wordmark",
     "componentName": "SafariPlainWordmark",
-    "fileName": "devicons-react/icons/SafariPlainWordmark"
+    "tags": ["browser"]
   },
   {
     "name": "Salesforce Original",
     "componentName": "SalesforceOriginal",
-    "fileName": "devicons-react/icons/SalesforceOriginal"
+    "tags": ["platform", "ecommerce"]
   },
   {
     "name": "Salesforce Plain",
     "componentName": "SalesforcePlain",
-    "fileName": "devicons-react/icons/SalesforcePlain"
+    "tags": ["platform", "ecommerce"]
   },
   {
     "name": "Sass Original",
     "componentName": "SassOriginal",
-    "fileName": "devicons-react/icons/SassOriginal"
+    "tags": ["pre-processor", "css"]
   },
   {
     "name": "Scala Original",
     "componentName": "ScalaOriginal",
-    "fileName": "devicons-react/icons/ScalaOriginal"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Scala Original Wordmark",
     "componentName": "ScalaOriginalWordmark",
-    "fileName": "devicons-react/icons/ScalaOriginalWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Scala Plain",
     "componentName": "ScalaPlain",
-    "fileName": "devicons-react/icons/ScalaPlain"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Scala Plain Wordmark",
     "componentName": "ScalaPlainWordmark",
-    "fileName": "devicons-react/icons/ScalaPlainWordmark"
+    "tags": ["programming", "language"]
   },
   {
     "name": "Sdl Original",
     "componentName": "SdlOriginal",
-    "fileName": "devicons-react/icons/SdlOriginal"
+    "tags": ["library", "cross-platform", "multimedia", "game"]
   },
   {
     "name": "Sdl Plain",
     "componentName": "SdlPlain",
-    "fileName": "devicons-react/icons/SdlPlain"
+    "tags": ["library", "cross-platform", "multimedia", "game"]
   },
   {
     "name": "Selenium Original",
     "componentName": "SeleniumOriginal",
-    "fileName": "devicons-react/icons/SeleniumOriginal"
+    "tags": ["webdrive", "automation"]
   },
   {
     "name": "Sequelize Original",
     "componentName": "SequelizeOriginal",
-    "fileName": "devicons-react/icons/SequelizeOriginal"
+    "tags": ["database", "language"]
   },
   {
     "name": "Sequelize Original Wordmark",
     "componentName": "SequelizeOriginalWordmark",
-    "fileName": "devicons-react/icons/SequelizeOriginalWordmark"
+    "tags": ["database", "language"]
   },
   {
     "name": "Sequelize Plain",
     "componentName": "SequelizePlain",
-    "fileName": "devicons-react/icons/SequelizePlain"
+    "tags": ["database", "language"]
   },
   {
     "name": "Sequelize Plain Wordmark",
     "componentName": "SequelizePlainWordmark",
-    "fileName": "devicons-react/icons/SequelizePlainWordmark"
+    "tags": ["database", "language"]
   },
   {
     "name": "Shopware Original",
     "componentName": "ShopwareOriginal",
-    "fileName": "devicons-react/icons/ShopwareOriginal"
+    "tags": ["cloud", "platform"]
   },
   {
     "name": "Shopware Original Wordmark",
     "componentName": "ShopwareOriginalWordmark",
-    "fileName": "devicons-react/icons/ShopwareOriginalWordmark"
+    "tags": ["cloud", "platform"]
   },
   {
     "name": "Shotgrid Original",
     "componentName": "ShotgridOriginal",
-    "fileName": "devicons-react/icons/ShotgridOriginal"
+    "tags": [
+      "web-application",
+      "autodesk",
+      "project-management",
+      "pipeline",
+      "production-tool",
+      "production-tracking"
+    ]
   },
   {
     "name": "Shotgrid Original Wordmark",
     "componentName": "ShotgridOriginalWordmark",
-    "fileName": "devicons-react/icons/ShotgridOriginalWordmark"
+    "tags": [
+      "web-application",
+      "autodesk",
+      "project-management",
+      "pipeline",
+      "production-tool",
+      "production-tracking"
+    ]
   },
   {
     "name": "Shotgrid Plain",
     "componentName": "ShotgridPlain",
-    "fileName": "devicons-react/icons/ShotgridPlain"
+    "tags": [
+      "web-application",
+      "autodesk",
+      "project-management",
+      "pipeline",
+      "production-tool",
+      "production-tracking"
+    ]
   },
   {
     "name": "Sketch Line",
     "componentName": "SketchLine",
-    "fileName": "devicons-react/icons/SketchLine"
+    "tags": ["application"]
   },
   {
     "name": "Sketch Line Wordmark",
     "componentName": "SketchLineWordmark",
-    "fileName": "devicons-react/icons/SketchLineWordmark"
+    "tags": ["application"]
   },
   {
     "name": "Sketch Original",
     "componentName": "SketchOriginal",
-    "fileName": "devicons-react/icons/SketchOriginal"
+    "tags": ["application"]
   },
   {
     "name": "Sketch Original Wordmark",
     "componentName": "SketchOriginalWordmark",
-    "fileName": "devicons-react/icons/SketchOriginalWordmark"
+    "tags": ["application"]
   },
   {
     "name": "Slack Original",
     "componentName": "SlackOriginal",
-    "fileName": "devicons-react/icons/SlackOriginal"
+    "tags": ["chat"]
   },
   {
     "name": "Slack Original Wordmark",
     "componentName": "SlackOriginalWordmark",
-    "fileName": "devicons-react/icons/SlackOriginalWordmark"
+    "tags": ["chat"]
   },
-  {
-    "name": "Slack Plain",
-    "componentName": "SlackPlain",
-    "fileName": "devicons-react/icons/SlackPlain"
-  },
+  { "name": "Slack Plain", "componentName": "SlackPlain", "tags": ["chat"] },
   {
     "name": "Slack Plain Wordmark",
     "componentName": "SlackPlainWordmark",
-    "fileName": "devicons-react/icons/SlackPlainWordmark"
+    "tags": ["chat"]
   },
   {
     "name": "Socketio Original",
     "componentName": "SocketioOriginal",
-    "fileName": "devicons-react/icons/SocketioOriginal"
+    "tags": ["library", "networking", "websockets"]
   },
   {
     "name": "Socketio Original Wordmark",
     "componentName": "SocketioOriginalWordmark",
-    "fileName": "devicons-react/icons/SocketioOriginalWordmark"
+    "tags": ["library", "networking", "websockets"]
   },
   {
     "name": "Solidity Original",
     "componentName": "SolidityOriginal",
-    "fileName": "devicons-react/icons/SolidityOriginal"
+    "tags": ["programming", "language", "blockchain"]
   },
   {
     "name": "Solidity Plain",
     "componentName": "SolidityPlain",
-    "fileName": "devicons-react/icons/SolidityPlain"
+    "tags": ["programming", "language", "blockchain"]
   },
   {
     "name": "Sourcetree Original",
     "componentName": "SourcetreeOriginal",
-    "fileName": "devicons-react/icons/SourcetreeOriginal"
+    "tags": ["version-control"]
   },
   {
     "name": "Sourcetree Original Wordmark",
     "componentName": "SourcetreeOriginalWordmark",
-    "fileName": "devicons-react/icons/SourcetreeOriginalWordmark"
+    "tags": ["version-control"]
   },
   {
     "name": "Spring Original",
     "componentName": "SpringOriginal",
-    "fileName": "devicons-react/icons/SpringOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Spring Original Wordmark",
     "componentName": "SpringOriginalWordmark",
-    "fileName": "devicons-react/icons/SpringOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Spring Plain",
     "componentName": "SpringPlain",
-    "fileName": "devicons-react/icons/SpringPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Spring Plain Wordmark",
     "componentName": "SpringPlainWordmark",
-    "fileName": "devicons-react/icons/SpringPlainWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Spss Original",
     "componentName": "SpssOriginal",
-    "fileName": "devicons-react/icons/SpssOriginal"
+    "tags": ["package", "statistics"]
   },
   {
     "name": "Spss Plain",
     "componentName": "SpssPlain",
-    "fileName": "devicons-react/icons/SpssPlain"
+    "tags": ["package", "statistics"]
   },
   {
     "name": "Sqlalchemy Original",
     "componentName": "SqlalchemyOriginal",
-    "fileName": "devicons-react/icons/SqlalchemyOriginal"
+    "tags": ["python", "orm"]
   },
   {
     "name": "Sqlalchemy Original Wordmark",
     "componentName": "SqlalchemyOriginalWordmark",
-    "fileName": "devicons-react/icons/SqlalchemyOriginalWordmark"
+    "tags": ["python", "orm"]
   },
   {
     "name": "Sqlalchemy Plain",
     "componentName": "SqlalchemyPlain",
-    "fileName": "devicons-react/icons/SqlalchemyPlain"
+    "tags": ["python", "orm"]
   },
   {
     "name": "Sqlite Original",
     "componentName": "SqliteOriginal",
-    "fileName": "devicons-react/icons/SqliteOriginal"
+    "tags": ["sql", "database", "db"]
   },
   {
     "name": "Sqlite Original Wordmark",
     "componentName": "SqliteOriginalWordmark",
-    "fileName": "devicons-react/icons/SqliteOriginalWordmark"
+    "tags": ["sql", "database", "db"]
   },
   {
     "name": "Sqlite Plain",
     "componentName": "SqlitePlain",
-    "fileName": "devicons-react/icons/SqlitePlain"
+    "tags": ["sql", "database", "db"]
   },
   {
     "name": "Sqlite Plain Wordmark",
     "componentName": "SqlitePlainWordmark",
-    "fileName": "devicons-react/icons/SqlitePlainWordmark"
+    "tags": ["sql", "database", "db"]
   },
   {
     "name": "Ssh Original",
     "componentName": "SshOriginal",
-    "fileName": "devicons-react/icons/SshOriginal"
+    "tags": ["security"]
   },
   {
     "name": "Ssh Original Wordmark",
     "componentName": "SshOriginalWordmark",
-    "fileName": "devicons-react/icons/SshOriginalWordmark"
+    "tags": ["security"]
   },
   {
     "name": "Storybook Original",
     "componentName": "StorybookOriginal",
-    "fileName": "devicons-react/icons/StorybookOriginal"
+    "tags": ["framework", "documentation", "ui"]
   },
   {
     "name": "Storybook Original Wordmark",
     "componentName": "StorybookOriginalWordmark",
-    "fileName": "devicons-react/icons/StorybookOriginalWordmark"
+    "tags": ["framework", "documentation", "ui"]
   },
   {
     "name": "Storybook Plain",
     "componentName": "StorybookPlain",
-    "fileName": "devicons-react/icons/StorybookPlain"
+    "tags": ["framework", "documentation", "ui"]
   },
   {
     "name": "Storybook Plain Wordmark",
     "componentName": "StorybookPlainWordmark",
-    "fileName": "devicons-react/icons/StorybookPlainWordmark"
+    "tags": ["framework", "documentation", "ui"]
   },
   {
     "name": "Stylus Original",
     "componentName": "StylusOriginal",
-    "fileName": "devicons-react/icons/StylusOriginal"
+    "tags": ["css", "pre-processor"]
   },
   {
     "name": "Subversion Original",
     "componentName": "SubversionOriginal",
-    "fileName": "devicons-react/icons/SubversionOriginal"
+    "tags": ["svn", "version"]
   },
   {
     "name": "Subversion Original Wordmark",
     "componentName": "SubversionOriginalWordmark",
-    "fileName": "devicons-react/icons/SubversionOriginalWordmark"
+    "tags": ["svn", "version"]
   },
   {
     "name": "Svelte Original",
     "componentName": "SvelteOriginal",
-    "fileName": "devicons-react/icons/SvelteOriginal"
+    "tags": ["javascript", "framework"]
   },
   {
     "name": "Svelte Original Wordmark",
     "componentName": "SvelteOriginalWordmark",
-    "fileName": "devicons-react/icons/SvelteOriginalWordmark"
+    "tags": ["javascript", "framework"]
   },
   {
     "name": "Svelte Plain",
     "componentName": "SveltePlain",
-    "fileName": "devicons-react/icons/SveltePlain"
+    "tags": ["javascript", "framework"]
   },
   {
     "name": "Svelte Plain Wordmark",
     "componentName": "SveltePlainWordmark",
-    "fileName": "devicons-react/icons/SveltePlainWordmark"
+    "tags": ["javascript", "framework"]
   },
   {
     "name": "Swift Original",
     "componentName": "SwiftOriginal",
-    "fileName": "devicons-react/icons/SwiftOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Swift Original Wordmark",
     "componentName": "SwiftOriginalWordmark",
-    "fileName": "devicons-react/icons/SwiftOriginalWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Swift Plain",
     "componentName": "SwiftPlain",
-    "fileName": "devicons-react/icons/SwiftPlain"
+    "tags": ["language"]
   },
   {
     "name": "Swift Plain Wordmark",
     "componentName": "SwiftPlainWordmark",
-    "fileName": "devicons-react/icons/SwiftPlainWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Symfony Original",
     "componentName": "SymfonyOriginal",
-    "fileName": "devicons-react/icons/SymfonyOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Symfony Original Wordmark",
     "componentName": "SymfonyOriginalWordmark",
-    "fileName": "devicons-react/icons/SymfonyOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Tailwindcss Original Wordmark",
     "componentName": "TailwindcssOriginalWordmark",
-    "fileName": "devicons-react/icons/TailwindcssOriginalWordmark"
+    "tags": ["css", "framework"]
   },
   {
     "name": "Tailwindcss Plain",
     "componentName": "TailwindcssPlain",
-    "fileName": "devicons-react/icons/TailwindcssPlain"
+    "tags": ["css", "framework"]
   },
   {
     "name": "Tensorflow Line",
     "componentName": "TensorflowLine",
-    "fileName": "devicons-react/icons/TensorflowLine"
+    "tags": ["library", "machine-learning", "deep-learning"]
   },
   {
     "name": "Tensorflow Line Wordmark",
     "componentName": "TensorflowLineWordmark",
-    "fileName": "devicons-react/icons/TensorflowLineWordmark"
+    "tags": ["library", "machine-learning", "deep-learning"]
   },
   {
     "name": "Tensorflow Original",
     "componentName": "TensorflowOriginal",
-    "fileName": "devicons-react/icons/TensorflowOriginal"
+    "tags": ["library", "machine-learning", "deep-learning"]
   },
   {
     "name": "Tensorflow Original Wordmark",
     "componentName": "TensorflowOriginalWordmark",
-    "fileName": "devicons-react/icons/TensorflowOriginalWordmark"
+    "tags": ["library", "machine-learning", "deep-learning"]
   },
   {
     "name": "Terraform Original",
     "componentName": "TerraformOriginal",
-    "fileName": "devicons-react/icons/TerraformOriginal"
+    "tags": ["deployment", "architecture", "automation"]
   },
   {
     "name": "Terraform Original Wordmark",
     "componentName": "TerraformOriginalWordmark",
-    "fileName": "devicons-react/icons/TerraformOriginalWordmark"
+    "tags": ["deployment", "architecture", "automation"]
   },
   {
     "name": "Terraform Plain",
     "componentName": "TerraformPlain",
-    "fileName": "devicons-react/icons/TerraformPlain"
+    "tags": ["deployment", "architecture", "automation"]
   },
   {
     "name": "Terraform Plain Wordmark",
     "componentName": "TerraformPlainWordmark",
-    "fileName": "devicons-react/icons/TerraformPlainWordmark"
+    "tags": ["deployment", "architecture", "automation"]
   },
   {
     "name": "Thealgorithms Original",
     "componentName": "ThealgorithmsOriginal",
-    "fileName": "devicons-react/icons/ThealgorithmsOriginal"
+    "tags": ["organization", "algorithms"]
   },
   {
     "name": "Thealgorithms Original Wordmark",
     "componentName": "ThealgorithmsOriginalWordmark",
-    "fileName": "devicons-react/icons/ThealgorithmsOriginalWordmark"
+    "tags": ["organization", "algorithms"]
   },
   {
     "name": "Thealgorithms Plain",
     "componentName": "ThealgorithmsPlain",
-    "fileName": "devicons-react/icons/ThealgorithmsPlain"
+    "tags": ["organization", "algorithms"]
   },
   {
     "name": "Thealgorithms Plain Wordmark",
     "componentName": "ThealgorithmsPlainWordmark",
-    "fileName": "devicons-react/icons/ThealgorithmsPlainWordmark"
+    "tags": ["organization", "algorithms"]
   },
   {
     "name": "Threejs Original",
     "componentName": "ThreejsOriginal",
-    "fileName": "devicons-react/icons/ThreejsOriginal"
+    "tags": ["javascript", "framework"]
   },
   {
     "name": "Threejs Original Wordmark",
     "componentName": "ThreejsOriginalWordmark",
-    "fileName": "devicons-react/icons/ThreejsOriginalWordmark"
+    "tags": ["javascript", "framework"]
   },
-  {
-    "name": "Tomcat Line",
-    "componentName": "TomcatLine",
-    "fileName": "devicons-react/icons/TomcatLine"
-  },
+  { "name": "Tomcat Line", "componentName": "TomcatLine", "tags": ["server"] },
   {
     "name": "Tomcat Line Wordmark",
     "componentName": "TomcatLineWordmark",
-    "fileName": "devicons-react/icons/TomcatLineWordmark"
+    "tags": ["server"]
   },
   {
     "name": "Tomcat Original",
     "componentName": "TomcatOriginal",
-    "fileName": "devicons-react/icons/TomcatOriginal"
+    "tags": ["server"]
   },
   {
     "name": "Tomcat Original Wordmark",
     "componentName": "TomcatOriginalWordmark",
-    "fileName": "devicons-react/icons/TomcatOriginalWordmark"
+    "tags": ["server"]
   },
   {
     "name": "Tortoisegit Line",
     "componentName": "TortoisegitLine",
-    "fileName": "devicons-react/icons/TortoisegitLine"
+    "tags": ["git"]
   },
   {
     "name": "Tortoisegit Original",
     "componentName": "TortoisegitOriginal",
-    "fileName": "devicons-react/icons/TortoisegitOriginal"
+    "tags": ["git"]
   },
   {
     "name": "Tortoisegit Plain",
     "componentName": "TortoisegitPlain",
-    "fileName": "devicons-react/icons/TortoisegitPlain"
+    "tags": ["git"]
   },
   {
     "name": "Towergit Original",
     "componentName": "TowergitOriginal",
-    "fileName": "devicons-react/icons/TowergitOriginal"
+    "tags": ["git"]
   },
   {
     "name": "Towergit Original Wordmark",
     "componentName": "TowergitOriginalWordmark",
-    "fileName": "devicons-react/icons/TowergitOriginalWordmark"
+    "tags": ["git"]
   },
   {
     "name": "Towergit Plain",
     "componentName": "TowergitPlain",
-    "fileName": "devicons-react/icons/TowergitPlain"
+    "tags": ["git"]
   },
   {
     "name": "Towergit Plain Wordmark",
     "componentName": "TowergitPlainWordmark",
-    "fileName": "devicons-react/icons/TowergitPlainWordmark"
+    "tags": ["git"]
   },
   {
     "name": "Travis Plain",
     "componentName": "TravisPlain",
-    "fileName": "devicons-react/icons/TravisPlain"
+    "tags": ["platform", "integration"]
   },
   {
     "name": "Travis Plain Wordmark",
     "componentName": "TravisPlainWordmark",
-    "fileName": "devicons-react/icons/TravisPlainWordmark"
+    "tags": ["platform", "integration"]
   },
   {
     "name": "Trello Plain",
     "componentName": "TrelloPlain",
-    "fileName": "devicons-react/icons/TrelloPlain"
+    "tags": ["platform", "organize"]
   },
   {
     "name": "Trello Plain Wordmark",
     "componentName": "TrelloPlainWordmark",
-    "fileName": "devicons-react/icons/TrelloPlainWordmark"
+    "tags": ["platform", "organize"]
   },
   {
     "name": "Twitter Original",
     "componentName": "TwitterOriginal",
-    "fileName": "devicons-react/icons/TwitterOriginal"
+    "tags": ["auth"]
   },
   {
     "name": "Typescript Original",
     "componentName": "TypescriptOriginal",
-    "fileName": "devicons-react/icons/TypescriptOriginal"
+    "tags": ["programming", "transpiler"]
   },
   {
     "name": "Typescript Plain",
     "componentName": "TypescriptPlain",
-    "fileName": "devicons-react/icons/TypescriptPlain"
+    "tags": ["programming", "transpiler"]
   },
   {
     "name": "Typo3 Original",
     "componentName": "Typo3Original",
-    "fileName": "devicons-react/icons/Typo3Original"
+    "tags": ["cms", "php"]
   },
   {
     "name": "Typo3 Original Wordmark",
     "componentName": "Typo3OriginalWordmark",
-    "fileName": "devicons-react/icons/Typo3OriginalWordmark"
+    "tags": ["cms", "php"]
   },
   {
     "name": "Typo3 Plain",
     "componentName": "Typo3Plain",
-    "fileName": "devicons-react/icons/Typo3Plain"
+    "tags": ["cms", "php"]
   },
   {
     "name": "Typo3 Plain Wordmark",
     "componentName": "Typo3PlainWordmark",
-    "fileName": "devicons-react/icons/Typo3PlainWordmark"
+    "tags": ["cms", "php"]
   },
-  {
-    "name": "Ubuntu Plain",
-    "componentName": "UbuntuPlain",
-    "fileName": "devicons-react/icons/UbuntuPlain"
-  },
+  { "name": "Ubuntu Plain", "componentName": "UbuntuPlain", "tags": ["os"] },
   {
     "name": "Ubuntu Plain Wordmark",
     "componentName": "UbuntuPlainWordmark",
-    "fileName": "devicons-react/icons/UbuntuPlainWordmark"
+    "tags": ["os"]
   },
   {
     "name": "Unity Original",
     "componentName": "UnityOriginal",
-    "fileName": "devicons-react/icons/UnityOriginal"
+    "tags": ["csharp", "engine", "game"]
   },
   {
     "name": "Unity Original Wordmark",
     "componentName": "UnityOriginalWordmark",
-    "fileName": "devicons-react/icons/UnityOriginalWordmark"
+    "tags": ["csharp", "engine", "game"]
   },
-  {
-    "name": "Unix Original",
-    "componentName": "UnixOriginal",
-    "fileName": "devicons-react/icons/UnixOriginal"
-  },
+  { "name": "Unix Original", "componentName": "UnixOriginal", "tags": ["os"] },
   {
     "name": "Unrealengine Original",
     "componentName": "UnrealengineOriginal",
-    "fileName": "devicons-react/icons/UnrealengineOriginal"
+    "tags": ["c++", "engine", "game"]
   },
   {
     "name": "Unrealengine Original Wordmark",
     "componentName": "UnrealengineOriginalWordmark",
-    "fileName": "devicons-react/icons/UnrealengineOriginalWordmark"
+    "tags": ["c++", "engine", "game"]
   },
   {
     "name": "Uwsgi Original",
     "componentName": "UwsgiOriginal",
-    "fileName": "devicons-react/icons/UwsgiOriginal"
+    "tags": ["hosting"]
   },
-  {
-    "name": "Uwsgi Plain",
-    "componentName": "UwsgiPlain",
-    "fileName": "devicons-react/icons/UwsgiPlain"
-  },
+  { "name": "Uwsgi Plain", "componentName": "UwsgiPlain", "tags": ["hosting"] },
   {
     "name": "Vagrant Original",
     "componentName": "VagrantOriginal",
-    "fileName": "devicons-react/icons/VagrantOriginal"
+    "tags": ["platform"]
   },
   {
     "name": "Vagrant Original Wordmark",
     "componentName": "VagrantOriginalWordmark",
-    "fileName": "devicons-react/icons/VagrantOriginalWordmark"
+    "tags": ["platform"]
   },
   {
     "name": "Vagrant Plain",
     "componentName": "VagrantPlain",
-    "fileName": "devicons-react/icons/VagrantPlain"
+    "tags": ["platform"]
   },
   {
     "name": "Vagrant Plain Wordmark",
     "componentName": "VagrantPlainWordmark",
-    "fileName": "devicons-react/icons/VagrantPlainWordmark"
+    "tags": ["platform"]
   },
   {
     "name": "Vim Original",
     "componentName": "VimOriginal",
-    "fileName": "devicons-react/icons/VimOriginal"
+    "tags": ["editor"]
   },
-  {
-    "name": "Vim Plain",
-    "componentName": "VimPlain",
-    "fileName": "devicons-react/icons/VimPlain"
-  },
+  { "name": "Vim Plain", "componentName": "VimPlain", "tags": ["editor"] },
   {
     "name": "Visualstudio Plain",
     "componentName": "VisualstudioPlain",
-    "fileName": "devicons-react/icons/VisualstudioPlain"
+    "tags": ["editor"]
   },
   {
     "name": "Visualstudio Plain Wordmark",
     "componentName": "VisualstudioPlainWordmark",
-    "fileName": "devicons-react/icons/VisualstudioPlainWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Vscode Original",
     "componentName": "VscodeOriginal",
-    "fileName": "devicons-react/icons/VscodeOriginal"
+    "tags": ["editor", "ide"]
   },
   {
     "name": "Vscode Original Wordmark",
     "componentName": "VscodeOriginalWordmark",
-    "fileName": "devicons-react/icons/VscodeOriginalWordmark"
+    "tags": ["editor", "ide"]
   },
   {
     "name": "Vscode Plain",
     "componentName": "VscodePlain",
-    "fileName": "devicons-react/icons/VscodePlain"
+    "tags": ["editor", "ide"]
   },
   {
     "name": "Vscode Plain Wordmark",
     "componentName": "VscodePlainWordmark",
-    "fileName": "devicons-react/icons/VscodePlainWordmark"
+    "tags": ["editor", "ide"]
   },
-  {
-    "name": "Vuejs Line",
-    "componentName": "VuejsLine",
-    "fileName": "devicons-react/icons/VuejsLine"
-  },
+  { "name": "Vuejs Line", "componentName": "VuejsLine", "tags": ["framework"] },
   {
     "name": "Vuejs Line Wordmark",
     "componentName": "VuejsLineWordmark",
-    "fileName": "devicons-react/icons/VuejsLineWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Vuejs Original",
     "componentName": "VuejsOriginal",
-    "fileName": "devicons-react/icons/VuejsOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Vuejs Original Wordmark",
     "componentName": "VuejsOriginalWordmark",
-    "fileName": "devicons-react/icons/VuejsOriginalWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Vuejs Plain",
     "componentName": "VuejsPlain",
-    "fileName": "devicons-react/icons/VuejsPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Vuejs Plain Wordmark",
     "componentName": "VuejsPlainWordmark",
-    "fileName": "devicons-react/icons/VuejsPlainWordmark"
+    "tags": ["framework"]
   },
   {
     "name": "Vuestorefront Original",
     "componentName": "VuestorefrontOriginal",
-    "fileName": "devicons-react/icons/VuestorefrontOriginal"
+    "tags": ["framework"]
   },
   {
     "name": "Vuestorefront Plain",
     "componentName": "VuestorefrontPlain",
-    "fileName": "devicons-react/icons/VuestorefrontPlain"
+    "tags": ["framework"]
   },
   {
     "name": "Vuetify Line",
     "componentName": "VuetifyLine",
-    "fileName": "devicons-react/icons/VuetifyLine"
+    "tags": ["css", "framework", "vuejs-library", "material-design"]
   },
   {
     "name": "Vuetify Original",
     "componentName": "VuetifyOriginal",
-    "fileName": "devicons-react/icons/VuetifyOriginal"
+    "tags": ["css", "framework", "vuejs-library", "material-design"]
   },
   {
     "name": "Vuetify Plain",
     "componentName": "VuetifyPlain",
-    "fileName": "devicons-react/icons/VuetifyPlain"
+    "tags": ["css", "framework", "vuejs-library", "material-design"]
   },
   {
     "name": "Webflow Original",
     "componentName": "WebflowOriginal",
-    "fileName": "devicons-react/icons/WebflowOriginal"
+    "tags": ["cms", "ecommerce"]
   },
   {
     "name": "Weblate Original",
     "componentName": "WeblateOriginal",
-    "fileName": "devicons-react/icons/WeblateOriginal"
+    "tags": ["localization"]
   },
   {
     "name": "Weblate Original Wordmark",
     "componentName": "WeblateOriginalWordmark",
-    "fileName": "devicons-react/icons/WeblateOriginalWordmark"
+    "tags": ["localization"]
   },
   {
     "name": "Weblate Plain",
     "componentName": "WeblatePlain",
-    "fileName": "devicons-react/icons/WeblatePlain"
+    "tags": ["localization"]
   },
   {
     "name": "Weblate Plain Wordmark",
     "componentName": "WeblatePlainWordmark",
-    "fileName": "devicons-react/icons/WeblatePlainWordmark"
+    "tags": ["localization"]
   },
   {
     "name": "Webpack Original",
     "componentName": "WebpackOriginal",
-    "fileName": "devicons-react/icons/WebpackOriginal"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Webpack Original Wordmark",
     "componentName": "WebpackOriginalWordmark",
-    "fileName": "devicons-react/icons/WebpackOriginalWordmark"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Webpack Plain",
     "componentName": "WebpackPlain",
-    "fileName": "devicons-react/icons/WebpackPlain"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Webpack Plain Wordmark",
     "componentName": "WebpackPlainWordmark",
-    "fileName": "devicons-react/icons/WebpackPlainWordmark"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Webstorm Original",
     "componentName": "WebstormOriginal",
-    "fileName": "devicons-react/icons/WebstormOriginal"
+    "tags": ["editor"]
   },
   {
     "name": "Webstorm Original Wordmark",
     "componentName": "WebstormOriginalWordmark",
-    "fileName": "devicons-react/icons/WebstormOriginalWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Webstorm Plain",
     "componentName": "WebstormPlain",
-    "fileName": "devicons-react/icons/WebstormPlain"
+    "tags": ["editor"]
   },
   {
     "name": "Webstorm Plain Wordmark",
     "componentName": "WebstormPlainWordmark",
-    "fileName": "devicons-react/icons/WebstormPlainWordmark"
+    "tags": ["editor"]
   },
   {
     "name": "Windows8 Original",
     "componentName": "Windows8Original",
-    "fileName": "devicons-react/icons/Windows8Original"
+    "tags": ["os"]
   },
   {
     "name": "Windows8 Original Wordmark",
     "componentName": "Windows8OriginalWordmark",
-    "fileName": "devicons-react/icons/Windows8OriginalWordmark"
+    "tags": ["os"]
   },
   {
     "name": "Woocommerce Original",
     "componentName": "WoocommerceOriginal",
-    "fileName": "devicons-react/icons/WoocommerceOriginal"
+    "tags": ["ecommerce"]
   },
   {
     "name": "Woocommerce Original Wordmark",
     "componentName": "WoocommerceOriginalWordmark",
-    "fileName": "devicons-react/icons/WoocommerceOriginalWordmark"
+    "tags": ["ecommerce"]
   },
   {
     "name": "Woocommerce Plain",
     "componentName": "WoocommercePlain",
-    "fileName": "devicons-react/icons/WoocommercePlain"
+    "tags": ["ecommerce"]
   },
   {
     "name": "Woocommerce Plain Wordmark",
     "componentName": "WoocommercePlainWordmark",
-    "fileName": "devicons-react/icons/WoocommercePlainWordmark"
+    "tags": ["ecommerce"]
   },
   {
     "name": "Wordpress Original",
     "componentName": "WordpressOriginal",
-    "fileName": "devicons-react/icons/WordpressOriginal"
+    "tags": ["cms"]
   },
   {
     "name": "Wordpress Plain",
     "componentName": "WordpressPlain",
-    "fileName": "devicons-react/icons/WordpressPlain"
+    "tags": ["cms"]
   },
   {
     "name": "Wordpress Plain Wordmark",
     "componentName": "WordpressPlainWordmark",
-    "fileName": "devicons-react/icons/WordpressPlainWordmark"
+    "tags": ["cms"]
   },
   {
     "name": "Xamarin Original",
     "componentName": "XamarinOriginal",
-    "fileName": "devicons-react/icons/XamarinOriginal"
+    "tags": [
+      "application",
+      "programming",
+      "editor",
+      "ide",
+      "ios",
+      "mobile",
+      "apple",
+      "android",
+      "windows"
+    ]
   },
   {
     "name": "Xamarin Original Wordmark",
     "componentName": "XamarinOriginalWordmark",
-    "fileName": "devicons-react/icons/XamarinOriginalWordmark"
+    "tags": [
+      "application",
+      "programming",
+      "editor",
+      "ide",
+      "ios",
+      "mobile",
+      "apple",
+      "android",
+      "windows"
+    ]
   },
   {
     "name": "Xcode Original",
     "componentName": "XcodeOriginal",
-    "fileName": "devicons-react/icons/XcodeOriginal"
+    "tags": ["application", "editor", "ide", "ios", "iphone", "mobile", "apple"]
   },
   {
     "name": "Xcode Plain",
     "componentName": "XcodePlain",
-    "fileName": "devicons-react/icons/XcodePlain"
+    "tags": ["application", "editor", "ide", "ios", "iphone", "mobile", "apple"]
   },
   {
     "name": "Xd Line",
     "componentName": "XdLine",
-    "fileName": "devicons-react/icons/XdLine"
+    "tags": ["design", "editor", "ui"]
   },
   {
     "name": "Xd Plain",
     "componentName": "XdPlain",
-    "fileName": "devicons-react/icons/XdPlain"
+    "tags": ["design", "editor", "ui"]
   },
   {
     "name": "Yarn Original",
     "componentName": "YarnOriginal",
-    "fileName": "devicons-react/icons/YarnOriginal"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Yarn Original Wordmark",
     "componentName": "YarnOriginalWordmark",
-    "fileName": "devicons-react/icons/YarnOriginalWordmark"
+    "tags": ["package", "manager"]
   },
   {
     "name": "Yii Original",
     "componentName": "YiiOriginal",
-    "fileName": "devicons-react/icons/YiiOriginal"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Yii Original Wordmark",
     "componentName": "YiiOriginalWordmark",
-    "fileName": "devicons-react/icons/YiiOriginalWordmark"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Yii Plain",
     "componentName": "YiiPlain",
-    "fileName": "devicons-react/icons/YiiPlain"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Yii Plain Wordmark",
     "componentName": "YiiPlainWordmark",
-    "fileName": "devicons-react/icons/YiiPlainWordmark"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Yunohost Original",
     "componentName": "YunohostOriginal",
-    "fileName": "devicons-react/icons/YunohostOriginal"
+    "tags": ["os"]
   },
   {
     "name": "Yunohost Plain",
     "componentName": "YunohostPlain",
-    "fileName": "devicons-react/icons/YunohostPlain"
+    "tags": ["os"]
   },
   {
     "name": "Zend Plain",
     "componentName": "ZendPlain",
-    "fileName": "devicons-react/icons/ZendPlain"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Zend Plain Wordmark",
     "componentName": "ZendPlainWordmark",
-    "fileName": "devicons-react/icons/ZendPlainWordmark"
+    "tags": ["php", "framework"]
   },
   {
     "name": "Zig Original",
     "componentName": "ZigOriginal",
-    "fileName": "devicons-react/icons/ZigOriginal"
+    "tags": ["language"]
   },
   {
     "name": "Zig Original Wordmark",
     "componentName": "ZigOriginalWordmark",
-    "fileName": "devicons-react/icons/ZigOriginalWordmark"
+    "tags": ["language"]
   },
   {
     "name": "Zig Plain Wordmark",
     "componentName": "ZigPlainWordmark",
-    "fileName": "devicons-react/icons/ZigPlainWordmark"
+    "tags": ["language"]
   }
 ]

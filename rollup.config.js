@@ -5,7 +5,6 @@ import typescript from '@rollup/plugin-typescript';
 import peerDeps from 'rollup-plugin-peer-deps-external';
 import postcss from 'rollup-plugin-postcss';
 import { terser } from 'rollup-plugin-terser';
-import copy from 'rollup-plugin-copy';
 import { getFiles } from './src/utils/build.util.mjs';
 
 const extensions = ['.js', '.ts', '.jsx', '.tsx'];
@@ -35,12 +34,5 @@ export default {
     }),
     postcss(),
     terser(),
-    copy({
-      targets: [
-        { src: './README.md', dest: 'lib' },
-        { src: './LICENSE', dest: 'lib' },
-        { src: './package.json', dest: 'lib' },
-      ],
-    }),
   ],
 };

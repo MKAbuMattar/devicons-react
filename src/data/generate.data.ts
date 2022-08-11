@@ -7,7 +7,6 @@ import DeviconData from '../../devicon/devicon.json';
   const dir = './build/icons';
   let name: string;
   let componentName: string;
-  let fileName: string;
   let tags: string[];
   let obj = {};
   const data: any = [];
@@ -19,8 +18,6 @@ import DeviconData from '../../devicon/devicon.json';
       .replace('.tsx', '');
 
     componentName = file.replace('.tsx', '');
-
-    fileName = `devicons-react/icons/${file.replace('.tsx', '')}`;
 
     DeviconData.forEach((devicon) => {
       if (
@@ -39,7 +36,6 @@ import DeviconData from '../../devicon/devicon.json';
     obj = {
       name: name,
       componentName: componentName,
-      fileName: fileName,
       tags: tags,
     };
 
