@@ -7,5 +7,4 @@ node_modules
 src/config/build.config.json
 src/data/devicon.data.json
 svg
-index.d.ts
 yarn-error.log

@@ -38,9 +38,9 @@ const List: FC<Props> = (props) => {
             </CardInfo>
             <pre>
               <code className="js hljs language-javascript">
-                {`import { ${item.componentName} } from 'devicons-react'
+                {`import { ${item.componentName} } from 'devicons-react';
 
-import ${item.componentName} from '${item.fileName}'`}
+import ${item.componentName} from 'devicons-react/lib/icons/${item.componentName}';`}
               </code>
             </pre>
           </Card>
