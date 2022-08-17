@@ -712,17 +712,22 @@
   {
     "name": "Clion Original",
     "componentName": "ClionOriginal",
-    "tags": ["jetbrains", "editor"]
+    "tags": ["jetbrains", "editor", "c", "c++", "cpp", "cplusplus"]
+  },
+  {
+    "name": "Clion Original Wordmark",
+    "componentName": "ClionOriginalWordmark",
+    "tags": ["jetbrains", "editor", "c", "c++", "cpp", "cplusplus"]
   },
   {
     "name": "Clion Plain",
     "componentName": "ClionPlain",
-    "tags": ["jetbrains", "editor"]
+    "tags": ["jetbrains", "editor", "c", "c++", "cpp", "cplusplus"]
   },
   {
     "name": "Clion Plain Wordmark",
     "componentName": "ClionPlainWordmark",
-    "tags": ["jetbrains", "editor"]
+    "tags": ["jetbrains", "editor", "c", "c++", "cpp", "cplusplus"]
   },
   {
     "name": "Clojure Line",
@@ -1436,6 +1441,26 @@
     "name": "Fastify Plain Wordmark",
     "componentName": "FastifyPlainWordmark",
     "tags": ["framework", "web", "node.js", "javascript", "performance"]
+  },
+  {
+    "name": "Faunadb Line",
+    "componentName": "FaunadbLine",
+    "tags": ["database"]
+  },
+  {
+    "name": "Faunadb Line Wordmark",
+    "componentName": "FaunadbLineWordmark",
+    "tags": ["database"]
+  },
+  {
+    "name": "Faunadb Original",
+    "componentName": "FaunadbOriginal",
+    "tags": ["database"]
+  },
+  {
+    "name": "Faunadb Original Wordmark",
+    "componentName": "FaunadbOriginalWordmark",
+    "tags": ["database"]
   },
   {
     "name": "Feathersjs Original",
@@ -2652,6 +2677,26 @@
     "tags": ["programming", "language"]
   },
   {
+    "name": "Matplotlib Original",
+    "componentName": "MatplotlibOriginal",
+    "tags": ["plotting", "library", "math", "visualization", "python", "api"]
+  },
+  {
+    "name": "Matplotlib Original Wordmark",
+    "componentName": "MatplotlibOriginalWordmark",
+    "tags": ["plotting", "library", "math", "visualization", "python", "api"]
+  },
+  {
+    "name": "Matplotlib Plain",
+    "componentName": "MatplotlibPlain",
+    "tags": ["plotting", "library", "math", "visualization", "python", "api"]
+  },
+  {
+    "name": "Matplotlib Plain Wordmark",
+    "componentName": "MatplotlibPlainWordmark",
+    "tags": ["plotting", "library", "math", "visualization", "python", "api"]
+  },
+  {
     "name": "Maven Original",
     "componentName": "MavenOriginal",
     "tags": ["build"]
@@ -3731,6 +3776,26 @@
     "name": "Qt Original",
     "componentName": "QtOriginal",
     "tags": ["framework"]
+  },
+  {
+    "name": "Quarkus Original",
+    "componentName": "QuarkusOriginal",
+    "tags": ["java", "framework"]
+  },
+  {
+    "name": "Quarkus Original Wordmark",
+    "componentName": "QuarkusOriginalWordmark",
+    "tags": ["java", "framework"]
+  },
+  {
+    "name": "Quarkus Plain",
+    "componentName": "QuarkusPlain",
+    "tags": ["java", "framework"]
+  },
+  {
+    "name": "Quarkus Plain Wordmark",
+    "componentName": "QuarkusPlainWordmark",
+    "tags": ["java", "framework"]
   },
   {
     "name": "Quasar Original",
