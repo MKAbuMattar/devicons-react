@@ -1,10 +1,14 @@
 import fs from 'fs-plus';
 import path from 'path';
+import { RecursiveDirectory, recursiveDirectory } from 'recursive-directory';
 import { parse, stringify } from 'svgson';
 
-import config from '../config/build.config.json';
+(async () => {
+  const config: RecursiveDirectory = (await recursiveDirectory(
+    './devicon/icons/',
+    true,
+  )) as RecursiveDirectory;
 
-(() => {
   const svgsComponentPath = path.join(process.cwd(), 'svg');
 
   fs.removeSync(svgsComponentPath);
