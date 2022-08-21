@@ -6,7 +6,7 @@ const ListIcons = ({ componentName }) => {
 
   return (
     <Fragment>
-      <Component />
+      <Component size={140} />
     </Fragment>
   );
 };

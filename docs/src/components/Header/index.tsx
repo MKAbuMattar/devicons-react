@@ -30,7 +30,7 @@ const Header = () => {
       <HeaderContainer>
         <HeaderBox>
           <HeaderTitleBox>
-            <DeviconsReactOriginal height="60" width="60" />
+            <DeviconsReactOriginal size="60" />
             <HeaderTitle>
               Devicons <span>React</span>
             </HeaderTitle>
@@ -115,17 +115,13 @@ pnpm add devicons-react`}
             </HeaderCardInfo>
             <pre>
               <code className="js hljs language-javascript">
-                {`import { Fragment } from 'react'
-import { Aarch64Plain, ReactOriginal } from 'devicons-react'
-import AndroidOriginal from 'devicons-react/lib/icons/AndroidOriginal'
+                {`import { Aarch64Plain } from 'devicons-react'
 
 const App = () => {
   return (
-    <Fragment>
-      <Aarch64Plain />
-      <ReactOriginal fill="red" height="500" width="500" />
-      <AndroidOriginal fill="#d35" height="128" width="128"/>
-    </Fragment>
+    <>
+      <Aarch64Plain color="red" size="500"  />
+    </>
   )
 }
 
