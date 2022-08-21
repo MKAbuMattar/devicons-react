@@ -1026,6 +1026,26 @@
     "tags": ["jetbrains", "ide", "sql", "database"]
   },
   {
+    "name": "Dataspell Original",
+    "componentName": "DataspellOriginal",
+    "tags": ["jetbrains", "ide", "jupyter notebook", "data science"]
+  },
+  {
+    "name": "Dataspell Original Wordmark",
+    "componentName": "DataspellOriginalWordmark",
+    "tags": ["jetbrains", "ide", "jupyter notebook", "data science"]
+  },
+  {
+    "name": "Dataspell Plain",
+    "componentName": "DataspellPlain",
+    "tags": ["jetbrains", "ide", "jupyter notebook", "data science"]
+  },
+  {
+    "name": "Dataspell Plain Wordmark",
+    "componentName": "DataspellPlainWordmark",
+    "tags": ["jetbrains", "ide", "jupyter notebook", "data science"]
+  },
+  {
     "name": "Dbeaver Original",
     "componentName": "DbeaverOriginal",
     "tags": ["tool", "database"]
@@ -1962,6 +1982,26 @@
     "name": "Heroku Plain Wordmark",
     "componentName": "HerokuPlainWordmark",
     "tags": ["cloud"]
+  },
+  {
+    "name": "Hibernate Original",
+    "componentName": "HibernateOriginal",
+    "tags": ["database", "framework", "java"]
+  },
+  {
+    "name": "Hibernate Original Wordmark",
+    "componentName": "HibernateOriginalWordmark",
+    "tags": ["database", "framework", "java"]
+  },
+  {
+    "name": "Hibernate Plain",
+    "componentName": "HibernatePlain",
+    "tags": ["database", "framework", "java"]
+  },
+  {
+    "name": "Hibernate Plain Wordmark",
+    "componentName": "HibernatePlainWordmark",
+    "tags": ["database", "framework", "java"]
   },
   {
     "name": "Html5 Original",
@@ -2949,24 +2989,34 @@
     "tags": ["database", "language"]
   },
   {
+    "name": "Nano Original",
+    "componentName": "NanoOriginal",
+    "tags": ["text editor", "editor", "GNU", "terminal"]
+  },
+  {
+    "name": "Nano Original Wordmark",
+    "componentName": "NanoOriginalWordmark",
+    "tags": ["text editor", "editor", "GNU", "terminal"]
+  },
+  {
     "name": "Neo4 J Original",
     "componentName": "Neo4JOriginal",
-    "tags": ["database", "language"]
+    "tags": ["text editor", "editor", "GNU", "terminal"]
   },
   {
     "name": "Neo4 J Original Wordmark",
     "componentName": "Neo4JOriginalWordmark",
-    "tags": ["database", "language"]
+    "tags": ["text editor", "editor", "GNU", "terminal"]
   },
   {
     "name": "Neo4 J Plain",
     "componentName": "Neo4JPlain",
-    "tags": ["database", "language"]
+    "tags": ["text editor", "editor", "GNU", "terminal"]
   },
   {
     "name": "Neo4 J Plain Wordmark",
     "componentName": "Neo4JPlainWordmark",
-    "tags": ["database", "language"]
+    "tags": ["text editor", "editor", "GNU", "terminal"]
   },
   {
     "name": "Nestjs Plain",
@@ -3162,6 +3212,16 @@
     "name": "Nodewebkit Plain Wordmark",
     "componentName": "NodewebkitPlainWordmark",
     "tags": []
+  },
+  {
+    "name": "Norg Original",
+    "componentName": "NorgOriginal",
+    "tags": ["note-taking", "organization"]
+  },
+  {
+    "name": "Norg Plain",
+    "componentName": "NorgPlain",
+    "tags": ["note-taking", "organization"]
   },
   {
     "name": "Npm Original Wordmark",
@@ -3946,6 +4006,11 @@
   {
     "name": "Rider Original",
     "componentName": "RiderOriginal",
+    "tags": ["jetbrains", "ide", "editor", "dotnet"]
+  },
+  {
+    "name": "Rider Original Wordmark",
+    "componentName": "RiderOriginalWordmark",
     "tags": ["jetbrains", "ide", "editor", "dotnet"]
   },
   {
