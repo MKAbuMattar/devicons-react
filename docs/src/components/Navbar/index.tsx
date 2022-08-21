@@ -23,7 +23,7 @@ const index = () => {
             <Link href="/">
               <a>
                 <NavbarLogoContainer>
-                  <DeviconsReactOriginal height={60} width={60} />
+                  <DeviconsReactOriginal size={60} />
                   <NavbarTitle>
                     Devicons <span>React</span>
                   </NavbarTitle>

@@ -705,16 +705,8 @@
     "componentName": "CucumberPlainWordmark",
     "tags": ["framework"]
   },
-  {
-    "name": "D3 Js Original",
-    "componentName": "D3JsOriginal",
-    "tags": ["framework"]
-  },
-  {
-    "name": "D3 Js Plain",
-    "componentName": "D3JsPlain",
-    "tags": ["framework"]
-  },
+  { "name": "D3js Original", "componentName": "D3jsOriginal", "tags": [] },
+  { "name": "D3js Plain", "componentName": "D3jsPlain", "tags": [] },
   {
     "name": "Dart Original",
     "componentName": "DartOriginal",
@@ -1809,19 +1801,19 @@
     "tags": ["programming", "language"]
   },
   {
-    "name": "K3 S Original",
-    "componentName": "K3SOriginal",
-    "tags": ["programming", "language"]
+    "name": "K3s Original",
+    "componentName": "K3sOriginal",
+    "tags": ["kubernetes", "container", "platform"]
   },
   {
-    "name": "K3 S Original Wordmark",
-    "componentName": "K3SOriginalWordmark",
-    "tags": ["programming", "language"]
+    "name": "K3s Original Wordmark",
+    "componentName": "K3sOriginalWordmark",
+    "tags": ["kubernetes", "container", "platform"]
   },
   {
-    "name": "K3 S Plain Wordmark",
-    "componentName": "K3SPlainWordmark",
-    "tags": ["programming", "language"]
+    "name": "K3s Plain Wordmark",
+    "componentName": "K3sPlainWordmark",
+    "tags": ["kubernetes", "container", "platform"]
   },
   {
     "name": "Kaggle Original",
@@ -2254,24 +2246,24 @@
     "tags": ["database", "language"]
   },
   {
-    "name": "Neo4 J Original",
-    "componentName": "Neo4JOriginal",
-    "tags": ["database", "language"]
+    "name": "Neo4j Original",
+    "componentName": "Neo4jOriginal",
+    "tags": ["database"]
   },
   {
-    "name": "Neo4 J Original Wordmark",
-    "componentName": "Neo4JOriginalWordmark",
-    "tags": ["database", "language"]
+    "name": "Neo4j Original Wordmark",
+    "componentName": "Neo4jOriginalWordmark",
+    "tags": ["database"]
   },
   {
-    "name": "Neo4 J Plain",
-    "componentName": "Neo4JPlain",
-    "tags": ["database", "language"]
+    "name": "Neo4j Plain",
+    "componentName": "Neo4jPlain",
+    "tags": ["database"]
   },
   {
-    "name": "Neo4 J Plain Wordmark",
-    "componentName": "Neo4JPlainWordmark",
-    "tags": ["database", "language"]
+    "name": "Neo4j Plain Wordmark",
+    "componentName": "Neo4jPlainWordmark",
+    "tags": ["database"]
   },
   {
     "name": "Nestjs Plain",
