@@ -12,12 +12,14 @@ import DeviconData from '../../devicon/devicon.json';
   const data: any = [];
 
   fs.readdirSync(dir).forEach((file) => {
+    if (file.includes('.d.ts')) return;
+
     name = file
       .replace(/([A-Z])/g, ' $1')
       .trim()
-      .replace('.tsx', '');
+      .replace('.jsx', '');
 
-    componentName = file.replace('.tsx', '');
+    componentName = file.replace('.jsx', '');
 
     DeviconData.forEach((devicon) => {
       if (

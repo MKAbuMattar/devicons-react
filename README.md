@@ -82,15 +82,12 @@ export default App
 <p>Change size and color for icon</p>
 
 ```js
-import { Aarch64Plain, ReactOriginal } from 'devicons-react'
-import AndroidOriginal from 'devicons-react/lib/icons/AndroidOriginal'
+import { Aarch64Plain } from 'devicons-react'
 
 const App = () => {
   return (
     <>
-      <Aarch64Plain />
-      <ReactOriginal fill="red" height="500" width="500" />
-      <AndroidOriginal fill="#d35" height="128" width="128" />
+      <Aarch64Plain color="red" size="500"  />
     </>
   )
 }
