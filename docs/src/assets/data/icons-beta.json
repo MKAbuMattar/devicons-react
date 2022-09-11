@@ -337,6 +337,26 @@
     "tags": ["gitops", "continuous-delivery"]
   },
   {
+    "name": "Astro Original",
+    "componentName": "AstroOriginal",
+    "tags": ["static site generator", "framework", "web-development"]
+  },
+  {
+    "name": "Astro Original Wordmark",
+    "componentName": "AstroOriginalWordmark",
+    "tags": ["static site generator", "framework", "web-development"]
+  },
+  {
+    "name": "Astro Plain",
+    "componentName": "AstroPlain",
+    "tags": ["static site generator", "framework", "web-development"]
+  },
+  {
+    "name": "Astro Plain Wordmark",
+    "componentName": "AstroPlainWordmark",
+    "tags": ["static site generator", "framework", "web-development"]
+  },
+  {
     "name": "Atom Original",
     "componentName": "AtomOriginal",
     "tags": ["editor"]
@@ -4186,6 +4206,16 @@
     "name": "Selenium Original",
     "componentName": "SeleniumOriginal",
     "tags": ["webdrive", "automation"]
+  },
+  {
+    "name": "Sema Original",
+    "componentName": "SemaOriginal",
+    "tags": ["software", "development", "company", "code-review", "open-source"]
+  },
+  {
+    "name": "Sema Original Wordmark",
+    "componentName": "SemaOriginalWordmark",
+    "tags": ["software", "development", "company", "code-review", "open-source"]
   },
   {
     "name": "Sequelize Original",
