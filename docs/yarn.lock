@@ -1685,10 +1685,10 @@
     "pify" "^4.0.1"
     "rimraf" "^2.6.3"
 
-"devicons-react-beta@npm:devicons-react@1.2.6-beta-0.0.2":
-  "integrity" "sha512-Rf2CcPrtP6x7I0jZz7/rB35802AlLS2DQ7SreYWuxCGtHkH5rAOVwXRQxlqX7csq8XAaPuulWsftPD5i1BqtnQ=="
-  "resolved" "https://registry.npmjs.org/devicons-react/-/devicons-react-1.2.6-beta-0.0.2.tgz"
-  "version" "1.2.6-beta-0.0.2"
+"devicons-react-beta@npm:devicons-react@1.2.6-beta-0.0.3":
+  "integrity" "sha512-CqnFn54sNy3KoutkwIVckfYcTX7CWD3fWP5rTavoOAmNgRHnqpyWS/UOSrfleB5lEW018RwlKPDoqHEW8vgT5w=="
+  "resolved" "https://registry.npmjs.org/devicons-react/-/devicons-react-1.2.6-beta-0.0.3.tgz"
+  "version" "1.2.6-beta-0.0.3"
 
 "devicons-react@1.2.5":
   "integrity" "sha512-osy4eh8SsSUh5FOA/Ibng+KM1jJ9ibV5R/mK/A4pHgJiCIXFQz6OBcVEBzQnlg9j5PxhK5Az8Y3UYzGMk3UDbQ=="

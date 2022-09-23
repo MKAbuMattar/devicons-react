@@ -1737,6 +1737,26 @@
     "tags": ["version-control"]
   },
   {
+    "name": "Gitpod Original",
+    "componentName": "GitpodOriginal",
+    "tags": ["open-source", "remote-development", "cloud", "IDE"]
+  },
+  {
+    "name": "Gitpod Original Wordmark",
+    "componentName": "GitpodOriginalWordmark",
+    "tags": ["open-source", "remote-development", "cloud", "IDE"]
+  },
+  {
+    "name": "Gitpod Plain",
+    "componentName": "GitpodPlain",
+    "tags": ["open-source", "remote-development", "cloud", "IDE"]
+  },
+  {
+    "name": "Gitpod Plain Wordmark",
+    "componentName": "GitpodPlainWordmark",
+    "tags": ["open-source", "remote-development", "cloud", "IDE"]
+  },
+  {
     "name": "Gitter Plain",
     "componentName": "GitterPlain",
     "tags": ["social", "chat"]
