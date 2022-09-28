@@ -3975,6 +3975,16 @@
     "tags": ["arm", "computer"]
   },
   {
+    "name": "Reach Original",
+    "componentName": "ReachOriginal",
+    "tags": ["web3", "blockchain", "development"]
+  },
+  {
+    "name": "Reach Plain",
+    "componentName": "ReachPlain",
+    "tags": ["web3", "blockchain", "development"]
+  },
+  {
     "name": "React Original",
     "componentName": "ReactOriginal",
     "tags": ["framework"]
