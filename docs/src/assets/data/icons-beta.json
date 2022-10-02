@@ -901,6 +901,26 @@
     "tags": ["cms"]
   },
   {
+    "name": "Cosmosdb Original",
+    "componentName": "CosmosdbOriginal",
+    "tags": ["database", "nosql", "cloud", "azure"]
+  },
+  {
+    "name": "Cosmosdb Original Wordmark",
+    "componentName": "CosmosdbOriginalWordmark",
+    "tags": ["database", "nosql", "cloud", "azure"]
+  },
+  {
+    "name": "Cosmosdb Plain",
+    "componentName": "CosmosdbPlain",
+    "tags": ["database", "nosql", "cloud", "azure"]
+  },
+  {
+    "name": "Cosmosdb Plain Wordmark",
+    "componentName": "CosmosdbPlainWordmark",
+    "tags": ["database", "nosql", "cloud", "azure"]
+  },
+  {
     "name": "Couchdb Original",
     "componentName": "CouchdbOriginal",
     "tags": ["database"]

@@ -1,6 +1,6 @@
 {
   "name": "devicons-react",
-  "version": "1.2.6-beta-0.0.4",
+  "version": "1.2.6-beta-0.0.5",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
   "keywords": [
     "programming",
@@ -63,7 +63,7 @@
     "@typescript-eslint/eslint-plugin": "5.38.1",
     "@typescript-eslint/parser": "5.38.1",
     "babel-preset-minify": "0.5.2",
-    "esbuild": "0.15.9",
+    "esbuild": "0.15.10",
     "esbuild-runner": "2.2.1",
     "eslint": "8.24.0",
     "eslint-config-prettier": "8.5.0",
@@ -71,10 +71,10 @@
     "eslint-plugin-simple-import-sort": "8.0.0",
     "eslint-plugin-unused-imports": "2.0.0",
     "fs-plus": "3.1.1",
-    "jsdom": "20.0.0",
+    "jsdom": "20.0.1",
     "prettier": "2.7.1",
     "react": "18.2.0",
-    "recursive-directory": "0.0.5",
+    "recursive-directory": "0.0.8",
     "svg-to-jsx": "1.0.4",
     "svgson": "5.2.1",
     "typescript": "4.8.4"
