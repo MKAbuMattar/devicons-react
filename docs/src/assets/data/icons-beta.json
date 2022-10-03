@@ -3815,6 +3815,16 @@
     "tags": ["jetbrains", "editor"]
   },
   {
+    "name": "Pyscript Original Wordmark",
+    "componentName": "PyscriptOriginalWordmark",
+    "tags": ["browser", "python", "html", "framework"]
+  },
+  {
+    "name": "Pyscript Plain Wordmark",
+    "componentName": "PyscriptPlainWordmark",
+    "tags": ["browser", "python", "html", "framework"]
+  },
+  {
     "name": "Pytest Original",
     "componentName": "PytestOriginal",
     "tags": ["python", "framework", "testing"]
@@ -4064,6 +4074,16 @@
     "name": "Redux Original",
     "componentName": "ReduxOriginal",
     "tags": ["framework"]
+  },
+  {
+    "name": "Renpy Original",
+    "componentName": "RenpyOriginal",
+    "tags": ["programming", "game-engine", "engine", "python"]
+  },
+  {
+    "name": "Renpy Plain",
+    "componentName": "RenpyPlain",
+    "tags": ["programming", "game-engine", "engine", "python"]
   },
   {
     "name": "Rider Original",
