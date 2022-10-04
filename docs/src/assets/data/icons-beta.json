@@ -730,6 +730,26 @@
     "tags": ["integration", "platform"]
   },
   {
+    "name": "Clarity Original",
+    "componentName": "ClarityOriginal",
+    "tags": ["programming", "language", "blockchain"]
+  },
+  {
+    "name": "Clarity Original Wordmark",
+    "componentName": "ClarityOriginalWordmark",
+    "tags": ["programming", "language", "blockchain"]
+  },
+  {
+    "name": "Clarity Plain",
+    "componentName": "ClarityPlain",
+    "tags": ["programming", "language", "blockchain"]
+  },
+  {
+    "name": "Clarity Plain Wordmark",
+    "componentName": "ClarityPlainWordmark",
+    "tags": ["programming", "language", "blockchain"]
+  },
+  {
     "name": "Clion Original",
     "componentName": "ClionOriginal",
     "tags": ["jetbrains", "editor", "c", "c++", "cpp", "cplusplus"]
@@ -4947,6 +4967,16 @@
     "name": "Vagrant Plain Wordmark",
     "componentName": "VagrantPlainWordmark",
     "tags": ["platform"]
+  },
+  {
+    "name": "Vercel Original",
+    "componentName": "VercelOriginal",
+    "tags": ["hosting", "platform", "deployment", "git"]
+  },
+  {
+    "name": "Vercel Original Wordmark",
+    "componentName": "VercelOriginalWordmark",
+    "tags": ["hosting", "platform", "deployment", "git"]
   },
   {
     "name": "Vertx Original",
