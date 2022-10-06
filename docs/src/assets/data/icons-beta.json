@@ -207,6 +207,26 @@
     "tags": ["php"]
   },
   {
+    "name": "Apacheairflow Original",
+    "componentName": "ApacheairflowOriginal",
+    "tags": ["platform", "pipeline", "orchestrator", "open-source"]
+  },
+  {
+    "name": "Apacheairflow Original Wordmark",
+    "componentName": "ApacheairflowOriginalWordmark",
+    "tags": ["platform", "pipeline", "orchestrator", "open-source"]
+  },
+  {
+    "name": "Apacheairflow Plain",
+    "componentName": "ApacheairflowPlain",
+    "tags": ["platform", "pipeline", "orchestrator", "open-source"]
+  },
+  {
+    "name": "Apacheairflow Plain Wordmark",
+    "componentName": "ApacheairflowPlainWordmark",
+    "tags": ["platform", "pipeline", "orchestrator", "open-source"]
+  },
+  {
     "name": "Apachekafka Original",
     "componentName": "ApachekafkaOriginal",
     "tags": ["streaming", "open-source"]
@@ -4045,6 +4065,26 @@
     "tags": ["framework"]
   },
   {
+    "name": "Realm Original",
+    "componentName": "RealmOriginal",
+    "tags": ["sql", "database", "cloud"]
+  },
+  {
+    "name": "Realm Original Wordmark",
+    "componentName": "RealmOriginalWordmark",
+    "tags": ["sql", "database", "cloud"]
+  },
+  {
+    "name": "Realm Plain",
+    "componentName": "RealmPlain",
+    "tags": ["sql", "database", "cloud"]
+  },
+  {
+    "name": "Realm Plain Wordmark",
+    "componentName": "RealmPlainWordmark",
+    "tags": ["sql", "database", "cloud"]
+  },
+  {
     "name": "Rect Original",
     "componentName": "RectOriginal",
     "tags": ["programming", "language"]
@@ -4967,6 +5007,26 @@
     "name": "Vagrant Plain Wordmark",
     "componentName": "VagrantPlainWordmark",
     "tags": ["platform"]
+  },
+  {
+    "name": "Vala Original",
+    "componentName": "ValaOriginal",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Vala Original Wordmark",
+    "componentName": "ValaOriginalWordmark",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Vala Plain",
+    "componentName": "ValaPlain",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Vala Plain Wordmark",
+    "componentName": "ValaPlainWordmark",
+    "tags": ["programming", "language"]
   },
   {
     "name": "Vercel Original",
