@@ -1703,10 +1703,10 @@ del@^4.1.1:
     pify "^4.0.1"
     rimraf "^2.6.3"
 
-"devicons-react-beta@npm:devicons-react@1.2.6-beta-0.0.8":
-  version "1.2.6-beta-0.0.8"
-  resolved "https://registry.yarnpkg.com/devicons-react/-/devicons-react-1.2.6-beta-0.0.8.tgz#c824bf49e88a77918cb02831d5d3724b70c267a7"
-  integrity sha512-PUml4VOdKUfb46pOMTki6hRilN/Jq1lPG0tTiOMit34Cuz0/zUsOJLYgOn4sehU0eRoTNEfN1hTnspulahbwSg==
+"devicons-react-beta@npm:devicons-react@1.2.6-beta-0.0.9":
+  version "1.2.6-beta-0.0.9"
+  resolved "https://registry.yarnpkg.com/devicons-react/-/devicons-react-1.2.6-beta-0.0.9.tgz#64447f907982579e35fe424ec2dd38dfc018b7ad"
+  integrity sha512-/PGy7uEg9sZj5OWc682q6wf4yN7ZS3zmTyl0tITmbUnLN1Ny87fir1pcCi5MF4aICCXkYQERxOsfCYrSzuWBaw==
 
 devicons-react@1.2.5:
   version "1.2.5"
