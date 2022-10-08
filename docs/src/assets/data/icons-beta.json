@@ -2687,6 +2687,26 @@
     "tags": ["tool", "database"]
   },
   {
+    "name": "Livewire Original",
+    "componentName": "LivewireOriginal",
+    "tags": ["framework", "laravel", "php", "open-source"]
+  },
+  {
+    "name": "Livewire Original Wordmark",
+    "componentName": "LivewireOriginalWordmark",
+    "tags": ["framework", "laravel", "php", "open-source"]
+  },
+  {
+    "name": "Livewire Plain",
+    "componentName": "LivewirePlain",
+    "tags": ["framework", "laravel", "php", "open-source"]
+  },
+  {
+    "name": "Livewire Plain Wordmark",
+    "componentName": "LivewirePlainWordmark",
+    "tags": ["framework", "laravel", "php", "open-source"]
+  },
+  {
     "name": "Logstash Original",
     "componentName": "LogstashOriginal",
     "tags": ["logs", "elastic"]
