@@ -2,6 +2,7 @@
 *.log
 build
 devicon
+icons
 lib
 node_modules
 src/config/build.config.json
