@@ -23,7 +23,7 @@ type ObjConfig = {
   const objConfig: ObjConfig = [];
 
   const config: RecursiveDirectory = (await recursiveDirectory(
-    './svg/',
+    './icons/',
     true,
   )) as RecursiveDirectory;
 
@@ -49,7 +49,7 @@ type ObjConfig = {
       const name = `${entry.name}`;
 
       const icon = await fsAsync.readFile(
-        `${__dirname}/../../svg/${entry.filename}`,
+        `${__dirname}/../../icons/${entry.filename}`,
       );
 
       const { document } = await new JSDOM(icon).window;
