@@ -30,6 +30,26 @@
     "tags": ["video", "editor"]
   },
   {
+    "name": "Akka Original",
+    "componentName": "AkkaOriginal",
+    "tags": ["framework", "java", "scala", "open-source"]
+  },
+  {
+    "name": "Akka Original Wordmark",
+    "componentName": "AkkaOriginalWordmark",
+    "tags": ["framework", "java", "scala", "open-source"]
+  },
+  {
+    "name": "Akka Plain",
+    "componentName": "AkkaPlain",
+    "tags": ["framework", "java", "scala", "open-source"]
+  },
+  {
+    "name": "Akka Plain Wordmark",
+    "componentName": "AkkaPlainWordmark",
+    "tags": ["framework", "java", "scala", "open-source"]
+  },
+  {
     "name": "Alpinejs Original",
     "componentName": "AlpinejsOriginal",
     "tags": ["framework", "javascript"]
@@ -255,6 +275,16 @@
     "name": "Apachespark Plain Wordmark",
     "componentName": "ApachesparkPlainWordmark",
     "tags": ["data-processing", "data-science", "machine-learning"]
+  },
+  {
+    "name": "Apl Original",
+    "componentName": "AplOriginal",
+    "tags": ["programming", "language", "open-source", "cross-platform"]
+  },
+  {
+    "name": "Apl Plain",
+    "componentName": "AplPlain",
+    "tags": ["programming", "language", "open-source", "cross-platform"]
   },
   {
     "name": "Appcelerator Original",
@@ -634,6 +664,26 @@
   { "name": "C Line", "componentName": "CLine", "tags": ["language"] },
   { "name": "C Original", "componentName": "COriginal", "tags": ["language"] },
   { "name": "C Plain", "componentName": "CPlain", "tags": ["language"] },
+  {
+    "name": "Cairo Original",
+    "componentName": "CairoOriginal",
+    "tags": ["graphic", "library", "c", "open-source"]
+  },
+  {
+    "name": "Cairo Original Wordmark",
+    "componentName": "CairoOriginalWordmark",
+    "tags": ["graphic", "library", "c", "open-source"]
+  },
+  {
+    "name": "Cairo Plain",
+    "componentName": "CairoPlain",
+    "tags": ["graphic", "library", "c", "open-source"]
+  },
+  {
+    "name": "Cairo Plain Wordmark",
+    "componentName": "CairoPlainWordmark",
+    "tags": ["graphic", "library", "c", "open-source"]
+  },
   {
     "name": "Cakephp Original",
     "componentName": "CakephpOriginal",
@@ -2707,6 +2757,16 @@
     "tags": ["framework", "laravel", "php", "open-source"]
   },
   {
+    "name": "Llvm Original",
+    "componentName": "LlvmOriginal",
+    "tags": ["compiler", "framework", "c++", "open-source"]
+  },
+  {
+    "name": "Llvm Plain",
+    "componentName": "LlvmPlain",
+    "tags": ["compiler", "framework", "c++", "open-source"]
+  },
+  {
     "name": "Logstash Original",
     "componentName": "LogstashOriginal",
     "tags": ["logs", "elastic"]
@@ -3655,6 +3715,16 @@
     "tags": ["jetbrains", "editor", "php", "web", "html"]
   },
   {
+    "name": "Playwright Original",
+    "componentName": "PlaywrightOriginal",
+    "tags": ["testing", "framework"]
+  },
+  {
+    "name": "Playwright Plain",
+    "componentName": "PlaywrightPlain",
+    "tags": ["testing", "framework"]
+  },
+  {
     "name": "Plotly Original",
     "componentName": "PlotlyOriginal",
     "tags": ["frontend", "machine-learning", "dashboard"]
@@ -3998,6 +4068,26 @@
     "name": "Quasar Plain Wordmark",
     "componentName": "QuasarPlainWordmark",
     "tags": ["framework", "javascript"]
+  },
+  {
+    "name": "Qwik Original",
+    "componentName": "QwikOriginal",
+    "tags": ["framework", "open-source"]
+  },
+  {
+    "name": "Qwik Original Wordmark",
+    "componentName": "QwikOriginalWordmark",
+    "tags": ["framework", "open-source"]
+  },
+  {
+    "name": "Qwik Plain",
+    "componentName": "QwikPlain",
+    "tags": ["framework", "open-source"]
+  },
+  {
+    "name": "Qwik Plain Wordmark",
+    "componentName": "QwikPlainWordmark",
+    "tags": ["framework", "open-source"]
   },
   {
     "name": "R Original",
@@ -4595,6 +4685,11 @@
     "tags": ["security"]
   },
   {
+    "name": "Stata Original Wordmark",
+    "componentName": "StataOriginalWordmark",
+    "tags": ["analysis", "data", "data-science", "software", "statistics"]
+  },
+  {
     "name": "Storybook Original",
     "componentName": "StorybookOriginal",
     "tags": ["framework", "documentation", "ui"]
@@ -5164,6 +5259,26 @@
     "name": "Vuetify Plain",
     "componentName": "VuetifyPlain",
     "tags": ["css", "framework", "vuejs-library", "material-design"]
+  },
+  {
+    "name": "Vyper Original",
+    "componentName": "VyperOriginal",
+    "tags": ["programming", "language", "python", "blockchain", "ethereum"]
+  },
+  {
+    "name": "Vyper Original Wordmark",
+    "componentName": "VyperOriginalWordmark",
+    "tags": ["programming", "language", "python", "blockchain", "ethereum"]
+  },
+  {
+    "name": "Vyper Plain",
+    "componentName": "VyperPlain",
+    "tags": ["programming", "language", "python", "blockchain", "ethereum"]
+  },
+  {
+    "name": "Vyper Plain Wordmark",
+    "componentName": "VyperPlainWordmark",
+    "tags": ["programming", "language", "python", "blockchain", "ethereum"]
   },
   {
     "name": "Webflow Original",
