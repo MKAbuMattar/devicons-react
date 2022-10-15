@@ -2206,6 +2206,16 @@
     "tags": ["editor", "vector"]
   },
   {
+    "name": "Influxdb Original",
+    "componentName": "InfluxdbOriginal",
+    "tags": ["database", "monitoring", "open-source", "api"]
+  },
+  {
+    "name": "Influxdb Original Wordmark",
+    "componentName": "InfluxdbOriginalWordmark",
+    "tags": ["database", "monitoring", "open-source", "api"]
+  },
+  {
     "name": "Inkscape Original",
     "componentName": "InkscapeOriginal",
     "tags": ["editor", "vector"]
