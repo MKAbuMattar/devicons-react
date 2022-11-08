@@ -3486,6 +3486,26 @@
     "tags": ["shell", "script", "scripting", "language", "command"]
   },
   {
+    "name": "Okta Original",
+    "componentName": "OktaOriginal",
+    "tags": ["auth", "security"]
+  },
+  {
+    "name": "Okta Original Wordmark",
+    "componentName": "OktaOriginalWordmark",
+    "tags": ["auth", "security"]
+  },
+  {
+    "name": "Okta Plain",
+    "componentName": "OktaPlain",
+    "tags": ["auth", "security"]
+  },
+  {
+    "name": "Okta Plain Wordmark",
+    "componentName": "OktaPlainWordmark",
+    "tags": ["auth", "security"]
+  },
+  {
     "name": "Openal Original",
     "componentName": "OpenalOriginal",
     "tags": ["library", "audio", "game", "3d"]
