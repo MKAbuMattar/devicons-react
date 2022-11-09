@@ -2426,6 +2426,26 @@
     "tags": ["platform", "organize"]
   },
   {
+    "name": "Jiraalign Original",
+    "componentName": "JiraalignOriginal",
+    "tags": ["development", "integration", "software"]
+  },
+  {
+    "name": "Jiraalign Original Wordmark",
+    "componentName": "JiraalignOriginalWordmark",
+    "tags": ["development", "integration", "software"]
+  },
+  {
+    "name": "Jiraalign Plain",
+    "componentName": "JiraalignPlain",
+    "tags": ["development", "integration", "software"]
+  },
+  {
+    "name": "Jiraalign Plain Wordmark",
+    "componentName": "JiraalignPlainWordmark",
+    "tags": ["development", "integration", "software"]
+  },
+  {
     "name": "Jquery Original",
     "componentName": "JqueryOriginal",
     "tags": ["library", "javascript"]
