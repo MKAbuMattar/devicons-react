@@ -5154,6 +5154,16 @@
   },
   { "name": "Uwsgi Plain", "componentName": "UwsgiPlain", "tags": ["hosting"] },
   {
+    "name": "V8 Original",
+    "componentName": "V8Original",
+    "tags": ["javascript-runtime", "framework", "javascript", "web", "cpp"]
+  },
+  {
+    "name": "V8 Plain",
+    "componentName": "V8Plain",
+    "tags": ["javascript-runtime", "framework", "javascript", "web", "cpp"]
+  },
+  {
     "name": "Vagrant Original",
     "componentName": "VagrantOriginal",
     "tags": ["platform"]
