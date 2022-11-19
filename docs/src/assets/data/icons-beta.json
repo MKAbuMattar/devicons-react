@@ -991,6 +991,16 @@
     "tags": ["cms"]
   },
   {
+    "name": "Corejs Original",
+    "componentName": "CorejsOriginal",
+    "tags": ["javascript", "library", "polyfill", "tool"]
+  },
+  {
+    "name": "Corejs Original Wordmark",
+    "componentName": "CorejsOriginalWordmark",
+    "tags": ["javascript", "library", "polyfill", "tool"]
+  },
+  {
     "name": "Cosmosdb Original",
     "componentName": "CosmosdbOriginal",
     "tags": ["database", "nosql", "cloud", "azure"]
@@ -1815,6 +1825,26 @@
     "name": "Git Plain Wordmark",
     "componentName": "GitPlainWordmark",
     "tags": ["version-control"]
+  },
+  {
+    "name": "Gitbook Line",
+    "componentName": "GitbookLine",
+    "tags": ["documentation", "pages", "git", "markup"]
+  },
+  {
+    "name": "Gitbook Line Wordmark",
+    "componentName": "GitbookLineWordmark",
+    "tags": ["documentation", "pages", "git", "markup"]
+  },
+  {
+    "name": "Gitbook Original",
+    "componentName": "GitbookOriginal",
+    "tags": ["documentation", "pages", "git", "markup"]
+  },
+  {
+    "name": "Gitbook Original Wordmark",
+    "componentName": "GitbookOriginalWordmark",
+    "tags": ["documentation", "pages", "git", "markup"]
   },
   {
     "name": "Github Original",
@@ -3670,6 +3700,11 @@
     "tags": ["database"]
   },
   {
+    "name": "P5js Original",
+    "componentName": "P5jsOriginal",
+    "tags": ["javascript", "js", "library"]
+  },
+  {
     "name": "Packer Original",
     "componentName": "PackerOriginal",
     "tags": ["infrastructure", "infrastructure-as-code", "continuous-delivery"]
@@ -4329,6 +4364,36 @@
     "name": "Rocksdb Plain",
     "componentName": "RocksdbPlain",
     "tags": ["database"]
+  },
+  {
+    "name": "Rollup Line",
+    "componentName": "RollupLine",
+    "tags": ["bundler", "build", "javascript"]
+  },
+  {
+    "name": "Rollup Line Wordmark",
+    "componentName": "RollupLineWordmark",
+    "tags": ["bundler", "build", "javascript"]
+  },
+  {
+    "name": "Rollup Original",
+    "componentName": "RollupOriginal",
+    "tags": ["bundler", "build", "javascript"]
+  },
+  {
+    "name": "Rollup Original Wordmark",
+    "componentName": "RollupOriginalWordmark",
+    "tags": ["bundler", "build", "javascript"]
+  },
+  {
+    "name": "Rollup Plain",
+    "componentName": "RollupPlain",
+    "tags": ["bundler", "build", "javascript"]
+  },
+  {
+    "name": "Rollup Plain Wordmark",
+    "componentName": "RollupPlainWordmark",
+    "tags": ["bundler", "build", "javascript"]
   },
   {
     "name": "Ros Original",
@@ -5339,6 +5404,21 @@
     "name": "Vyper Plain Wordmark",
     "componentName": "VyperPlainWordmark",
     "tags": ["programming", "language", "python", "blockchain", "ethereum"]
+  },
+  {
+    "name": "Wasm Original",
+    "componentName": "WasmOriginal",
+    "tags": ["binary", "programming", "virtual machine", "web", "language"]
+  },
+  {
+    "name": "Wasm Original Wordmark",
+    "componentName": "WasmOriginalWordmark",
+    "tags": ["binary", "programming", "virtual machine", "web", "language"]
+  },
+  {
+    "name": "Wasm Plain Wordmark",
+    "componentName": "WasmPlainWordmark",
+    "tags": ["binary", "programming", "virtual machine", "web", "language"]
   },
   {
     "name": "Webflow Original",
