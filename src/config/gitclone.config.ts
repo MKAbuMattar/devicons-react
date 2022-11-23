@@ -15,9 +15,9 @@ const gitClone = (url: string): void => {
 };
 
 (() => {
-  const master = 'git clone https://github.com/devicons/devicon.git';
+  const master = 'git clone --depth=1 https://github.com/devicons/devicon.git';
   const develop =
-    'git clone -b develop https://github.com/devicons/devicon.git';
+    'git clone --depth=1 -b develop https://github.com/devicons/devicon.git';
 
   process.argv[2] === '--master' ? gitClone(master) : gitClone(develop);
 })();
