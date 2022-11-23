@@ -609,22 +609,22 @@
   {
     "name": "Bootstrap Original",
     "componentName": "BootstrapOriginal",
-    "tags": ["css", "framework"]
+    "tags": ["css", "framework", "html", "javascript", "library"]
   },
   {
     "name": "Bootstrap Original Wordmark",
     "componentName": "BootstrapOriginalWordmark",
-    "tags": ["css", "framework"]
+    "tags": ["css", "framework", "html", "javascript", "library"]
   },
   {
     "name": "Bootstrap Plain",
     "componentName": "BootstrapPlain",
-    "tags": ["css", "framework"]
+    "tags": ["css", "framework", "html", "javascript", "library"]
   },
   {
     "name": "Bootstrap Plain Wordmark",
     "componentName": "BootstrapPlainWordmark",
-    "tags": ["css", "framework"]
+    "tags": ["css", "framework", "html", "javascript", "library"]
   },
   {
     "name": "Bower Line",
@@ -1210,17 +1210,17 @@
   {
     "name": "Denojs Original",
     "componentName": "DenojsOriginal",
-    "tags": ["javascript", "rust", "language"]
+    "tags": ["javascript", "rust", "runtime"]
   },
   {
     "name": "Denojs Original Wordmark",
     "componentName": "DenojsOriginalWordmark",
-    "tags": ["javascript", "rust", "language"]
+    "tags": ["javascript", "rust", "runtime"]
   },
   {
     "name": "Devicons React Original",
     "componentName": "DeviconsReactOriginal",
-    "tags": ["javascript", "rust", "language"]
+    "tags": ["javascript", "rust", "runtime"]
   },
   {
     "name": "Digitalocean Original",
@@ -3735,6 +3735,16 @@
     "tags": ["programming", "language"]
   },
   {
+    "name": "Pfsense Original",
+    "componentName": "PfsenseOriginal",
+    "tags": ["cloud", "network", "open-source", "security", "software"]
+  },
+  {
+    "name": "Pfsense Original Wordmark",
+    "componentName": "PfsenseOriginalWordmark",
+    "tags": ["cloud", "network", "open-source", "security", "software"]
+  },
+  {
     "name": "Phalcon Original",
     "componentName": "PhalconOriginal",
     "tags": ["php", "framework"]
@@ -3747,22 +3757,38 @@
   {
     "name": "Phoenix Original",
     "componentName": "PhoenixOriginal",
-    "tags": ["framework"]
+    "tags": [
+      "framework",
+      "build",
+      "web",
+      "web-development",
+      "development",
+      "elixir"
+    ]
   },
   {
     "name": "Phoenix Original Wordmark",
     "componentName": "PhoenixOriginalWordmark",
-    "tags": ["framework"]
-  },
-  {
-    "name": "Phoenix Plain",
-    "componentName": "PhoenixPlain",
-    "tags": ["framework"]
+    "tags": [
+      "framework",
+      "build",
+      "web",
+      "web-development",
+      "development",
+      "elixir"
+    ]
   },
   {
     "name": "Phoenix Plain Wordmark",
     "componentName": "PhoenixPlainWordmark",
-    "tags": ["framework"]
+    "tags": [
+      "framework",
+      "build",
+      "web",
+      "web-development",
+      "development",
+      "elixir"
+    ]
   },
   {
     "name": "Photoshop Line",
