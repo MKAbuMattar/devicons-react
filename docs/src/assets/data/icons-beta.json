@@ -527,16 +527,6 @@
     "tags": ["java", "cloud", "server", "networking"]
   },
   {
-    "name": "Ballerina Plain",
-    "componentName": "BallerinaPlain",
-    "tags": ["java", "cloud", "server", "networking"]
-  },
-  {
-    "name": "Ballerina Plain Wordmark",
-    "componentName": "BallerinaPlainWordmark",
-    "tags": ["java", "cloud", "server", "networking"]
-  },
-  {
     "name": "Bamboo Original",
     "componentName": "BambooOriginal",
     "tags": ["platform", "integration", "server"]
@@ -2506,6 +2496,16 @@
     "tags": ["format", "standard", "file-format", "object-notation"]
   },
   {
+    "name": "Jule Original",
+    "componentName": "JuleOriginal",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Jule Original Wordmark",
+    "componentName": "JuleOriginalWordmark",
+    "tags": ["programming", "language"]
+  },
+  {
     "name": "Julia Original",
     "componentName": "JuliaOriginal",
     "tags": ["programming", "language"]
@@ -3419,6 +3419,21 @@
     "componentName": "NodejsPlainWordmark",
     "tags": ["javascript", "language"]
   },
+  {
+    "name": "Nodemon Line",
+    "componentName": "NodemonLine",
+    "tags": ["nodejs", "tool", "javascript"]
+  },
+  {
+    "name": "Nodemon Original",
+    "componentName": "NodemonOriginal",
+    "tags": ["nodejs", "tool", "javascript"]
+  },
+  {
+    "name": "Nodemon Plain",
+    "componentName": "NodemonPlain",
+    "tags": ["nodejs", "tool", "javascript"]
+  },
   { "name": "Nodewebkit Line", "componentName": "NodewebkitLine", "tags": [] },
   {
     "name": "Nodewebkit Line Wordmark",
@@ -3789,6 +3804,16 @@
       "development",
       "elixir"
     ]
+  },
+  {
+    "name": "Photonengine Original",
+    "componentName": "PhotonengineOriginal",
+    "tags": ["game", "game-engine"]
+  },
+  {
+    "name": "Photonengine Plain",
+    "componentName": "PhotonenginePlain",
+    "tags": ["game", "game-engine"]
   },
   {
     "name": "Photoshop Line",
