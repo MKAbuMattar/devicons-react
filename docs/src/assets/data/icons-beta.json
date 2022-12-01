@@ -1847,6 +1847,16 @@
     "tags": ["version-control"]
   },
   {
+    "name": "Githubactions Original",
+    "componentName": "GithubactionsOriginal",
+    "tags": ["devops", "integration"]
+  },
+  {
+    "name": "Githubactions Plain",
+    "componentName": "GithubactionsPlain",
+    "tags": ["devops", "integration"]
+  },
+  {
     "name": "Gitlab Original",
     "componentName": "GitlabOriginal",
     "tags": ["version-control"]
@@ -4971,6 +4981,26 @@
     "tags": ["css", "framework"]
   },
   {
+    "name": "Tauri Original",
+    "componentName": "TauriOriginal",
+    "tags": ["nodejs", "rust", "desktop", "framework", "programming"]
+  },
+  {
+    "name": "Tauri Original Wordmark",
+    "componentName": "TauriOriginalWordmark",
+    "tags": ["nodejs", "rust", "desktop", "framework", "programming"]
+  },
+  {
+    "name": "Tauri Plain",
+    "componentName": "TauriPlain",
+    "tags": ["nodejs", "rust", "desktop", "framework", "programming"]
+  },
+  {
+    "name": "Tauri Plain Wordmark",
+    "componentName": "TauriPlainWordmark",
+    "tags": ["nodejs", "rust", "desktop", "framework", "programming"]
+  },
+  {
     "name": "Tensorflow Line",
     "componentName": "TensorflowLine",
     "tags": ["library", "machine-learning", "deep-learning"]
@@ -5354,6 +5384,16 @@
     "name": "Visualstudio Plain Wordmark",
     "componentName": "VisualstudioPlainWordmark",
     "tags": ["editor"]
+  },
+  {
+    "name": "Vite Original",
+    "componentName": "ViteOriginal",
+    "tags": ["web3", "blockchain", "DAG"]
+  },
+  {
+    "name": "Vite Original Wordmark",
+    "componentName": "ViteOriginalWordmark",
+    "tags": ["web3", "blockchain", "DAG"]
   },
   {
     "name": "Vscode Original",
