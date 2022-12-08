@@ -4941,6 +4941,26 @@
     "tags": ["javascript", "framework", "compiler"]
   },
   {
+    "name": "Swagger Original",
+    "componentName": "SwaggerOriginal",
+    "tags": ["development", "software", "tool"]
+  },
+  {
+    "name": "Swagger Original Wordmark",
+    "componentName": "SwaggerOriginalWordmark",
+    "tags": ["development", "software", "tool"]
+  },
+  {
+    "name": "Swagger Plain",
+    "componentName": "SwaggerPlain",
+    "tags": ["development", "software", "tool"]
+  },
+  {
+    "name": "Swagger Plain Wordmark",
+    "componentName": "SwaggerPlainWordmark",
+    "tags": ["development", "software", "tool"]
+  },
+  {
     "name": "Swift Original",
     "componentName": "SwiftOriginal",
     "tags": ["language"]
@@ -5394,6 +5414,16 @@
     "name": "Vite Original Wordmark",
     "componentName": "ViteOriginalWordmark",
     "tags": ["web3", "blockchain", "DAG"]
+  },
+  {
+    "name": "Vitejs Original",
+    "componentName": "VitejsOriginal",
+    "tags": ["javascript", "build", "compiler", "esbuild"]
+  },
+  {
+    "name": "Vitejs Plain",
+    "componentName": "VitejsPlain",
+    "tags": ["javascript", "build", "compiler", "esbuild"]
   },
   {
     "name": "Vscode Original",
