@@ -720,6 +720,26 @@
     "tags": ["javascript", "js", "ionic", "framework", "universal"]
   },
   {
+    "name": "Cassandra Original",
+    "componentName": "CassandraOriginal",
+    "tags": ["nosql", "database", "open-source"]
+  },
+  {
+    "name": "Cassandra Original Wordmark",
+    "componentName": "CassandraOriginalWordmark",
+    "tags": ["nosql", "database", "open-source"]
+  },
+  {
+    "name": "Cassandra Plain",
+    "componentName": "CassandraPlain",
+    "tags": ["nosql", "database", "open-source"]
+  },
+  {
+    "name": "Cassandra Plain Wordmark",
+    "componentName": "CassandraPlainWordmark",
+    "tags": ["nosql", "database", "open-source"]
+  },
+  {
     "name": "Centos Original",
     "componentName": "CentosOriginal",
     "tags": ["server", "linux"]
@@ -1259,6 +1279,36 @@
     "tags": []
   },
   {
+    "name": "Djangorest Line",
+    "componentName": "DjangorestLine",
+    "tags": ["framework", "rest", "api", "python", "web"]
+  },
+  {
+    "name": "Djangorest Line Wordmark",
+    "componentName": "DjangorestLineWordmark",
+    "tags": ["framework", "rest", "api", "python", "web"]
+  },
+  {
+    "name": "Djangorest Original",
+    "componentName": "DjangorestOriginal",
+    "tags": ["framework", "rest", "api", "python", "web"]
+  },
+  {
+    "name": "Djangorest Original Wordmark",
+    "componentName": "DjangorestOriginalWordmark",
+    "tags": ["framework", "rest", "api", "python", "web"]
+  },
+  {
+    "name": "Djangorest Plain",
+    "componentName": "DjangorestPlain",
+    "tags": ["framework", "rest", "api", "python", "web"]
+  },
+  {
+    "name": "Djangorest Plain Wordmark",
+    "componentName": "DjangorestPlainWordmark",
+    "tags": ["framework", "rest", "api", "python", "web"]
+  },
+  {
     "name": "Docker Original",
     "componentName": "DockerOriginal",
     "tags": ["platform", "deploy"]
@@ -1478,9 +1528,19 @@
     "tags": ["language", "programming"]
   },
   {
+    "name": "Ember Original",
+    "componentName": "EmberOriginal",
+    "tags": ["framework", "javascript", "web-development", "build"]
+  },
+  {
     "name": "Ember Original Wordmark",
     "componentName": "EmberOriginalWordmark",
-    "tags": ["framework"]
+    "tags": ["framework", "javascript", "web-development", "build"]
+  },
+  {
+    "name": "Ember Plain",
+    "componentName": "EmberPlain",
+    "tags": ["framework", "javascript", "web-development", "build"]
   },
   {
     "name": "Envoy Original",
@@ -1857,6 +1917,16 @@
     "tags": ["devops", "integration"]
   },
   {
+    "name": "Githubcodespaces Original",
+    "componentName": "GithubcodespacesOriginal",
+    "tags": ["development", "remote-development", "editor", "browser", "cloud"]
+  },
+  {
+    "name": "Githubcodespaces Plain",
+    "componentName": "GithubcodespacesPlain",
+    "tags": ["development", "remote-development", "editor", "browser", "cloud"]
+  },
+  {
     "name": "Gitlab Original",
     "componentName": "GitlabOriginal",
     "tags": ["version-control"]
@@ -2026,12 +2096,12 @@
   {
     "name": "Grails Original",
     "componentName": "GrailsOriginal",
-    "tags": ["framework"]
+    "tags": ["framework", "groovy", "web-development", "jvm", "build"]
   },
   {
     "name": "Grails Plain",
     "componentName": "GrailsPlain",
-    "tags": ["framework"]
+    "tags": ["framework", "groovy", "web-development", "jvm", "build"]
   },
   {
     "name": "Graphql Plain",
@@ -2089,6 +2159,58 @@
     "tags": ["task-runner", "nodejs"]
   },
   {
+    "name": "Hadoop Original",
+    "componentName": "HadoopOriginal",
+    "tags": [
+      "framework",
+      "big data",
+      "open-source",
+      "software",
+      "library",
+      "framework",
+      "java"
+    ]
+  },
+  {
+    "name": "Hadoop Original Wordmark",
+    "componentName": "HadoopOriginalWordmark",
+    "tags": [
+      "framework",
+      "big data",
+      "open-source",
+      "software",
+      "library",
+      "framework",
+      "java"
+    ]
+  },
+  {
+    "name": "Hadoop Plain",
+    "componentName": "HadoopPlain",
+    "tags": [
+      "framework",
+      "big data",
+      "open-source",
+      "software",
+      "library",
+      "framework",
+      "java"
+    ]
+  },
+  {
+    "name": "Hadoop Plain Wordmark",
+    "componentName": "HadoopPlainWordmark",
+    "tags": [
+      "framework",
+      "big data",
+      "open-source",
+      "software",
+      "library",
+      "framework",
+      "java"
+    ]
+  },
+  {
     "name": "Handlebars Original",
     "componentName": "HandlebarsOriginal",
     "tags": ["framework"]
@@ -2097,6 +2219,26 @@
     "name": "Handlebars Original Wordmark",
     "componentName": "HandlebarsOriginalWordmark",
     "tags": ["framework"]
+  },
+  {
+    "name": "Hardhat Original",
+    "componentName": "HardhatOriginal",
+    "tags": ["ethereum", "development", "solidity", "javascript", "typescript"]
+  },
+  {
+    "name": "Hardhat Original Wordmark",
+    "componentName": "HardhatOriginalWordmark",
+    "tags": ["ethereum", "development", "solidity", "javascript", "typescript"]
+  },
+  {
+    "name": "Hardhat Plain",
+    "componentName": "HardhatPlain",
+    "tags": ["ethereum", "development", "solidity", "javascript", "typescript"]
+  },
+  {
+    "name": "Hardhat Plain Wordmark",
+    "componentName": "HardhatPlainWordmark",
+    "tags": ["ethereum", "development", "solidity", "javascript", "typescript"]
   },
   {
     "name": "Harvester Original",
@@ -2651,6 +2793,21 @@
     "tags": ["elastic", "dashboard"]
   },
   {
+    "name": "Knexjs Original",
+    "componentName": "KnexjsOriginal",
+    "tags": ["database", "query", "sql", "javascript", "library"]
+  },
+  {
+    "name": "Knexjs Original Wordmark",
+    "componentName": "KnexjsOriginalWordmark",
+    "tags": ["database", "query", "sql", "javascript", "library"]
+  },
+  {
+    "name": "Knexjs Plain Wordmark",
+    "componentName": "KnexjsPlainWordmark",
+    "tags": ["database", "query", "sql", "javascript", "library"]
+  },
+  {
     "name": "Knockout Plain Wordmark",
     "componentName": "KnockoutPlainWordmark",
     "tags": ["framework", "javascript"]
@@ -2932,6 +3089,16 @@
     "name": "Markdown Original",
     "componentName": "MarkdownOriginal",
     "tags": ["markup", "language"]
+  },
+  {
+    "name": "Materializecss Original",
+    "componentName": "MaterializecssOriginal",
+    "tags": ["framework", "css", "design", "material-design"]
+  },
+  {
+    "name": "Materializecss Plain",
+    "componentName": "MaterializecssPlain",
+    "tags": ["framework", "css", "design", "material-design"]
   },
   {
     "name": "Materialui Original",
@@ -4321,6 +4488,11 @@
     "tags": ["framework"]
   },
   {
+    "name": "Reactbootstrap Original",
+    "componentName": "ReactbootstrapOriginal",
+    "tags": ["framework", "library", "frontend", "reactjs", "javascript"]
+  },
+  {
     "name": "Realm Original",
     "componentName": "RealmOriginal",
     "tags": ["sql", "database", "cloud"]
@@ -5061,6 +5233,11 @@
     "tags": ["deployment", "architecture", "automation"]
   },
   {
+    "name": "Tex Original",
+    "componentName": "TexOriginal",
+    "tags": ["typesetting-system", "markup", "tex"]
+  },
+  {
     "name": "Thealgorithms Original",
     "componentName": "ThealgorithmsOriginal",
     "tags": ["organization", "algorithms"]
@@ -5705,6 +5882,16 @@
     "name": "Xml Original",
     "componentName": "XmlOriginal",
     "tags": ["markup", "language"]
+  },
+  {
+    "name": "Yaml Original",
+    "componentName": "YamlOriginal",
+    "tags": ["data", "language"]
+  },
+  {
+    "name": "Yaml Plain",
+    "componentName": "YamlPlain",
+    "tags": ["data", "language"]
   },
   {
     "name": "Yarn Original",
