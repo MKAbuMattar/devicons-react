@@ -651,6 +651,21 @@
     "componentName": "BulmaPlain",
     "tags": ["css", "framework"]
   },
+  {
+    "name": "Bun Line",
+    "componentName": "BunLine",
+    "tags": ["javascript", "zig", "language"]
+  },
+  {
+    "name": "Bun Original",
+    "componentName": "BunOriginal",
+    "tags": ["javascript", "zig", "language"]
+  },
+  {
+    "name": "Bun Plain",
+    "componentName": "BunPlain",
+    "tags": ["javascript", "zig", "language"]
+  },
   { "name": "C Line", "componentName": "CLine", "tags": ["language"] },
   { "name": "C Original", "componentName": "COriginal", "tags": ["language"] },
   { "name": "C Plain", "componentName": "CPlain", "tags": ["language"] },
