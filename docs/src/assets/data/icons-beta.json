@@ -4098,8 +4098,18 @@
     "tags": ["ethereum", "erc20", "blockchain"]
   },
   {
+    "name": "Polygon Original Wordmark",
+    "componentName": "PolygonOriginalWordmark",
+    "tags": ["ethereum", "erc20", "blockchain"]
+  },
+  {
     "name": "Polygon Plain",
     "componentName": "PolygonPlain",
+    "tags": ["ethereum", "erc20", "blockchain"]
+  },
+  {
+    "name": "Polygon Plain Wordmark",
+    "componentName": "PolygonPlainWordmark",
     "tags": ["ethereum", "erc20", "blockchain"]
   },
   {
