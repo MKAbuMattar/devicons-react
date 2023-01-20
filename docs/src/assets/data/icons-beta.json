@@ -50,6 +50,16 @@
     "tags": ["framework", "java", "scala", "open-source"]
   },
   {
+    "name": "Algolia Original",
+    "componentName": "AlgoliaOriginal",
+    "tags": ["algorithms", "api", "documentation", "tool"]
+  },
+  {
+    "name": "Algolia Original Wordmark",
+    "componentName": "AlgoliaOriginalWordmark",
+    "tags": ["algorithms", "api", "documentation", "tool"]
+  },
+  {
     "name": "Alpinejs Original",
     "componentName": "AlpinejsOriginal",
     "tags": ["framework", "javascript"]
@@ -2292,6 +2302,11 @@
   },
   { "name": "Haxe Plain", "componentName": "HaxePlain", "tags": ["language"] },
   {
+    "name": "Helm Line",
+    "componentName": "HelmLine",
+    "tags": ["package", "manager", "kubernetes"]
+  },
+  {
     "name": "Helm Original",
     "componentName": "HelmOriginal",
     "tags": ["package", "manager", "kubernetes"]
@@ -2786,6 +2801,36 @@
     "name": "Karma Plain",
     "componentName": "KarmaPlain",
     "tags": ["testing", "test-runner"]
+  },
+  {
+    "name": "Keras Line",
+    "componentName": "KerasLine",
+    "tags": ["machine-learning", "python", "library"]
+  },
+  {
+    "name": "Keras Line Wordmark",
+    "componentName": "KerasLineWordmark",
+    "tags": ["machine-learning", "python", "library"]
+  },
+  {
+    "name": "Keras Original",
+    "componentName": "KerasOriginal",
+    "tags": ["machine-learning", "python", "library"]
+  },
+  {
+    "name": "Keras Original Wordmark",
+    "componentName": "KerasOriginalWordmark",
+    "tags": ["machine-learning", "python", "library"]
+  },
+  {
+    "name": "Keras Plain",
+    "componentName": "KerasPlain",
+    "tags": ["machine-learning", "python", "library"]
+  },
+  {
+    "name": "Keras Plain Wordmark",
+    "componentName": "KerasPlainWordmark",
+    "tags": ["machine-learning", "python", "library"]
   },
   {
     "name": "Kibana Original",
@@ -5188,13 +5233,18 @@
     "tags": ["framework", "php"]
   },
   {
+    "name": "Tailwindcss Original",
+    "componentName": "TailwindcssOriginal",
+    "tags": ["css", "framework"]
+  },
+  {
     "name": "Tailwindcss Original Wordmark",
     "componentName": "TailwindcssOriginalWordmark",
     "tags": ["css", "framework"]
   },
   {
-    "name": "Tailwindcss Plain",
-    "componentName": "TailwindcssPlain",
+    "name": "Tailwindcss Plain Wordmark",
+    "componentName": "TailwindcssPlainWordmark",
     "tags": ["css", "framework"]
   },
   {
