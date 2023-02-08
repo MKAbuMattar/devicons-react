@@ -277,11 +277,6 @@
     "tags": ["data-processing", "data-science", "machine-learning"]
   },
   {
-    "name": "Apachespark Plain",
-    "componentName": "ApachesparkPlain",
-    "tags": ["data-processing", "data-science", "machine-learning"]
-  },
-  {
     "name": "Apachespark Plain Wordmark",
     "componentName": "ApachesparkPlainWordmark",
     "tags": ["data-processing", "data-science", "machine-learning"]
@@ -1014,6 +1009,21 @@
     "name": "Confluence Original Wordmark",
     "componentName": "ConfluenceOriginalWordmark",
     "tags": ["collaboration", "documentation", "wiki"]
+  },
+  {
+    "name": "Consul Original",
+    "componentName": "ConsulOriginal",
+    "tags": ["networking", "infrastructure", "security", "tool"]
+  },
+  {
+    "name": "Consul Original Wordmark",
+    "componentName": "ConsulOriginalWordmark",
+    "tags": ["networking", "infrastructure", "security", "tool"]
+  },
+  {
+    "name": "Consul Plain Wordmark",
+    "componentName": "ConsulPlainWordmark",
+    "tags": ["networking", "infrastructure", "security", "tool"]
   },
   {
     "name": "Contao Original",
@@ -1834,6 +1844,26 @@
     "name": "Gatsby Plain Wordmark",
     "componentName": "GatsbyPlainWordmark",
     "tags": ["reactjs", "framework"]
+  },
+  {
+    "name": "Gazebo Original",
+    "componentName": "GazeboOriginal",
+    "tags": ["robotics", "3d"]
+  },
+  {
+    "name": "Gazebo Original Wordmark",
+    "componentName": "GazeboOriginalWordmark",
+    "tags": ["robotics", "3d"]
+  },
+  {
+    "name": "Gazebo Plain",
+    "componentName": "GazeboPlain",
+    "tags": ["robotics", "3d"]
+  },
+  {
+    "name": "Gazebo Plain Wordmark",
+    "componentName": "GazeboPlainWordmark",
+    "tags": ["robotics", "3d"]
   },
   {
     "name": "Gcc Original",
@@ -3335,6 +3365,11 @@
     "componentName": "MobxPlain",
     "tags": ["state-management", "testing", "reactjs", "nodejs"]
   },
+  {
+    "name": "Mocha Original",
+    "componentName": "MochaOriginal",
+    "tags": ["testing"]
+  },
   { "name": "Mocha Plain", "componentName": "MochaPlain", "tags": ["testing"] },
   {
     "name": "Modx Original",
@@ -3465,6 +3500,16 @@
   {
     "name": "Nano Original Wordmark",
     "componentName": "NanoOriginalWordmark",
+    "tags": ["text editor", "editor", "GNU", "terminal"]
+  },
+  {
+    "name": "Nano Plain",
+    "componentName": "NanoPlain",
+    "tags": ["text editor", "editor", "GNU", "terminal"]
+  },
+  {
+    "name": "Nano Plain Wordmark",
+    "componentName": "NanoPlainWordmark",
     "tags": ["text editor", "editor", "GNU", "terminal"]
   },
   {
@@ -3881,11 +3926,6 @@
     "tags": ["infrastructure-as-a-service", "cloud-computing-platform"]
   },
   {
-    "name": "Openstack Plain",
-    "componentName": "OpenstackPlain",
-    "tags": ["infrastructure-as-a-service", "cloud-computing-platform"]
-  },
-  {
     "name": "Openstack Plain Wordmark",
     "componentName": "OpenstackPlainWordmark",
     "tags": ["infrastructure-as-a-service", "cloud-computing-platform"]
@@ -4105,6 +4145,16 @@
   {
     "name": "Plotly Original Wordmark",
     "componentName": "PlotlyOriginalWordmark",
+    "tags": ["frontend", "machine-learning", "dashboard"]
+  },
+  {
+    "name": "Plotly Plain",
+    "componentName": "PlotlyPlain",
+    "tags": ["frontend", "machine-learning", "dashboard"]
+  },
+  {
+    "name": "Plotly Plain Wordmark",
+    "componentName": "PlotlyPlainWordmark",
     "tags": ["frontend", "machine-learning", "dashboard"]
   },
   {
@@ -4490,6 +4540,11 @@
   {
     "name": "Rabbitmq Original Wordmark",
     "componentName": "RabbitmqOriginalWordmark",
+    "tags": ["message-broker", "open-source"]
+  },
+  {
+    "name": "Rabbitmq Plain Wordmark",
+    "componentName": "RabbitmqPlainWordmark",
     "tags": ["message-broker", "open-source"]
   },
   {
@@ -4998,6 +5053,26 @@
     "tags": ["programming", "language", "blockchain"]
   },
   {
+    "name": "Solidjs Original",
+    "componentName": "SolidjsOriginal",
+    "tags": ["javascript", "framework", "frontend"]
+  },
+  {
+    "name": "Solidjs Original Wordmark",
+    "componentName": "SolidjsOriginalWordmark",
+    "tags": ["javascript", "framework", "frontend"]
+  },
+  {
+    "name": "Solidjs Plain",
+    "componentName": "SolidjsPlain",
+    "tags": ["javascript", "framework", "frontend"]
+  },
+  {
+    "name": "Solidjs Plain Wordmark",
+    "componentName": "SolidjsPlainWordmark",
+    "tags": ["javascript", "framework", "frontend"]
+  },
+  {
     "name": "Sonarqube Original",
     "componentName": "SonarqubeOriginal",
     "tags": ["tool", "security"]
@@ -5016,6 +5091,11 @@
     "name": "Sourcetree Original Wordmark",
     "componentName": "SourcetreeOriginalWordmark",
     "tags": ["version-control"]
+  },
+  {
+    "name": "Splunk Original Wordmark",
+    "componentName": "SplunkOriginalWordmark",
+    "tags": ["platform", "data", "log", "monitoring"]
   },
   {
     "name": "Spring Original",
@@ -5342,6 +5422,11 @@
     "componentName": "ThreejsOriginalWordmark",
     "tags": ["javascript", "framework"]
   },
+  {
+    "name": "Titaniumsdk Original",
+    "componentName": "TitaniumsdkOriginal",
+    "tags": ["app", "mobile", "javascript", "cross-platform", "sdk"]
+  },
   { "name": "Tomcat Line", "componentName": "TomcatLine", "tags": ["server"] },
   {
     "name": "Tomcat Line Wordmark",
@@ -5620,6 +5705,21 @@
     "name": "Vala Plain Wordmark",
     "componentName": "ValaPlainWordmark",
     "tags": ["programming", "language"]
+  },
+  {
+    "name": "Vault Original",
+    "componentName": "VaultOriginal",
+    "tags": ["tool", "security", "infrastructure"]
+  },
+  {
+    "name": "Vault Original Wordmark",
+    "componentName": "VaultOriginalWordmark",
+    "tags": ["tool", "security", "infrastructure"]
+  },
+  {
+    "name": "Vault Plain Wordmark",
+    "componentName": "VaultPlainWordmark",
+    "tags": ["tool", "security", "infrastructure"]
   },
   {
     "name": "Vercel Original",
