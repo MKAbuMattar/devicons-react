@@ -2468,6 +2468,26 @@
     "tags": ["editor", "vector"]
   },
   {
+    "name": "Insomnia Original",
+    "componentName": "InsomniaOriginal",
+    "tags": ["open-source", "Rest API", "Soap API", "JSON-XML"]
+  },
+  {
+    "name": "Insomnia Original Wordmark",
+    "componentName": "InsomniaOriginalWordmark",
+    "tags": ["open-source", "Rest API", "Soap API", "JSON-XML"]
+  },
+  {
+    "name": "Insomnia Plain",
+    "componentName": "InsomniaPlain",
+    "tags": ["open-source", "Rest API", "Soap API", "JSON-XML"]
+  },
+  {
+    "name": "Insomnia Plain Wordmark",
+    "componentName": "InsomniaPlainWordmark",
+    "tags": ["open-source", "Rest API", "Soap API", "JSON-XML"]
+  },
+  {
     "name": "Intellij Original",
     "componentName": "IntellijOriginal",
     "tags": ["jetbrains", "editor", "java"]
@@ -5183,6 +5203,36 @@
     "tags": ["security"]
   },
   {
+    "name": "Stackoverflow Line",
+    "componentName": "StackoverflowLine",
+    "tags": ["website", "development", "community"]
+  },
+  {
+    "name": "Stackoverflow Line Wordmark",
+    "componentName": "StackoverflowLineWordmark",
+    "tags": ["website", "development", "community"]
+  },
+  {
+    "name": "Stackoverflow Original",
+    "componentName": "StackoverflowOriginal",
+    "tags": ["website", "development", "community"]
+  },
+  {
+    "name": "Stackoverflow Original Wordmark",
+    "componentName": "StackoverflowOriginalWordmark",
+    "tags": ["website", "development", "community"]
+  },
+  {
+    "name": "Stackoverflow Plain",
+    "componentName": "StackoverflowPlain",
+    "tags": ["website", "development", "community"]
+  },
+  {
+    "name": "Stackoverflow Plain Wordmark",
+    "componentName": "StackoverflowPlainWordmark",
+    "tags": ["website", "development", "community"]
+  },
+  {
     "name": "Stata Original Wordmark",
     "componentName": "StataOriginalWordmark",
     "tags": ["analysis", "data", "data-science", "software", "statistics"]
@@ -5957,6 +6007,16 @@
     "name": "Webstorm Plain Wordmark",
     "componentName": "WebstormPlainWordmark",
     "tags": ["jetbrains", "editor"]
+  },
+  {
+    "name": "Windows11 Original",
+    "componentName": "Windows11Original",
+    "tags": ["os"]
+  },
+  {
+    "name": "Windows11 Original Wordmark",
+    "componentName": "Windows11OriginalWordmark",
+    "tags": ["os"]
   },
   {
     "name": "Windows8 Original",
