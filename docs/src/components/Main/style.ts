@@ -5,9 +5,13 @@ export const Main = styled.main`
 `;
 
 export const SearchSection = styled.div`
-  /* background-color: #e7e7e7; */
+  background-color: #2d2d2d;
   text-align: center;
-  padding: 4em 2em;
+  padding: 2rem;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  z-index: 99;
 `;
 
 export const SearchInput = styled.input`
@@ -61,6 +65,49 @@ export const Card = styled.div`
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  position: relative;
+
+  & .ribbon {
+    position: absolute;
+    overflow: hidden;
+    top: -10px;
+    left: -10px;
+    width: 114px;
+    height: 112px;
+    span {
+      position: absolute;
+      display: block;
+      width: 160px;
+      padding: 10px 0;
+      background-color: #3498db;
+      box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+      color: #fff;
+      font-size: 13px;
+      text-transform: uppercase;
+      text-align: center;
+      left: -35px;
+      top: 25px;
+      transform: rotate(-45deg);
+    }
+    &::before,
+    &::after {
+      position: absolute;
+      z-index: -1;
+      content: '';
+      display: block;
+      border: 5px solid #2980b9;
+      border-top-color: transparent;
+      border-left-color: transparent;
+    }
+    &::before {
+      top: 0;
+      right: 0;
+    }
+    &::after {
+      bottom: 0;
+      left: 0;
+    }
+  }
 `;
 
 export const CardInfo = styled.div`

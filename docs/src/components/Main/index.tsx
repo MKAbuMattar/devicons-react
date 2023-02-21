@@ -1,4 +1,5 @@
 import { FC, useCallback, useEffect, useState } from 'react';
+import Highlight from '@/components/SyntaxHighlighter';
 
 import { removeExtra } from '@/utils/regex.util';
 
@@ -32,7 +33,7 @@ const index: FC<Props> = (props) => {
 
   const totalIconCount = (items: Item[]): any => {
     const data: string[] = [];
-    items.forEach((result) => data.push(removeExtra(result.name)));
+    items?.forEach((result) => data.push(removeExtra(result.name)));
     return [...new Set(data)];
   };
 
@@ -56,9 +57,8 @@ const index: FC<Props> = (props) => {
             <MainCardInfo>
               <MainCardTitle>Install package</MainCardTitle>
             </MainCardInfo>
-            <pre>
-              <code className="bash language-bash hljs">
-                {`#npm
+            <Highlight language={'TypeScript'} theme={'Base16Nord'}>
+              {`#npm
 npm install --save devicons-react@latest
 
 #yarn
@@ -66,26 +66,34 @@ yarn add devicons-react@latest
 
 #pnpm
 pnpm add devicons-react@latest`}
-              </code>
-            </pre>
+            </Highlight>
           </MainCard>
         ) : (
           <MainCard>
             <MainCardInfo>
               <MainCardTitle>Install package</MainCardTitle>
             </MainCardInfo>
-            <pre>
-              <code className="bash language-bash hljs">
-                {`#npm
+            <Highlight language={'TypeScript'} theme={'Base16Nord'}>
+              {`#npm
 npm install --save devicons-react@beta
 
 #yarn
 yarn add devicons-react@beta
 
 #pnpm
-pnpm add devicons-react@beta`}
-              </code>
-            </pre>
+pnpm add devicons-react@beta
+
+#OR TO INSTALL TWO VERSIONS @LATEST AND @BETA
+
+#npm
+npm install --save @beta/devicons-react@npm:devicons-react@beta
+
+#yarn
+yarn add @beta/devicons-react@npm:devicons-react@beta
+
+#pnpm
+pnpm add @beta/devicons-react@npm:devicons-react@beta`}
+            </Highlight>
           </MainCard>
         )}
         <SearchSection id="search">

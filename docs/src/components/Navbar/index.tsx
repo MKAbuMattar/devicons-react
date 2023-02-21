@@ -21,30 +21,28 @@ const index = () => {
         <Sticky>
           <div>
             <Link href="/">
-              <a>
-                <NavbarLogoContainer>
-                  <DeviconsReactOriginal size={60} />
-                  <NavbarTitle>
-                    Devicons <span>React</span>
-                  </NavbarTitle>
-                </NavbarLogoContainer>
-              </a>
+              <NavbarLogoContainer>
+                <DeviconsReactOriginal size={60} />
+                <NavbarTitle>
+                  Devicons <span>React</span>
+                </NavbarTitle>
+              </NavbarLogoContainer>
             </Link>
             <NavbarList>
               <NavbarItem>
-                <Link href="/">
-                  <a>Home</a>
-                </Link>
+                <Link href="/">Home</Link>
               </NavbarItem>
               <NavbarItem>
-                <Link href="/latest">
-                  <a>Icons @latest</a>
-                </Link>
+                <Link href="/latest">Icons @latest</Link>
+              </NavbarItem>
+              {/* <NavbarItem>
+                <Link href="/latest/new">What's new? @latest</Link>
+              </NavbarItem> */}
+              <NavbarItem>
+                <Link href="/beta">Icons @beta</Link>
               </NavbarItem>
               <NavbarItem>
-                <Link href="/beta">
-                  <a>Icons @beta</a>
-                </Link>
+                <Link href="/beta/new">What's new? @beta</Link>
               </NavbarItem>
             </NavbarList>
           </div>
