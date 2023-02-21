@@ -1,10 +1,8 @@
-import { Fragment, useEffect } from 'react';
-
-import hljs from 'highlight.js';
-import javascript from 'highlight.js/lib/languages/javascript';
-hljs.registerLanguage('javascript', javascript);
+import { Fragment } from 'react';
 
 import DeviconsReactOriginal from 'devicons-react/lib/icons/DeviconsReactOriginal';
+
+import Highlight from '@/components/SyntaxHighlighter';
 
 import {
   HeaderArrowWave,
@@ -21,10 +19,6 @@ import {
 } from './style';
 
 const Header = () => {
-  useEffect(() => {
-    hljs.initHighlighting();
-  }, []);
-
   return (
     <Fragment>
       <HeaderContainer>
@@ -95,9 +89,9 @@ const Header = () => {
             <HeaderCardInfo>
               <HeaderCardTitle>Install package</HeaderCardTitle>
             </HeaderCardInfo>
-            <pre>
-              <code className="bash language-bash hljs">
-                {`#npm
+
+            <Highlight language={'Bash'} theme={'Base16Nord'}>
+              {`#npm
 npm install --save devicons-react
 
 #yarn
@@ -105,17 +99,15 @@ yarn add devicons-react
 
 #pnpm
 pnpm add devicons-react`}
-              </code>
-            </pre>
+            </Highlight>
           </HeaderCard>
 
           <HeaderCard>
             <HeaderCardInfo>
               <HeaderCardTitle>Demo</HeaderCardTitle>
             </HeaderCardInfo>
-            <pre>
-              <code className="js hljs language-javascript">
-                {`import { Aarch64Plain } from 'devicons-react'
+            <Highlight language={'JavaScript'} theme={'Base16Nord'}>
+              {`import { Aarch64Plain } from 'devicons-react'
 
 const App = () => {
   return (
@@ -126,8 +118,7 @@ const App = () => {
 }
 
 export default App`}
-              </code>
-            </pre>
+            </Highlight>
           </HeaderCard>
         </HeaderBox>
       </HeaderContainer>

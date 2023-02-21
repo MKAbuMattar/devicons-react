@@ -1,8 +1,5 @@
-import { FC, useEffect } from 'react';
-
-import hljs from 'highlight.js';
-import javascript from 'highlight.js/lib/languages/javascript';
-hljs.registerLanguage('javascript', javascript);
+import { FC } from 'react';
+import Highlight from '@/components/SyntaxHighlighter';
 
 import ListIcons from './ListIcons';
 import ListIconsBeta from './ListIconsBeta';
@@ -18,15 +15,16 @@ type Props = {
 const List: FC<Props> = (props) => {
   const { items, isLatest } = props;
 
-  useEffect(() => {
-    hljs.initHighlighting();
-  }, [items]);
-
   return (
     <>
       <Cards>
-        {items.map((item, idx) => (
+        {items?.map((item, idx) => (
           <Card key={idx}>
+            {item?.isNew && (
+              <div className={'ribbon'}>
+                <span>New Icon!</span>
+              </div>
+            )}
             <CardInfo>
               {isLatest ? (
                 <ListIcons componentName={item.componentName} />
@@ -36,13 +34,11 @@ const List: FC<Props> = (props) => {
 
               <CardTitle>{item.name}</CardTitle>
             </CardInfo>
-            <pre>
-              <code className="js hljs language-javascript">
-                {`import { ${item.componentName} } from 'devicons-react';
+            <Highlight language={'JavaScript'} theme={'Base16Nord'}>
+              {`import { ${item.componentName} } from 'devicons-react';
 
 import ${item.componentName} from 'devicons-react/lib/icons/${item.componentName}';`}
-              </code>
-            </pre>
+            </Highlight>
           </Card>
         ))}
       </Cards>
