@@ -32,7 +32,7 @@
     "prettier": "prettier --write ."
   },
   "dependencies": {
-    "@beta/devicons-react": "npm:devicons-react@1.2.6-beta-0.0.27",
+    "@beta/devicons-react": "npm:devicons-react@1.2.6-beta-0.0.28",
     "devicons-react": "1.2.5",
     "next": "13.1.6",
     "next-pwa": "5.6.0",

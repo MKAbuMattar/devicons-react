@@ -1866,6 +1866,11 @@
     "tags": ["robotics", "3d"]
   },
   {
+    "name": "Gcc Line",
+    "componentName": "GccLine",
+    "tags": ["compiler", "linux"]
+  },
+  {
     "name": "Gcc Original",
     "componentName": "GccOriginal",
     "tags": ["compiler", "linux"]
