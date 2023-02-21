@@ -3,10 +3,10 @@ import { Suspense } from 'react';
 
 import Footer from '@/components/Footer';
 import Navbar from '@/components/Navbar';
-import Main from '@/components/Main';
+import Loader from '@/components/Loader';
 
 const DynamicMain = dynamic(() => import('@/components/Main'), {
-  loading: () => <Main />,
+  loading: () => <Loader />,
   suspense: true,
 });
 
@@ -46,7 +46,7 @@ const icons = () => {
     <>
       <Container>
         <Navbar />
-        <Suspense fallback={'Loading...'}>
+        <Suspense fallback={<Loader />}>
           <DynamicMain icons={difference} isLatest={true} />
         </Suspense>
       </Container>

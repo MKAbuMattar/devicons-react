@@ -3,10 +3,10 @@ import { Suspense } from 'react';
 
 import Footer from '@/components/Footer';
 import Navbar from '@/components/Navbar';
-import Main from '@/components/Main';
+import Loader from '@/components/Loader';
 
 const DynamicMain = dynamic(() => import('@/components/Main'), {
-  loading: () => <Main />,
+  loading: () => <Loader />,
   suspense: true,
 });
 
