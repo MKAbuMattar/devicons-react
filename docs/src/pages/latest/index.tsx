@@ -2,8 +2,8 @@ import dynamic from 'next/dynamic';
 import { Suspense } from 'react';
 
 import Footer from '@/components/Footer';
-import Navbar from '@/components/Navbar';
 import Loader from '@/components/Loader';
+import Navbar from '@/components/Navbar';
 
 const DynamicMain = dynamic(() => import('@/components/Main'), {
   loading: () => <Loader />,
@@ -11,10 +11,9 @@ const DynamicMain = dynamic(() => import('@/components/Main'), {
 });
 
 //data
+import { Container } from '@/assets/style/style';
 import iconsDataLatest from '@/data/icons.latest.json';
 import iconsDataLastVersion from '@/data/icons.v1.2.5.json';
-
-import { Container } from '@/assets/style/style';
 
 const icons = () => {
   function getDifference(arr1, arr2) {
