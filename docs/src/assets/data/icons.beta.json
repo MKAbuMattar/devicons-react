@@ -652,6 +652,36 @@
     "tags": ["package", "manager"]
   },
   {
+    "name": "Browserstack Line",
+    "componentName": "BrowserstackLine",
+    "tags": ["website", "app", "testing", "tool"]
+  },
+  {
+    "name": "Browserstack Line Wordmark",
+    "componentName": "BrowserstackLineWordmark",
+    "tags": ["website", "app", "testing", "tool"]
+  },
+  {
+    "name": "Browserstack Original",
+    "componentName": "BrowserstackOriginal",
+    "tags": ["website", "app", "testing", "tool"]
+  },
+  {
+    "name": "Browserstack Original Wordmark",
+    "componentName": "BrowserstackOriginalWordmark",
+    "tags": ["website", "app", "testing", "tool"]
+  },
+  {
+    "name": "Browserstack Plain",
+    "componentName": "BrowserstackPlain",
+    "tags": ["website", "app", "testing", "tool"]
+  },
+  {
+    "name": "Browserstack Plain Wordmark",
+    "componentName": "BrowserstackPlainWordmark",
+    "tags": ["website", "app", "testing", "tool"]
+  },
+  {
     "name": "Bulma Plain",
     "componentName": "BulmaPlain",
     "tags": ["css", "framework"]
@@ -2381,6 +2411,36 @@
     "name": "Hibernate Plain Wordmark",
     "componentName": "HibernatePlainWordmark",
     "tags": ["database", "framework", "java"]
+  },
+  {
+    "name": "Homebrew Line",
+    "componentName": "HomebrewLine",
+    "tags": ["package", "manager", "linux", "apple", "os"]
+  },
+  {
+    "name": "Homebrew Line Wordmark",
+    "componentName": "HomebrewLineWordmark",
+    "tags": ["package", "manager", "linux", "apple", "os"]
+  },
+  {
+    "name": "Homebrew Original",
+    "componentName": "HomebrewOriginal",
+    "tags": ["package", "manager", "linux", "apple", "os"]
+  },
+  {
+    "name": "Homebrew Original Wordmark",
+    "componentName": "HomebrewOriginalWordmark",
+    "tags": ["package", "manager", "linux", "apple", "os"]
+  },
+  {
+    "name": "Homebrew Plain",
+    "componentName": "HomebrewPlain",
+    "tags": ["package", "manager", "linux", "apple", "os"]
+  },
+  {
+    "name": "Homebrew Plain Wordmark",
+    "componentName": "HomebrewPlainWordmark",
+    "tags": ["package", "manager", "linux", "apple", "os"]
   },
   {
     "name": "Html5 Original",

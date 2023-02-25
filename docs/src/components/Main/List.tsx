@@ -1,11 +1,11 @@
 import { FC } from 'react';
+
 import Highlight from '@/components/SyntaxHighlighter';
+import Item from '@/types/item';
 
 import ListIcons from './ListIcons';
 import ListIconsBeta from './ListIconsBeta';
 import { Card, CardInfo, Cards, CardTitle } from './style';
-
-import Item from '@/types/item';
 
 type Props = {
   items: Item[];

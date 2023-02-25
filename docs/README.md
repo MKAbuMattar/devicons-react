@@ -5,7 +5,7 @@
 
   <h1>Devicons React</h1>
 
-  <a href="https://devicons-react.vercel.app/">https://devicons-react.vercel.app/</a>
+<a href="https://devicons-react.vercel.app/">https://devicons-react.vercel.app/</a>
 
   <br/>
 
@@ -66,24 +66,24 @@ pnpm add devicons-react@beta
 <p>Default behavior for icon</p>
 
 ```js
-import { Aarch64Plain } from 'devicons-react'
+import { Aarch64Plain } from 'devicons-react';
 
 const App = () => {
   return (
     <>
       <Aarch64Plain />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
 ```
 
 <p>Change size and color for icon</p>
 
 ```js
-import { Aarch64Plain, ReactOriginal } from 'devicons-react'
-import AndroidOriginal from 'devicons-react/lib/icons/AndroidOriginal'
+import { Aarch64Plain, ReactOriginal } from 'devicons-react';
+import AndroidOriginal from 'devicons-react/lib/icons/AndroidOriginal';
 
 const App = () => {
   return (
@@ -92,8 +92,8 @@ const App = () => {
       <ReactOriginal fill="red" height="500" width="500" />
       <AndroidOriginal fill="#d35" height="128" width="128" />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
 ```

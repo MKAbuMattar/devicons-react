@@ -1,19 +1,16 @@
 import { FC } from 'react';
 
+// component
+import GetIcon from '@/components/GetIcon';
+// hook
+import useScrollToTop from '@/components/ScrollToTop/hooks/useScrollToTop';
 // type
 import type Props from '@/components/ScrollToTop/types/scrollToTop';
+// util
+import scrollToTop from '@/components/ScrollToTop/utils/scrollToTop.util';
 
 // style
 import { ScrollToTopButton } from './style';
-
-// component
-import GetIcon from '@/components/GetIcon';
-
-// hook
-import useScrollToTop from '@/components/ScrollToTop/hooks/useScrollToTop';
-
-// util
-import scrollToTop from '@/components/ScrollToTop/utils/scrollToTop.util';
 
 const index: FC<Props> = (props) => {
   const {

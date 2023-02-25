@@ -1,18 +1,16 @@
-import Footer from '@/components/Footer';
-import Navbar from '@/components/Navbar';
-import Highlight from '@/components/SyntaxHighlighter';
-
-//data
-import iconsDataLatest from '@/data/icons.latest.json';
-import iconsDataBeta from '@/data/icons.beta.json';
-
 import {
   Container,
   WhatNew,
-  WhatNewTitle,
-  WhatNewDescription,
   WhatNewCards,
+  WhatNewDescription,
+  WhatNewTitle,
 } from '@/assets/style/style';
+import Footer from '@/components/Footer';
+import Navbar from '@/components/Navbar';
+import Highlight from '@/components/SyntaxHighlighter';
+import iconsDataBeta from '@/data/icons.beta.json';
+//data
+import iconsDataLatest from '@/data/icons.latest.json';
 
 const icons = () => {
   // function getDifference(arr1, arr2) {

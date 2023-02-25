@@ -1,6 +1,7 @@
 import { FC, useCallback, useEffect, useState } from 'react';
-import Highlight from '@/components/SyntaxHighlighter';
 
+import Highlight from '@/components/SyntaxHighlighter';
+import Item from '@/types/item';
 import { removeExtra } from '@/utils/regex.util';
 
 import List from './List';
@@ -17,8 +18,6 @@ import {
 } from './style';
 import { filterIt } from './utils/filterIt.util';
 import initialItems from './utils/initialItems.util';
-
-import Item from '@/types/item';
 
 type Props = {
   icons?: Item[];

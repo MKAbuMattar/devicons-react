@@ -1,3 +1,4 @@
+import DeviconsReactOriginal from 'devicons-react/lib/icons/DeviconsReactOriginal';
 import Link from 'next/link';
 
 import ScrollToTop from '@/components/ScrollToTop';
@@ -11,8 +12,6 @@ import {
   NavbarTitle,
   Sticky,
 } from './style';
-
-import DeviconsReactOriginal from 'devicons-react/lib/icons/DeviconsReactOriginal';
 
 const index = () => {
   return (

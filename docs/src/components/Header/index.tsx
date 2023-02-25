@@ -1,6 +1,5 @@
-import { Fragment } from 'react';
-
 import DeviconsReactOriginal from 'devicons-react/lib/icons/DeviconsReactOriginal';
+import { Fragment } from 'react';
 
 import Highlight from '@/components/SyntaxHighlighter';
 
@@ -38,6 +37,7 @@ const Header = () => {
             <a
               href="https://www.npmjs.com/package/devicons-react"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
@@ -48,6 +48,7 @@ const Header = () => {
             <a
               href="https://github.com/MKAbuMattar/devicons-react"
               target="_blank"
+              rel="noreferrer"
             >
               <img
                 src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
