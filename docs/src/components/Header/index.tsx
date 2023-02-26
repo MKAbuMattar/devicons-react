@@ -1,4 +1,4 @@
-import DeviconsReactOriginal from 'devicons-react/lib/icons/DeviconsReactOriginal';
+import DeviconsReactOriginal from '@latest/devicons-react/lib/icons/DeviconsReactOriginal';
 import { Fragment } from 'react';
 
 import Highlight from '@/components/SyntaxHighlighter';
