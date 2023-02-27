@@ -1,6 +1,6 @@
 {
   "name": "devicons-react",
-  "version": "1.2.6-beta-0.0.30",
+  "version": "1.2.6-beta-0.0.31",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
   "keywords": [
     "programming",
@@ -32,11 +32,12 @@
     "clean:devicon": "rm -rf devicon",
     "clean:svg": "rm -rf svg",
     "clean:icons": "rm -rf icons",
+    "clean:svg:devicon": "rm -rf ./svg/devicon-line-wordmark.svg ./svg/devicon-line.svg ./svg/devicon-original-wordmark.svg ./svg/devicon-original.svg ./svg/devicon-plain-wordmark.svg ./svg/devicon-plain.svg",
     "clean:lib": "rm -rf lib",
     "copy:svg:devicons-react": "cp ./src/assets/devicons-react-original.svg ./svg",
     "build:clone:master": "npm run clean:devicon && tsx src/config/gitclone.config.ts --master",
     "build:clone:develop": "npm run clean:devicon && tsx src/config/gitclone.config.ts --develop",
-    "build:svg:generate": "npm run clean:svg && tsx src/generate/svg.generate.ts && npm run copy:svg:devicons-react && npm run clean:icons && npm run svg:optmize",
+    "build:svg:generate": "npm run clean:svg && tsx src/generate/svg.generate.ts && npm run clean:svg:devicon && npm run copy:svg:devicons-react && npm run clean:icons && npm run svg:optmize",
     "svg:optmize": "svgo -f svg/ -o icons/",
     "build:jsx:script": "tsx src/script/jsx.script.ts",
     "build:data": "tsx src/data/generate.data.ts",
