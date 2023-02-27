@@ -1293,9 +1293,39 @@
     "tags": ["javascript", "rust", "runtime"]
   },
   {
+    "name": "Devicon Line",
+    "componentName": "DeviconLine",
+    "tags": ["iconset"]
+  },
+  {
+    "name": "Devicon Line Wordmark",
+    "componentName": "DeviconLineWordmark",
+    "tags": ["iconset"]
+  },
+  {
+    "name": "Devicon Original",
+    "componentName": "DeviconOriginal",
+    "tags": ["iconset"]
+  },
+  {
+    "name": "Devicon Original Wordmark",
+    "componentName": "DeviconOriginalWordmark",
+    "tags": ["iconset"]
+  },
+  {
+    "name": "Devicon Plain",
+    "componentName": "DeviconPlain",
+    "tags": ["iconset"]
+  },
+  {
+    "name": "Devicon Plain Wordmark",
+    "componentName": "DeviconPlainWordmark",
+    "tags": ["iconset"]
+  },
+  {
     "name": "Devicons React Original",
     "componentName": "DeviconsReactOriginal",
-    "tags": ["javascript", "rust", "runtime"]
+    "tags": ["iconset"]
   },
   {
     "name": "Digitalocean Original",
