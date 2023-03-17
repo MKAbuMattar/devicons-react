@@ -4703,6 +4703,21 @@
     "tags": ["framework", "library", "frontend", "reactjs", "javascript"]
   },
   {
+    "name": "Readthedocs Line",
+    "componentName": "ReadthedocsLine",
+    "tags": ["documentation", "python", "open-source"]
+  },
+  {
+    "name": "Readthedocs Original",
+    "componentName": "ReadthedocsOriginal",
+    "tags": ["documentation", "python", "open-source"]
+  },
+  {
+    "name": "Readthedocs Original Wordmark",
+    "componentName": "ReadthedocsOriginalWordmark",
+    "tags": ["documentation", "python", "open-source"]
+  },
+  {
     "name": "Realm Original",
     "componentName": "RealmOriginal",
     "tags": ["sql", "database", "cloud"]
