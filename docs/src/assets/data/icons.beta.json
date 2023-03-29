@@ -1446,6 +1446,21 @@
     "tags": ["framework"]
   },
   {
+    "name": "Dreamweaver Line",
+    "componentName": "DreamweaverLine",
+    "tags": ["web-development", "editor", "software", "tool"]
+  },
+  {
+    "name": "Dreamweaver Original",
+    "componentName": "DreamweaverOriginal",
+    "tags": ["web-development", "editor", "software", "tool"]
+  },
+  {
+    "name": "Dreamweaver Plain",
+    "componentName": "DreamweaverPlain",
+    "tags": ["web-development", "editor", "software", "tool"]
+  },
+  {
     "name": "Dropwizard Original",
     "componentName": "DropwizardOriginal",
     "tags": ["java", "framework"]
@@ -5004,6 +5019,21 @@
     "name": "Scalingo Original Wordmark",
     "componentName": "ScalingoOriginalWordmark",
     "tags": ["cloud", "platform", "hosting"]
+  },
+  {
+    "name": "Scikitlearn Line",
+    "componentName": "ScikitlearnLine",
+    "tags": ["machine-learning", "python", "tool", "library"]
+  },
+  {
+    "name": "Scikitlearn Original",
+    "componentName": "ScikitlearnOriginal",
+    "tags": ["machine-learning", "python", "tool", "library"]
+  },
+  {
+    "name": "Scikitlearn Plain",
+    "componentName": "ScikitlearnPlain",
+    "tags": ["machine-learning", "python", "tool", "library"]
   },
   {
     "name": "Sdl Original",
