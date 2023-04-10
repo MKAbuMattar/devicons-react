@@ -1507,6 +1507,21 @@
     "tags": ["editor", "IDE"]
   },
   {
+    "name": "Ecto Original",
+    "componentName": "EctoOriginal",
+    "tags": ["data", "elixir", "integration", "query"]
+  },
+  {
+    "name": "Ecto Original Wordmark",
+    "componentName": "EctoOriginalWordmark",
+    "tags": ["data", "elixir", "integration", "query"]
+  },
+  {
+    "name": "Ecto Plain Wordmark",
+    "componentName": "EctoPlainWordmark",
+    "tags": ["data", "elixir", "integration", "query"]
+  },
+  {
     "name": "Elasticsearch Original",
     "componentName": "ElasticsearchOriginal",
     "tags": ["elastic", "data", "logs"]
