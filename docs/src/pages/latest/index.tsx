@@ -13,7 +13,7 @@ const DynamicMain = dynamic(() => import('@/components/Main'), {
 //data
 import { Container } from '@/assets/style/style';
 import iconsDataLatest from '@/data/icons.latest.json';
-import iconsDataLastVersion from '@/data/icons.v1.2.5.json';
+import iconsDataLastVersion from '@/data/icons.v1.2.6.json';
 
 const icons = () => {
   function getDifference(arr1, arr2) {
