@@ -4273,6 +4273,26 @@
     "tags": ["frontend", "machine-learning", "dashboard"]
   },
   {
+    "name": "Pnpm Original",
+    "componentName": "PnpmOriginal",
+    "tags": ["package", "manager"]
+  },
+  {
+    "name": "Pnpm Original Wordmark",
+    "componentName": "PnpmOriginalWordmark",
+    "tags": ["package", "manager"]
+  },
+  {
+    "name": "Pnpm Plain",
+    "componentName": "PnpmPlain",
+    "tags": ["package", "manager"]
+  },
+  {
+    "name": "Pnpm Plain Wordmark",
+    "componentName": "PnpmPlainWordmark",
+    "tags": ["package", "manager"]
+  },
+  {
     "name": "Podman Original",
     "componentName": "PodmanOriginal",
     "tags": ["container", "pods", "docker"]
