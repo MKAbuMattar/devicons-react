@@ -4433,6 +4433,16 @@
     "tags": ["editor", "video"]
   },
   {
+    "name": "Prisma Original",
+    "componentName": "PrismaOriginal",
+    "tags": ["orm", "nodejs", "typescript"]
+  },
+  {
+    "name": "Prisma Original Wordmark",
+    "componentName": "PrismaOriginalWordmark",
+    "tags": ["orm", "nodejs", "typescript"]
+  },
+  {
     "name": "Processing Original",
     "componentName": "ProcessingOriginal",
     "tags": ["java", "python", "android", "application", "ide", "framework"]
@@ -4511,6 +4521,26 @@
     "name": "Pycharm Plain Wordmark",
     "componentName": "PycharmPlainWordmark",
     "tags": ["jetbrains", "editor"]
+  },
+  {
+    "name": "Pypi Original",
+    "componentName": "PypiOriginal",
+    "tags": ["python", "package", "programming"]
+  },
+  {
+    "name": "Pypi Original Wordmark",
+    "componentName": "PypiOriginalWordmark",
+    "tags": ["python", "package", "programming"]
+  },
+  {
+    "name": "Pypi Plain",
+    "componentName": "PypiPlain",
+    "tags": ["python", "package", "programming"]
+  },
+  {
+    "name": "Pypi Plain Wordmark",
+    "componentName": "PypiPlainWordmark",
+    "tags": ["python", "package", "programming"]
   },
   {
     "name": "Pyscript Original Wordmark",
@@ -5744,6 +5774,26 @@
     "tags": ["platform", "organize"]
   },
   {
+    "name": "Trpc Original",
+    "componentName": "TrpcOriginal",
+    "tags": ["typescript", "javascript", "typesafe", "api"]
+  },
+  {
+    "name": "Trpc Original Wordmark",
+    "componentName": "TrpcOriginalWordmark",
+    "tags": ["typescript", "javascript", "typesafe", "api"]
+  },
+  {
+    "name": "Trpc Plain",
+    "componentName": "TrpcPlain",
+    "tags": ["typescript", "javascript", "typesafe", "api"]
+  },
+  {
+    "name": "Trpc Plain Wordmark",
+    "componentName": "TrpcPlainWordmark",
+    "tags": ["typescript", "javascript", "typesafe", "api"]
+  },
+  {
     "name": "Twitter Original",
     "componentName": "TwitterOriginal",
     "tags": ["auth"]
@@ -6336,6 +6386,16 @@
   {
     "name": "Zig Plain Wordmark",
     "componentName": "ZigPlainWordmark",
+    "tags": ["language"]
+  },
+  {
+    "name": "_3dsmax Original",
+    "componentName": "_3dsmaxOriginal",
+    "tags": ["language"]
+  },
+  {
+    "name": "_3dsmax Plain",
+    "componentName": "_3dsmaxPlain",
     "tags": ["language"]
   }
 ]

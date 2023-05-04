@@ -14,6 +14,13 @@ type ObjConfig = {
   dirname: string;
 }[];
 
+function addUnderscoreIfNumber(name: string): string {
+  if (!isNaN(parseInt(name.charAt(0)))) {
+    name = '_' + name;
+  }
+  return name;
+}
+
 (async () => {
   if (fs.existsSync(`${__dirname}/../../build`)) {
     fs.rmSync(`${__dirname}/../../build`, { recursive: true });
@@ -46,7 +53,7 @@ type ObjConfig = {
 
   await Promise.all(
     objConfig.map(async (entry) => {
-      const name = `${entry.name}`;
+      const name = addUnderscoreIfNumber(entry.name);
 
       const icon = await fsAsync.readFile(
         `${__dirname}/../../icons/${entry.filename}`,
