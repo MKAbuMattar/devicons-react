@@ -1,6 +1,6 @@
 {
   "name": "devicons-react",
-  "version": "1.2.6-beta-0.1.0",
+  "version": "1.2.6-beta-0.1.2",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
   "keywords": [
     "programming",
@@ -38,7 +38,7 @@
     "build:clone:master": "npm run clean:devicon && tsx src/config/gitclone.config.ts --master",
     "build:clone:develop": "npm run clean:devicon && tsx src/config/gitclone.config.ts --develop",
     "build:svg:generate": "npm run clean:svg && tsx src/generate/svg.generate.ts && npm run clean:svg:devicon && npm run copy:svg:devicons-react && npm run clean:icons && npm run svg:optmize",
-    "svg:optmize": "svgo -f svg/ -o icons/",
+    "svg:optmize": "svgo --config svgo.config.cjs -f svg/ -o icons/",
     "build:jsx:script": "tsx src/script/jsx.script.ts",
     "build:data": "tsx src/data/generate.data.ts",
     "build:lib": "npm run clean:lib && babel build --out-dir lib --copy-files",
