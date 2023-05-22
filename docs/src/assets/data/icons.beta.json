@@ -175,6 +175,16 @@
     "tags": ["framework", "javascript"]
   },
   {
+    "name": "Angularmaterial Original",
+    "componentName": "AngularmaterialOriginal",
+    "tags": ["framework", "javascript"]
+  },
+  {
+    "name": "Angularmaterial Plain",
+    "componentName": "AngularmaterialPlain",
+    "tags": ["framework", "javascript"]
+  },
+  {
     "name": "Ansible Original",
     "componentName": "AnsibleOriginal",
     "tags": ["automation", "provisioning", "deployment", "continuous-delivery"]
@@ -2244,6 +2254,16 @@
     "tags": ["programming", "language", "jvm"]
   },
   {
+    "name": "Grpc Original",
+    "componentName": "GrpcOriginal",
+    "tags": ["programming", "c++", "java", "python", "go", "library"]
+  },
+  {
+    "name": "Grpc Plain",
+    "componentName": "GrpcPlain",
+    "tags": ["programming", "c++", "java", "python", "go", "library"]
+  },
+  {
     "name": "Grunt Line",
     "componentName": "GruntLine",
     "tags": ["task-runner", "nodejs"]
@@ -3681,6 +3701,16 @@
     "name": "Nginx Original",
     "componentName": "NginxOriginal",
     "tags": ["server"]
+  },
+  {
+    "name": "Ngrx Original",
+    "componentName": "NgrxOriginal",
+    "tags": ["state-management", "angular", "redux", "store", "javascript"]
+  },
+  {
+    "name": "Ngrx Plain",
+    "componentName": "NgrxPlain",
+    "tags": ["state-management", "angular", "redux", "store", "javascript"]
   },
   {
     "name": "Nhibernate Line",
