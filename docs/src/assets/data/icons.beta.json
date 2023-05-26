@@ -3943,6 +3943,16 @@
     "tags": ["js", "javascript", "framework", "frontend", "vuejs"]
   },
   {
+    "name": "Oauth Original",
+    "componentName": "OauthOriginal",
+    "tags": ["authentication", "security"]
+  },
+  {
+    "name": "Oauth Plain",
+    "componentName": "OauthPlain",
+    "tags": ["authentication", "security"]
+  },
+  {
     "name": "Objectivec Plain",
     "componentName": "ObjectivecPlain",
     "tags": ["programming", "language"]
@@ -4813,6 +4823,26 @@
     "tags": ["framework", "library", "frontend", "reactjs", "javascript"]
   },
   {
+    "name": "Reactrouter Original",
+    "componentName": "ReactrouterOriginal",
+    "tags": ["framework", "react"]
+  },
+  {
+    "name": "Reactrouter Original Wordmark",
+    "componentName": "ReactrouterOriginalWordmark",
+    "tags": ["framework", "react"]
+  },
+  {
+    "name": "Reactrouter Plain",
+    "componentName": "ReactrouterPlain",
+    "tags": ["framework", "react"]
+  },
+  {
+    "name": "Reactrouter Plain Wordmark",
+    "componentName": "ReactrouterPlainWordmark",
+    "tags": ["framework", "react"]
+  },
+  {
     "name": "Readthedocs Line",
     "componentName": "ReadthedocsLine",
     "tags": ["documentation", "python", "open-source"]
@@ -5498,6 +5528,46 @@
     "tags": ["svn", "version"]
   },
   {
+    "name": "Supabase Original",
+    "componentName": "SupabaseOriginal",
+    "tags": [
+      "authentication",
+      "cloud-computing-platform",
+      "database",
+      "storage"
+    ]
+  },
+  {
+    "name": "Supabase Original Wordmark",
+    "componentName": "SupabaseOriginalWordmark",
+    "tags": [
+      "authentication",
+      "cloud-computing-platform",
+      "database",
+      "storage"
+    ]
+  },
+  {
+    "name": "Supabase Plain",
+    "componentName": "SupabasePlain",
+    "tags": [
+      "authentication",
+      "cloud-computing-platform",
+      "database",
+      "storage"
+    ]
+  },
+  {
+    "name": "Supabase Plain Wordmark",
+    "componentName": "SupabasePlainWordmark",
+    "tags": [
+      "authentication",
+      "cloud-computing-platform",
+      "database",
+      "storage"
+    ]
+  },
+  {
     "name": "Svelte Original",
     "componentName": "SvelteOriginal",
     "tags": ["javascript", "framework", "compiler"]
@@ -6051,6 +6121,26 @@
     "name": "Vitejs Plain",
     "componentName": "VitejsPlain",
     "tags": ["javascript", "build", "compiler", "esbuild"]
+  },
+  {
+    "name": "Vitess Original",
+    "componentName": "VitessOriginal",
+    "tags": ["sharding", "database", "mysql"]
+  },
+  {
+    "name": "Vitess Original Wordmark",
+    "componentName": "VitessOriginalWordmark",
+    "tags": ["sharding", "database", "mysql"]
+  },
+  {
+    "name": "Vitess Plain",
+    "componentName": "VitessPlain",
+    "tags": ["sharding", "database", "mysql"]
+  },
+  {
+    "name": "Vitess Plain Wordmark",
+    "componentName": "VitessPlainWordmark",
+    "tags": ["sharding", "database", "mysql"]
   },
   {
     "name": "Vscode Original",
