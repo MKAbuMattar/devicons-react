@@ -3311,6 +3311,16 @@
     "tags": ["php", "framework"]
   },
   {
+    "name": "Mariadb Original",
+    "componentName": "MariadbOriginal",
+    "tags": ["database", "sql", "open-source"]
+  },
+  {
+    "name": "Mariadb Original Wordmark",
+    "componentName": "MariadbOriginalWordmark",
+    "tags": ["database", "sql", "open-source"]
+  },
+  {
     "name": "Markdown Original",
     "componentName": "MarkdownOriginal",
     "tags": ["markup", "language"]
