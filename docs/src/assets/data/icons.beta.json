@@ -2968,6 +2968,16 @@
     "tags": ["testing", "test-runner"]
   },
   {
+    "name": "Kdeneon Original",
+    "componentName": "KdeneonOriginal",
+    "tags": ["linux", "operating system", "open-source"]
+  },
+  {
+    "name": "Kdeneon Plain",
+    "componentName": "KdeneonPlain",
+    "tags": ["linux", "operating system", "open-source"]
+  },
+  {
     "name": "Keras Line",
     "componentName": "KerasLine",
     "tags": ["machine-learning", "python", "library"]
@@ -4511,6 +4521,26 @@
     "name": "Processing Plain Wordmark",
     "componentName": "ProcessingPlainWordmark",
     "tags": ["java", "python", "android", "application", "ide", "framework"]
+  },
+  {
+    "name": "Prolog Original",
+    "componentName": "PrologOriginal",
+    "tags": ["programming", "logic", "language", "open-source"]
+  },
+  {
+    "name": "Prolog Original Wordmark",
+    "componentName": "PrologOriginalWordmark",
+    "tags": ["programming", "logic", "language", "open-source"]
+  },
+  {
+    "name": "Prolog Plain",
+    "componentName": "PrologPlain",
+    "tags": ["programming", "logic", "language", "open-source"]
+  },
+  {
+    "name": "Prolog Plain Wordmark",
+    "componentName": "PrologPlainWordmark",
+    "tags": ["programming", "logic", "language", "open-source"]
   },
   {
     "name": "Prometheus Original",
