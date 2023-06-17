@@ -1497,6 +1497,16 @@
     "tags": ["cms"]
   },
   {
+    "name": "Dynamodb Original",
+    "componentName": "DynamodbOriginal",
+    "tags": ["key-value", "database", "java"]
+  },
+  {
+    "name": "Dynamodb Plain",
+    "componentName": "DynamodbPlain",
+    "tags": ["key-value", "database", "java"]
+  },
+  {
     "name": "Eclipse Original",
     "componentName": "EclipseOriginal",
     "tags": ["editor", "IDE"]
@@ -1874,6 +1884,32 @@
     "name": "Foundation Plain Wordmark",
     "componentName": "FoundationPlainWordmark",
     "tags": ["framework", "css"]
+  },
+  {
+    "name": "Framework7 Original",
+    "componentName": "Framework7Original",
+    "tags": [
+      "framework",
+      "cross-platform",
+      "development",
+      "mobile",
+      "android",
+      "ios",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Framework7 Original Wordmark",
+    "componentName": "Framework7OriginalWordmark",
+    "tags": [
+      "framework",
+      "cross-platform",
+      "development",
+      "mobile",
+      "android",
+      "ios",
+      "open-source"
+    ]
   },
   {
     "name": "Fsharp Original",
@@ -3906,6 +3942,21 @@
     "name": "Nodewebkit Plain Wordmark",
     "componentName": "NodewebkitPlainWordmark",
     "tags": []
+  },
+  {
+    "name": "Nomad Original",
+    "componentName": "NomadOriginal",
+    "tags": ["container", "virtual machine", "deployment"]
+  },
+  {
+    "name": "Nomad Original Wordmark",
+    "componentName": "NomadOriginalWordmark",
+    "tags": ["container", "virtual machine", "deployment"]
+  },
+  {
+    "name": "Nomad Plain Wordmark",
+    "componentName": "NomadPlainWordmark",
+    "tags": ["container", "virtual machine", "deployment"]
   },
   {
     "name": "Norg Original",
