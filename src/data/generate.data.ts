@@ -46,6 +46,6 @@ import DeviconData from '../../devicon/devicon.json';
 
   fs.writeFileSync(
     path.resolve(__dirname, 'devicon.data.json'),
-    JSON.stringify(data),
+    JSON.stringify(data, null, 2),
   );
 })();

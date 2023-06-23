@@ -1,6 +1,6 @@
 import styled, { createGlobalStyle } from 'styled-components';
 
-export const GlobalStyle = createGlobalStyle`
+export const GlobalStyle: any = createGlobalStyle`
 
 html {
   scroll-behavior: smooth;
