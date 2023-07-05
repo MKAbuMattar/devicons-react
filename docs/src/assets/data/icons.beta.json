@@ -224,7 +224,11 @@
     "componentName": "AntdesignPlainWordmark",
     "tags": ["reactjs", "design", "language"]
   },
-  { "name": "Apache Line", "componentName": "ApacheLine", "tags": ["php"] },
+  {
+    "name": "Apache Line",
+    "componentName": "ApacheLine",
+    "tags": ["php"]
+  },
   {
     "name": "Apache Line Wordmark",
     "componentName": "ApacheLineWordmark",
@@ -240,7 +244,11 @@
     "componentName": "ApacheOriginalWordmark",
     "tags": ["php"]
   },
-  { "name": "Apache Plain", "componentName": "ApachePlain", "tags": ["php"] },
+  {
+    "name": "Apache Plain",
+    "componentName": "ApachePlain",
+    "tags": ["php"]
+  },
   {
     "name": "Apache Plain Wordmark",
     "componentName": "ApachePlainWordmark",
@@ -711,9 +719,21 @@
     "componentName": "BunPlain",
     "tags": ["javascript", "zig", "language"]
   },
-  { "name": "C Line", "componentName": "CLine", "tags": ["language"] },
-  { "name": "C Original", "componentName": "COriginal", "tags": ["language"] },
-  { "name": "C Plain", "componentName": "CPlain", "tags": ["language"] },
+  {
+    "name": "C Line",
+    "componentName": "CLine",
+    "tags": ["language"]
+  },
+  {
+    "name": "C Original",
+    "componentName": "COriginal",
+    "tags": ["language"]
+  },
+  {
+    "name": "C Plain",
+    "componentName": "CPlain",
+    "tags": ["language"]
+  },
   {
     "name": "Cairo Original",
     "componentName": "CairoOriginal",
@@ -979,7 +999,11 @@
     "componentName": "CmakeOriginalWordmark",
     "tags": ["build"]
   },
-  { "name": "Cmake Plain", "componentName": "CmakePlain", "tags": ["build"] },
+  {
+    "name": "Cmake Plain",
+    "componentName": "CmakePlain",
+    "tags": ["build"]
+  },
   {
     "name": "Cmake Plain Wordmark",
     "componentName": "CmakePlainWordmark",
@@ -1205,8 +1229,16 @@
     "componentName": "CypressioOriginalWordmark",
     "tags": ["testing", "framework"]
   },
-  { "name": "D3js Original", "componentName": "D3jsOriginal", "tags": [] },
-  { "name": "D3js Plain", "componentName": "D3jsPlain", "tags": [] },
+  {
+    "name": "D3js Original",
+    "componentName": "D3jsOriginal",
+    "tags": []
+  },
+  {
+    "name": "D3js Plain",
+    "componentName": "D3jsPlain",
+    "tags": []
+  },
   {
     "name": "Dart Original",
     "componentName": "DartOriginal",
@@ -1347,7 +1379,11 @@
     "componentName": "DiscordjsPlainWordmark",
     "tags": ["wrapper", "api_wrapper", "nodejs"]
   },
-  { "name": "Django Plain", "componentName": "DjangoPlain", "tags": [] },
+  {
+    "name": "Django Plain",
+    "componentName": "DjangoPlain",
+    "tags": []
+  },
   {
     "name": "Django Plain Wordmark",
     "componentName": "DjangoPlainWordmark",
@@ -1403,7 +1439,11 @@
     "componentName": "DockerPlainWordmark",
     "tags": ["platform", "deploy"]
   },
-  { "name": "Doctrine Line", "componentName": "DoctrineLine", "tags": [] },
+  {
+    "name": "Doctrine Line",
+    "componentName": "DoctrineLine",
+    "tags": []
+  },
   {
     "name": "Doctrine Line Wordmark",
     "componentName": "DoctrineLineWordmark",
@@ -1419,7 +1459,11 @@
     "componentName": "DoctrineOriginalWordmark",
     "tags": []
   },
-  { "name": "Doctrine Plain", "componentName": "DoctrinePlain", "tags": [] },
+  {
+    "name": "Doctrine Plain",
+    "componentName": "DoctrinePlain",
+    "tags": []
+  },
   {
     "name": "Doctrine Plain Wordmark",
     "componentName": "DoctrinePlainWordmark",
@@ -1490,7 +1534,11 @@
     "componentName": "DrupalOriginalWordmark",
     "tags": ["cms"]
   },
-  { "name": "Drupal Plain", "componentName": "DrupalPlain", "tags": ["cms"] },
+  {
+    "name": "Drupal Plain",
+    "componentName": "DrupalPlain",
+    "tags": ["cms"]
+  },
   {
     "name": "Drupal Plain Wordmark",
     "componentName": "DrupalPlainWordmark",
@@ -1611,7 +1659,11 @@
     "componentName": "ElmOriginalWordmark",
     "tags": ["framework"]
   },
-  { "name": "Elm Plain", "componentName": "ElmPlain", "tags": ["framework"] },
+  {
+    "name": "Elm Plain",
+    "componentName": "ElmPlain",
+    "tags": ["framework"]
+  },
   {
     "name": "Elm Plain Wordmark",
     "componentName": "ElmPlainWordmark",
@@ -1677,13 +1729,21 @@
     "componentName": "EnvoyPlainWordmark",
     "tags": ["proxy", "cloud"]
   },
-  { "name": "Erlang Original", "componentName": "ErlangOriginal", "tags": [] },
+  {
+    "name": "Erlang Original",
+    "componentName": "ErlangOriginal",
+    "tags": []
+  },
   {
     "name": "Erlang Original Wordmark",
     "componentName": "ErlangOriginalWordmark",
     "tags": []
   },
-  { "name": "Erlang Plain", "componentName": "ErlangPlain", "tags": [] },
+  {
+    "name": "Erlang Plain",
+    "componentName": "ErlangPlain",
+    "tags": []
+  },
   {
     "name": "Erlang Plain Wordmark",
     "componentName": "ErlangPlainWordmark",
@@ -1799,7 +1859,11 @@
     "componentName": "FigmaOriginal",
     "tags": ["design"]
   },
-  { "name": "Figma Plain", "componentName": "FigmaPlain", "tags": ["design"] },
+  {
+    "name": "Figma Plain",
+    "componentName": "FigmaPlain",
+    "tags": ["design"]
+  },
   {
     "name": "Filezilla Plain",
     "componentName": "FilezillaPlain",
@@ -1884,6 +1948,16 @@
     "name": "Foundation Plain Wordmark",
     "componentName": "FoundationPlainWordmark",
     "tags": ["framework", "css"]
+  },
+  {
+    "name": "Framermotion Original",
+    "componentName": "FramermotionOriginal",
+    "tags": ["library", "open-source", "react", "animation"]
+  },
+  {
+    "name": "Framermotion Original Wordmark",
+    "componentName": "FramermotionOriginalWordmark",
+    "tags": ["library", "open-source", "react", "animation"]
   },
   {
     "name": "Framework7 Original",
@@ -2016,7 +2090,11 @@
     "componentName": "GimpOriginalWordmark",
     "tags": ["graphic"]
   },
-  { "name": "Gimp Plain", "componentName": "GimpPlain", "tags": ["graphic"] },
+  {
+    "name": "Gimp Plain",
+    "componentName": "GimpPlain",
+    "tags": ["graphic"]
+  },
   {
     "name": "Gimp Plain Wordmark",
     "componentName": "GimpPlainWordmark",
@@ -2142,7 +2220,11 @@
     "componentName": "GitterPlainWordmark",
     "tags": ["social", "chat"]
   },
-  { "name": "Go Line", "componentName": "GoLine", "tags": ["language"] },
+  {
+    "name": "Go Line",
+    "componentName": "GoLine",
+    "tags": ["language"]
+  },
   {
     "name": "Go Original",
     "componentName": "GoOriginal",
@@ -2153,7 +2235,11 @@
     "componentName": "GoOriginalWordmark",
     "tags": ["language"]
   },
-  { "name": "Go Plain", "componentName": "GoPlain", "tags": ["language"] },
+  {
+    "name": "Go Plain",
+    "componentName": "GoPlain",
+    "tags": ["language"]
+  },
   {
     "name": "Godot Original",
     "componentName": "GodotOriginal",
@@ -2199,7 +2285,11 @@
     "componentName": "GoogleOriginalWordmark",
     "tags": ["auth"]
   },
-  { "name": "Google Plain", "componentName": "GooglePlain", "tags": ["auth"] },
+  {
+    "name": "Google Plain",
+    "componentName": "GooglePlain",
+    "tags": ["auth"]
+  },
   {
     "name": "Google Plain Wordmark",
     "componentName": "GooglePlainWordmark",
@@ -2451,7 +2541,11 @@
     "componentName": "HaxeOriginal",
     "tags": ["language"]
   },
-  { "name": "Haxe Plain", "componentName": "HaxePlain", "tags": ["language"] },
+  {
+    "name": "Haxe Plain",
+    "componentName": "HaxePlain",
+    "tags": ["language"]
+  },
   {
     "name": "Helm Line",
     "componentName": "HelmLine",
@@ -2472,7 +2566,11 @@
     "componentName": "HerokuOriginalWordmark",
     "tags": ["cloud"]
   },
-  { "name": "Heroku Plain", "componentName": "HerokuPlain", "tags": ["cloud"] },
+  {
+    "name": "Heroku Plain",
+    "componentName": "HerokuPlain",
+    "tags": ["cloud"]
+  },
   {
     "name": "Heroku Plain Wordmark",
     "componentName": "HerokuPlainWordmark",
@@ -3223,7 +3321,11 @@
     "componentName": "LinuxOriginal",
     "tags": ["os"]
   },
-  { "name": "Linux Plain", "componentName": "LinuxPlain", "tags": ["os"] },
+  {
+    "name": "Linux Plain",
+    "componentName": "LinuxPlain",
+    "tags": ["os"]
+  },
   {
     "name": "Liquibase Original",
     "componentName": "LiquibaseOriginal",
@@ -3436,7 +3538,11 @@
     "componentName": "MavenOriginalWordmark",
     "tags": ["build"]
   },
-  { "name": "Maven Plain", "componentName": "MavenPlain", "tags": ["build"] },
+  {
+    "name": "Maven Plain",
+    "componentName": "MavenPlain",
+    "tags": ["build"]
+  },
   {
     "name": "Maven Plain Wordmark",
     "componentName": "MavenPlainWordmark",
@@ -3561,7 +3667,11 @@
     "componentName": "MochaOriginal",
     "tags": ["testing"]
   },
-  { "name": "Mocha Plain", "componentName": "MochaPlain", "tags": ["testing"] },
+  {
+    "name": "Mocha Plain",
+    "componentName": "MochaPlain",
+    "tags": ["testing"]
+  },
   {
     "name": "Modx Original",
     "componentName": "ModxOriginal",
@@ -3656,13 +3766,21 @@
     "componentName": "MoodlePlainWordmark",
     "tags": ["platform"]
   },
-  { "name": "Msdos Line", "componentName": "MsdosLine", "tags": ["os"] },
+  {
+    "name": "Msdos Line",
+    "componentName": "MsdosLine",
+    "tags": ["os"]
+  },
   {
     "name": "Msdos Original",
     "componentName": "MsdosOriginal",
     "tags": ["os"]
   },
-  { "name": "Msdos Plain", "componentName": "MsdosPlain", "tags": ["os"] },
+  {
+    "name": "Msdos Plain",
+    "componentName": "MsdosPlain",
+    "tags": ["os"]
+  },
   {
     "name": "Mysql Original",
     "componentName": "MysqlOriginal",
@@ -3876,7 +3994,11 @@
     "componentName": "NixosOriginalWordmark",
     "tags": ["os"]
   },
-  { "name": "Nixos Plain", "componentName": "NixosPlain", "tags": ["os"] },
+  {
+    "name": "Nixos Plain",
+    "componentName": "NixosPlain",
+    "tags": ["os"]
+  },
   {
     "name": "Nixos Plain Wordmark",
     "componentName": "NixosPlainWordmark",
@@ -3917,7 +4039,11 @@
     "componentName": "NodemonPlain",
     "tags": ["nodejs", "tool", "javascript"]
   },
-  { "name": "Nodewebkit Line", "componentName": "NodewebkitLine", "tags": [] },
+  {
+    "name": "Nodewebkit Line",
+    "componentName": "NodewebkitLine",
+    "tags": []
+  },
   {
     "name": "Nodewebkit Line Wordmark",
     "componentName": "NodewebkitLineWordmark",
@@ -4206,7 +4332,11 @@
     "componentName": "OperaOriginalWordmark",
     "tags": ["browser"]
   },
-  { "name": "Opera Plain", "componentName": "OperaPlain", "tags": ["browser"] },
+  {
+    "name": "Opera Plain",
+    "componentName": "OperaPlain",
+    "tags": ["browser"]
+  },
   {
     "name": "Opera Plain Wordmark",
     "componentName": "OperaPlainWordmark",
@@ -4914,6 +5044,11 @@
     "tags": ["framework", "library", "frontend", "reactjs", "javascript"]
   },
   {
+    "name": "Reactnavigation Original",
+    "componentName": "ReactnavigationOriginal",
+    "tags": ["routing", "navigation", "react native", "app", "open-source"]
+  },
+  {
     "name": "Reactrouter Original",
     "componentName": "ReactrouterOriginal",
     "tags": ["framework", "react"]
@@ -5008,7 +5143,11 @@
     "componentName": "RedisOriginalWordmark",
     "tags": ["server"]
   },
-  { "name": "Redis Plain", "componentName": "RedisPlain", "tags": ["server"] },
+  {
+    "name": "Redis Plain",
+    "componentName": "RedisPlain",
+    "tags": ["server"]
+  },
   {
     "name": "Redis Plain Wordmark",
     "componentName": "RedisPlainWordmark",
@@ -5159,7 +5298,11 @@
     "componentName": "RustPlain",
     "tags": ["programming", "language"]
   },
-  { "name": "Safari Line", "componentName": "SafariLine", "tags": ["browser"] },
+  {
+    "name": "Safari Line",
+    "componentName": "SafariLine",
+    "tags": ["browser"]
+  },
   {
     "name": "Safari Line Wordmark",
     "componentName": "SafariLineWordmark",
@@ -5200,7 +5343,11 @@
     "componentName": "SanityOriginal",
     "tags": ["CMS"]
   },
-  { "name": "Sanity Plain", "componentName": "SanityPlain", "tags": ["CMS"] },
+  {
+    "name": "Sanity Plain",
+    "componentName": "SanityPlain",
+    "tags": ["CMS"]
+  },
   {
     "name": "Sass Original",
     "componentName": "SassOriginal",
@@ -5372,7 +5519,11 @@
     "componentName": "SlackOriginalWordmark",
     "tags": ["chat"]
   },
-  { "name": "Slack Plain", "componentName": "SlackPlain", "tags": ["chat"] },
+  {
+    "name": "Slack Plain",
+    "componentName": "SlackPlain",
+    "tags": ["chat"]
+  },
   {
     "name": "Slack Plain Wordmark",
     "componentName": "SlackPlainWordmark",
@@ -5843,7 +5994,11 @@
     "componentName": "TitaniumsdkOriginal",
     "tags": ["app", "mobile", "javascript", "cross-platform", "sdk"]
   },
-  { "name": "Tomcat Line", "componentName": "TomcatLine", "tags": ["server"] },
+  {
+    "name": "Tomcat Line",
+    "componentName": "TomcatLine",
+    "tags": ["server"]
+  },
   {
     "name": "Tomcat Line Wordmark",
     "componentName": "TomcatLineWordmark",
@@ -6019,11 +6174,25 @@
     "componentName": "Typo3PlainWordmark",
     "tags": ["cms", "php"]
   },
-  { "name": "Ubuntu Plain", "componentName": "UbuntuPlain", "tags": ["os"] },
+  {
+    "name": "Ubuntu Original",
+    "componentName": "UbuntuOriginal",
+    "tags": ["os", "open-source", "linux"]
+  },
+  {
+    "name": "Ubuntu Original Wordmark",
+    "componentName": "UbuntuOriginalWordmark",
+    "tags": ["os", "open-source", "linux"]
+  },
+  {
+    "name": "Ubuntu Plain",
+    "componentName": "UbuntuPlain",
+    "tags": ["os", "open-source", "linux"]
+  },
   {
     "name": "Ubuntu Plain Wordmark",
     "componentName": "UbuntuPlainWordmark",
-    "tags": ["os"]
+    "tags": ["os", "open-source", "linux"]
   },
   {
     "name": "Unifiedmodelinglanguage Original",
@@ -6075,7 +6244,11 @@
     "componentName": "UnityPlainWordmark",
     "tags": ["C#", "c-sharp", "csharp", "engine", "game-engine"]
   },
-  { "name": "Unix Original", "componentName": "UnixOriginal", "tags": ["os"] },
+  {
+    "name": "Unix Original",
+    "componentName": "UnixOriginal",
+    "tags": ["os"]
+  },
   {
     "name": "Unrealengine Original",
     "componentName": "UnrealengineOriginal",
@@ -6091,7 +6264,11 @@
     "componentName": "UwsgiOriginal",
     "tags": ["hosting"]
   },
-  { "name": "Uwsgi Plain", "componentName": "UwsgiPlain", "tags": ["hosting"] },
+  {
+    "name": "Uwsgi Plain",
+    "componentName": "UwsgiPlain",
+    "tags": ["hosting"]
+  },
   {
     "name": "V8 Original",
     "componentName": "V8Original",
@@ -6182,7 +6359,11 @@
     "componentName": "VimOriginal",
     "tags": ["editor"]
   },
-  { "name": "Vim Plain", "componentName": "VimPlain", "tags": ["editor"] },
+  {
+    "name": "Vim Plain",
+    "componentName": "VimPlain",
+    "tags": ["editor"]
+  },
   {
     "name": "Visualstudio Plain",
     "componentName": "VisualstudioPlain",
@@ -6263,7 +6444,11 @@
     "componentName": "VsphereOriginalWordmark",
     "tags": ["hypervisor", "operating-system", "vmware"]
   },
-  { "name": "Vuejs Line", "componentName": "VuejsLine", "tags": ["framework"] },
+  {
+    "name": "Vuejs Line",
+    "componentName": "VuejsLine",
+    "tags": ["framework"]
+  },
   {
     "name": "Vuejs Line Wordmark",
     "componentName": "VuejsLineWordmark",
