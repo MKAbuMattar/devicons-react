@@ -2316,14 +2316,14 @@
     "tags": ["google", "cloud"]
   },
   {
-    "name": "Gradle Plain",
-    "componentName": "GradlePlain",
-    "tags": ["task-runner"]
+    "name": "Gradle Original",
+    "componentName": "GradleOriginal",
+    "tags": ["open-source", "task-runner"]
   },
   {
-    "name": "Gradle Plain Wordmark",
-    "componentName": "GradlePlainWordmark",
-    "tags": ["task-runner"]
+    "name": "Gradle Original Wordmark",
+    "componentName": "GradleOriginalWordmark",
+    "tags": ["open-source", "task-runner"]
   },
   {
     "name": "Grafana Original",
@@ -4742,6 +4742,16 @@
     "name": "Protractor Plain Wordmark",
     "componentName": "ProtractorPlainWordmark",
     "tags": ["framework", "javascript"]
+  },
+  {
+    "name": "Puppeteer Original",
+    "componentName": "PuppeteerOriginal",
+    "tags": ["open-source", "devtools protocol", "testing", "extension"]
+  },
+  {
+    "name": "Puppeteer Plain",
+    "componentName": "PuppeteerPlain",
+    "tags": ["open-source", "devtools protocol", "testing", "extension"]
   },
   {
     "name": "Purescript Original",
