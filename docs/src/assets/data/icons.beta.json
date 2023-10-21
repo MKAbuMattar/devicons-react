@@ -3852,6 +3852,50 @@
     "tags": ["framework"]
   },
   {
+    "name": "Netlify Original",
+    "componentName": "NetlifyOriginal",
+    "tags": [
+      "cloud hosting",
+      "serverless",
+      "dynamic websites",
+      "web applications",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Netlify Original Wordmark",
+    "componentName": "NetlifyOriginalWordmark",
+    "tags": [
+      "cloud hosting",
+      "serverless",
+      "dynamic websites",
+      "web applications",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Netlify Plain",
+    "componentName": "NetlifyPlain",
+    "tags": [
+      "cloud hosting",
+      "serverless",
+      "dynamic websites",
+      "web applications",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Netlify Plain Wordmark",
+    "componentName": "NetlifyPlainWordmark",
+    "tags": [
+      "cloud hosting",
+      "serverless",
+      "dynamic websites",
+      "web applications",
+      "open-source"
+    ]
+  },
+  {
     "name": "Networkx Original",
     "componentName": "NetworkxOriginal",
     "tags": ["graph", "library", "python"]
@@ -5600,6 +5644,16 @@
     "tags": ["version-control"]
   },
   {
+    "name": "Spack Original",
+    "componentName": "SpackOriginal",
+    "tags": ["package-manager", "package", "manager", "python", "open-source"]
+  },
+  {
+    "name": "Spack Plain",
+    "componentName": "SpackPlain",
+    "tags": ["package-manager", "package", "manager", "python", "open-source"]
+  },
+  {
     "name": "Splunk Original Wordmark",
     "componentName": "SplunkOriginalWordmark",
     "tags": ["platform", "data", "log", "monitoring"]
@@ -6423,6 +6477,16 @@
     "name": "Vitess Plain Wordmark",
     "componentName": "VitessPlainWordmark",
     "tags": ["sharding", "database", "mysql"]
+  },
+  {
+    "name": "Vitest Original",
+    "componentName": "VitestOriginal",
+    "tags": ["framework", "open-source", "testing", "vite"]
+  },
+  {
+    "name": "Vitest Plain",
+    "componentName": "VitestPlain",
+    "tags": ["framework", "open-source", "testing", "vite"]
   },
   {
     "name": "Vscode Original",
