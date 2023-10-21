@@ -1850,10 +1850,10 @@
     "@babel/helper-validator-identifier" "^7.22.5"
     to-fast-properties "^2.0.0"
 
-"@beta/devicons-react@npm:devicons-react@1.2.6-beta-0.2.0":
-  version "1.2.6-beta-0.2.0"
-  resolved "https://registry.yarnpkg.com/devicons-react/-/devicons-react-1.2.6-beta-0.2.0.tgz#1d9e7fced0dc150d7cf020af5c26944f5de8abd6"
-  integrity sha512-6ZPhp6esWVmLDxcXZHWTZJy8PieRHxeNofusjcwCDr3l0k/pnlgFU8kh6ohpd8EG2trB60rjdmHPUGyfNYiwQA==
+"@beta/devicons-react@npm:devicons-react@1.2.6-beta-0.2.1":
+  version "1.2.6-beta-0.2.1"
+  resolved "https://registry.yarnpkg.com/devicons-react/-/devicons-react-1.2.6-beta-0.2.1.tgz#2b18ee88747f4e0858b3c89889f94752e1f54484"
+  integrity sha512-O7NtIdO6/w6cMXGZ2CtFn2jTLQTPdcqxzYeaLV9jcTHDfmbwNRoWT5JZNRsYC6nb21FUj4sW/mdTgRaf8z5U6w==
 
 "@emotion/is-prop-valid@^1.2.1":
   version "1.2.1"
