@@ -800,6 +800,11 @@
     "tags": ["javascript", "js", "ionic", "framework", "universal"]
   },
   {
+    "name": "Carbon Original",
+    "componentName": "CarbonOriginal",
+    "tags": ["programming", "language"]
+  },
+  {
     "name": "Cassandra Original",
     "componentName": "CassandraOriginal",
     "tags": ["nosql", "database", "open-source"]
@@ -3062,6 +3067,11 @@
     "tags": ["kubernetes", "container", "platform"]
   },
   {
+    "name": "K6 Original",
+    "componentName": "K6Original",
+    "tags": ["testing", "performance", "load"]
+  },
+  {
     "name": "Kaggle Original",
     "componentName": "KaggleOriginal",
     "tags": ["platform", "auth", "machine-learning"]
@@ -4392,6 +4402,16 @@
     "tags": ["database"]
   },
   {
+    "name": "Ory Original",
+    "componentName": "OryOriginal",
+    "tags": ["library", "open-source", "security"]
+  },
+  {
+    "name": "Ory Original Wordmark",
+    "componentName": "OryOriginalWordmark",
+    "tags": ["library", "open-source", "security"]
+  },
+  {
     "name": "P5js Original",
     "componentName": "P5jsOriginal",
     "tags": ["javascript", "js", "library"]
@@ -4786,6 +4806,26 @@
     "name": "Protractor Plain Wordmark",
     "componentName": "ProtractorPlainWordmark",
     "tags": ["framework", "javascript"]
+  },
+  {
+    "name": "Pulumi Original",
+    "componentName": "PulumiOriginal",
+    "tags": ["infrastructure-as-code", "cloud"]
+  },
+  {
+    "name": "Pulumi Original Wordmark",
+    "componentName": "PulumiOriginalWordmark",
+    "tags": ["infrastructure-as-code", "cloud"]
+  },
+  {
+    "name": "Pulumi Plain",
+    "componentName": "PulumiPlain",
+    "tags": ["infrastructure-as-code", "cloud"]
+  },
+  {
+    "name": "Pulumi Plain Wordmark",
+    "componentName": "PulumiPlainWordmark",
+    "tags": ["infrastructure-as-code", "cloud"]
   },
   {
     "name": "Puppeteer Original",
@@ -5221,6 +5261,21 @@
     "name": "Renpy Plain",
     "componentName": "RenpyPlain",
     "tags": ["programming", "game-engine", "engine", "python"]
+  },
+  {
+    "name": "Replit Original",
+    "componentName": "ReplitOriginal",
+    "tags": ["software"]
+  },
+  {
+    "name": "Replit Original Wordmark",
+    "componentName": "ReplitOriginalWordmark",
+    "tags": ["software"]
+  },
+  {
+    "name": "Replit Plain Wordmark",
+    "componentName": "ReplitPlainWordmark",
+    "tags": ["software"]
   },
   {
     "name": "Rider Original",
