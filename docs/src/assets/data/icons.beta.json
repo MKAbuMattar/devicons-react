@@ -2912,6 +2912,36 @@
     "tags": ["ide"]
   },
   {
+    "name": "Jetpackcompose Line",
+    "componentName": "JetpackcomposeLine",
+    "tags": ["framework", "language", "kotlin", "android"]
+  },
+  {
+    "name": "Jetpackcompose Line Wordmark",
+    "componentName": "JetpackcomposeLineWordmark",
+    "tags": ["framework", "language", "kotlin", "android"]
+  },
+  {
+    "name": "Jetpackcompose Original",
+    "componentName": "JetpackcomposeOriginal",
+    "tags": ["framework", "language", "kotlin", "android"]
+  },
+  {
+    "name": "Jetpackcompose Original Wordmark",
+    "componentName": "JetpackcomposeOriginalWordmark",
+    "tags": ["framework", "language", "kotlin", "android"]
+  },
+  {
+    "name": "Jetpackcompose Plain",
+    "componentName": "JetpackcomposePlain",
+    "tags": ["framework", "language", "kotlin", "android"]
+  },
+  {
+    "name": "Jetpackcompose Plain Wordmark",
+    "componentName": "JetpackcomposePlainWordmark",
+    "tags": ["framework", "language", "kotlin", "android"]
+  },
+  {
     "name": "Jira Original",
     "componentName": "JiraOriginal",
     "tags": ["platform", "organize"]
@@ -4149,6 +4179,21 @@
     "tags": ["note-taking", "organization"]
   },
   {
+    "name": "Notion Line",
+    "componentName": "NotionLine",
+    "tags": ["project-management"]
+  },
+  {
+    "name": "Notion Original",
+    "componentName": "NotionOriginal",
+    "tags": ["project-management"]
+  },
+  {
+    "name": "Notion Plain",
+    "componentName": "NotionPlain",
+    "tags": ["project-management"]
+  },
+  {
     "name": "Npm Original Wordmark",
     "componentName": "NpmOriginalWordmark",
     "tags": ["package", "manager"]
@@ -4806,6 +4851,16 @@
     "name": "Protractor Plain Wordmark",
     "componentName": "ProtractorPlainWordmark",
     "tags": ["framework", "javascript"]
+  },
+  {
+    "name": "Pulsar Original",
+    "componentName": "PulsarOriginal",
+    "tags": ["open-source", "cross-platform", "editor"]
+  },
+  {
+    "name": "Pulsar Original Wordmark",
+    "componentName": "PulsarOriginalWordmark",
+    "tags": ["open-source", "cross-platform", "editor"]
   },
   {
     "name": "Pulumi Original",
@@ -5533,6 +5588,16 @@
     "tags": ["software", "development", "company", "code-review", "open-source"]
   },
   {
+    "name": "Sentry Original",
+    "componentName": "SentryOriginal",
+    "tags": ["monitoring", "analytics", "metrics"]
+  },
+  {
+    "name": "Sentry Original Wordmark",
+    "componentName": "SentryOriginalWordmark",
+    "tags": ["monitoring", "analytics", "metrics"]
+  },
+  {
     "name": "Sequelize Original",
     "componentName": "SequelizeOriginal",
     "tags": ["database", "language"]
@@ -5742,6 +5807,26 @@
     "name": "Spss Plain",
     "componentName": "SpssPlain",
     "tags": ["package", "statistics"]
+  },
+  {
+    "name": "Spyder Original",
+    "componentName": "SpyderOriginal",
+    "tags": ["python", "ide", "editor", "data-science"]
+  },
+  {
+    "name": "Spyder Original Wordmark",
+    "componentName": "SpyderOriginalWordmark",
+    "tags": ["python", "ide", "editor", "data-science"]
+  },
+  {
+    "name": "Spyder Plain",
+    "componentName": "SpyderPlain",
+    "tags": ["python", "ide", "editor", "data-science"]
+  },
+  {
+    "name": "Spyder Plain Wordmark",
+    "componentName": "SpyderPlainWordmark",
+    "tags": ["python", "ide", "editor", "data-science"]
   },
   {
     "name": "Sqlalchemy Original",
@@ -5987,6 +6072,11 @@
     "name": "Swift Plain Wordmark",
     "componentName": "SwiftPlainWordmark",
     "tags": ["language"]
+  },
+  {
+    "name": "Swiper Original",
+    "componentName": "SwiperOriginal",
+    "tags": ["library", "javascript", "open-source"]
   },
   {
     "name": "Symfony Original",
