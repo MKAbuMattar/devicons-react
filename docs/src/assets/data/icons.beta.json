@@ -5463,6 +5463,16 @@
     "tags": ["programming", "language"]
   },
   {
+    "name": "Rxjs Original",
+    "componentName": "RxjsOriginal",
+    "tags": ["javascript", "library", "observability"]
+  },
+  {
+    "name": "Rxjs Plain",
+    "componentName": "RxjsPlain",
+    "tags": ["javascript", "library", "observability"]
+  },
+  {
     "name": "Safari Line",
     "componentName": "SafariLine",
     "tags": ["browser"]
@@ -6967,6 +6977,26 @@
     "name": "Yii Plain Wordmark",
     "componentName": "YiiPlainWordmark",
     "tags": ["php", "framework"]
+  },
+  {
+    "name": "Yugabytedb Original",
+    "componentName": "YugabytedbOriginal",
+    "tags": ["database", "relational", "sql", "scale", "open-source"]
+  },
+  {
+    "name": "Yugabytedb Original Wordmark",
+    "componentName": "YugabytedbOriginalWordmark",
+    "tags": ["database", "relational", "sql", "scale", "open-source"]
+  },
+  {
+    "name": "Yugabytedb Plain",
+    "componentName": "YugabytedbPlain",
+    "tags": ["database", "relational", "sql", "scale", "open-source"]
+  },
+  {
+    "name": "Yugabytedb Plain Wordmark",
+    "componentName": "YugabytedbPlainWordmark",
+    "tags": ["database", "relational", "sql", "scale", "open-source"]
   },
   {
     "name": "Yunohost Original",
