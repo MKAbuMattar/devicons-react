@@ -1,5 +1,10 @@
 [
   {
+    "name": "Aarch64 Line",
+    "componentName": "Aarch64Line",
+    "tags": ["architecture", "programming", "language", "ARM"]
+  },
+  {
     "name": "Aarch64 Original",
     "componentName": "Aarch64Original",
     "tags": ["architecture", "programming", "language", "ARM"]
@@ -1035,13 +1040,23 @@
     "tags": ["php", "framework"]
   },
   {
-    "name": "Codepen Original Wordmark",
-    "componentName": "CodepenOriginalWordmark",
+    "name": "Codepen Line",
+    "componentName": "CodepenLine",
     "tags": ["social", "website", "editor"]
   },
   {
-    "name": "Codepen Plain",
-    "componentName": "CodepenPlain",
+    "name": "Codepen Line Wordmark",
+    "componentName": "CodepenLineWordmark",
+    "tags": ["social", "website", "editor"]
+  },
+  {
+    "name": "Codepen Original",
+    "componentName": "CodepenOriginal",
+    "tags": ["social", "website", "editor"]
+  },
+  {
+    "name": "Codepen Original Wordmark",
+    "componentName": "CodepenOriginalWordmark",
     "tags": ["social", "website", "editor"]
   },
   {
@@ -1135,6 +1150,21 @@
     "tags": ["database", "nosql", "cloud", "azure"]
   },
   {
+    "name": "Couchbase Original",
+    "componentName": "CouchbaseOriginal",
+    "tags": ["database", "nosql", "cloud"]
+  },
+  {
+    "name": "Couchbase Original Wordmark",
+    "componentName": "CouchbaseOriginalWordmark",
+    "tags": ["database", "nosql", "cloud"]
+  },
+  {
+    "name": "Couchbase Plain Wordmark",
+    "componentName": "CouchbasePlainWordmark",
+    "tags": ["database", "nosql", "cloud"]
+  },
+  {
     "name": "Couchdb Original",
     "componentName": "CouchdbOriginal",
     "tags": ["database"]
@@ -1168,6 +1198,16 @@
     "name": "Cplusplus Plain",
     "componentName": "CplusplusPlain",
     "tags": ["language"]
+  },
+  {
+    "name": "Crystal Line",
+    "componentName": "CrystalLine",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Crystal Line Wordmark",
+    "componentName": "CrystalLineWordmark",
+    "tags": ["programming", "language"]
   },
   {
     "name": "Crystal Original",
@@ -2086,6 +2126,16 @@
     "tags": ["cms"]
   },
   {
+    "name": "Gimp Line",
+    "componentName": "GimpLine",
+    "tags": ["graphic"]
+  },
+  {
+    "name": "Gimp Line Wordmark",
+    "componentName": "GimpLineWordmark",
+    "tags": ["graphic"]
+  },
+  {
     "name": "Gimp Original",
     "componentName": "GimpOriginal",
     "tags": ["graphic"]
@@ -2480,6 +2530,16 @@
       "framework",
       "java"
     ]
+  },
+  {
+    "name": "Handlebars Line",
+    "componentName": "HandlebarsLine",
+    "tags": ["framework"]
+  },
+  {
+    "name": "Handlebars Line Wordmark",
+    "componentName": "HandlebarsLineWordmark",
+    "tags": ["framework"]
   },
   {
     "name": "Handlebars Original",
@@ -3312,18 +3372,23 @@
     "tags": ["language"]
   },
   {
+    "name": "Laravel Line",
+    "componentName": "LaravelLine",
+    "tags": ["php", "framework"]
+  },
+  {
+    "name": "Laravel Line Wordmark",
+    "componentName": "LaravelLineWordmark",
+    "tags": ["php", "framework"]
+  },
+  {
     "name": "Laravel Original",
     "componentName": "LaravelOriginal",
     "tags": ["php", "framework"]
   },
   {
-    "name": "Laravel Plain",
-    "componentName": "LaravelPlain",
-    "tags": ["php", "framework"]
-  },
-  {
-    "name": "Laravel Plain Wordmark",
-    "componentName": "LaravelPlainWordmark",
+    "name": "Laravel Original Wordmark",
+    "componentName": "LaravelOriginalWordmark",
     "tags": ["php", "framework"]
   },
   {
@@ -3693,6 +3758,16 @@
     "tags": ["package", "statistics"]
   },
   {
+    "name": "Mithril Line",
+    "componentName": "MithrilLine",
+    "tags": ["javascript", "framework", "frontend", "js"]
+  },
+  {
+    "name": "Mithril Original",
+    "componentName": "MithrilOriginal",
+    "tags": ["javascript", "framework", "frontend", "js"]
+  },
+  {
     "name": "Mobx Original",
     "componentName": "MobxOriginal",
     "tags": ["state-management", "testing", "reactjs", "nodejs"]
@@ -3880,6 +3955,36 @@
     "name": "Neo4j Plain Wordmark",
     "componentName": "Neo4jPlainWordmark",
     "tags": ["database"]
+  },
+  {
+    "name": "Neovim Line",
+    "componentName": "NeovimLine",
+    "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
+  },
+  {
+    "name": "Neovim Line Wordmark",
+    "componentName": "NeovimLineWordmark",
+    "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
+  },
+  {
+    "name": "Neovim Original",
+    "componentName": "NeovimOriginal",
+    "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
+  },
+  {
+    "name": "Neovim Original Wordmark",
+    "componentName": "NeovimOriginalWordmark",
+    "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
+  },
+  {
+    "name": "Neovim Plain",
+    "componentName": "NeovimPlain",
+    "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
+  },
+  {
+    "name": "Neovim Plain Wordmark",
+    "componentName": "NeovimPlainWordmark",
+    "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
   },
   {
     "name": "Nestjs Plain",
@@ -5138,6 +5243,26 @@
     "tags": ["framework"]
   },
   {
+    "name": "Railway Line",
+    "componentName": "RailwayLine",
+    "tags": ["hosting", "platform", "deployment"]
+  },
+  {
+    "name": "Railway Line Wordmark",
+    "componentName": "RailwayLineWordmark",
+    "tags": ["hosting", "platform", "deployment"]
+  },
+  {
+    "name": "Railway Original",
+    "componentName": "RailwayOriginal",
+    "tags": ["hosting", "platform", "deployment"]
+  },
+  {
+    "name": "Railway Original Wordmark",
+    "componentName": "RailwayOriginalWordmark",
+    "tags": ["hosting", "platform", "deployment"]
+  },
+  {
     "name": "Rancher Original",
     "componentName": "RancherOriginal",
     "tags": ["kubernetes", "orchestrator"]
@@ -5356,6 +5481,21 @@
     "name": "Rocksdb Plain",
     "componentName": "RocksdbPlain",
     "tags": ["database"]
+  },
+  {
+    "name": "Rockylinux Original",
+    "componentName": "RockylinuxOriginal",
+    "tags": ["os", "open-source", "linux"]
+  },
+  {
+    "name": "Rockylinux Original Wordmark",
+    "componentName": "RockylinuxOriginalWordmark",
+    "tags": ["os", "open-source", "linux"]
+  },
+  {
+    "name": "Rockylinux Plain Wordmark",
+    "componentName": "RockylinuxPlainWordmark",
+    "tags": ["os", "open-source", "linux"]
   },
   {
     "name": "Rollup Line",
@@ -5754,6 +5894,16 @@
     "tags": ["javascript", "framework", "frontend"]
   },
   {
+    "name": "Sonarqube Line",
+    "componentName": "SonarqubeLine",
+    "tags": ["tool", "security"]
+  },
+  {
+    "name": "Sonarqube Line Wordmark",
+    "componentName": "SonarqubeLineWordmark",
+    "tags": ["tool", "security"]
+  },
+  {
     "name": "Sonarqube Original",
     "componentName": "SonarqubeOriginal",
     "tags": ["tool", "security"]
@@ -5761,6 +5911,11 @@
   {
     "name": "Sonarqube Original Wordmark",
     "componentName": "SonarqubeOriginalWordmark",
+    "tags": ["tool", "security"]
+  },
+  {
+    "name": "Sonarqube Plain Wordmark",
+    "componentName": "SonarqubePlainWordmark",
     "tags": ["tool", "security"]
   },
   {
@@ -6199,6 +6354,32 @@
     "tags": ["organization", "algorithms"]
   },
   {
+    "name": "Threedsmax Original",
+    "componentName": "ThreedsmaxOriginal",
+    "tags": [
+      "3d",
+      "programming",
+      "vfx",
+      "graphic",
+      "graphics",
+      "game",
+      "animation"
+    ]
+  },
+  {
+    "name": "Threedsmax Plain",
+    "componentName": "ThreedsmaxPlain",
+    "tags": [
+      "3d",
+      "programming",
+      "vfx",
+      "graphic",
+      "graphics",
+      "game",
+      "animation"
+    ]
+  },
+  {
     "name": "Threejs Original",
     "componentName": "ThreejsOriginal",
     "tags": ["javascript", "framework"]
@@ -6552,6 +6733,16 @@
     "name": "Vault Plain Wordmark",
     "componentName": "VaultPlainWordmark",
     "tags": ["tool", "security", "infrastructure"]
+  },
+  {
+    "name": "Vercel Line",
+    "componentName": "VercelLine",
+    "tags": ["hosting", "platform", "deployment", "git"]
+  },
+  {
+    "name": "Vercel Line Wordmark",
+    "componentName": "VercelLineWordmark",
+    "tags": ["hosting", "platform", "deployment", "git"]
   },
   {
     "name": "Vercel Original",
@@ -6949,14 +7140,24 @@
     "tags": ["data", "language"]
   },
   {
+    "name": "Yarn Line",
+    "componentName": "YarnLine",
+    "tags": ["package", "manager", "javascript", "js"]
+  },
+  {
+    "name": "Yarn Line Wordmark",
+    "componentName": "YarnLineWordmark",
+    "tags": ["package", "manager", "javascript", "js"]
+  },
+  {
     "name": "Yarn Original",
     "componentName": "YarnOriginal",
-    "tags": ["package", "manager"]
+    "tags": ["package", "manager", "javascript", "js"]
   },
   {
     "name": "Yarn Original Wordmark",
     "componentName": "YarnOriginalWordmark",
-    "tags": ["package", "manager"]
+    "tags": ["package", "manager", "javascript", "js"]
   },
   {
     "name": "Yii Original",
@@ -7031,16 +7232,6 @@
   {
     "name": "Zig Plain Wordmark",
     "componentName": "ZigPlainWordmark",
-    "tags": ["language"]
-  },
-  {
-    "name": "_3dsmax Original",
-    "componentName": "_3dsmaxOriginal",
-    "tags": ["language"]
-  },
-  {
-    "name": "_3dsmax Plain",
-    "componentName": "_3dsmaxPlain",
     "tags": ["language"]
   }
 ]
