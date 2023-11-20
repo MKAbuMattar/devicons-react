@@ -1395,16 +1395,6 @@
     "tags": ["cloud", "hosting", "database", "storage"]
   },
   {
-    "name": "Digitalocean Plain",
-    "componentName": "DigitaloceanPlain",
-    "tags": ["cloud", "hosting", "database", "storage"]
-  },
-  {
-    "name": "Digitalocean Plain Wordmark",
-    "componentName": "DigitaloceanPlainWordmark",
-    "tags": ["cloud", "hosting", "database", "storage"]
-  },
-  {
     "name": "Discordjs Original",
     "componentName": "DiscordjsOriginal",
     "tags": ["wrapper", "api_wrapper", "nodejs"]
@@ -4494,16 +4484,6 @@
   {
     "name": "Opensuse Original Wordmark",
     "componentName": "OpensuseOriginalWordmark",
-    "tags": ["linux", "distribuition", "desktop"]
-  },
-  {
-    "name": "Opensuse Plain",
-    "componentName": "OpensusePlain",
-    "tags": ["linux", "distribuition", "desktop"]
-  },
-  {
-    "name": "Opensuse Plain Wordmark",
-    "componentName": "OpensusePlainWordmark",
     "tags": ["linux", "distribuition", "desktop"]
   },
   {
