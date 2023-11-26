@@ -615,6 +615,16 @@
     "tags": ["version-control"]
   },
   {
+    "name": "Blazor Line",
+    "componentName": "BlazorLine",
+    "tags": ["dotnet", ".net", "framework", "design", "ui"]
+  },
+  {
+    "name": "Blazor Original",
+    "componentName": "BlazorOriginal",
+    "tags": ["dotnet", ".net", "framework", "design", "ui"]
+  },
+  {
     "name": "Blender Original",
     "componentName": "BlenderOriginal",
     "tags": ["modelling", "python", "3d", "animation"]
@@ -1265,6 +1275,16 @@
     "tags": ["framework"]
   },
   {
+    "name": "Cypressio Line",
+    "componentName": "CypressioLine",
+    "tags": ["testing", "framework"]
+  },
+  {
+    "name": "Cypressio Line Wordmark",
+    "componentName": "CypressioLineWordmark",
+    "tags": ["testing", "framework"]
+  },
+  {
     "name": "Cypressio Original",
     "componentName": "CypressioOriginal",
     "tags": ["testing", "framework"]
@@ -1272,6 +1292,16 @@
   {
     "name": "Cypressio Original Wordmark",
     "componentName": "CypressioOriginalWordmark",
+    "tags": ["testing", "framework"]
+  },
+  {
+    "name": "Cypressio Plain",
+    "componentName": "CypressioPlain",
+    "tags": ["testing", "framework"]
+  },
+  {
+    "name": "Cypressio Plain Wordmark",
+    "componentName": "CypressioPlainWordmark",
     "tags": ["testing", "framework"]
   },
   {
@@ -1785,6 +1815,16 @@
     "tags": []
   },
   {
+    "name": "Eslint Line",
+    "componentName": "EslintLine",
+    "tags": ["linter", "javascript", "code-quality", "coding-style"]
+  },
+  {
+    "name": "Eslint Line Wordmark",
+    "componentName": "EslintLineWordmark",
+    "tags": ["linter", "javascript", "code-quality", "coding-style"]
+  },
+  {
     "name": "Eslint Original",
     "componentName": "EslintOriginal",
     "tags": ["linter", "javascript", "code-quality", "coding-style"]
@@ -1792,6 +1832,16 @@
   {
     "name": "Eslint Original Wordmark",
     "componentName": "EslintOriginalWordmark",
+    "tags": ["linter", "javascript", "code-quality", "coding-style"]
+  },
+  {
+    "name": "Eslint Plain",
+    "componentName": "EslintPlain",
+    "tags": ["linter", "javascript", "code-quality", "coding-style"]
+  },
+  {
+    "name": "Eslint Plain Wordmark",
+    "componentName": "EslintPlainWordmark",
     "tags": ["linter", "javascript", "code-quality", "coding-style"]
   },
   {
@@ -2031,8 +2081,23 @@
     "tags": ["language"]
   },
   {
-    "name": "Gatling Plain",
-    "componentName": "GatlingPlain",
+    "name": "Gatling Line",
+    "componentName": "GatlingLine",
+    "tags": ["framework", "testing"]
+  },
+  {
+    "name": "Gatling Line Wordmark",
+    "componentName": "GatlingLineWordmark",
+    "tags": ["framework", "testing"]
+  },
+  {
+    "name": "Gatling Original",
+    "componentName": "GatlingOriginal",
+    "tags": ["framework", "testing"]
+  },
+  {
+    "name": "Gatling Original Wordmark",
+    "componentName": "GatlingOriginalWordmark",
     "tags": ["framework", "testing"]
   },
   {
@@ -2048,11 +2113,6 @@
   {
     "name": "Gatsby Original Wordmark",
     "componentName": "GatsbyOriginalWordmark",
-    "tags": ["reactjs", "framework"]
-  },
-  {
-    "name": "Gatsby Plain",
-    "componentName": "GatsbyPlain",
     "tags": ["reactjs", "framework"]
   },
   {
@@ -3897,11 +3957,6 @@
     "tags": ["database", "language"]
   },
   {
-    "name": "Mysql Plain",
-    "componentName": "MysqlPlain",
-    "tags": ["database", "language"]
-  },
-  {
     "name": "Mysql Plain Wordmark",
     "componentName": "MysqlPlainWordmark",
     "tags": ["database", "language"]
@@ -3977,13 +4032,23 @@
     "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
   },
   {
-    "name": "Nestjs Plain",
-    "componentName": "NestjsPlain",
+    "name": "Nestjs Line",
+    "componentName": "NestjsLine",
     "tags": ["framework"]
   },
   {
-    "name": "Nestjs Plain Wordmark",
-    "componentName": "NestjsPlainWordmark",
+    "name": "Nestjs Line Wordmark",
+    "componentName": "NestjsLineWordmark",
+    "tags": ["framework"]
+  },
+  {
+    "name": "Nestjs Original",
+    "componentName": "NestjsOriginal",
+    "tags": ["framework"]
+  },
+  {
+    "name": "Nestjs Original Wordmark",
+    "componentName": "NestjsOriginalWordmark",
     "tags": ["framework"]
   },
   {
@@ -4304,6 +4369,16 @@
     "tags": ["package", "manager"]
   },
   {
+    "name": "Numpy Line",
+    "componentName": "NumpyLine",
+    "tags": ["library", "python"]
+  },
+  {
+    "name": "Numpy Line Wordmark",
+    "componentName": "NumpyLineWordmark",
+    "tags": ["library", "python"]
+  },
+  {
     "name": "Numpy Original",
     "componentName": "NumpyOriginal",
     "tags": ["library", "python"]
@@ -4311,6 +4386,16 @@
   {
     "name": "Numpy Original Wordmark",
     "componentName": "NumpyOriginalWordmark",
+    "tags": ["library", "python"]
+  },
+  {
+    "name": "Numpy Plain",
+    "componentName": "NumpyPlain",
+    "tags": ["library", "python"]
+  },
+  {
+    "name": "Numpy Plain Wordmark",
+    "componentName": "NumpyPlainWordmark",
     "tags": ["library", "python"]
   },
   {
@@ -4557,6 +4642,16 @@
     "tags": ["infrastructure", "infrastructure-as-code", "continuous-delivery"]
   },
   {
+    "name": "Pandas Line",
+    "componentName": "PandasLine",
+    "tags": ["library", "python"]
+  },
+  {
+    "name": "Pandas Line Wordmark",
+    "componentName": "PandasLineWordmark",
+    "tags": ["library", "python"]
+  },
+  {
     "name": "Pandas Original",
     "componentName": "PandasOriginal",
     "tags": ["library", "python"]
@@ -4564,6 +4659,16 @@
   {
     "name": "Pandas Original Wordmark",
     "componentName": "PandasOriginalWordmark",
+    "tags": ["library", "python"]
+  },
+  {
+    "name": "Pandas Plain",
+    "componentName": "PandasPlain",
+    "tags": ["library", "python"]
+  },
+  {
+    "name": "Pandas Plain Wordmark",
+    "componentName": "PandasPlainWordmark",
     "tags": ["library", "python"]
   },
   {
@@ -4795,11 +4900,6 @@
   {
     "name": "Postcss Original Wordmark",
     "componentName": "PostcssOriginalWordmark",
-    "tags": ["pre-processor", "css", "framework"]
-  },
-  {
-    "name": "Postcss Plain",
-    "componentName": "PostcssPlain",
     "tags": ["pre-processor", "css", "framework"]
   },
   {
@@ -5243,6 +5343,16 @@
     "tags": ["hosting", "platform", "deployment"]
   },
   {
+    "name": "Rancher Line",
+    "componentName": "RancherLine",
+    "tags": ["kubernetes", "orchestrator"]
+  },
+  {
+    "name": "Rancher Line Wordmark",
+    "componentName": "RancherLineWordmark",
+    "tags": ["kubernetes", "orchestrator"]
+  },
+  {
     "name": "Rancher Original",
     "componentName": "RancherOriginal",
     "tags": ["kubernetes", "orchestrator"]
@@ -5250,6 +5360,11 @@
   {
     "name": "Rancher Original Wordmark",
     "componentName": "RancherOriginalWordmark",
+    "tags": ["kubernetes", "orchestrator"]
+  },
+  {
+    "name": "Rancher Plain Wordmark",
+    "componentName": "RancherPlainWordmark",
     "tags": ["kubernetes", "orchestrator"]
   },
   {
@@ -5578,8 +5693,13 @@
     "tags": ["jetbrains", "editor"]
   },
   {
-    "name": "Rust Plain",
-    "componentName": "RustPlain",
+    "name": "Rust Line",
+    "componentName": "RustLine",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Rust Original",
+    "componentName": "RustOriginal",
     "tags": ["programming", "language"]
   },
   {
@@ -5931,16 +6051,6 @@
   {
     "name": "Spring Original Wordmark",
     "componentName": "SpringOriginalWordmark",
-    "tags": ["framework"]
-  },
-  {
-    "name": "Spring Plain",
-    "componentName": "SpringPlain",
-    "tags": ["framework"]
-  },
-  {
-    "name": "Spring Plain Wordmark",
-    "componentName": "SpringPlainWordmark",
     "tags": ["framework"]
   },
   {
