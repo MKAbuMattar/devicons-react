@@ -1970,6 +1970,26 @@
     "tags": ["design"]
   },
   {
+    "name": "Filezilla Line",
+    "componentName": "FilezillaLine",
+    "tags": ["ftp"]
+  },
+  {
+    "name": "Filezilla Line Wordmark",
+    "componentName": "FilezillaLineWordmark",
+    "tags": ["ftp"]
+  },
+  {
+    "name": "Filezilla Original",
+    "componentName": "FilezillaOriginal",
+    "tags": ["ftp"]
+  },
+  {
+    "name": "Filezilla Original Wordmark",
+    "componentName": "FilezillaOriginalWordmark",
+    "tags": ["ftp"]
+  },
+  {
     "name": "Filezilla Plain",
     "componentName": "FilezillaPlain",
     "tags": ["ftp"]
@@ -1978,6 +1998,26 @@
     "name": "Filezilla Plain Wordmark",
     "componentName": "FilezillaPlainWordmark",
     "tags": ["ftp"]
+  },
+  {
+    "name": "Firebase Line",
+    "componentName": "FirebaseLine",
+    "tags": ["auth", "hosting", "storage", "cloud"]
+  },
+  {
+    "name": "Firebase Line Wordmark",
+    "componentName": "FirebaseLineWordmark",
+    "tags": ["auth", "hosting", "storage", "cloud"]
+  },
+  {
+    "name": "Firebase Original",
+    "componentName": "FirebaseOriginal",
+    "tags": ["auth", "hosting", "storage", "cloud"]
+  },
+  {
+    "name": "Firebase Original Wordmark",
+    "componentName": "FirebaseOriginalWordmark",
+    "tags": ["auth", "hosting", "storage", "cloud"]
   },
   {
     "name": "Firebase Plain",
@@ -3520,6 +3560,26 @@
     "tags": ["jetbrains", "kotlin", "framework"]
   },
   {
+    "name": "Kubernetes Line",
+    "componentName": "KubernetesLine",
+    "tags": ["container", "deployment"]
+  },
+  {
+    "name": "Kubernetes Line Wordmark",
+    "componentName": "KubernetesLineWordmark",
+    "tags": ["container", "deployment"]
+  },
+  {
+    "name": "Kubernetes Original",
+    "componentName": "KubernetesOriginal",
+    "tags": ["container", "deployment"]
+  },
+  {
+    "name": "Kubernetes Original Wordmark",
+    "componentName": "KubernetesOriginalWordmark",
+    "tags": ["container", "deployment"]
+  },
+  {
     "name": "Kubernetes Plain",
     "componentName": "KubernetesPlain",
     "tags": ["container", "deployment"]
@@ -4429,6 +4489,16 @@
     "tags": ["os"]
   },
   {
+    "name": "Nodejs Line",
+    "componentName": "NodejsLine",
+    "tags": ["javascript", "language"]
+  },
+  {
+    "name": "Nodejs Line Wordmark",
+    "componentName": "NodejsLineWordmark",
+    "tags": ["javascript", "language"]
+  },
+  {
     "name": "Nodejs Original",
     "componentName": "NodejsOriginal",
     "tags": ["javascript", "language"]
@@ -5294,6 +5364,26 @@
     "tags": ["monitoring", "observability", "analysis"]
   },
   {
+    "name": "Protractor Line",
+    "componentName": "ProtractorLine",
+    "tags": ["framework", "javascript"]
+  },
+  {
+    "name": "Protractor Line Wordmark",
+    "componentName": "ProtractorLineWordmark",
+    "tags": ["framework", "javascript"]
+  },
+  {
+    "name": "Protractor Original",
+    "componentName": "ProtractorOriginal",
+    "tags": ["framework", "javascript"]
+  },
+  {
+    "name": "Protractor Original Wordmark",
+    "componentName": "ProtractorOriginalWordmark",
+    "tags": ["framework", "javascript"]
+  },
+  {
     "name": "Protractor Plain",
     "componentName": "ProtractorPlain",
     "tags": ["framework", "javascript"]
@@ -5656,6 +5746,16 @@
   {
     "name": "Raspberrypi Original Wordmark",
     "componentName": "RaspberrypiOriginalWordmark",
+    "tags": ["arm", "computer"]
+  },
+  {
+    "name": "Raspberrypi Plain",
+    "componentName": "RaspberrypiPlain",
+    "tags": ["arm", "computer"]
+  },
+  {
+    "name": "Raspberrypi Plain Wordmark",
+    "componentName": "RaspberrypiPlainWordmark",
     "tags": ["arm", "computer"]
   },
   {
@@ -6931,6 +7031,26 @@
     "tags": ["proxy", "router"]
   },
   {
+    "name": "Travis Line",
+    "componentName": "TravisLine",
+    "tags": ["platform", "integration"]
+  },
+  {
+    "name": "Travis Line Wordmark",
+    "componentName": "TravisLineWordmark",
+    "tags": ["platform", "integration"]
+  },
+  {
+    "name": "Travis Original",
+    "componentName": "TravisOriginal",
+    "tags": ["platform", "integration"]
+  },
+  {
+    "name": "Travis Original Wordmark",
+    "componentName": "TravisOriginalWordmark",
+    "tags": ["platform", "integration"]
+  },
+  {
     "name": "Travis Plain",
     "componentName": "TravisPlain",
     "tags": ["platform", "integration"]
@@ -7211,6 +7331,16 @@
     "tags": ["hosting", "platform", "deployment", "git"]
   },
   {
+    "name": "Vertx Line",
+    "componentName": "VertxLine",
+    "tags": ["sdk", "java", "framework"]
+  },
+  {
+    "name": "Vertx Line Wordmark",
+    "componentName": "VertxLineWordmark",
+    "tags": ["sdk", "java", "framework"]
+  },
+  {
     "name": "Vertx Original",
     "componentName": "VertxOriginal",
     "tags": ["sdk", "java", "framework"]
@@ -7221,6 +7351,16 @@
     "tags": ["sdk", "java", "framework"]
   },
   {
+    "name": "Vertx Plain",
+    "componentName": "VertxPlain",
+    "tags": ["sdk", "java", "framework"]
+  },
+  {
+    "name": "Vertx Plain Wordmark",
+    "componentName": "VertxPlainWordmark",
+    "tags": ["sdk", "java", "framework"]
+  },
+  {
     "name": "Vim Original",
     "componentName": "VimOriginal",
     "tags": ["editor"]
@@ -7228,6 +7368,41 @@
   {
     "name": "Vim Plain",
     "componentName": "VimPlain",
+    "tags": ["editor"]
+  },
+  {
+    "name": "Visualbasic Line",
+    "componentName": "VisualbasicLine",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Visualbasic Original",
+    "componentName": "VisualbasicOriginal",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Visualbasic Plain",
+    "componentName": "VisualbasicPlain",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Visualstudio Line",
+    "componentName": "VisualstudioLine",
+    "tags": ["editor"]
+  },
+  {
+    "name": "Visualstudio Line Wordmark",
+    "componentName": "VisualstudioLineWordmark",
+    "tags": ["editor"]
+  },
+  {
+    "name": "Visualstudio Original",
+    "componentName": "VisualstudioOriginal",
+    "tags": ["editor"]
+  },
+  {
+    "name": "Visualstudio Original Wordmark",
+    "componentName": "VisualstudioOriginalWordmark",
     "tags": ["editor"]
   },
   {
@@ -7311,6 +7486,16 @@
     "tags": ["editor", "ide"]
   },
   {
+    "name": "Vsphere Line",
+    "componentName": "VsphereLine",
+    "tags": ["hypervisor", "operating-system", "vmware"]
+  },
+  {
+    "name": "Vsphere Line Wordmark",
+    "componentName": "VsphereLineWordmark",
+    "tags": ["hypervisor", "operating-system", "vmware"]
+  },
+  {
     "name": "Vsphere Original",
     "componentName": "VsphereOriginal",
     "tags": ["hypervisor", "operating-system", "vmware"]
@@ -7318,6 +7503,16 @@
   {
     "name": "Vsphere Original Wordmark",
     "componentName": "VsphereOriginalWordmark",
+    "tags": ["hypervisor", "operating-system", "vmware"]
+  },
+  {
+    "name": "Vsphere Plain",
+    "componentName": "VspherePlain",
+    "tags": ["hypervisor", "operating-system", "vmware"]
+  },
+  {
+    "name": "Vsphere Plain Wordmark",
+    "componentName": "VspherePlainWordmark",
     "tags": ["hypervisor", "operating-system", "vmware"]
   },
   {
