@@ -3983,14 +3983,34 @@
     "tags": ["javascript", "framework"]
   },
   {
+    "name": "Microsoftsqlserver Line",
+    "componentName": "MicrosoftsqlserverLine",
+    "tags": ["database", "sql", "db"]
+  },
+  {
+    "name": "Microsoftsqlserver Line Wordmark",
+    "componentName": "MicrosoftsqlserverLineWordmark",
+    "tags": ["database", "sql", "db"]
+  },
+  {
+    "name": "Microsoftsqlserver Original",
+    "componentName": "MicrosoftsqlserverOriginal",
+    "tags": ["database", "sql", "db"]
+  },
+  {
+    "name": "Microsoftsqlserver Original Wordmark",
+    "componentName": "MicrosoftsqlserverOriginalWordmark",
+    "tags": ["database", "sql", "db"]
+  },
+  {
     "name": "Microsoftsqlserver Plain",
     "componentName": "MicrosoftsqlserverPlain",
-    "tags": ["database"]
+    "tags": ["database", "sql", "db"]
   },
   {
     "name": "Microsoftsqlserver Plain Wordmark",
     "componentName": "MicrosoftsqlserverPlainWordmark",
-    "tags": ["database"]
+    "tags": ["database", "sql", "db"]
   },
   {
     "name": "Minitab Original",
@@ -4326,6 +4346,11 @@
     "tags": ["framework"]
   },
   {
+    "name": "Nextjs Line Wordmark",
+    "componentName": "NextjsLineWordmark",
+    "tags": ["framework"]
+  },
+  {
     "name": "Nextjs Original",
     "componentName": "NextjsOriginal",
     "tags": ["framework"]
@@ -4333,6 +4358,11 @@
   {
     "name": "Nextjs Original Wordmark",
     "componentName": "NextjsOriginalWordmark",
+    "tags": ["framework"]
+  },
+  {
+    "name": "Nextjs Plain",
+    "componentName": "NextjsPlain",
     "tags": ["framework"]
   },
   {
