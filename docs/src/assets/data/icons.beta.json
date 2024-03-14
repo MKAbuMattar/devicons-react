@@ -880,6 +880,26 @@
     "tags": ["language"]
   },
   {
+    "name": "Chakraui Original",
+    "componentName": "ChakrauiOriginal",
+    "tags": ["ui", "library"]
+  },
+  {
+    "name": "Chakraui Original Wordmark",
+    "componentName": "ChakrauiOriginalWordmark",
+    "tags": ["ui", "library"]
+  },
+  {
+    "name": "Chakraui Plain",
+    "componentName": "ChakrauiPlain",
+    "tags": ["ui", "library"]
+  },
+  {
+    "name": "Chakraui Plain Wordmark",
+    "componentName": "ChakrauiPlainWordmark",
+    "tags": ["ui", "library"]
+  },
+  {
     "name": "Chrome Original",
     "componentName": "ChromeOriginal",
     "tags": ["browser"]
