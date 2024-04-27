@@ -6625,6 +6625,31 @@
     "tags": ["security"]
   },
   {
+    "name": "Stackblitz Line",
+    "componentName": "StackblitzLine",
+    "tags": ["IDE", "editor", "remote-development"]
+  },
+  {
+    "name": "Stackblitz Line Wordmark",
+    "componentName": "StackblitzLineWordmark",
+    "tags": ["IDE", "editor", "remote-development"]
+  },
+  {
+    "name": "Stackblitz Original",
+    "componentName": "StackblitzOriginal",
+    "tags": ["IDE", "editor", "remote-development"]
+  },
+  {
+    "name": "Stackblitz Original Wordmark",
+    "componentName": "StackblitzOriginalWordmark",
+    "tags": ["IDE", "editor", "remote-development"]
+  },
+  {
+    "name": "Stackblitz Plain Wordmark",
+    "componentName": "StackblitzPlainWordmark",
+    "tags": ["IDE", "editor", "remote-development"]
+  },
+  {
     "name": "Stackoverflow Line",
     "componentName": "StackoverflowLine",
     "tags": ["website", "development", "community"]
@@ -7536,6 +7561,16 @@
     "tags": ["editor", "ide"]
   },
   {
+    "name": "Vscodium Original",
+    "componentName": "VscodiumOriginal",
+    "tags": ["editor", "ide", "open-source"]
+  },
+  {
+    "name": "Vscodium Plain",
+    "componentName": "VscodiumPlain",
+    "tags": ["editor", "ide", "open-source"]
+  },
+  {
     "name": "Vsphere Line",
     "componentName": "VsphereLine",
     "tags": ["hypervisor", "operating-system", "vmware"]
@@ -7653,6 +7688,16 @@
   {
     "name": "Wasm Plain Wordmark",
     "componentName": "WasmPlainWordmark",
+    "tags": ["binary", "programming", "virtual machine", "web", "language"]
+  },
+  {
+    "name": "Web3 Original",
+    "componentName": "Web3Original",
+    "tags": ["binary", "programming", "virtual machine", "web", "language"]
+  },
+  {
+    "name": "Web3 Plain",
+    "componentName": "Web3Plain",
     "tags": ["binary", "programming", "virtual machine", "web", "language"]
   },
   {
