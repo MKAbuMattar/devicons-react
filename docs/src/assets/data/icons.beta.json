@@ -6996,6 +6996,26 @@
     "tags": ["javascript", "framework"]
   },
   {
+    "name": "Thymeleaf Original",
+    "componentName": "ThymeleafOriginal",
+    "tags": ["engine", "html", "java", "server"]
+  },
+  {
+    "name": "Thymeleaf Original Wordmark",
+    "componentName": "ThymeleafOriginalWordmark",
+    "tags": ["engine", "html", "java", "server"]
+  },
+  {
+    "name": "Thymeleaf Plain",
+    "componentName": "ThymeleafPlain",
+    "tags": ["engine", "html", "java", "server"]
+  },
+  {
+    "name": "Thymeleaf Plain Wordmark",
+    "componentName": "ThymeleafPlainWordmark",
+    "tags": ["engine", "html", "java", "server"]
+  },
+  {
     "name": "Titaniumsdk Original",
     "componentName": "TitaniumsdkOriginal",
     "tags": ["app", "mobile", "javascript", "cross-platform", "sdk"]
