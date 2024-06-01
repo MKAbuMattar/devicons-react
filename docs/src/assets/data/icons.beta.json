@@ -605,6 +605,71 @@
     "tags": ["social", "website"]
   },
   {
+    "name": "Biome Line",
+    "componentName": "BiomeLine",
+    "tags": [
+      "linter",
+      "javascript",
+      "typescript",
+      "code-quality",
+      "coding-style",
+      "format",
+      "tool"
+    ]
+  },
+  {
+    "name": "Biome Line Wordmark",
+    "componentName": "BiomeLineWordmark",
+    "tags": [
+      "linter",
+      "javascript",
+      "typescript",
+      "code-quality",
+      "coding-style",
+      "format",
+      "tool"
+    ]
+  },
+  {
+    "name": "Biome Original",
+    "componentName": "BiomeOriginal",
+    "tags": [
+      "linter",
+      "javascript",
+      "typescript",
+      "code-quality",
+      "coding-style",
+      "format",
+      "tool"
+    ]
+  },
+  {
+    "name": "Biome Original Wordmark",
+    "componentName": "BiomeOriginalWordmark",
+    "tags": [
+      "linter",
+      "javascript",
+      "typescript",
+      "code-quality",
+      "coding-style",
+      "format",
+      "tool"
+    ]
+  },
+  {
+    "name": "Biome Plain Wordmark",
+    "componentName": "BiomePlainWordmark",
+    "tags": [
+      "linter",
+      "javascript",
+      "typescript",
+      "code-quality",
+      "coding-style",
+      "format",
+      "tool"
+    ]
+  },
+  {
     "name": "Bitbucket Original",
     "componentName": "BitbucketOriginal",
     "tags": ["version-control"]
@@ -3410,6 +3475,31 @@
     "tags": ["platform", "auth", "machine-learning"]
   },
   {
+    "name": "Kalilinux Line",
+    "componentName": "KalilinuxLine",
+    "tags": ["linux", "operating-system", "security"]
+  },
+  {
+    "name": "Kalilinux Line Wordmark",
+    "componentName": "KalilinuxLineWordmark",
+    "tags": ["linux", "operating-system", "security"]
+  },
+  {
+    "name": "Kalilinux Original",
+    "componentName": "KalilinuxOriginal",
+    "tags": ["linux", "operating-system", "security"]
+  },
+  {
+    "name": "Kalilinux Original Wordmark",
+    "componentName": "KalilinuxOriginalWordmark",
+    "tags": ["linux", "operating-system", "security"]
+  },
+  {
+    "name": "Kalilinux Plain Wordmark",
+    "componentName": "KalilinuxPlainWordmark",
+    "tags": ["linux", "operating-system", "security"]
+  },
+  {
     "name": "Karatelabs Original",
     "componentName": "KaratelabsOriginal",
     "tags": ["framework", "testing"]
@@ -5949,6 +6039,26 @@
     "tags": ["framework"]
   },
   {
+    "name": "Remix Line",
+    "componentName": "RemixLine",
+    "tags": ["framework", "fullstack", "web"]
+  },
+  {
+    "name": "Remix Line Wordmark",
+    "componentName": "RemixLineWordmark",
+    "tags": ["framework", "fullstack", "web"]
+  },
+  {
+    "name": "Remix Original",
+    "componentName": "RemixOriginal",
+    "tags": ["framework", "fullstack", "web"]
+  },
+  {
+    "name": "Remix Original Wordmark",
+    "componentName": "RemixOriginalWordmark",
+    "tags": ["framework", "fullstack", "web"]
+  },
+  {
     "name": "Renpy Original",
     "componentName": "RenpyOriginal",
     "tags": ["programming", "game-engine", "engine", "python"]
@@ -6685,6 +6795,26 @@
     "tags": ["analysis", "data", "data-science", "software", "statistics"]
   },
   {
+    "name": "Stenciljs Original",
+    "componentName": "StenciljsOriginal",
+    "tags": ["framework", "ui"]
+  },
+  {
+    "name": "Stenciljs Original Wordmark",
+    "componentName": "StenciljsOriginalWordmark",
+    "tags": ["framework", "ui"]
+  },
+  {
+    "name": "Stenciljs Plain",
+    "componentName": "StenciljsPlain",
+    "tags": ["framework", "ui"]
+  },
+  {
+    "name": "Stenciljs Plain Wordmark",
+    "componentName": "StenciljsPlainWordmark",
+    "tags": ["framework", "ui"]
+  },
+  {
     "name": "Storybook Original",
     "componentName": "StorybookOriginal",
     "tags": ["framework", "documentation", "ui"]
@@ -7404,6 +7534,16 @@
     "name": "Vault Plain Wordmark",
     "componentName": "VaultPlainWordmark",
     "tags": ["tool", "security", "infrastructure"]
+  },
+  {
+    "name": "Veevalidate Line",
+    "componentName": "VeevalidateLine",
+    "tags": ["vuejs", "vuejs-library", "package"]
+  },
+  {
+    "name": "Veevalidate Original",
+    "componentName": "VeevalidateOriginal",
+    "tags": ["vuejs", "vuejs-library", "package"]
   },
   {
     "name": "Vercel Line",
