@@ -4481,6 +4481,16 @@
     "tags": ["server"]
   },
   {
+    "name": "Ngrok Line",
+    "componentName": "NgrokLine",
+    "tags": ["networking", "server"]
+  },
+  {
+    "name": "Ngrok Original",
+    "componentName": "NgrokOriginal",
+    "tags": ["networking", "server"]
+  },
+  {
     "name": "Ngrx Original",
     "componentName": "NgrxOriginal",
     "tags": ["state-management", "angular", "redux", "store", "javascript"]
