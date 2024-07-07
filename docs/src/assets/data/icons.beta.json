@@ -1515,9 +1515,29 @@
     "tags": ["javascript", "rust", "runtime"]
   },
   {
+    "name": "Detaspace Line",
+    "componentName": "DetaspaceLine",
+    "tags": ["cloud", "hosting", "server"]
+  },
+  {
+    "name": "Detaspace Line Wordmark",
+    "componentName": "DetaspaceLineWordmark",
+    "tags": ["cloud", "hosting", "server"]
+  },
+  {
+    "name": "Detaspace Original",
+    "componentName": "DetaspaceOriginal",
+    "tags": ["cloud", "hosting", "server"]
+  },
+  {
+    "name": "Detaspace Original Wordmark",
+    "componentName": "DetaspaceOriginalWordmark",
+    "tags": ["cloud", "hosting", "server"]
+  },
+  {
     "name": "Devicons React Original",
     "componentName": "DeviconsReactOriginal",
-    "tags": ["javascript", "rust", "runtime"]
+    "tags": ["icon", "react"]
   },
   {
     "name": "Digitalocean Original",
