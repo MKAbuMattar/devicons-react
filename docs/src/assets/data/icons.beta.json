@@ -65,6 +65,26 @@
     "tags": ["algorithms", "api", "documentation", "tool"]
   },
   {
+    "name": "Almalinux Original",
+    "componentName": "AlmalinuxOriginal",
+    "tags": ["linux", "os", "open-source"]
+  },
+  {
+    "name": "Almalinux Original Wordmark",
+    "componentName": "AlmalinuxOriginalWordmark",
+    "tags": ["linux", "os", "open-source"]
+  },
+  {
+    "name": "Almalinux Plain",
+    "componentName": "AlmalinuxPlain",
+    "tags": ["linux", "os", "open-source"]
+  },
+  {
+    "name": "Almalinux Plain Wordmark",
+    "componentName": "AlmalinuxPlainWordmark",
+    "tags": ["linux", "os", "open-source"]
+  },
+  {
     "name": "Alpinejs Original",
     "componentName": "AlpinejsOriginal",
     "tags": ["framework", "javascript"]
@@ -7881,14 +7901,14 @@
     "tags": ["binary", "programming", "virtual machine", "web", "language"]
   },
   {
-    "name": "Web3 Original",
-    "componentName": "Web3Original",
-    "tags": ["binary", "programming", "virtual machine", "web", "language"]
+    "name": "Web3js Original",
+    "componentName": "Web3jsOriginal",
+    "tags": ["blockchain", "ecommerce"]
   },
   {
-    "name": "Web3 Plain",
-    "componentName": "Web3Plain",
-    "tags": ["binary", "programming", "virtual machine", "web", "language"]
+    "name": "Web3js Plain",
+    "componentName": "Web3jsPlain",
+    "tags": ["blockchain", "ecommerce"]
   },
   {
     "name": "Webflow Original",
