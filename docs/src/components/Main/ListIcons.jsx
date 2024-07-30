@@ -1,4 +1,4 @@
-import * as DevIconsReact from '@latest/devicons-react';
+import * as DevIconsReact from '@devicons-react/latest';
 import { Fragment } from 'react';
 
 const ListIcons = ({ componentName }) => {

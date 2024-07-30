@@ -4794,8 +4794,18 @@
     "tags": ["project-management"]
   },
   {
+    "name": "Npm Original",
+    "componentName": "NpmOriginal",
+    "tags": ["package", "manager"]
+  },
+  {
     "name": "Npm Original Wordmark",
     "componentName": "NpmOriginalWordmark",
+    "tags": ["package", "manager"]
+  },
+  {
+    "name": "Npm Plain",
+    "componentName": "NpmPlain",
     "tags": ["package", "manager"]
   },
   {
