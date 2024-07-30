@@ -1,4 +1,4 @@
-import DeviconsReactOriginal from '@latest/devicons-react/lib/icons/DeviconsReactOriginal';
+import DeviconsReactOriginal from '@devicons-react/latest/lib/icons/DeviconsReactOriginal';
 import Link from 'next/link';
 
 import ScrollToTop from '@/components/ScrollToTop';

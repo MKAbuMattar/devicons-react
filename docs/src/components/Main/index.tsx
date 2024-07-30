@@ -56,14 +56,14 @@ const index: FC<Props> = (props) => {
             <MainCardInfo>
               <MainCardTitle>Install package</MainCardTitle>
             </MainCardInfo>
-            <Highlight language={'TypeScript'} theme={'Base16Nord'}>
-              {`#npm
+            <Highlight language={'Bash'} theme={'Base16Nord'}>
+              {`# npm
 npm install --save devicons-react@latest
 
-#yarn
+# yarn
 yarn add devicons-react@latest
 
-#pnpm
+# pnpm
 pnpm add devicons-react@latest`}
             </Highlight>
           </MainCard>
@@ -72,26 +72,29 @@ pnpm add devicons-react@latest`}
             <MainCardInfo>
               <MainCardTitle>Install package</MainCardTitle>
             </MainCardInfo>
-            <Highlight language={'TypeScript'} theme={'Base16Nord'}>
-              {`#npm
+            <Highlight language={'Bash'} theme={'Base16Nord'}>
+              {`# npm
 npm install --save devicons-react@beta
 
-#yarn
+# yarn
 yarn add devicons-react@beta
 
-#pnpm
+# pnpm
 pnpm add devicons-react@beta
 
-#OR TO INSTALL TWO VERSIONS @LATEST AND @BETA
+# OR TO INSTALL TWO VERSIONS @LATEST AND @BETA
 
-#npm
-npm install --save @beta/devicons-react@npm:devicons-react@beta
+# npm
+npm install --save @devicons-react/latest@npm:devicons-react@latest
+npm install --save @devicons-react/beta@npm:devicons-react@beta
 
-#yarn
-yarn add @beta/devicons-react@npm:devicons-react@beta
+# yarn
+yarn add @devicons-react/latest@npm:devicons-react@latest
+yarn add @devicons-react/beta@npm:devicons-react@beta
 
-#pnpm
-pnpm add @beta/devicons-react@npm:devicons-react@beta`}
+# pnpm
+pnpm add @devicons-react/latest@npm:devicons-react@latest
+pnpm add @devicons-react/beta@npm:devicons-react@beta`}
             </Highlight>
           </MainCard>
         )}
