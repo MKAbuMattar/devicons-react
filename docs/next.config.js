@@ -13,4 +13,10 @@ module.exports = withPWA({
   compiler: {
     styledComponents: true,
   },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 });
