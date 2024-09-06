@@ -2626,6 +2626,30 @@
     "tags": ["google", "cloud"]
   },
   {
+    "name": "Googlecolab Original",
+    "componentName": "GooglecolabOriginal",
+    "tags": [
+      "cloud-computing-platform",
+      "data science",
+      "google",
+      "machine-learning",
+      "python",
+      "virtual machine"
+    ]
+  },
+  {
+    "name": "Googlecolab Plain",
+    "componentName": "GooglecolabPlain",
+    "tags": [
+      "cloud-computing-platform",
+      "data science",
+      "google",
+      "machine-learning",
+      "python",
+      "virtual machine"
+    ]
+  },
+  {
     "name": "Gradle Original",
     "componentName": "GradleOriginal",
     "tags": ["open-source", "task-runner"]
