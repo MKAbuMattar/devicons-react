@@ -2085,6 +2085,21 @@
     "tags": ["linux", "distribuition", "desktop"]
   },
   {
+    "name": "Fiber Line",
+    "componentName": "FiberLine",
+    "tags": ["framework", "go", "web"]
+  },
+  {
+    "name": "Fiber Original",
+    "componentName": "FiberOriginal",
+    "tags": ["framework", "go", "web"]
+  },
+  {
+    "name": "Fiber Plain",
+    "componentName": "FiberPlain",
+    "tags": ["framework", "go", "web"]
+  },
+  {
     "name": "Figma Original",
     "componentName": "FigmaOriginal",
     "tags": ["design"]
@@ -2093,6 +2108,11 @@
     "name": "Figma Plain",
     "componentName": "FigmaPlain",
     "tags": ["design"]
+  },
+  {
+    "name": "Filamentphp Original",
+    "componentName": "FilamentphpOriginal",
+    "tags": ["framework", "laravel"]
   },
   {
     "name": "Filezilla Line",
@@ -7902,22 +7922,12 @@
   {
     "name": "Vyper Original",
     "componentName": "VyperOriginal",
-    "tags": ["programming", "language", "python", "blockchain", "ethereum"]
+    "tags": ["blockchain", "ethereum", "language", "programming", "python"]
   },
   {
     "name": "Vyper Original Wordmark",
     "componentName": "VyperOriginalWordmark",
-    "tags": ["programming", "language", "python", "blockchain", "ethereum"]
-  },
-  {
-    "name": "Vyper Plain",
-    "componentName": "VyperPlain",
-    "tags": ["programming", "language", "python", "blockchain", "ethereum"]
-  },
-  {
-    "name": "Vyper Plain Wordmark",
-    "componentName": "VyperPlainWordmark",
-    "tags": ["programming", "language", "python", "blockchain", "ethereum"]
+    "tags": ["blockchain", "ethereum", "language", "programming", "python"]
   },
   {
     "name": "Wasm Original",
