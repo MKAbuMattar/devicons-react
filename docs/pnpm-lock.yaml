@@ -12,8 +12,8 @@ importers:
   .:
     dependencies:
       '@devicons-react/beta':
-        specifier: npm:devicons-react@1.3.0-beta.0.1.7
-        version: devicons-react@1.3.0-beta.0.1.7(react@18.3.1)
+        specifier: npm:devicons-react@1.3.0-beta.0.1.8
+        version: devicons-react@1.3.0-beta.0.1.8(react@18.3.1)
       '@devicons-react/latest':
         specifier: npm:devicons-react@1.3.0
         version: devicons-react@1.3.0(react@18.3.1)
@@ -1189,8 +1189,8 @@ packages:
     peerDependencies:
       react: '*'
 
-  devicons-react@1.3.0-beta.0.1.7:
-    resolution: {integrity: sha512-3Z2YO+dAWmlvvEnrmFBExRYx9kWKt+YsXv26i2g6t9LGiX63csRCkl2kG/FIKw/UIlx/MqohhpYV/EbTsLPJ1A==}
+  devicons-react@1.3.0-beta.0.1.8:
+    resolution: {integrity: sha512-2MgpnuAJIi7nduAjw3bnG2gXc7t+9Cd1uOifwc1fP2+UcDPORKkX3NZMSPfixD7Zb/zA3OooLVDWLx35WelbXA==}
     peerDependencies:
       react: '*'
 
@@ -3762,7 +3762,7 @@ snapshots:
     dependencies:
       react: 18.3.1
 
-  devicons-react@1.3.0-beta.0.1.7(react@18.3.1):
+  devicons-react@1.3.0-beta.0.1.8(react@18.3.1):
     dependencies:
       react: 18.3.1
 
