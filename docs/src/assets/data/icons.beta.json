@@ -465,6 +465,11 @@
     "tags": ["editor"]
   },
   {
+    "name": "Awk Original",
+    "componentName": "AwkOriginal",
+    "tags": ["programming", "language", "unix"]
+  },
+  {
     "name": "Awk Original Wordmark",
     "componentName": "AwkOriginalWordmark",
     "tags": ["programming", "language", "unix"]
@@ -7017,6 +7022,26 @@
       "database",
       "storage"
     ]
+  },
+  {
+    "name": "Surrealdb Original",
+    "componentName": "SurrealdbOriginal",
+    "tags": ["db", "database", "storage"]
+  },
+  {
+    "name": "Surrealdb Original Wordmark",
+    "componentName": "SurrealdbOriginalWordmark",
+    "tags": ["db", "database", "storage"]
+  },
+  {
+    "name": "Surrealdb Plain",
+    "componentName": "SurrealdbPlain",
+    "tags": ["db", "database", "storage"]
+  },
+  {
+    "name": "Surrealdb Plain Wordmark",
+    "componentName": "SurrealdbPlainWordmark",
+    "tags": ["db", "database", "storage"]
   },
   {
     "name": "Svelte Original",
