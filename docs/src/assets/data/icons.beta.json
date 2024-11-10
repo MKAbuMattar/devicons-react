@@ -25,6 +25,16 @@
     "tags": ["nodejs", "framework"]
   },
   {
+    "name": "Aerospike Original",
+    "componentName": "AerospikeOriginal",
+    "tags": ["data", "database", "nosql"]
+  },
+  {
+    "name": "Aerospike Original Wordmark",
+    "componentName": "AerospikeOriginalWordmark",
+    "tags": ["data", "database", "nosql"]
+  },
+  {
     "name": "Aftereffects Original",
     "componentName": "AftereffectsOriginal",
     "tags": ["video", "editor"]
@@ -1575,6 +1585,21 @@
     "tags": ["cloud", "hosting", "database", "storage"]
   },
   {
+    "name": "Discloud Original",
+    "componentName": "DiscloudOriginal",
+    "tags": ["cloud", "hosting", "database", "storage"]
+  },
+  {
+    "name": "Discloud Original Wordmark",
+    "componentName": "DiscloudOriginalWordmark",
+    "tags": ["cloud", "hosting", "database", "storage"]
+  },
+  {
+    "name": "Discloud Plain Wordmark",
+    "componentName": "DiscloudPlainWordmark",
+    "tags": ["cloud", "hosting", "database", "storage"]
+  },
+  {
     "name": "Discordjs Original",
     "componentName": "DiscordjsOriginal",
     "tags": ["wrapper", "api_wrapper", "nodejs"]
@@ -3069,6 +3094,36 @@
     "tags": ["programming", "language"]
   },
   {
+    "name": "Htmx Line",
+    "componentName": "HtmxLine",
+    "tags": ["framework", "web", "html", "ui"]
+  },
+  {
+    "name": "Htmx Line Wordmark",
+    "componentName": "HtmxLineWordmark",
+    "tags": ["framework", "web", "html", "ui"]
+  },
+  {
+    "name": "Htmx Original",
+    "componentName": "HtmxOriginal",
+    "tags": ["framework", "web", "html", "ui"]
+  },
+  {
+    "name": "Htmx Original Wordmark",
+    "componentName": "HtmxOriginalWordmark",
+    "tags": ["framework", "web", "html", "ui"]
+  },
+  {
+    "name": "Htmx Plain",
+    "componentName": "HtmxPlain",
+    "tags": ["framework", "web", "html", "ui"]
+  },
+  {
+    "name": "Htmx Plain Wordmark",
+    "componentName": "HtmxPlainWordmark",
+    "tags": ["framework", "web", "html", "ui"]
+  },
+  {
     "name": "Hugo Original",
     "componentName": "HugoOriginal",
     "tags": ["framework", "ssg", "static-site-generator", "go", "html", "css"]
@@ -4466,6 +4521,26 @@
     "tags": ["framework"]
   },
   {
+    "name": "Netbeans Original",
+    "componentName": "NetbeansOriginal",
+    "tags": ["ide", "java", "open-source"]
+  },
+  {
+    "name": "Netbeans Original Wordmark",
+    "componentName": "NetbeansOriginalWordmark",
+    "tags": ["ide", "java", "open-source"]
+  },
+  {
+    "name": "Netbeans Plain",
+    "componentName": "NetbeansPlain",
+    "tags": ["ide", "java", "open-source"]
+  },
+  {
+    "name": "Netbeans Plain Wordmark",
+    "componentName": "NetbeansPlainWordmark",
+    "tags": ["ide", "java", "open-source"]
+  },
+  {
     "name": "Netlify Original",
     "componentName": "NetlifyOriginal",
     "tags": [
@@ -5237,6 +5312,21 @@
     "tags": ["library", "python"]
   },
   {
+    "name": "Passport Original",
+    "componentName": "PassportOriginal",
+    "tags": ["authentication", "security"]
+  },
+  {
+    "name": "Passport Original Wordmark",
+    "componentName": "PassportOriginalWordmark",
+    "tags": ["authentication", "security"]
+  },
+  {
+    "name": "Passport Plain",
+    "componentName": "PassportPlain",
+    "tags": ["authentication", "security"]
+  },
+  {
     "name": "Perl Original",
     "componentName": "PerlOriginal",
     "tags": ["programming", "language"]
@@ -5548,23 +5638,18 @@
     "tags": ["orm", "nodejs", "typescript"]
   },
   {
+    "name": "Processing Line",
+    "componentName": "ProcessingLine",
+    "tags": ["java", "python", "android", "application", "ide", "framework"]
+  },
+  {
     "name": "Processing Original",
     "componentName": "ProcessingOriginal",
     "tags": ["java", "python", "android", "application", "ide", "framework"]
   },
   {
-    "name": "Processing Original Wordmark",
-    "componentName": "ProcessingOriginalWordmark",
-    "tags": ["java", "python", "android", "application", "ide", "framework"]
-  },
-  {
     "name": "Processing Plain",
     "componentName": "ProcessingPlain",
-    "tags": ["java", "python", "android", "application", "ide", "framework"]
-  },
-  {
-    "name": "Processing Plain Wordmark",
-    "componentName": "ProcessingPlainWordmark",
     "tags": ["java", "python", "android", "application", "ide", "framework"]
   },
   {
@@ -7610,6 +7695,16 @@
     "tags": ["javascript-runtime", "framework", "javascript", "web", "cpp"]
   },
   {
+    "name": "Vaadin Original",
+    "componentName": "VaadinOriginal",
+    "tags": ["framework", "java", "web"]
+  },
+  {
+    "name": "Vaadin Original Wordmark",
+    "componentName": "VaadinOriginalWordmark",
+    "tags": ["framework", "java", "web"]
+  },
+  {
     "name": "Vagrant Original",
     "componentName": "VagrantOriginal",
     "tags": ["platform"]
@@ -7983,6 +8078,36 @@
     "name": "Webflow Original",
     "componentName": "WebflowOriginal",
     "tags": ["cms", "ecommerce"]
+  },
+  {
+    "name": "Webgpu Line",
+    "componentName": "WebgpuLine",
+    "tags": ["graphics", "framework", "web"]
+  },
+  {
+    "name": "Webgpu Line Wordmark",
+    "componentName": "WebgpuLineWordmark",
+    "tags": ["graphics", "framework", "web"]
+  },
+  {
+    "name": "Webgpu Original",
+    "componentName": "WebgpuOriginal",
+    "tags": ["graphics", "framework", "web"]
+  },
+  {
+    "name": "Webgpu Original Wordmark",
+    "componentName": "WebgpuOriginalWordmark",
+    "tags": ["graphics", "framework", "web"]
+  },
+  {
+    "name": "Webgpu Plain",
+    "componentName": "WebgpuPlain",
+    "tags": ["graphics", "framework", "web"]
+  },
+  {
+    "name": "Webgpu Plain Wordmark",
+    "componentName": "WebgpuPlainWordmark",
+    "tags": ["graphics", "framework", "web"]
   },
   {
     "name": "Weblate Original",
