@@ -1130,6 +1130,21 @@
     "tags": ["platform", "serverless", "deploy", "performance", "javascript"]
   },
   {
+    "name": "Cloudrun Line",
+    "componentName": "CloudrunLine",
+    "tags": ["platform", "serverless", "deploy", "cloud-computing-platform"]
+  },
+  {
+    "name": "Cloudrun Original",
+    "componentName": "CloudrunOriginal",
+    "tags": ["platform", "serverless", "deploy", "cloud-computing-platform"]
+  },
+  {
+    "name": "Cloudrun Plain",
+    "componentName": "CloudrunPlain",
+    "tags": ["platform", "serverless", "deploy", "cloud-computing-platform"]
+  },
+  {
     "name": "Cmake Original",
     "componentName": "CmakeOriginal",
     "tags": ["build"]
@@ -2314,6 +2329,21 @@
     "name": "Fsharp Plain",
     "componentName": "FsharpPlain",
     "tags": ["language"]
+  },
+  {
+    "name": "Gardener Line",
+    "componentName": "GardenerLine",
+    "tags": ["kubernetes", "cloud"]
+  },
+  {
+    "name": "Gardener Original",
+    "componentName": "GardenerOriginal",
+    "tags": ["kubernetes", "cloud"]
+  },
+  {
+    "name": "Gardener Plain",
+    "componentName": "GardenerPlain",
+    "tags": ["kubernetes", "cloud"]
   },
   {
     "name": "Gatling Line",
@@ -3894,6 +3924,39 @@
     "tags": ["css", "pre-processor"]
   },
   {
+    "name": "Libgdx Line",
+    "componentName": "LibgdxLine",
+    "tags": [
+      "framework",
+      "java",
+      "game-development",
+      "cross-platform",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Libgdx Original",
+    "componentName": "LibgdxOriginal",
+    "tags": [
+      "framework",
+      "java",
+      "game-development",
+      "cross-platform",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Libgdx Plain",
+    "componentName": "LibgdxPlain",
+    "tags": [
+      "framework",
+      "java",
+      "game-development",
+      "cross-platform",
+      "open-source"
+    ]
+  },
+  {
     "name": "Linkedin Original",
     "componentName": "LinkedinOriginal",
     "tags": ["social", "auth"]
@@ -4379,6 +4442,31 @@
     "name": "Mongoose Original Wordmark",
     "componentName": "MongooseOriginalWordmark",
     "tags": ["data-model", "nodejs"]
+  },
+  {
+    "name": "Monogame Line",
+    "componentName": "MonogameLine",
+    "tags": ["engine", "game-engine", "C#", "c-sharp", "csharp"]
+  },
+  {
+    "name": "Monogame Line Wordmark",
+    "componentName": "MonogameLineWordmark",
+    "tags": ["engine", "game-engine", "C#", "c-sharp", "csharp"]
+  },
+  {
+    "name": "Monogame Original",
+    "componentName": "MonogameOriginal",
+    "tags": ["engine", "game-engine", "C#", "c-sharp", "csharp"]
+  },
+  {
+    "name": "Monogame Original Wordmark",
+    "componentName": "MonogameOriginalWordmark",
+    "tags": ["engine", "game-engine", "C#", "c-sharp", "csharp"]
+  },
+  {
+    "name": "Monogame Plain Wordmark",
+    "componentName": "MonogamePlainWordmark",
+    "tags": ["engine", "game-engine", "C#", "c-sharp", "csharp"]
   },
   {
     "name": "Moodle Original",
@@ -5473,6 +5561,36 @@
     "tags": ["frontend", "machine-learning", "dashboard"]
   },
   {
+    "name": "Pm2 Line",
+    "componentName": "Pm2Line",
+    "tags": ["nodejs", "javascript", "js", "manager", "monitoring"]
+  },
+  {
+    "name": "Pm2 Line Wordmark",
+    "componentName": "Pm2LineWordmark",
+    "tags": ["nodejs", "javascript", "js", "manager", "monitoring"]
+  },
+  {
+    "name": "Pm2 Original",
+    "componentName": "Pm2Original",
+    "tags": ["nodejs", "javascript", "js", "manager", "monitoring"]
+  },
+  {
+    "name": "Pm2 Original Wordmark",
+    "componentName": "Pm2OriginalWordmark",
+    "tags": ["nodejs", "javascript", "js", "manager", "monitoring"]
+  },
+  {
+    "name": "Pm2 Plain",
+    "componentName": "Pm2Plain",
+    "tags": ["nodejs", "javascript", "js", "manager", "monitoring"]
+  },
+  {
+    "name": "Pm2 Plain Wordmark",
+    "componentName": "Pm2PlainWordmark",
+    "tags": ["nodejs", "javascript", "js", "manager", "monitoring"]
+  },
+  {
     "name": "Pnpm Original",
     "componentName": "PnpmOriginal",
     "tags": ["package", "manager"]
@@ -6231,6 +6349,26 @@
     "name": "Redux Original",
     "componentName": "ReduxOriginal",
     "tags": ["framework"]
+  },
+  {
+    "name": "Reflex Original",
+    "componentName": "ReflexOriginal",
+    "tags": ["framework", "python", "web"]
+  },
+  {
+    "name": "Reflex Original Wordmark",
+    "componentName": "ReflexOriginalWordmark",
+    "tags": ["framework", "python", "web"]
+  },
+  {
+    "name": "Reflex Plain",
+    "componentName": "ReflexPlain",
+    "tags": ["framework", "python", "web"]
+  },
+  {
+    "name": "Reflex Plain Wordmark",
+    "componentName": "ReflexPlainWordmark",
+    "tags": ["framework", "python", "web"]
   },
   {
     "name": "Remix Line",
@@ -7149,6 +7287,36 @@
     "tags": ["javascript", "framework", "compiler"]
   },
   {
+    "name": "Svgo Line",
+    "componentName": "SvgoLine",
+    "tags": ["svg", "optimization", "tool", "javascript", "library", "node.js"]
+  },
+  {
+    "name": "Svgo Line Wordmark",
+    "componentName": "SvgoLineWordmark",
+    "tags": ["svg", "optimization", "tool", "javascript", "library", "node.js"]
+  },
+  {
+    "name": "Svgo Original",
+    "componentName": "SvgoOriginal",
+    "tags": ["svg", "optimization", "tool", "javascript", "library", "node.js"]
+  },
+  {
+    "name": "Svgo Original Wordmark",
+    "componentName": "SvgoOriginalWordmark",
+    "tags": ["svg", "optimization", "tool", "javascript", "library", "node.js"]
+  },
+  {
+    "name": "Svgo Plain",
+    "componentName": "SvgoPlain",
+    "tags": ["svg", "optimization", "tool", "javascript", "library", "node.js"]
+  },
+  {
+    "name": "Svgo Plain Wordmark",
+    "componentName": "SvgoPlainWordmark",
+    "tags": ["svg", "optimization", "tool", "javascript", "library", "node.js"]
+  },
+  {
     "name": "Swagger Original",
     "componentName": "SwaggerOriginal",
     "tags": ["development", "software", "tool"]
@@ -8048,6 +8216,21 @@
     "name": "Vyper Original Wordmark",
     "componentName": "VyperOriginalWordmark",
     "tags": ["blockchain", "ethereum", "language", "programming", "python"]
+  },
+  {
+    "name": "Waku Line",
+    "componentName": "WakuLine",
+    "tags": ["react", "javascript", "framework", "web"]
+  },
+  {
+    "name": "Waku Original",
+    "componentName": "WakuOriginal",
+    "tags": ["react", "javascript", "framework", "web"]
+  },
+  {
+    "name": "Waku Plain",
+    "componentName": "WakuPlain",
+    "tags": ["react", "javascript", "framework", "web"]
   },
   {
     "name": "Wasm Original",
