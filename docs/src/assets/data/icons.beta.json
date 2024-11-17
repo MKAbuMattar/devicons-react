@@ -2260,6 +2260,36 @@
     "tags": ["framework", "sdk"]
   },
   {
+    "name": "Forgejo Line",
+    "componentName": "ForgejoLine",
+    "tags": ["software", "git", "version-control"]
+  },
+  {
+    "name": "Forgejo Line Wordmark",
+    "componentName": "ForgejoLineWordmark",
+    "tags": ["software", "git", "version-control"]
+  },
+  {
+    "name": "Forgejo Original",
+    "componentName": "ForgejoOriginal",
+    "tags": ["software", "git", "version-control"]
+  },
+  {
+    "name": "Forgejo Original Wordmark",
+    "componentName": "ForgejoOriginalWordmark",
+    "tags": ["software", "git", "version-control"]
+  },
+  {
+    "name": "Forgejo Plain",
+    "componentName": "ForgejoPlain",
+    "tags": ["software", "git", "version-control"]
+  },
+  {
+    "name": "Forgejo Plain Wordmark",
+    "componentName": "ForgejoPlainWordmark",
+    "tags": ["software", "git", "version-control"]
+  },
+  {
     "name": "Fortran Original",
     "componentName": "FortranOriginal",
     "tags": ["programming", "language"]
@@ -3894,6 +3924,26 @@
     "tags": ["language"]
   },
   {
+    "name": "Laminas Line",
+    "componentName": "LaminasLine",
+    "tags": ["php", "framework", "web", "mvc", "middleware"]
+  },
+  {
+    "name": "Laminas Line Wordmark",
+    "componentName": "LaminasLineWordmark",
+    "tags": ["php", "framework", "web", "mvc", "middleware"]
+  },
+  {
+    "name": "Laminas Original",
+    "componentName": "LaminasOriginal",
+    "tags": ["php", "framework", "web", "mvc", "middleware"]
+  },
+  {
+    "name": "Laminas Original Wordmark",
+    "componentName": "LaminasOriginalWordmark",
+    "tags": ["php", "framework", "web", "mvc", "middleware"]
+  },
+  {
     "name": "Laravel Line",
     "componentName": "LaravelLine",
     "tags": ["php", "framework"]
@@ -4701,6 +4751,21 @@
     "name": "Networkx Plain Wordmark",
     "componentName": "NetworkxPlainWordmark",
     "tags": ["graph", "library", "python"]
+  },
+  {
+    "name": "Newrelic Line",
+    "componentName": "NewrelicLine",
+    "tags": ["monitoring", "observability", "analysis"]
+  },
+  {
+    "name": "Newrelic Original",
+    "componentName": "NewrelicOriginal",
+    "tags": ["monitoring", "observability", "analysis"]
+  },
+  {
+    "name": "Newrelic Plain",
+    "componentName": "NewrelicPlain",
+    "tags": ["monitoring", "observability", "analysis"]
   },
   {
     "name": "Nextjs Line",
@@ -5769,6 +5834,21 @@
     "name": "Processing Plain",
     "componentName": "ProcessingPlain",
     "tags": ["java", "python", "android", "application", "ide", "framework"]
+  },
+  {
+    "name": "Processwire Original",
+    "componentName": "ProcesswireOriginal",
+    "tags": ["cms", "php", "framework"]
+  },
+  {
+    "name": "Processwire Original Wordmark",
+    "componentName": "ProcesswireOriginalWordmark",
+    "tags": ["cms", "php", "framework"]
+  },
+  {
+    "name": "Processwire Plain Wordmark",
+    "componentName": "ProcesswirePlainWordmark",
+    "tags": ["cms", "php", "framework"]
   },
   {
     "name": "Prolog Original",
@@ -7445,6 +7525,16 @@
     "name": "Terraform Plain Wordmark",
     "componentName": "TerraformPlainWordmark",
     "tags": ["deployment", "architecture", "automation"]
+  },
+  {
+    "name": "Terramate Original",
+    "componentName": "TerramateOriginal",
+    "tags": ["deployment", "devops", "automation"]
+  },
+  {
+    "name": "Terramate Original Wordmark",
+    "componentName": "TerramateOriginalWordmark",
+    "tags": ["deployment", "devops", "automation"]
   },
   {
     "name": "Tex Original",
