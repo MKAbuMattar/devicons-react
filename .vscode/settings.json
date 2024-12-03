@@ -1,0 +1,115 @@
+{
+  "editor.formatOnSave": true,
+  "editor.wordWrapColumn": 80,
+  "explorer.compactFolders": false,
+  "todohighlight.keywords": [
+    {
+      "text": "TODO:",
+      "color": "#fff",
+      "backgroundColor": "#ffbd2a",
+      "overviewRulerColor": "rgba(255,189,42,0.8)"
+    },
+    {
+      "text": "FIXME:",
+      "color": "#fff",
+      "backgroundColor": "#f06292",
+      "overviewRulerColor": "rgba(240,98,146,0.8)"
+    },
+    {
+      "text": "DEBUG:",
+      "color": "#fff",
+      "backgroundColor": "#f44336",
+      "overviewRulerColor": "rgba(244, 67, 54, 0.8)"
+    },
+    {
+      "text": "REVIEW:",
+      "color": "#fff",
+      "backgroundColor": "#4caf50",
+      "overviewRulerColor": "rgba(76,175,80,0.8)"
+    },
+    {
+      "text": "TESTED:",
+      "color": "#fff",
+      "backgroundColor": "#2196f3",
+      "overviewRulerColor": "rgba(33, 150, 243, 0.8)"
+    },
+    {
+      "text": "NOTE:",
+      "color": "#fff",
+      "backgroundColor": "#9e9e9e",
+      "overviewRulerColor": "rgba(158, 158, 158, 0.8)"
+    },
+    {
+      "text": "INFO:",
+      "color": "#fff",
+      "backgroundColor": "#009688",
+      "overviewRulerColor": "rgba(0, 150, 136, 0.8)"
+    },
+    {
+      "text": "DONE:",
+      "color": "#fff",
+      "backgroundColor": "#7e57c2",
+      "overviewRulerColor": "rgba(126, 87, 194, 0.8)"
+    }
+  ],
+  "todo-tree.general.tags": [
+    "TODO",
+    "FIXME",
+    "DEBUG",
+    "REVIEW",
+    "TESTED",
+    "NOTE",
+    "INFO",
+    "DONE"
+  ],
+  "todo-tree.highlights.customHighlight": {
+    "TODO": {
+      "icon": "check-circle",
+      "iconColour": "#ffbd2a"
+    },
+    "FIXME": {
+      "icon": "flame",
+      "iconColour": "#f06292"
+    },
+    "DEBUG": {
+      "icon": "bug",
+      "iconColour": "#f44336"
+    },
+    "REVIEW": {
+      "icon": "eye",
+      "iconColour": "#4caf50"
+    },
+    "TESTED": {
+      "icon": "check",
+      "iconColour": "#2196f3"
+    },
+    "NOTE": {
+      "icon": "info",
+      "iconColour": "#9e9e9e"
+    },
+    "INFO": {
+      "icon": "info",
+      "iconColour": "#009688"
+    },
+    "DONE": {
+      "icon": "check-circle",
+      "iconColour": "#7e57c2"
+    }
+  },
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  "editor.defaultFormatter": "biomejs.biome",
+  "editor.codeActionsOnSave": {
+    "quickfix.biome": "explicit",
+    "source.organizeImports.biome": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "json.schemas": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/tsup/schema.json",
+      "fileMatch": ["package.json", "tsup.config.json"]
+    }
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  }
+}

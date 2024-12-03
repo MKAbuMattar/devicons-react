@@ -1,6 +1,5 @@
-import fs from 'fs';
-import path from 'path';
-
+import fs from 'node:fs';
+import path from 'node:path';
 import DeviconData from '../../devicon/devicon.json';
 
 (() => {
@@ -22,16 +21,20 @@ import DeviconData from '../../devicon/devicon.json';
     componentName = file.replace('.jsx', '');
 
     DeviconData.forEach((devicon) => {
-      if (
-        name.replace(/ .*/, '').toLowerCase() === devicon.name.toLowerCase()
-      ) {
-        return (tags = devicon.tags);
+      if (name.replace(/ .*/, '').toLowerCase() === 'Devicons'.toLowerCase()) {
+        return (tags = ['iconset']);
       }
 
       if (name.replace(/ .*/, '').toLowerCase() === 'Dot'.toLowerCase()) {
         if (devicon.name.toLowerCase() === 'dot-net'.toLowerCase()) {
           return (tags = devicon.tags);
         }
+      }
+
+      if (
+        name.replace(/ .*/, '').toLowerCase() === devicon.name.toLowerCase()
+      ) {
+        return (tags = devicon.tags);
       }
     });
 

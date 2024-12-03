@@ -1,7 +1,7 @@
-import fs from 'fs';
-import fsAsync from 'fs/promises';
-import { JSDOM } from 'jsdom';
-import { RecursiveDirectory, recursiveDirectory } from 'recursive-directory';
+import fs from 'node:fs';
+import fsAsync from 'node:fs/promises';
+import {JSDOM} from 'jsdom';
+import {type RecursiveDirectory, recursiveDirectory} from 'recursive-directory';
 import svgtojsx from 'svg-to-jsx';
 
 import deviconData from '../../devicon/devicon.json';
@@ -15,7 +15,7 @@ type ObjConfig = {
 }[];
 
 function addUnderscoreIfNumber(name: string): string {
-  if (!isNaN(parseInt(name.charAt(0)))) {
+  if (!isNaN(Number.parseInt(name.charAt(0)))) {
     name = '_' + name;
   }
   return name;
@@ -23,7 +23,7 @@ function addUnderscoreIfNumber(name: string): string {
 
 (async () => {
   if (fs.existsSync(`${__dirname}/../../build`)) {
-    fs.rmSync(`${__dirname}/../../build`, { recursive: true });
+    fs.rmSync(`${__dirname}/../../build`, {recursive: true});
   }
 
   const index: [string, string][] = [];
@@ -59,7 +59,7 @@ function addUnderscoreIfNumber(name: string): string {
         `${__dirname}/../../icons/${entry.filename}`,
       );
 
-      const { document } = await new JSDOM(icon).window;
+      const {document} = await new JSDOM(icon).window;
 
       const dir = `${__dirname}/../../build/icons`;
 

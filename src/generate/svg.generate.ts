@@ -1,7 +1,7 @@
+import path from 'node:path';
 import fs from 'fs-plus';
-import path from 'path';
-import { RecursiveDirectory, recursiveDirectory } from 'recursive-directory';
-import { parse, stringify } from 'svgson';
+import {type RecursiveDirectory, recursiveDirectory} from 'recursive-directory';
+import {parse, stringify} from 'svgson';
 
 (async () => {
   const config: RecursiveDirectory = (await recursiveDirectory(
