@@ -8298,6 +8298,16 @@
     "tags": ["css", "framework", "vuejs-library", "material-design"]
   },
   {
+    "name": "Vulkan Line",
+    "componentName": "VulkanLine",
+    "tags": ["api", "3d", "library", "graphics", "game"]
+  },
+  {
+    "name": "Vulkan Original",
+    "componentName": "VulkanOriginal",
+    "tags": ["api", "3d", "library", "graphics", "game"]
+  },
+  {
     "name": "Vyper Original",
     "componentName": "VyperOriginal",
     "tags": ["blockchain", "ethereum", "language", "programming", "python"]
