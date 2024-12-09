@@ -640,6 +640,36 @@
     "tags": ["social", "website"]
   },
   {
+    "name": "Bevyengine Line",
+    "componentName": "BevyengineLine",
+    "tags": ["game-engine", "game", "rust", "open-source"]
+  },
+  {
+    "name": "Bevyengine Line Wordmark",
+    "componentName": "BevyengineLineWordmark",
+    "tags": ["game-engine", "game", "rust", "open-source"]
+  },
+  {
+    "name": "Bevyengine Original",
+    "componentName": "BevyengineOriginal",
+    "tags": ["game-engine", "game", "rust", "open-source"]
+  },
+  {
+    "name": "Bevyengine Original Wordmark",
+    "componentName": "BevyengineOriginalWordmark",
+    "tags": ["game-engine", "game", "rust", "open-source"]
+  },
+  {
+    "name": "Bevyengine Plain",
+    "componentName": "BevyenginePlain",
+    "tags": ["game-engine", "game", "rust", "open-source"]
+  },
+  {
+    "name": "Bevyengine Plain Wordmark",
+    "componentName": "BevyenginePlainWordmark",
+    "tags": ["game-engine", "game", "rust", "open-source"]
+  },
+  {
     "name": "Biome Line",
     "componentName": "BiomeLine",
     "tags": [
@@ -998,6 +1028,26 @@
     "name": "Chakraui Plain Wordmark",
     "componentName": "ChakrauiPlainWordmark",
     "tags": ["ui", "library"]
+  },
+  {
+    "name": "Chartjs Original",
+    "componentName": "ChartjsOriginal",
+    "tags": ["javascript", "chart", "framework"]
+  },
+  {
+    "name": "Chartjs Original Wordmark",
+    "componentName": "ChartjsOriginalWordmark",
+    "tags": ["javascript", "chart", "framework"]
+  },
+  {
+    "name": "Chartjs Plain",
+    "componentName": "ChartjsPlain",
+    "tags": ["javascript", "chart", "framework"]
+  },
+  {
+    "name": "Chartjs Plain Wordmark",
+    "componentName": "ChartjsPlainWordmark",
+    "tags": ["javascript", "chart", "framework"]
   },
   {
     "name": "Chrome Original",
@@ -7285,6 +7335,26 @@
     "name": "Subversion Plain Wordmark",
     "componentName": "SubversionPlainWordmark",
     "tags": ["svn", "version"]
+  },
+  {
+    "name": "Sulu Line",
+    "componentName": "SuluLine",
+    "tags": ["cms", "platform"]
+  },
+  {
+    "name": "Sulu Line Wordmark",
+    "componentName": "SuluLineWordmark",
+    "tags": ["cms", "platform"]
+  },
+  {
+    "name": "Sulu Original",
+    "componentName": "SuluOriginal",
+    "tags": ["cms", "platform"]
+  },
+  {
+    "name": "Sulu Original Wordmark",
+    "componentName": "SuluOriginalWordmark",
+    "tags": ["cms", "platform"]
   },
   {
     "name": "Supabase Original",

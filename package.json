@@ -1,8 +1,13 @@
 {
   "name": "devicons-react",
-  "version": "1.4.0",
+  "version": "1.5.0-beta.1",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
-  "keywords": ["programming", "icons", "react", "typescript"],
+  "keywords": [
+    "programming",
+    "icons",
+    "react",
+    "typescript"
+  ],
   "license": "MIT",
   "author": {
     "name": "Mohammad Abu Mattar",
@@ -45,20 +50,20 @@
     "react": "*"
   },
   "devDependencies": {
-    "@babel/cli": "7.25.9",
+    "@babel/cli": "7.26.4",
     "@babel/core": "7.26.0",
     "@babel/plugin-syntax-jsx": "7.25.9",
     "@babel/plugin-transform-parameters": "7.25.9",
-    "@babel/preset-react": "7.25.9",
+    "@babel/preset-react": "7.26.3",
     "@biomejs/biome": "1.9.4",
     "@types/fs-plus": "3.0.6",
     "@types/jsdom": "21.1.7",
     "@types/node": "22.10.1",
-    "@types/react": "18.3.12",
+    "@types/react": "19.0.1",
     "babel-preset-minify": "0.5.2",
     "fs-plus": "3.1.1",
     "jsdom": "25.0.1",
-    "react": "18.3.1",
+    "react": "19.0.0",
     "recursive-directory": "1.2.3",
     "svg-to-jsx": "1.0.4",
     "svgo": "3.3.2",
@@ -85,7 +90,10 @@
     },
     "./package.json": "./package.json"
   },
-  "files": ["/lib", "/index.d.ts"],
+  "files": [
+    "/lib",
+    "/index.d.ts"
+  ],
   "support": {
     "backing": {
       "npm-funding": true
