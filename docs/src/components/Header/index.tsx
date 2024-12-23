@@ -35,12 +35,23 @@ const Header = () => {
 
           <HeaderBoxGitHubLabel>
             <a
-              href="https://www.npmjs.com/package/devicons-react"
+              href="https://www.npmjs.com/package/devicons-react/v/latest"
               target="_blank"
               rel="noreferrer"
             >
               <img
-                src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
+                src="https://img.shields.io/npm/v/devicons-react/latest?style=for-the-badge&logo=npm&logoColor=white&color=d52128"
+                alt=""
+              />
+            </a>
+
+            <a
+              href="https://www.npmjs.com/package/devicons-react/v/beta"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                src="https://img.shields.io/npm/v/devicons-react/beta?style=for-the-badge&logo=npm&logoColor=white&color=d52128"
                 alt=""
               />
             </a>
