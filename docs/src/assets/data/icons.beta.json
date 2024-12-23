@@ -375,11 +375,6 @@
     "tags": ["cloud", "platform", "server"]
   },
   {
-    "name": "Appwrite Plain",
-    "componentName": "AppwritePlain",
-    "tags": ["cloud", "platform", "server"]
-  },
-  {
     "name": "Appwrite Plain Wordmark",
     "componentName": "AppwritePlainWordmark",
     "tags": ["cloud", "platform", "server"]
@@ -443,6 +438,26 @@
     "name": "Argocd Plain Wordmark",
     "componentName": "ArgocdPlainWordmark",
     "tags": ["gitops", "continuous-delivery"]
+  },
+  {
+    "name": "Artixlinux Original",
+    "componentName": "ArtixlinuxOriginal",
+    "tags": ["linux", "os", "distribution", "desktop"]
+  },
+  {
+    "name": "Artixlinux Original Wordmark",
+    "componentName": "ArtixlinuxOriginalWordmark",
+    "tags": ["linux", "os", "distribution", "desktop"]
+  },
+  {
+    "name": "Artixlinux Plain",
+    "componentName": "ArtixlinuxPlain",
+    "tags": ["linux", "os", "distribution", "desktop"]
+  },
+  {
+    "name": "Artixlinux Plain Wordmark",
+    "componentName": "ArtixlinuxPlainWordmark",
+    "tags": ["linux", "os", "distribution", "desktop"]
   },
   {
     "name": "Astro Original",
@@ -5646,6 +5661,58 @@
     "tags": ["jetbrains", "editor", "php", "web", "html"]
   },
   {
+    "name": "Pixijs Original",
+    "componentName": "PixijsOriginal",
+    "tags": [
+      "animation",
+      "graphics",
+      "html",
+      "javascript",
+      "library",
+      "visualization",
+      "ui"
+    ]
+  },
+  {
+    "name": "Pixijs Original Wordmark",
+    "componentName": "PixijsOriginalWordmark",
+    "tags": [
+      "animation",
+      "graphics",
+      "html",
+      "javascript",
+      "library",
+      "visualization",
+      "ui"
+    ]
+  },
+  {
+    "name": "Pixijs Plain",
+    "componentName": "PixijsPlain",
+    "tags": [
+      "animation",
+      "graphics",
+      "html",
+      "javascript",
+      "library",
+      "visualization",
+      "ui"
+    ]
+  },
+  {
+    "name": "Pixijs Plain Wordmark",
+    "componentName": "PixijsPlainWordmark",
+    "tags": [
+      "animation",
+      "graphics",
+      "html",
+      "javascript",
+      "library",
+      "visualization",
+      "ui"
+    ]
+  },
+  {
     "name": "Playwright Original",
     "componentName": "PlaywrightOriginal",
     "tags": ["testing", "framework"]
@@ -6364,6 +6431,16 @@
     "name": "Reactbootstrap Original",
     "componentName": "ReactbootstrapOriginal",
     "tags": ["framework", "library", "frontend", "reactjs", "javascript"]
+  },
+  {
+    "name": "Reactnative Original",
+    "componentName": "ReactnativeOriginal",
+    "tags": ["framework"]
+  },
+  {
+    "name": "Reactnative Original Wordmark",
+    "componentName": "ReactnativeOriginalWordmark",
+    "tags": ["framework"]
   },
   {
     "name": "Reactnavigation Original",
@@ -7555,6 +7632,26 @@
     "name": "Tauri Plain Wordmark",
     "componentName": "TauriPlainWordmark",
     "tags": ["nodejs", "rust", "desktop", "framework", "programming"]
+  },
+  {
+    "name": "Teleport Line",
+    "componentName": "TeleportLine",
+    "tags": ["ssh", "security", "auth", "authentication", "infrastructure"]
+  },
+  {
+    "name": "Teleport Line Wordmark",
+    "componentName": "TeleportLineWordmark",
+    "tags": ["ssh", "security", "auth", "authentication", "infrastructure"]
+  },
+  {
+    "name": "Teleport Original",
+    "componentName": "TeleportOriginal",
+    "tags": ["ssh", "security", "auth", "authentication", "infrastructure"]
+  },
+  {
+    "name": "Teleport Original Wordmark",
+    "componentName": "TeleportOriginalWordmark",
+    "tags": ["ssh", "security", "auth", "authentication", "infrastructure"]
   },
   {
     "name": "Tensorflow Line",
