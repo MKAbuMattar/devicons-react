@@ -2285,6 +2285,16 @@
     "tags": ["auth", "hosting", "storage", "cloud"]
   },
   {
+    "name": "Firebird Original",
+    "componentName": "FirebirdOriginal",
+    "tags": ["database"]
+  },
+  {
+    "name": "Firebird Plain",
+    "componentName": "FirebirdPlain",
+    "tags": ["database"]
+  },
+  {
     "name": "Firefox Original",
     "componentName": "FirefoxOriginal",
     "tags": ["browser"]
@@ -3939,6 +3949,36 @@
     "tags": ["jetbrains", "kotlin", "framework"]
   },
   {
+    "name": "Kubeflow Line",
+    "componentName": "KubeflowLine",
+    "tags": ["kubernetes", "deployment", "machine-learning"]
+  },
+  {
+    "name": "Kubeflow Line Wordmark",
+    "componentName": "KubeflowLineWordmark",
+    "tags": ["kubernetes", "deployment", "machine-learning"]
+  },
+  {
+    "name": "Kubeflow Original",
+    "componentName": "KubeflowOriginal",
+    "tags": ["kubernetes", "deployment", "machine-learning"]
+  },
+  {
+    "name": "Kubeflow Original Wordmark",
+    "componentName": "KubeflowOriginalWordmark",
+    "tags": ["kubernetes", "deployment", "machine-learning"]
+  },
+  {
+    "name": "Kubeflow Plain",
+    "componentName": "KubeflowPlain",
+    "tags": ["kubernetes", "deployment", "machine-learning"]
+  },
+  {
+    "name": "Kubeflow Plain Wordmark",
+    "componentName": "KubeflowPlainWordmark",
+    "tags": ["kubernetes", "deployment", "machine-learning"]
+  },
+  {
     "name": "Kubernetes Line",
     "componentName": "KubernetesLine",
     "tags": ["container", "deployment"]
@@ -4311,6 +4351,16 @@
     "tags": ["plotting", "library", "math", "visualization", "python", "api"]
   },
   {
+    "name": "Mattermost Original",
+    "componentName": "MattermostOriginal",
+    "tags": ["app", "chat", "collaboration", "open-source", "platform"]
+  },
+  {
+    "name": "Mattermost Original Wordmark",
+    "componentName": "MattermostOriginalWordmark",
+    "tags": ["app", "chat", "collaboration", "open-source", "platform"]
+  },
+  {
     "name": "Maven Original",
     "componentName": "MavenOriginal",
     "tags": ["build"]
@@ -4393,6 +4443,36 @@
       "game",
       "animation"
     ]
+  },
+  {
+    "name": "Memcached Line",
+    "componentName": "MemcachedLine",
+    "tags": ["data", "database", "nosql"]
+  },
+  {
+    "name": "Memcached Line Wordmark",
+    "componentName": "MemcachedLineWordmark",
+    "tags": ["data", "database", "nosql"]
+  },
+  {
+    "name": "Memcached Original",
+    "componentName": "MemcachedOriginal",
+    "tags": ["data", "database", "nosql"]
+  },
+  {
+    "name": "Memcached Original Wordmark",
+    "componentName": "MemcachedOriginalWordmark",
+    "tags": ["data", "database", "nosql"]
+  },
+  {
+    "name": "Memcached Plain",
+    "componentName": "MemcachedPlain",
+    "tags": ["data", "database", "nosql"]
+  },
+  {
+    "name": "Memcached Plain Wordmark",
+    "componentName": "MemcachedPlainWordmark",
+    "tags": ["data", "database", "nosql"]
   },
   {
     "name": "Meteor Original",
