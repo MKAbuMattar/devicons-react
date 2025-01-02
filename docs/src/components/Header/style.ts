@@ -87,6 +87,53 @@ export const HeaderCardTitle = styled.h4`
   }
 `;
 
+export const HeaderAlertNote = styled.div`
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  border-style: solid;
+  border-width: 0 0 0 0.5rem;
+  border-left-color: #1f6feb;
+`;
+
+export const HeaderAlertNoteTitle = styled.h4`
+  font-size: 1.5em;
+  margin: 0;
+  margin-left: 0.5rem;
+  color: #eeeeee;
+  `;
+  
+  export const HeaderAlertNoteInfo = styled.p`
+  margin: 0;
+  margin-left: 0.5rem;
+  padding: 1em 0;
+  color: #eeeeee;
+`;
+
+export const HeaderAlertCaution = styled.div`
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  border-style: solid;
+  border-width: 0 0 0 0.5rem;
+  border-left-color: #d52128;
+`;
+
+export const HeaderAlertCautionTitle = styled.h4`
+  font-size: 1.5em;
+  margin: 0;
+  margin-left: 0.5rem;
+  color: #eeeeee;
+`;
+
+export const HeaderAlertCautionInfo = styled.p`
+  margin: 0;
+  margin-left: 0.5rem;
+  padding: 1em 0;
+  color: #eeeeee;
+  border-left-color: #d52128;
+`;
+
 export const HeaderArrowWaveBox = styled.div`
   width: 100%;
   display: flex;

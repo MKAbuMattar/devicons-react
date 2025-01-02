@@ -43,7 +43,7 @@
     "styled-components": "6.1.13"
   },
   "devDependencies": {
-    "@types/node": "22.10.2",
+    "@types/node": "22.10.3",
     "@types/react": "19.0.2",
     "@types/react-dom": "19.0.2",
     "babel-plugin-styled-components": "2.1.4",

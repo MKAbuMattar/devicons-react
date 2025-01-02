@@ -15,6 +15,12 @@ import {
   HeaderInfo,
   HeaderTitle,
   HeaderTitleBox,
+  HeaderAlertNote,
+  HeaderAlertNoteTitle,
+  HeaderAlertNoteInfo,
+  HeaderAlertCaution,
+  HeaderAlertCautionTitle,
+  HeaderAlertCautionInfo,
 } from './style';
 
 const Header = () => {
@@ -119,19 +125,60 @@ pnpm add devicons-react`}
               <HeaderCardTitle>Demo</HeaderCardTitle>
             </HeaderCardInfo>
             <Highlight language={'JavaScript'} theme={'Base16Nord'}>
-              {`import { Aarch64Plain } from 'devicons-react'
+              {`import Aarch64Original from "devicons-react/lib/icons/Aarch64Original";
 
 const App = () => {
   return (
     <>
-      <Aarch64Plain color="red" size="500"  />
+      <Aarch64Original />
     </>
-  )
-}
+  );
+};
 
-export default App`}
+export default App;`}
             </Highlight>
           </HeaderCard>
+
+          <HeaderCard>
+            <HeaderCardInfo>
+              <HeaderCardTitle>
+                Custom size, color, and class name
+              </HeaderCardTitle>
+            </HeaderCardInfo>
+            <Highlight language={'JavaScript'} theme={'Base16Nord'}>
+              {`import Aarch64Line from "devicons-react/lib/icons/Aarch64Line";
+import Aarch64Original from "devicons-react/lib/icons/Aarch64Original";
+import Aarch64Plain from "devicons-react/lib/icons/Aarch64Plain";
+
+const App = () => {
+  return (
+    <>
+      <Aarch64Line color="red" size="50" />
+      <Aarch64Original color="blue" size="50" />
+      <Aarch64Plain size="50" />
+      <Aarch64Original className="custom-class" />
+    </>
+  );
+};
+
+export default App;`}
+            </Highlight>
+          </HeaderCard>
+
+          <HeaderAlertNote>
+            <HeaderAlertNoteTitle>Note</HeaderAlertNoteTitle>
+            <HeaderAlertNoteInfo>
+              The color prop works only with Plain and Line icons. All SVG props are also supported for advanced customization.
+            </HeaderAlertNoteInfo>
+          </HeaderAlertNote>
+
+          <HeaderAlertCaution>
+            <HeaderAlertCautionTitle>Caution</HeaderAlertCautionTitle>
+            <HeaderAlertCautionInfo>
+            Avoid importing multiple icons directly using <code>{`import { Aarch64Line, Aarch64Original, Aarch64Plain } from 'devicons-react';`}</code> as it will increase the bundle size. Instead, import icons individually as shown above.
+            </HeaderAlertCautionInfo>
+          </HeaderAlertCaution>
+
         </HeaderBox>
       </HeaderContainer>
     </Fragment>
