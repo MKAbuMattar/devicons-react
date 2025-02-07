@@ -382,22 +382,22 @@
   {
     "name": "Archlinux Original",
     "componentName": "ArchlinuxOriginal",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Archlinux Original Wordmark",
     "componentName": "ArchlinuxOriginalWordmark",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Archlinux Plain",
     "componentName": "ArchlinuxPlain",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Archlinux Plain Wordmark",
     "componentName": "ArchlinuxPlainWordmark",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Arduino Original",
@@ -1115,6 +1115,16 @@
     "tags": ["programming", "language", "blockchain"]
   },
   {
+    "name": "Clickhouse Original",
+    "componentName": "ClickhouseOriginal",
+    "tags": ["cloud", "column-oriented", "database", "warehouse"]
+  },
+  {
+    "name": "Clickhouse Plain",
+    "componentName": "ClickhousePlain",
+    "tags": ["cloud", "column-oriented", "database", "warehouse"]
+  },
+  {
     "name": "Clion Original",
     "componentName": "ClionOriginal",
     "tags": ["jetbrains", "editor", "c", "c++", "cpp", "cplusplus"]
@@ -1228,6 +1238,11 @@
     "name": "Cmake Plain Wordmark",
     "componentName": "CmakePlainWordmark",
     "tags": ["build"]
+  },
+  {
+    "name": "Cobol Original",
+    "componentName": "CobolOriginal",
+    "tags": ["language"]
   },
   {
     "name": "Codeac Original",
@@ -2187,12 +2202,12 @@
   {
     "name": "Fedora Original",
     "componentName": "FedoraOriginal",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Fedora Plain",
     "componentName": "FedoraPlain",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Fiber Line",
@@ -2528,32 +2543,32 @@
   {
     "name": "Gentoo Line",
     "componentName": "GentooLine",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Gentoo Line Wordmark",
     "componentName": "GentooLineWordmark",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Gentoo Original",
     "componentName": "GentooOriginal",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Gentoo Original Wordmark",
     "componentName": "GentooOriginalWordmark",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Gentoo Plain",
     "componentName": "GentooPlain",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Gentoo Plain Wordmark",
     "componentName": "GentooPlainWordmark",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Ghost Original",
@@ -2714,6 +2729,16 @@
     "name": "Gitter Plain Wordmark",
     "componentName": "GitterPlainWordmark",
     "tags": ["social", "chat"]
+  },
+  {
+    "name": "Gleam Original",
+    "componentName": "GleamOriginal",
+    "tags": ["language", "programming"]
+  },
+  {
+    "name": "Gleam Plain",
+    "componentName": "GleamPlain",
+    "tags": ["language", "programming"]
   },
   {
     "name": "Go Line",
@@ -5482,12 +5507,12 @@
   {
     "name": "Opensuse Original",
     "componentName": "OpensuseOriginal",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Opensuse Original Wordmark",
     "componentName": "OpensuseOriginalWordmark",
-    "tags": ["linux", "distribuition", "desktop"]
+    "tags": ["linux", "distribution", "desktop"]
   },
   {
     "name": "Opentelemetry Original",
@@ -7692,6 +7717,16 @@
     "name": "Tailwindcss Plain Wordmark",
     "componentName": "TailwindcssPlainWordmark",
     "tags": ["css", "framework"]
+  },
+  {
+    "name": "Talos Original",
+    "componentName": "TalosOriginal",
+    "tags": ["container", "linux", "distribution"]
+  },
+  {
+    "name": "Talos Plain",
+    "componentName": "TalosPlain",
+    "tags": ["container", "linux", "distribution"]
   },
   {
     "name": "Tauri Original",
