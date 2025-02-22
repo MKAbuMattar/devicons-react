@@ -335,6 +335,11 @@
     "tags": ["data-processing", "data-science", "machine-learning"]
   },
   {
+    "name": "Apex Original",
+    "componentName": "ApexOriginal",
+    "tags": ["language"]
+  },
+  {
     "name": "Apl Original",
     "componentName": "AplOriginal",
     "tags": ["programming", "language", "open-source", "cross-platform"]
@@ -1835,6 +1840,21 @@
     "tags": ["framework"]
   },
   {
+    "name": "Dovecot Line",
+    "componentName": "DovecotLine",
+    "tags": ["imap", "pop3", "e-mail"]
+  },
+  {
+    "name": "Dovecot Original",
+    "componentName": "DovecotOriginal",
+    "tags": ["imap", "pop3", "e-mail"]
+  },
+  {
+    "name": "Dovecot Plain",
+    "componentName": "DovecotPlain",
+    "tags": ["imap", "pop3", "e-mail"]
+  },
+  {
     "name": "Dreamweaver Line",
     "componentName": "DreamweaverLine",
     "tags": ["web-development", "editor", "software", "tool"]
@@ -1878,6 +1898,16 @@
     "name": "Drupal Plain Wordmark",
     "componentName": "DrupalPlainWordmark",
     "tags": ["cms"]
+  },
+  {
+    "name": "Dyalog Original",
+    "componentName": "DyalogOriginal",
+    "tags": ["language"]
+  },
+  {
+    "name": "Dyalog Original Wordmark",
+    "componentName": "DyalogOriginalWordmark",
+    "tags": ["language"]
   },
   {
     "name": "Dynamodb Original",
@@ -2681,6 +2711,21 @@
     "tags": ["development", "remote-development", "editor", "browser", "cloud"]
   },
   {
+    "name": "Gitkraken Original",
+    "componentName": "GitkrakenOriginal",
+    "tags": ["git", "version-control"]
+  },
+  {
+    "name": "Gitkraken Original Wordmark",
+    "componentName": "GitkrakenOriginalWordmark",
+    "tags": ["git", "version-control"]
+  },
+  {
+    "name": "Gitkraken Plain Wordmark",
+    "componentName": "GitkrakenPlainWordmark",
+    "tags": ["git", "version-control"]
+  },
+  {
     "name": "Gitlab Original",
     "componentName": "GitlabOriginal",
     "tags": ["version-control"]
@@ -3234,6 +3279,16 @@
     "tags": ["package", "manager", "linux", "apple", "os"]
   },
   {
+    "name": "Hoppscotch Original",
+    "componentName": "HoppscotchOriginal",
+    "tags": ["rest", "testing", "api"]
+  },
+  {
+    "name": "Hoppscotch Plain",
+    "componentName": "HoppscotchPlain",
+    "tags": ["rest", "testing", "api"]
+  },
+  {
     "name": "Html5 Original",
     "componentName": "Html5Original",
     "tags": ["programming", "language"]
@@ -3316,6 +3371,11 @@
   {
     "name": "Illustrator Line",
     "componentName": "IllustratorLine",
+    "tags": ["editor", "vector"]
+  },
+  {
+    "name": "Illustrator Original",
+    "componentName": "IllustratorOriginal",
     "tags": ["editor", "vector"]
   },
   {
@@ -4167,6 +4227,26 @@
     "tags": ["os"]
   },
   {
+    "name": "Linuxmint Original",
+    "componentName": "LinuxmintOriginal",
+    "tags": ["os", "linux"]
+  },
+  {
+    "name": "Linuxmint Original Wordmark",
+    "componentName": "LinuxmintOriginalWordmark",
+    "tags": ["os", "linux"]
+  },
+  {
+    "name": "Linuxmint Plain",
+    "componentName": "LinuxmintPlain",
+    "tags": ["os", "linux"]
+  },
+  {
+    "name": "Linuxmint Plain Wordmark",
+    "componentName": "LinuxmintPlainWordmark",
+    "tags": ["os", "linux"]
+  },
+  {
     "name": "Liquibase Original",
     "componentName": "LiquibaseOriginal",
     "tags": ["tool", "database"]
@@ -4304,6 +4384,11 @@
     "name": "Magento Plain Wordmark",
     "componentName": "MagentoPlainWordmark",
     "tags": ["php", "framework"]
+  },
+  {
+    "name": "Mapbox Original",
+    "componentName": "MapboxOriginal",
+    "tags": ["map", "navigation", "data"]
   },
   {
     "name": "Mariadb Original",
@@ -4757,6 +4842,16 @@
     "name": "Nano Plain Wordmark",
     "componentName": "NanoPlainWordmark",
     "tags": ["text editor", "editor", "GNU", "terminal"]
+  },
+  {
+    "name": "Nats Original",
+    "componentName": "NatsOriginal",
+    "tags": ["streaming", "open-source", "go"]
+  },
+  {
+    "name": "Nats Plain",
+    "componentName": "NatsPlain",
+    "tags": ["streaming", "open-source", "go"]
   },
   {
     "name": "Neo4j Original",
@@ -6033,6 +6128,16 @@
     "tags": ["editor", "video"]
   },
   {
+    "name": "Primeng Original",
+    "componentName": "PrimengOriginal",
+    "tags": ["angular", "ui", "component", "library", "framework"]
+  },
+  {
+    "name": "Primeng Plain",
+    "componentName": "PrimengPlain",
+    "tags": ["angular", "ui", "component", "library", "framework"]
+  },
+  {
     "name": "Prisma Original",
     "componentName": "PrismaOriginal",
     "tags": ["orm", "nodejs", "typescript"]
@@ -6726,6 +6831,26 @@
     "name": "Replit Plain Wordmark",
     "componentName": "ReplitPlainWordmark",
     "tags": ["software"]
+  },
+  {
+    "name": "Rexx Original",
+    "componentName": "RexxOriginal",
+    "tags": ["language"]
+  },
+  {
+    "name": "Rexx Original Wordmark",
+    "componentName": "RexxOriginalWordmark",
+    "tags": ["language"]
+  },
+  {
+    "name": "Rexx Plain",
+    "componentName": "RexxPlain",
+    "tags": ["language"]
+  },
+  {
+    "name": "Rexx Plain Wordmark",
+    "componentName": "RexxPlainWordmark",
+    "tags": ["language"]
   },
   {
     "name": "Rider Original",
@@ -8753,6 +8878,26 @@
     "name": "Windows8 Original Wordmark",
     "componentName": "Windows8OriginalWordmark",
     "tags": ["os"]
+  },
+  {
+    "name": "Wolfram Original",
+    "componentName": "WolframOriginal",
+    "tags": ["data-science", "functional", "programming"]
+  },
+  {
+    "name": "Wolfram Original Wordmark",
+    "componentName": "WolframOriginalWordmark",
+    "tags": ["data-science", "functional", "programming"]
+  },
+  {
+    "name": "Wolfram Plain",
+    "componentName": "WolframPlain",
+    "tags": ["data-science", "functional", "programming"]
+  },
+  {
+    "name": "Wolfram Plain Wordmark",
+    "componentName": "WolframPlainWordmark",
+    "tags": ["data-science", "functional", "programming"]
   },
   {
     "name": "Woocommerce Original",
