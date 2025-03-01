@@ -1610,6 +1610,11 @@
     "tags": ["jetbrains", "ide", "jupyter notebook", "data science"]
   },
   {
+    "name": "Datatables Original",
+    "componentName": "DatatablesOriginal",
+    "tags": ["css", "framework", "html", "javascript", "library"]
+  },
+  {
     "name": "Dbeaver Original",
     "componentName": "DbeaverOriginal",
     "tags": ["tool", "database"]
@@ -2786,6 +2791,26 @@
     "tags": ["language", "programming"]
   },
   {
+    "name": "Glitch Original",
+    "componentName": "GlitchOriginal",
+    "tags": [
+      "web-apps",
+      "online-platform",
+      "programming-environment",
+      "collaborative-environment"
+    ]
+  },
+  {
+    "name": "Glitch Plain",
+    "componentName": "GlitchPlain",
+    "tags": [
+      "web-apps",
+      "online-platform",
+      "programming-environment",
+      "collaborative-environment"
+    ]
+  },
+  {
     "name": "Go Line",
     "componentName": "GoLine",
     "tags": ["language"]
@@ -3632,6 +3657,58 @@
     "name": "Jetpackcompose Plain Wordmark",
     "componentName": "JetpackcomposePlainWordmark",
     "tags": ["framework", "language", "kotlin", "android"]
+  },
+  {
+    "name": "Jhipster Original",
+    "componentName": "JhipsterOriginal",
+    "tags": [
+      "development",
+      "framework",
+      "java",
+      "platform",
+      "web",
+      "web-application",
+      "web-development"
+    ]
+  },
+  {
+    "name": "Jhipster Original Wordmark",
+    "componentName": "JhipsterOriginalWordmark",
+    "tags": [
+      "development",
+      "framework",
+      "java",
+      "platform",
+      "web",
+      "web-application",
+      "web-development"
+    ]
+  },
+  {
+    "name": "Jhipster Plain",
+    "componentName": "JhipsterPlain",
+    "tags": [
+      "development",
+      "framework",
+      "java",
+      "platform",
+      "web",
+      "web-application",
+      "web-development"
+    ]
+  },
+  {
+    "name": "Jhipster Plain Wordmark",
+    "componentName": "JhipsterPlainWordmark",
+    "tags": [
+      "development",
+      "framework",
+      "java",
+      "platform",
+      "web",
+      "web-application",
+      "web-development"
+    ]
   },
   {
     "name": "Jira Original",
@@ -5266,6 +5343,21 @@
     "tags": ["nodejs", "tool", "javascript"]
   },
   {
+    "name": "Nodered Line",
+    "componentName": "NoderedLine",
+    "tags": ["programming", "tool"]
+  },
+  {
+    "name": "Nodered Original",
+    "componentName": "NoderedOriginal",
+    "tags": ["programming", "tool"]
+  },
+  {
+    "name": "Nodered Plain",
+    "componentName": "NoderedPlain",
+    "tags": ["programming", "tool"]
+  },
+  {
     "name": "Nodewebkit Line",
     "componentName": "NodewebkitLine",
     "tags": []
@@ -6251,6 +6343,26 @@
     "name": "Protractor Plain Wordmark",
     "componentName": "ProtractorPlainWordmark",
     "tags": ["framework", "javascript"]
+  },
+  {
+    "name": "Proxmox Original",
+    "componentName": "ProxmoxOriginal",
+    "tags": ["container", "lxc", "virtual machine"]
+  },
+  {
+    "name": "Proxmox Original Wordmark",
+    "componentName": "ProxmoxOriginalWordmark",
+    "tags": ["container", "lxc", "virtual machine"]
+  },
+  {
+    "name": "Proxmox Plain",
+    "componentName": "ProxmoxPlain",
+    "tags": ["container", "lxc", "virtual machine"]
+  },
+  {
+    "name": "Proxmox Plain Wordmark",
+    "componentName": "ProxmoxPlainWordmark",
+    "tags": ["container", "lxc", "virtual machine"]
   },
   {
     "name": "Pulsar Original",
@@ -7622,6 +7734,26 @@
     "name": "Streamlit Plain Wordmark",
     "componentName": "StreamlitPlainWordmark",
     "tags": ["python", "machine-learning", "data-science"]
+  },
+  {
+    "name": "Styledcomponents Original",
+    "componentName": "StyledcomponentsOriginal",
+    "tags": ["css", "javascript", "js", "library", "nodejs", "web"]
+  },
+  {
+    "name": "Styledcomponents Original Wordmark",
+    "componentName": "StyledcomponentsOriginalWordmark",
+    "tags": ["css", "javascript", "js", "library", "nodejs", "web"]
+  },
+  {
+    "name": "Styledcomponents Plain",
+    "componentName": "StyledcomponentsPlain",
+    "tags": ["css", "javascript", "js", "library", "nodejs", "web"]
+  },
+  {
+    "name": "Styledcomponents Plain Wordmark",
+    "componentName": "StyledcomponentsPlainWordmark",
+    "tags": ["css", "javascript", "js", "library", "nodejs", "web"]
   },
   {
     "name": "Stylus Original",
