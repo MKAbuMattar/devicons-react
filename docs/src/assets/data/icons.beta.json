@@ -630,6 +630,26 @@
     "tags": ["shell", "command", "scripting"]
   },
   {
+    "name": "Bazel Original",
+    "componentName": "BazelOriginal",
+    "tags": ["build", "automation", "open-source"]
+  },
+  {
+    "name": "Bazel Original Wordmark",
+    "componentName": "BazelOriginalWordmark",
+    "tags": ["build", "automation", "open-source"]
+  },
+  {
+    "name": "Bazel Plain",
+    "componentName": "BazelPlain",
+    "tags": ["build", "automation", "open-source"]
+  },
+  {
+    "name": "Bazel Plain Wordmark",
+    "componentName": "BazelPlainWordmark",
+    "tags": ["build", "automation", "open-source"]
+  },
+  {
     "name": "Beats Original",
     "componentName": "BeatsOriginal",
     "tags": ["elastic", "data-transfer"]
@@ -1575,6 +1595,16 @@
     "tags": ["programming", "language"]
   },
   {
+    "name": "Datadog Original",
+    "componentName": "DatadogOriginal",
+    "tags": ["monitoring", "platform", "integration"]
+  },
+  {
+    "name": "Datadog Original Wordmark",
+    "componentName": "DatadogOriginalWordmark",
+    "tags": ["monitoring", "platform", "integration"]
+  },
+  {
     "name": "Datagrip Original",
     "componentName": "DatagripOriginal",
     "tags": ["jetbrains", "ide", "sql", "database"]
@@ -1905,6 +1935,16 @@
     "tags": ["cms"]
   },
   {
+    "name": "Duckdb Original",
+    "componentName": "DuckdbOriginal",
+    "tags": ["database", "sql"]
+  },
+  {
+    "name": "Duckdb Plain",
+    "componentName": "DuckdbPlain",
+    "tags": ["database", "sql"]
+  },
+  {
     "name": "Dyalog Original",
     "componentName": "DyalogOriginal",
     "tags": ["language"]
@@ -1923,6 +1963,36 @@
     "name": "Dynamodb Plain",
     "componentName": "DynamodbPlain",
     "tags": ["key-value", "database", "java"]
+  },
+  {
+    "name": "Dynatrace Line",
+    "componentName": "DynatraceLine",
+    "tags": ["monitoring", "performance", "cloud"]
+  },
+  {
+    "name": "Dynatrace Line Wordmark",
+    "componentName": "DynatraceLineWordmark",
+    "tags": ["monitoring", "performance", "cloud"]
+  },
+  {
+    "name": "Dynatrace Original",
+    "componentName": "DynatraceOriginal",
+    "tags": ["monitoring", "performance", "cloud"]
+  },
+  {
+    "name": "Dynatrace Original Wordmark",
+    "componentName": "DynatraceOriginalWordmark",
+    "tags": ["monitoring", "performance", "cloud"]
+  },
+  {
+    "name": "Dynatrace Plain",
+    "componentName": "DynatracePlain",
+    "tags": ["monitoring", "performance", "cloud"]
+  },
+  {
+    "name": "Dynatrace Plain Wordmark",
+    "componentName": "DynatracePlainWordmark",
+    "tags": ["monitoring", "performance", "cloud"]
   },
   {
     "name": "Eclipse Original",
@@ -2148,6 +2218,26 @@
     "name": "Eslint Plain Wordmark",
     "componentName": "EslintPlainWordmark",
     "tags": ["linter", "javascript", "code-quality", "coding-style"]
+  },
+  {
+    "name": "Expo Line",
+    "componentName": "ExpoLine",
+    "tags": ["framework", "react", "react-native"]
+  },
+  {
+    "name": "Expo Line Wordmark",
+    "componentName": "ExpoLineWordmark",
+    "tags": ["framework", "react", "react-native"]
+  },
+  {
+    "name": "Expo Original",
+    "componentName": "ExpoOriginal",
+    "tags": ["framework", "react", "react-native"]
+  },
+  {
+    "name": "Expo Original Wordmark",
+    "componentName": "ExpoOriginalWordmark",
+    "tags": ["framework", "react", "react-native"]
   },
   {
     "name": "Express Original",
@@ -3914,6 +4004,36 @@
     "name": "Kaggle Original Wordmark",
     "componentName": "KaggleOriginalWordmark",
     "tags": ["platform", "auth", "machine-learning"]
+  },
+  {
+    "name": "Kaldi Line",
+    "componentName": "KaldiLine",
+    "tags": ["audio", "open-source", "library"]
+  },
+  {
+    "name": "Kaldi Line Wordmark",
+    "componentName": "KaldiLineWordmark",
+    "tags": ["audio", "open-source", "library"]
+  },
+  {
+    "name": "Kaldi Original",
+    "componentName": "KaldiOriginal",
+    "tags": ["audio", "open-source", "library"]
+  },
+  {
+    "name": "Kaldi Original Wordmark",
+    "componentName": "KaldiOriginalWordmark",
+    "tags": ["audio", "open-source", "library"]
+  },
+  {
+    "name": "Kaldi Plain",
+    "componentName": "KaldiPlain",
+    "tags": ["audio", "open-source", "library"]
+  },
+  {
+    "name": "Kaldi Plain Wordmark",
+    "componentName": "KaldiPlainWordmark",
+    "tags": ["audio", "open-source", "library"]
   },
   {
     "name": "Kalilinux Line",
@@ -6640,6 +6760,21 @@
     "tags": ["message-broker", "open-source"]
   },
   {
+    "name": "Racket Line",
+    "componentName": "RacketLine",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Racket Original",
+    "componentName": "RacketOriginal",
+    "tags": ["programming", "language"]
+  },
+  {
+    "name": "Racket Plain",
+    "componentName": "RacketPlain",
+    "tags": ["programming", "language"]
+  },
+  {
     "name": "Rails Original Wordmark",
     "componentName": "RailsOriginalWordmark",
     "tags": ["framework"]
@@ -8347,6 +8482,21 @@
     "tags": ["typescript", "javascript", "typesafe", "api"]
   },
   {
+    "name": "Turbo Original",
+    "componentName": "TurboOriginal",
+    "tags": ["spa", "js"]
+  },
+  {
+    "name": "Turbo Original Wordmark",
+    "componentName": "TurboOriginalWordmark",
+    "tags": ["spa", "js"]
+  },
+  {
+    "name": "Turbo Plain Wordmark",
+    "componentName": "TurboPlainWordmark",
+    "tags": ["spa", "js"]
+  },
+  {
     "name": "Twitter Original",
     "componentName": "TwitterOriginal",
     "tags": ["auth"]
@@ -9250,5 +9400,35 @@
     "name": "Zig Plain Wordmark",
     "componentName": "ZigPlainWordmark",
     "tags": ["language"]
+  },
+  {
+    "name": "Zsh Line",
+    "componentName": "ZshLine",
+    "tags": ["shell", "script", "scripting", "language", "command"]
+  },
+  {
+    "name": "Zsh Line Wordmark",
+    "componentName": "ZshLineWordmark",
+    "tags": ["shell", "script", "scripting", "language", "command"]
+  },
+  {
+    "name": "Zsh Original",
+    "componentName": "ZshOriginal",
+    "tags": ["shell", "script", "scripting", "language", "command"]
+  },
+  {
+    "name": "Zsh Original Wordmark",
+    "componentName": "ZshOriginalWordmark",
+    "tags": ["shell", "script", "scripting", "language", "command"]
+  },
+  {
+    "name": "Zsh Plain",
+    "componentName": "ZshPlain",
+    "tags": ["shell", "script", "scripting", "language", "command"]
+  },
+  {
+    "name": "Zsh Plain Wordmark",
+    "componentName": "ZshPlainWordmark",
+    "tags": ["shell", "script", "scripting", "language", "command"]
   }
 ]
