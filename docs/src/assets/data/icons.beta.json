@@ -240,6 +240,26 @@
     "tags": ["automation", "provisioning", "deployment", "continuous-delivery"]
   },
   {
+    "name": "Ansys Original",
+    "componentName": "AnsysOriginal",
+    "tags": ["simulation"]
+  },
+  {
+    "name": "Ansys Original Wordmark",
+    "componentName": "AnsysOriginalWordmark",
+    "tags": ["simulation"]
+  },
+  {
+    "name": "Ansys Plain",
+    "componentName": "AnsysPlain",
+    "tags": ["simulation"]
+  },
+  {
+    "name": "Ansys Plain Wordmark",
+    "componentName": "AnsysPlainWordmark",
+    "tags": ["simulation"]
+  },
+  {
     "name": "Antdesign Original",
     "componentName": "AntdesignOriginal",
     "tags": ["reactjs", "design", "language"]
@@ -2576,6 +2596,16 @@
     "tags": ["language"]
   },
   {
+    "name": "Fusion Original",
+    "componentName": "FusionOriginal",
+    "tags": ["design"]
+  },
+  {
+    "name": "Fusion Plain",
+    "componentName": "FusionPlain",
+    "tags": ["design"]
+  },
+  {
     "name": "Gardener Line",
     "componentName": "GardenerLine",
     "tags": ["kubernetes", "cloud"]
@@ -3499,6 +3529,26 @@
     "tags": ["editor", "vector"]
   },
   {
+    "name": "Inertiajs Original",
+    "componentName": "InertiajsOriginal",
+    "tags": ["javascript", "js", "library"]
+  },
+  {
+    "name": "Inertiajs Original Wordmark",
+    "componentName": "InertiajsOriginalWordmark",
+    "tags": ["javascript", "js", "library"]
+  },
+  {
+    "name": "Inertiajs Plain",
+    "componentName": "InertiajsPlain",
+    "tags": ["javascript", "js", "library"]
+  },
+  {
+    "name": "Inertiajs Plain Wordmark",
+    "componentName": "InertiajsPlainWordmark",
+    "tags": ["javascript", "js", "library"]
+  },
+  {
     "name": "Influxdb Original",
     "componentName": "InfluxdbOriginal",
     "tags": ["database", "monitoring", "open-source", "api"]
@@ -4351,6 +4401,21 @@
     "tags": ["php", "framework"]
   },
   {
+    "name": "Laraveljetstream Original",
+    "componentName": "LaraveljetstreamOriginal",
+    "tags": ["php", "laravel", "tailwind", "scaffolding"]
+  },
+  {
+    "name": "Laraveljetstream Original Wordmark",
+    "componentName": "LaraveljetstreamOriginalWordmark",
+    "tags": ["php", "laravel", "tailwind", "scaffolding"]
+  },
+  {
+    "name": "Laraveljetstream Plain Wordmark",
+    "componentName": "LaraveljetstreamPlainWordmark",
+    "tags": ["php", "laravel", "tailwind", "scaffolding"]
+  },
+  {
     "name": "Latex Original",
     "componentName": "LatexOriginal",
     "tags": ["latex3", "latex2e", "markup", "tex", "typesetting-system"]
@@ -4512,6 +4577,21 @@
     "name": "Logstash Plain Wordmark",
     "componentName": "LogstashPlainWordmark",
     "tags": ["logs", "elastic"]
+  },
+  {
+    "name": "Love2d Line",
+    "componentName": "Love2dLine",
+    "tags": ["programming", "game-engine"]
+  },
+  {
+    "name": "Love2d Original",
+    "componentName": "Love2dOriginal",
+    "tags": ["programming", "game-engine"]
+  },
+  {
+    "name": "Love2d Plain",
+    "componentName": "Love2dPlain",
+    "tags": ["programming", "game-engine"]
   },
   {
     "name": "Lua Line",
@@ -4780,6 +4860,26 @@
     "name": "Memcached Plain Wordmark",
     "componentName": "MemcachedPlainWordmark",
     "tags": ["data", "database", "nosql"]
+  },
+  {
+    "name": "Mercurial Original",
+    "componentName": "MercurialOriginal",
+    "tags": ["version-control"]
+  },
+  {
+    "name": "Mercurial Original Wordmark",
+    "componentName": "MercurialOriginalWordmark",
+    "tags": ["version-control"]
+  },
+  {
+    "name": "Mercurial Plain",
+    "componentName": "MercurialPlain",
+    "tags": ["version-control"]
+  },
+  {
+    "name": "Mercurial Plain Wordmark",
+    "componentName": "MercurialPlainWordmark",
+    "tags": ["version-control"]
   },
   {
     "name": "Meteor Original",
@@ -5561,6 +5661,16 @@
     "name": "Npm Plain",
     "componentName": "NpmPlain",
     "tags": ["package", "manager"]
+  },
+  {
+    "name": "Npss Original",
+    "componentName": "NpssOriginal",
+    "tags": []
+  },
+  {
+    "name": "Npss Plain",
+    "componentName": "NpssPlain",
+    "tags": []
   },
   {
     "name": "Nuget Original",
