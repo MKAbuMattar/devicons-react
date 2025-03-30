@@ -370,6 +370,26 @@
     "tags": ["programming", "language", "open-source", "cross-platform"]
   },
   {
+    "name": "Apollographql Line",
+    "componentName": "ApollographqlLine",
+    "tags": ["platform", "graphql", "api"]
+  },
+  {
+    "name": "Apollographql Line Wordmark",
+    "componentName": "ApollographqlLineWordmark",
+    "tags": ["platform", "graphql", "api"]
+  },
+  {
+    "name": "Apollographql Original",
+    "componentName": "ApollographqlOriginal",
+    "tags": ["platform", "graphql", "api"]
+  },
+  {
+    "name": "Apollographql Original Wordmark",
+    "componentName": "ApollographqlOriginalWordmark",
+    "tags": ["platform", "graphql", "api"]
+  },
+  {
     "name": "Appcelerator Original",
     "componentName": "AppceleratorOriginal",
     "tags": ["app", "mobile"]
@@ -2170,6 +2190,21 @@
     "tags": ["framework", "javascript", "web-development", "build"]
   },
   {
+    "name": "Entityframeworkcore Line",
+    "componentName": "EntityframeworkcoreLine",
+    "tags": ["dotnet", ".net", "framework", "database"]
+  },
+  {
+    "name": "Entityframeworkcore Original",
+    "componentName": "EntityframeworkcoreOriginal",
+    "tags": ["dotnet", ".net", "framework", "database"]
+  },
+  {
+    "name": "Entityframeworkcore Plain",
+    "componentName": "EntityframeworkcorePlain",
+    "tags": ["dotnet", ".net", "framework", "database"]
+  },
+  {
     "name": "Envoy Original",
     "componentName": "EnvoyOriginal",
     "tags": ["proxy", "cloud"]
@@ -2821,8 +2856,18 @@
     "tags": ["devops", "integration"]
   },
   {
+    "name": "Githubactions Original Wordmark",
+    "componentName": "GithubactionsOriginalWordmark",
+    "tags": ["devops", "integration"]
+  },
+  {
     "name": "Githubactions Plain",
     "componentName": "GithubactionsPlain",
+    "tags": ["devops", "integration"]
+  },
+  {
+    "name": "Githubactions Plain Wordmark",
+    "componentName": "GithubactionsPlainWordmark",
     "tags": ["devops", "integration"]
   },
   {
@@ -3502,6 +3547,21 @@
     "name": "Hugo Plain Wordmark",
     "componentName": "HugoPlainWordmark",
     "tags": ["framework", "ssg", "static-site-generator", "go", "html", "css"]
+  },
+  {
+    "name": "Hyperv Original",
+    "componentName": "HypervOriginal",
+    "tags": ["hypervisor", "operating-system"]
+  },
+  {
+    "name": "Hyperv Original Wordmark",
+    "componentName": "HypervOriginalWordmark",
+    "tags": ["hypervisor", "operating-system"]
+  },
+  {
+    "name": "Hyperv Plain",
+    "componentName": "HypervPlain",
+    "tags": ["hypervisor", "operating-system"]
   },
   {
     "name": "Ie10 Original",
@@ -6885,6 +6945,16 @@
     "tags": ["programming", "language"]
   },
   {
+    "name": "Radstudio Original",
+    "componentName": "RadstudioOriginal",
+    "tags": ["editor", "IDE"]
+  },
+  {
+    "name": "Radstudio Plain",
+    "componentName": "RadstudioPlain",
+    "tags": ["editor", "IDE"]
+  },
+  {
     "name": "Rails Original Wordmark",
     "componentName": "RailsOriginalWordmark",
     "tags": ["framework"]
@@ -8607,6 +8677,16 @@
     "tags": ["spa", "js"]
   },
   {
+    "name": "Twilio Original",
+    "componentName": "TwilioOriginal",
+    "tags": ["api", "automation", "platform"]
+  },
+  {
+    "name": "Twilio Original Wordmark",
+    "componentName": "TwilioOriginalWordmark",
+    "tags": ["api", "automation", "platform"]
+  },
+  {
     "name": "Twitter Original",
     "componentName": "TwitterOriginal",
     "tags": ["auth"]
@@ -9540,5 +9620,15 @@
     "name": "Zsh Plain Wordmark",
     "componentName": "ZshPlainWordmark",
     "tags": ["shell", "script", "scripting", "language", "command"]
+  },
+  {
+    "name": "Zustand Original",
+    "componentName": "ZustandOriginal",
+    "tags": ["framework"]
+  },
+  {
+    "name": "Zustand Plain",
+    "componentName": "ZustandPlain",
+    "tags": ["framework"]
   }
 ]
