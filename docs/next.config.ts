@@ -4,7 +4,6 @@ import runtimeCachingConfig from 'next-pwa/cache.js';
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
-  swcMinify: true,
   compiler: {
     styledComponents: true,
   },
