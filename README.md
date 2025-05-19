@@ -94,7 +94,7 @@ pnpm add devicons-react@beta
 Render an icon with default settings:
 
 ```jsx
-import Aarch64Original from "devicons-react/lib/icons/Aarch64Original";
+import Aarch64Original from "devicons-react/icons/Aarch64Original";
 
 const App = () => {
   return (
@@ -112,9 +112,9 @@ export default App;
 Customize the icon's size and color:
 
 ```jsx
-import Aarch64Line from "devicons-react/lib/icons/Aarch64Line";
-import Aarch64Original from "devicons-react/lib/icons/Aarch64Original";
-import Aarch64Plain from "devicons-react/lib/icons/Aarch64Plain";
+import Aarch64Line from "devicons-react/icons/Aarch64Line";
+import Aarch64Original from "devicons-react/icons/Aarch64Original";
+import Aarch64Plain from "devicons-react/icons/Aarch64Plain";
 
 const App = () => {
   return (

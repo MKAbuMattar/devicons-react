@@ -35,6 +35,21 @@
     "tags": ["data", "database", "nosql"]
   },
   {
+    "name": "Aframe Original",
+    "componentName": "AframeOriginal",
+    "tags": ["framework", "html", "javascript", "js", "web"]
+  },
+  {
+    "name": "Aframe Original Wordmark",
+    "componentName": "AframeOriginalWordmark",
+    "tags": ["framework", "html", "javascript", "js", "web"]
+  },
+  {
+    "name": "Aframe Plain",
+    "componentName": "AframePlain",
+    "tags": ["framework", "html", "javascript", "js", "web"]
+  },
+  {
     "name": "Aftereffects Original",
     "componentName": "AftereffectsOriginal",
     "tags": ["video", "editor"]
@@ -608,6 +623,26 @@
     "name": "Babel Plain",
     "componentName": "BabelPlain",
     "tags": ["javascript", "transpiler"]
+  },
+  {
+    "name": "Babylonjs Original",
+    "componentName": "BabylonjsOriginal",
+    "tags": ["3d", "javascript", "library", "web"]
+  },
+  {
+    "name": "Babylonjs Original Wordmark",
+    "componentName": "BabylonjsOriginalWordmark",
+    "tags": ["3d", "javascript", "library", "web"]
+  },
+  {
+    "name": "Babylonjs Plain",
+    "componentName": "BabylonjsPlain",
+    "tags": ["3d", "javascript", "library", "web"]
+  },
+  {
+    "name": "Babylonjs Plain Wordmark",
+    "componentName": "BabylonjsPlainWordmark",
+    "tags": ["3d", "javascript", "library", "web"]
   },
   {
     "name": "Backbonejs Original",
@@ -6838,6 +6873,16 @@
     "name": "Qt Original",
     "componentName": "QtOriginal",
     "tags": ["framework"]
+  },
+  {
+    "name": "Qtest Original",
+    "componentName": "QtestOriginal",
+    "tags": ["testing"]
+  },
+  {
+    "name": "Qtest Original Wordmark",
+    "componentName": "QtestOriginalWordmark",
+    "tags": ["testing"]
   },
   {
     "name": "Quarkus Original",

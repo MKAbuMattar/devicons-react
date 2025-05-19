@@ -125,7 +125,7 @@ pnpm add devicons-react`}
               <HeaderCardTitle>Demo</HeaderCardTitle>
             </HeaderCardInfo>
             <Highlight language={'JavaScript'} theme={'Base16Nord'}>
-              {`import Aarch64Original from "devicons-react/lib/icons/Aarch64Original";
+              {`import Aarch64Original from "devicons-react/icons/Aarch64Original";
 
 const App = () => {
   return (
@@ -146,9 +146,9 @@ export default App;`}
               </HeaderCardTitle>
             </HeaderCardInfo>
             <Highlight language={'JavaScript'} theme={'Base16Nord'}>
-              {`import Aarch64Line from "devicons-react/lib/icons/Aarch64Line";
-import Aarch64Original from "devicons-react/lib/icons/Aarch64Original";
-import Aarch64Plain from "devicons-react/lib/icons/Aarch64Plain";
+              {`import Aarch64Line from "devicons-react/icons/Aarch64Line";
+import Aarch64Original from "devicons-react/icons/Aarch64Original";
+import Aarch64Plain from "devicons-react/icons/Aarch64Plain";
 
 const App = () => {
   return (
@@ -168,17 +168,20 @@ export default App;`}
           <HeaderAlertNote>
             <HeaderAlertNoteTitle>Note</HeaderAlertNoteTitle>
             <HeaderAlertNoteInfo>
-              The color prop works only with Plain and Line icons. All SVG props are also supported for advanced customization.
+              The color prop works only with Plain and Line icons. All SVG props
+              are also supported for advanced customization.
             </HeaderAlertNoteInfo>
           </HeaderAlertNote>
 
           <HeaderAlertCaution>
             <HeaderAlertCautionTitle>Caution</HeaderAlertCautionTitle>
             <HeaderAlertCautionInfo>
-            Avoid importing multiple icons directly using <code>{`import { Aarch64Line, Aarch64Original, Aarch64Plain } from 'devicons-react';`}</code> as it will increase the bundle size. Instead, import icons individually as shown above.
+              Avoid importing multiple icons directly using{' '}
+              <code>{`import { Aarch64Line, Aarch64Original, Aarch64Plain } from 'devicons-react';`}</code>{' '}
+              as it will increase the bundle size. Instead, import icons
+              individually as shown above.
             </HeaderAlertCautionInfo>
           </HeaderAlertCaution>
-
         </HeaderBox>
       </HeaderContainer>
     </Fragment>

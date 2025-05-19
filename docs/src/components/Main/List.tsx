@@ -35,9 +35,7 @@ const List: FC<Props> = (props) => {
               <CardTitle>{item.name}</CardTitle>
             </CardInfo>
             <Highlight language={'JavaScript'} theme={'Base16Nord'}>
-              {`import { ${item.componentName} } from 'devicons-react';
-
-import ${item.componentName} from 'devicons-react/lib/icons/${item.componentName}';`}
+              {`import ${item.componentName} from 'devicons-react/icons/${item.componentName}';`}
             </Highlight>
           </Card>
         ))}

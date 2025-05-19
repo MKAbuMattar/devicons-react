@@ -83,7 +83,7 @@ export default App;
 
 ```js
 import { Aarch64Plain, ReactOriginal } from 'devicons-react';
-import AndroidOriginal from 'devicons-react/lib/icons/AndroidOriginal';
+import AndroidOriginal from 'devicons-react/icons/AndroidOriginal';
 
 const App = () => {
   return (
