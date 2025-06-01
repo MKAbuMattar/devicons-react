@@ -990,11 +990,6 @@
     "tags": ["language"]
   },
   {
-    "name": "C Plain",
-    "componentName": "CPlain",
-    "tags": ["language"]
-  },
-  {
     "name": "Cairo Original",
     "componentName": "CairoOriginal",
     "tags": ["graphic", "library", "c", "open-source"]
@@ -3357,6 +3352,36 @@
     "name": "Handlebars Original Wordmark",
     "componentName": "HandlebarsOriginalWordmark",
     "tags": ["framework"]
+  },
+  {
+    "name": "Harbor Line",
+    "componentName": "HarborLine",
+    "tags": ["docker", "artifact", "oci", "registry"]
+  },
+  {
+    "name": "Harbor Line Wordmark",
+    "componentName": "HarborLineWordmark",
+    "tags": ["docker", "artifact", "oci", "registry"]
+  },
+  {
+    "name": "Harbor Original",
+    "componentName": "HarborOriginal",
+    "tags": ["docker", "artifact", "oci", "registry"]
+  },
+  {
+    "name": "Harbor Original Wordmark",
+    "componentName": "HarborOriginalWordmark",
+    "tags": ["docker", "artifact", "oci", "registry"]
+  },
+  {
+    "name": "Harbor Plain",
+    "componentName": "HarborPlain",
+    "tags": ["docker", "artifact", "oci", "registry"]
+  },
+  {
+    "name": "Harbor Plain Wordmark",
+    "componentName": "HarborPlainWordmark",
+    "tags": ["docker", "artifact", "oci", "registry"]
   },
   {
     "name": "Hardhat Original",
@@ -7871,6 +7896,21 @@
     "tags": ["package-manager", "package", "manager", "python", "open-source"]
   },
   {
+    "name": "Spicedb Line",
+    "componentName": "SpicedbLine",
+    "tags": ["database", "authorization", "access-control", "Zanzibar"]
+  },
+  {
+    "name": "Spicedb Original",
+    "componentName": "SpicedbOriginal",
+    "tags": ["database", "authorization", "access-control", "Zanzibar"]
+  },
+  {
+    "name": "Spicedb Plain",
+    "componentName": "SpicedbPlain",
+    "tags": ["database", "authorization", "access-control", "Zanzibar"]
+  },
+  {
     "name": "Splunk Original Wordmark",
     "componentName": "SplunkOriginalWordmark",
     "tags": ["platform", "data", "log", "monitoring"]
@@ -8520,6 +8560,26 @@
     "name": "Titaniumsdk Original",
     "componentName": "TitaniumsdkOriginal",
     "tags": ["app", "mobile", "javascript", "cross-platform", "sdk"]
+  },
+  {
+    "name": "Tmux Original",
+    "componentName": "TmuxOriginal",
+    "tags": ["cli", "terminal", "multiplexer"]
+  },
+  {
+    "name": "Tmux Original Wordmark",
+    "componentName": "TmuxOriginalWordmark",
+    "tags": ["cli", "terminal", "multiplexer"]
+  },
+  {
+    "name": "Tmux Plain",
+    "componentName": "TmuxPlain",
+    "tags": ["cli", "terminal", "multiplexer"]
+  },
+  {
+    "name": "Tmux Plain Wordmark",
+    "componentName": "TmuxPlainWordmark",
+    "tags": ["cli", "terminal", "multiplexer"]
   },
   {
     "name": "Tomcat Line",
