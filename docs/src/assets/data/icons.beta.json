@@ -1525,6 +1525,16 @@
     "tags": ["database"]
   },
   {
+    "name": "Cpanel Original",
+    "componentName": "CpanelOriginal",
+    "tags": ["hosting", "web hosting", "server", "control panel"]
+  },
+  {
+    "name": "Cpanel Original Wordmark",
+    "componentName": "CpanelOriginalWordmark",
+    "tags": ["hosting", "web hosting", "server", "control panel"]
+  },
+  {
     "name": "Cplusplus Line",
     "componentName": "CplusplusLine",
     "tags": ["language"]
@@ -1743,6 +1753,16 @@
     "name": "Debian Plain Wordmark",
     "componentName": "DebianPlainWordmark",
     "tags": ["os", "server"]
+  },
+  {
+    "name": "Delphi Original",
+    "componentName": "DelphiOriginal",
+    "tags": ["language"]
+  },
+  {
+    "name": "Delphi Plain",
+    "componentName": "DelphiPlain",
+    "tags": ["language"]
   },
   {
     "name": "Denojs Original",
@@ -6715,6 +6735,21 @@
     "tags": ["container", "lxc", "virtual machine"]
   },
   {
+    "name": "Pug Line",
+    "componentName": "PugLine",
+    "tags": ["framework", "javascript", "nodejs"]
+  },
+  {
+    "name": "Pug Original",
+    "componentName": "PugOriginal",
+    "tags": ["framework", "javascript", "nodejs"]
+  },
+  {
+    "name": "Pug Plain",
+    "componentName": "PugPlain",
+    "tags": ["framework", "javascript", "nodejs"]
+  },
+  {
     "name": "Pulsar Original",
     "componentName": "PulsarOriginal",
     "tags": ["open-source", "cross-platform", "editor"]
@@ -7874,6 +7909,26 @@
     "name": "Sonarqube Plain Wordmark",
     "componentName": "SonarqubePlainWordmark",
     "tags": ["tool", "security"]
+  },
+  {
+    "name": "Sourceengine Original",
+    "componentName": "SourceengineOriginal",
+    "tags": ["game-engine", "valve", "javascript"]
+  },
+  {
+    "name": "Sourceengine Original Wordmark",
+    "componentName": "SourceengineOriginalWordmark",
+    "tags": ["game-engine", "valve", "javascript"]
+  },
+  {
+    "name": "Sourceengine Plain",
+    "componentName": "SourceenginePlain",
+    "tags": ["game-engine", "valve", "javascript"]
+  },
+  {
+    "name": "Sourceengine Plain Wordmark",
+    "componentName": "SourceenginePlainWordmark",
+    "tags": ["game-engine", "valve", "javascript"]
   },
   {
     "name": "Sourcetree Original",
