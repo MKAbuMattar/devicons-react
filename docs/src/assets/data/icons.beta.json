@@ -2040,8 +2040,8 @@
     "tags": ["language"]
   },
   {
-    "name": "Dyalog Original Wordmark",
-    "componentName": "DyalogOriginalWordmark",
+    "name": "Dyalog Plain",
+    "componentName": "DyalogPlain",
     "tags": ["language"]
   },
   {
@@ -4561,6 +4561,78 @@
     "tags": ["latex3", "latex2e", "markup", "tex", "typesetting-system"]
   },
   {
+    "name": "Leetcode Line",
+    "componentName": "LeetcodeLine",
+    "tags": [
+      "online-platform",
+      "coding-platform",
+      "platform",
+      "coding",
+      "dsa",
+      "interview-preparation"
+    ]
+  },
+  {
+    "name": "Leetcode Line Wordmark",
+    "componentName": "LeetcodeLineWordmark",
+    "tags": [
+      "online-platform",
+      "coding-platform",
+      "platform",
+      "coding",
+      "dsa",
+      "interview-preparation"
+    ]
+  },
+  {
+    "name": "Leetcode Original",
+    "componentName": "LeetcodeOriginal",
+    "tags": [
+      "online-platform",
+      "coding-platform",
+      "platform",
+      "coding",
+      "dsa",
+      "interview-preparation"
+    ]
+  },
+  {
+    "name": "Leetcode Original Wordmark",
+    "componentName": "LeetcodeOriginalWordmark",
+    "tags": [
+      "online-platform",
+      "coding-platform",
+      "platform",
+      "coding",
+      "dsa",
+      "interview-preparation"
+    ]
+  },
+  {
+    "name": "Leetcode Plain",
+    "componentName": "LeetcodePlain",
+    "tags": [
+      "online-platform",
+      "coding-platform",
+      "platform",
+      "coding",
+      "dsa",
+      "interview-preparation"
+    ]
+  },
+  {
+    "name": "Leetcode Plain Wordmark",
+    "componentName": "LeetcodePlainWordmark",
+    "tags": [
+      "online-platform",
+      "coding-platform",
+      "platform",
+      "coding",
+      "dsa",
+      "interview-preparation"
+    ]
+  },
+  {
     "name": "Less Plain Wordmark",
     "componentName": "LessPlainWordmark",
     "tags": ["css", "pre-processor"]
@@ -4677,6 +4749,11 @@
     "name": "Livewire Plain Wordmark",
     "componentName": "LivewirePlainWordmark",
     "tags": ["framework", "laravel", "php", "open-source"]
+  },
+  {
+    "name": "Llvm Line",
+    "componentName": "LlvmLine",
+    "tags": ["compiler", "framework", "c++", "open-source"]
   },
   {
     "name": "Llvm Original",
@@ -5381,6 +5458,36 @@
     "tags": ["ide", "java", "open-source"]
   },
   {
+    "name": "Netbox Line",
+    "componentName": "NetboxLine",
+    "tags": ["network", "automation", "infrastructure", "open-source"]
+  },
+  {
+    "name": "Netbox Line Wordmark",
+    "componentName": "NetboxLineWordmark",
+    "tags": ["network", "automation", "infrastructure", "open-source"]
+  },
+  {
+    "name": "Netbox Original",
+    "componentName": "NetboxOriginal",
+    "tags": ["network", "automation", "infrastructure", "open-source"]
+  },
+  {
+    "name": "Netbox Original Wordmark",
+    "componentName": "NetboxOriginalWordmark",
+    "tags": ["network", "automation", "infrastructure", "open-source"]
+  },
+  {
+    "name": "Netbox Plain",
+    "componentName": "NetboxPlain",
+    "tags": ["network", "automation", "infrastructure", "open-source"]
+  },
+  {
+    "name": "Netbox Plain Wordmark",
+    "componentName": "NetboxPlainWordmark",
+    "tags": ["network", "automation", "infrastructure", "open-source"]
+  },
+  {
     "name": "Netlify Original",
     "componentName": "NetlifyOriginal",
     "tags": [
@@ -5851,6 +5958,21 @@
     "name": "Numpy Plain Wordmark",
     "componentName": "NumpyPlainWordmark",
     "tags": ["library", "python"]
+  },
+  {
+    "name": "Nuxt Original",
+    "componentName": "NuxtOriginal",
+    "tags": ["js", "javascript", "framework", "fullstack", "vuejs"]
+  },
+  {
+    "name": "Nuxt Original Wordmark",
+    "componentName": "NuxtOriginalWordmark",
+    "tags": ["js", "javascript", "framework", "fullstack", "vuejs"]
+  },
+  {
+    "name": "Nuxt Plain Wordmark",
+    "componentName": "NuxtPlainWordmark",
+    "tags": ["js", "javascript", "framework", "fullstack", "vuejs"]
   },
   {
     "name": "Nuxtjs Original",
