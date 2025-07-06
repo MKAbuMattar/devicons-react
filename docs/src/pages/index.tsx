@@ -1,4 +1,4 @@
-import { Container } from '@/assets/style/style';
+import {Container} from '@/assets/style/style';
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 import Navbar from '@/components/Navbar';

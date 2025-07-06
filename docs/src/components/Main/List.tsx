@@ -1,11 +1,11 @@
-import { FC } from 'react';
+import type {FC} from 'react';
 
 import Highlight from '@/components/SyntaxHighlighter';
-import Item from '@/types/item';
+import type Item from '@/types/item';
 
 import ListIcons from './ListIcons';
 import ListIconsBeta from './ListIconsBeta';
-import { Card, CardInfo, Cards, CardTitle } from './style';
+import {Card, CardInfo, Cards, CardTitle} from './style';
 
 type Props = {
   items: Item[];
@@ -13,7 +13,7 @@ type Props = {
 };
 
 const List: FC<Props> = (props) => {
-  const { items, isLatest } = props;
+  const {items, isLatest} = props;
 
   return (
     <>

@@ -42,7 +42,7 @@
     "publish:lib:beta": "npm publish --tag beta",
     "publish:lib:canary": "npm publish --tag canary",
     "lint": "biome check ./src",
-    "lint:fix": "biome check ./src --fix",
+    "lint:fix": "biome check --fix ./src",
     "fmt": "biome format ./src",
     "fmt:fix": "biome format --write ./src"
   },
@@ -50,15 +50,15 @@
     "react": "*"
   },
   "devDependencies": {
-    "@babel/cli": "7.27.2",
-    "@babel/core": "7.27.4",
+    "@babel/cli": "7.28.0",
+    "@babel/core": "7.28.0",
     "@babel/plugin-syntax-jsx": "7.27.1",
-    "@babel/plugin-transform-parameters": "7.27.1",
+    "@babel/plugin-transform-parameters": "7.27.7",
     "@babel/preset-react": "7.27.1",
-    "@biomejs/biome": "1.9.4",
+    "@biomejs/biome": "2.0.6",
     "@types/fs-plus": "3.0.6",
     "@types/jsdom": "21.1.7",
-    "@types/node": "24.0.3",
+    "@types/node": "24.0.10",
     "@types/react": "19.1.8",
     "babel-preset-minify": "0.5.2",
     "fs-plus": "3.1.1",
@@ -66,7 +66,7 @@
     "react": "19.1.0",
     "recursive-directory": "1.2.3",
     "svg-to-jsx": "1.0.4",
-    "svgo": "3.3.2",
+    "svgo": "4.0.0",
     "svgson": "5.3.1",
     "tsx": "4.20.3",
     "typescript": "5.8.3"

@@ -1,7 +1,7 @@
 import * as DevIconsReact from '@devicons-react/beta';
-import { Fragment } from 'react';
+import {Fragment} from 'react';
 
-const ListIcons = ({ componentName }) => {
+const ListIcons = ({componentName}) => {
   const Component = DevIconsReact[componentName || 'DeviconsReactOriginal'];
 
   return (

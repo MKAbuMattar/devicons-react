@@ -1,8 +1,8 @@
-import { FC, useCallback, useEffect, useState } from 'react';
+import {type FC, useCallback, useEffect, useState} from 'react';
 
 import Highlight from '@/components/SyntaxHighlighter';
-import Item from '@/types/item';
-import { removeExtra } from '@/utils/regex.util';
+import type Item from '@/types/item';
+import {removeExtra} from '@/utils/regex.util';
 
 import List from './List';
 import {
@@ -16,7 +16,7 @@ import {
   SearchInput,
   SearchSection,
 } from './style';
-import { filterIt } from './utils/filterIt.util';
+import {filterIt} from './utils/filterIt.util';
 import initialItems from './utils/initialItems.util';
 
 type Props = {
@@ -25,7 +25,7 @@ type Props = {
 };
 
 const index: FC<Props> = (props) => {
-  const { icons, isLatest } = props;
+  const {icons, isLatest} = props;
 
   const [items, setItems] = useState(initialItems(icons));
   const [iconsLength, setIonsLength] = useState();
@@ -36,7 +36,7 @@ const index: FC<Props> = (props) => {
     return [...new Set(data)];
   };
 
-  const filterList = useCallback(({ target }: any) => {
+  const filterList = useCallback(({target}: any) => {
     const searchQuery = target.value.toLowerCase();
     const updatedList = filterIt(searchQuery, initialItems(icons));
     setItems(updatedList);
