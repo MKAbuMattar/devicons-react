@@ -1,4 +1,4 @@
-import React, { type FC } from 'react';
+import React, {type FC} from 'react';
 import ReactHighlightSyntax, {
   type CopyBtnTheme,
   type Language,

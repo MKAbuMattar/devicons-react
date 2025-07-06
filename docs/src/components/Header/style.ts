@@ -102,8 +102,8 @@ export const HeaderAlertNoteTitle = styled.h4`
   margin-left: 0.5rem;
   color: #eeeeee;
   `;
-  
-  export const HeaderAlertNoteInfo = styled.p`
+
+export const HeaderAlertNoteInfo = styled.p`
   margin: 0;
   margin-left: 0.5rem;
   padding: 1em 0;

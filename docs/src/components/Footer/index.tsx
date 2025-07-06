@@ -1,4 +1,4 @@
-import { FooterContainer, FooterLink } from './style';
+import {FooterContainer, FooterLink} from './style';
 
 const Footer = () => {
   const getYear = () => {

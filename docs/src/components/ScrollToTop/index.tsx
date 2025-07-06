@@ -1,4 +1,4 @@
-import { FC } from 'react';
+import type {FC} from 'react';
 
 // component
 import GetIcon from '@/components/GetIcon';
@@ -10,7 +10,7 @@ import type Props from '@/components/ScrollToTop/types/scrollToTop';
 import scrollToTop from '@/components/ScrollToTop/utils/scrollToTop.util';
 
 // style
-import { ScrollToTopButton } from './style';
+import {ScrollToTopButton} from './style';
 
 const index: FC<Props> = (props) => {
   const {
@@ -22,7 +22,7 @@ const index: FC<Props> = (props) => {
     ...otherProps
   } = props;
 
-  const { visible } = useScrollToTop(top);
+  const {visible} = useScrollToTop(top);
 
   return (
     <>

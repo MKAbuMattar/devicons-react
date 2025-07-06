@@ -2,7 +2,7 @@
 import * as Icons from '@/icons/index';
 
 const GetIcon = (props) => {
-  const { icon, ...otherProps } = props;
+  const {icon, ...otherProps} = props;
 
   const Icon = Icons[icon || 'MKAbuMattarIcon'];
 

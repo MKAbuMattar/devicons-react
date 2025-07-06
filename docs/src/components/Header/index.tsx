@@ -1,9 +1,15 @@
 import DeviconsReactOriginal from '@devicons-react/latest/lib/icons/DeviconsReactOriginal';
-import { Fragment } from 'react';
+import {Fragment} from 'react';
 
 import Highlight from '@/components/SyntaxHighlighter';
 
 import {
+  HeaderAlertCaution,
+  HeaderAlertCautionInfo,
+  HeaderAlertCautionTitle,
+  HeaderAlertNote,
+  HeaderAlertNoteInfo,
+  HeaderAlertNoteTitle,
   HeaderArrowWave,
   HeaderArrowWaveBox,
   HeaderBox,
@@ -15,12 +21,6 @@ import {
   HeaderInfo,
   HeaderTitle,
   HeaderTitleBox,
-  HeaderAlertNote,
-  HeaderAlertNoteTitle,
-  HeaderAlertNoteInfo,
-  HeaderAlertCaution,
-  HeaderAlertCautionTitle,
-  HeaderAlertCautionInfo,
 } from './style';
 
 const Header = () => {

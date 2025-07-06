@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import {useEffect, useState} from 'react';
 
 const useScrollToTop = (top: number) => {
   const [visible, setVisible] = useState(false);
@@ -13,7 +13,7 @@ const useScrollToTop = (top: number) => {
     return () => document.removeEventListener('scroll', onScroll);
   }, []);
 
-  return { visible };
+  return {visible};
 };
 
 export default useScrollToTop;

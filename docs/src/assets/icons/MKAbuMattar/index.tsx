@@ -1,10 +1,10 @@
-import { FC } from 'react';
+import type {FC} from 'react';
 
 // type
 import type Props from '@/types/icon';
 
 const index: FC<Props> = (props) => {
-  const { fill = 'currentColor', size = '24', ...otherProps } = props;
+  const {fill = 'currentColor', size = '24', ...otherProps} = props;
 
   return (
     <svg

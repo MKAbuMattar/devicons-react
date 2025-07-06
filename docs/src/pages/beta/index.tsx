@@ -1,5 +1,5 @@
 import dynamic from 'next/dynamic';
-import { Suspense } from 'react';
+import {Suspense} from 'react';
 
 import Footer from '@/components/Footer';
 import Loader from '@/components/Loader';
@@ -11,7 +11,7 @@ const DynamicMain = dynamic(() => import('@/components/Main'), {
 });
 
 //data
-import { Container } from '@/assets/style/style';
+import {Container} from '@/assets/style/style';
 import iconsDataBeta from '@/data/icons.beta.json';
 import iconsDataLatest from '@/data/icons.latest.json';
 
