@@ -595,6 +595,45 @@
     "tags": ["cloud", "devops"]
   },
   {
+    "name": "Azuredatafactory Line",
+    "componentName": "AzuredatafactoryLine",
+    "tags": [
+      "azure",
+      "ETL",
+      "cloud",
+      "big data",
+      "data-processing",
+      "data science",
+      "data-transfer"
+    ]
+  },
+  {
+    "name": "Azuredatafactory Original",
+    "componentName": "AzuredatafactoryOriginal",
+    "tags": [
+      "azure",
+      "ETL",
+      "cloud",
+      "big data",
+      "data-processing",
+      "data science",
+      "data-transfer"
+    ]
+  },
+  {
+    "name": "Azuredatafactory Plain",
+    "componentName": "AzuredatafactoryPlain",
+    "tags": [
+      "azure",
+      "ETL",
+      "cloud",
+      "big data",
+      "data-processing",
+      "data science",
+      "data-transfer"
+    ]
+  },
+  {
     "name": "Azuredevops Original",
     "componentName": "AzuredevopsOriginal",
     "tags": ["azure", "devops", "cloud", "version control", "vcs"]
@@ -958,6 +997,26 @@
     "name": "Browserstack Plain Wordmark",
     "componentName": "BrowserstackPlainWordmark",
     "tags": ["website", "app", "testing", "tool"]
+  },
+  {
+    "name": "Bruno Original",
+    "componentName": "BrunoOriginal",
+    "tags": ["api", "tool", "testing"]
+  },
+  {
+    "name": "Bruno Original Wordmark",
+    "componentName": "BrunoOriginalWordmark",
+    "tags": ["api", "tool", "testing"]
+  },
+  {
+    "name": "Bruno Plain",
+    "componentName": "BrunoPlain",
+    "tags": ["api", "tool", "testing"]
+  },
+  {
+    "name": "Bruno Plain Wordmark",
+    "componentName": "BrunoPlainWordmark",
+    "tags": ["api", "tool", "testing"]
   },
   {
     "name": "Bulma Plain",
@@ -3071,6 +3130,11 @@
     "tags": ["jetbrains", "ide", "go"]
   },
   {
+    "name": "Goland Original Wordmark",
+    "componentName": "GolandOriginalWordmark",
+    "tags": ["jetbrains", "ide", "go"]
+  },
+  {
     "name": "Goland Plain",
     "componentName": "GolandPlain",
     "tags": ["jetbrains", "ide", "go"]
@@ -3741,6 +3805,11 @@
   {
     "name": "Intellij Original",
     "componentName": "IntellijOriginal",
+    "tags": ["jetbrains", "editor", "java"]
+  },
+  {
+    "name": "Intellij Original Wordmark",
+    "componentName": "IntellijOriginalWordmark",
     "tags": ["jetbrains", "editor", "java"]
   },
   {
@@ -7659,22 +7728,22 @@
   {
     "name": "Rubymine Original",
     "componentName": "RubymineOriginal",
-    "tags": ["jetbrains", "editor"]
+    "tags": ["jetbrains", "editor", "IDE"]
   },
   {
     "name": "Rubymine Original Wordmark",
     "componentName": "RubymineOriginalWordmark",
-    "tags": ["jetbrains", "editor"]
+    "tags": ["jetbrains", "editor", "IDE"]
   },
   {
     "name": "Rubymine Plain",
     "componentName": "RubyminePlain",
-    "tags": ["jetbrains", "editor"]
+    "tags": ["jetbrains", "editor", "IDE"]
   },
   {
     "name": "Rubymine Plain Wordmark",
     "componentName": "RubyminePlainWordmark",
-    "tags": ["jetbrains", "editor"]
+    "tags": ["jetbrains", "editor", "IDE"]
   },
   {
     "name": "Rust Line",
@@ -9092,6 +9161,16 @@
     "name": "Unrealengine Original Wordmark",
     "componentName": "UnrealengineOriginalWordmark",
     "tags": ["c++", "engine", "game-engine"]
+  },
+  {
+    "name": "Uv Line",
+    "componentName": "UvLine",
+    "tags": ["python", "environment", "package", "manager"]
+  },
+  {
+    "name": "Uv Original",
+    "componentName": "UvOriginal",
+    "tags": ["python", "environment", "package", "manager"]
   },
   {
     "name": "Uwsgi Original",
