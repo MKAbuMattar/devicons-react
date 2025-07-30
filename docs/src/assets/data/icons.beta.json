@@ -4919,6 +4919,45 @@
     ]
   },
   {
+    "name": "Luau Line",
+    "componentName": "LuauLine",
+    "tags": [
+      "programming",
+      "language",
+      "object-oriented",
+      "scripting",
+      "procedural",
+      "prototype-based",
+      "functional"
+    ]
+  },
+  {
+    "name": "Luau Original",
+    "componentName": "LuauOriginal",
+    "tags": [
+      "programming",
+      "language",
+      "object-oriented",
+      "scripting",
+      "procedural",
+      "prototype-based",
+      "functional"
+    ]
+  },
+  {
+    "name": "Luau Plain",
+    "componentName": "LuauPlain",
+    "tags": [
+      "programming",
+      "language",
+      "object-oriented",
+      "scripting",
+      "procedural",
+      "prototype-based",
+      "functional"
+    ]
+  },
+  {
     "name": "Lumen Original",
     "componentName": "LumenOriginal",
     "tags": ["laravel", "php", "framework", "micro-framework"]
