@@ -1,6 +1,6 @@
 {
   "name": "devicons-react",
-  "version": "1.5.0-beta.17",
+  "version": "1.5.0",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
   "keywords": [
     "programming",
@@ -69,7 +69,7 @@
     "svgo": "4.0.0",
     "svgson": "5.3.1",
     "tsx": "4.20.3",
-    "typescript": "5.8.3"
+    "typescript": "5.9.2"
   },
   "sideEffects": false,
   "exports": {
