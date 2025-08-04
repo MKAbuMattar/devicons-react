@@ -8731,6 +8731,26 @@
     "tags": ["library", "machine-learning", "deep-learning"]
   },
   {
+    "name": "Tenzir Line",
+    "componentName": "TenzirLine",
+    "tags": ["security", "logs", "monitoring", "pipeline"]
+  },
+  {
+    "name": "Tenzir Line Wordmark",
+    "componentName": "TenzirLineWordmark",
+    "tags": ["security", "logs", "monitoring", "pipeline"]
+  },
+  {
+    "name": "Tenzir Original",
+    "componentName": "TenzirOriginal",
+    "tags": ["security", "logs", "monitoring", "pipeline"]
+  },
+  {
+    "name": "Tenzir Original Wordmark",
+    "componentName": "TenzirOriginalWordmark",
+    "tags": ["security", "logs", "monitoring", "pipeline"]
+  },
+  {
     "name": "Terraform Original",
     "componentName": "TerraformOriginal",
     "tags": ["deployment", "architecture", "automation"]
