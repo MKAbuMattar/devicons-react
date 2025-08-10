@@ -9302,6 +9302,26 @@
     "tags": ["programming", "language"]
   },
   {
+    "name": "Vapor Original",
+    "componentName": "VaporOriginal",
+    "tags": ["programming", "server", "backend", "swift"]
+  },
+  {
+    "name": "Vapor Original Wordmark",
+    "componentName": "VaporOriginalWordmark",
+    "tags": ["programming", "server", "backend", "swift"]
+  },
+  {
+    "name": "Vapor Plain",
+    "componentName": "VaporPlain",
+    "tags": ["programming", "server", "backend", "swift"]
+  },
+  {
+    "name": "Vapor Plain Wordmark",
+    "componentName": "VaporPlainWordmark",
+    "tags": ["programming", "server", "backend", "swift"]
+  },
+  {
     "name": "Vault Original",
     "componentName": "VaultOriginal",
     "tags": ["tool", "security", "infrastructure"]
