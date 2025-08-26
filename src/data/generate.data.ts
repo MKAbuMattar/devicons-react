@@ -20,23 +20,26 @@ import DeviconData from '../../devicon/devicon.json';
 
     componentName = file.replace('.jsx', '');
 
-    DeviconData.forEach((devicon) => {
-      if (name.replace(/ .*/, '').toLowerCase() === 'Devicons'.toLowerCase()) {
-        return (tags = ['iconset']);
-      }
+    tags = [];
 
-      if (name.replace(/ .*/, '').toLowerCase() === 'Dot'.toLowerCase()) {
-        if (devicon.name.toLowerCase() === 'dot-net'.toLowerCase()) {
-          return (tags = devicon.tags);
+    if (name.replace(/ .*/, '').toLowerCase() === 'Devicons'.toLowerCase()) {
+      tags = ['iconset'];
+    } else {
+      DeviconData.forEach((devicon) => {
+        if (
+          name.replace(/ .*/, '').toLowerCase() === 'Dot'.toLowerCase() &&
+          devicon.name.toLowerCase() === 'dot-net'.toLowerCase()
+        ) {
+          tags = devicon.tags;
         }
-      }
 
-      if (
-        name.replace(/ .*/, '').toLowerCase() === devicon.name.toLowerCase()
-      ) {
-        return (tags = devicon.tags);
-      }
-    });
+        if (
+          name.replace(/ .*/, '').toLowerCase() === devicon.name.toLowerCase()
+        ) {
+          tags = devicon.tags;
+        }
+      });
+    }
 
     obj = {
       name: name,
