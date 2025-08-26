@@ -1404,6 +1404,36 @@
     "tags": ["platform", "integration"]
   },
   {
+    "name": "Codeberg Line",
+    "componentName": "CodebergLine",
+    "tags": ["non-profit", "git", "hosting", "forgejo"]
+  },
+  {
+    "name": "Codeberg Line Wordmark",
+    "componentName": "CodebergLineWordmark",
+    "tags": ["non-profit", "git", "hosting", "forgejo"]
+  },
+  {
+    "name": "Codeberg Original",
+    "componentName": "CodebergOriginal",
+    "tags": ["non-profit", "git", "hosting", "forgejo"]
+  },
+  {
+    "name": "Codeberg Original Wordmark",
+    "componentName": "CodebergOriginalWordmark",
+    "tags": ["non-profit", "git", "hosting", "forgejo"]
+  },
+  {
+    "name": "Codeberg Plain",
+    "componentName": "CodebergPlain",
+    "tags": ["non-profit", "git", "hosting", "forgejo"]
+  },
+  {
+    "name": "Codeberg Plain Wordmark",
+    "componentName": "CodebergPlainWordmark",
+    "tags": ["non-profit", "git", "hosting", "forgejo"]
+  },
+  {
     "name": "Codecov Plain",
     "componentName": "CodecovPlain",
     "tags": ["platform", "integration"]
@@ -6540,6 +6570,11 @@
   {
     "name": "Phpstorm Original",
     "componentName": "PhpstormOriginal",
+    "tags": ["jetbrains", "editor", "php", "web", "html"]
+  },
+  {
+    "name": "Phpstorm Original Wordmark",
+    "componentName": "PhpstormOriginalWordmark",
     "tags": ["jetbrains", "editor", "php", "web", "html"]
   },
   {

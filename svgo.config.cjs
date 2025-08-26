@@ -27,9 +27,11 @@ const svgoConfig = {
   plugins: [
     {
       name: 'preset-default',
+      removeViewBox: false,
       params: {
         overrides: {
-          removeViewBox: false,
+          minifyStyles: false,
+          inlineStyles: false,
         },
       },
     },

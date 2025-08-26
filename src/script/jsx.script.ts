@@ -15,8 +15,8 @@ type ObjConfig = {
 }[];
 
 function addUnderscoreIfNumber(name: string): string {
-  if (!isNaN(Number.parseInt(name.charAt(0)))) {
-    name = '_' + name;
+  if (!Number.isNaN(Number.parseInt(name.charAt(0), 10))) {
+    return `_${name}`;
   }
   return name;
 }
@@ -79,7 +79,7 @@ function addUnderscoreIfNumber(name: string): string {
       let originalColor = '';
 
       if (isPlain) {
-        deviconData.map((el) => {
+        deviconData.forEach((el) => {
           if (entry.filename.toLowerCase().includes(el.name.toLowerCase())) {
             originalColor = el.color;
           }
