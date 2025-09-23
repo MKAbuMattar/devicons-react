@@ -120,18 +120,18 @@
     "tags": ["framework", "javascript"]
   },
   {
-    "name": "Amazonwebservices Line Wordmark",
-    "componentName": "AmazonwebservicesLineWordmark",
+    "name": "Amazonwebservices Line",
+    "componentName": "AmazonwebservicesLine",
     "tags": ["cloud", "hosting", "server"]
   },
   {
-    "name": "Amazonwebservices Original Wordmark",
-    "componentName": "AmazonwebservicesOriginalWordmark",
+    "name": "Amazonwebservices Original",
+    "componentName": "AmazonwebservicesOriginal",
     "tags": ["cloud", "hosting", "server"]
   },
   {
-    "name": "Amazonwebservices Plain Wordmark",
-    "componentName": "AmazonwebservicesPlainWordmark",
+    "name": "Amazonwebservices Plain",
+    "componentName": "AmazonwebservicesPlain",
     "tags": ["cloud", "hosting", "server"]
   },
   {
@@ -1549,6 +1549,26 @@
     "tags": ["cms"]
   },
   {
+    "name": "Cordova Original",
+    "componentName": "CordovaOriginal",
+    "tags": ["mobile", "framework"]
+  },
+  {
+    "name": "Cordova Original Wordmark",
+    "componentName": "CordovaOriginalWordmark",
+    "tags": ["mobile", "framework"]
+  },
+  {
+    "name": "Cordova Plain",
+    "componentName": "CordovaPlain",
+    "tags": ["mobile", "framework"]
+  },
+  {
+    "name": "Cordova Plain Wordmark",
+    "componentName": "CordovaPlainWordmark",
+    "tags": ["mobile", "framework"]
+  },
+  {
     "name": "Corejs Original",
     "componentName": "CorejsOriginal",
     "tags": ["javascript", "library", "polyfill", "tool"]
@@ -1776,6 +1796,11 @@
   {
     "name": "Datagrip Original",
     "componentName": "DatagripOriginal",
+    "tags": ["jetbrains", "ide", "sql", "database"]
+  },
+  {
+    "name": "Datagrip Original Wordmark",
+    "componentName": "DatagripOriginalWordmark",
     "tags": ["jetbrains", "ide", "sql", "database"]
   },
   {
@@ -10030,6 +10055,11 @@
     "name": "Yunohost Plain",
     "componentName": "YunohostPlain",
     "tags": ["os"]
+  },
+  {
+    "name": "Zed Original",
+    "componentName": "ZedOriginal",
+    "tags": ["editor", "IDE"]
   },
   {
     "name": "Zend Line",
