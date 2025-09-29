@@ -5521,6 +5521,26 @@
     "tags": ["text editor", "editor", "GNU", "terminal"]
   },
   {
+    "name": "Nasm Original",
+    "componentName": "NasmOriginal",
+    "tags": ["assembler", "language", "programming"]
+  },
+  {
+    "name": "Nasm Original Wordmark",
+    "componentName": "NasmOriginalWordmark",
+    "tags": ["assembler", "language", "programming"]
+  },
+  {
+    "name": "Nasm Plain",
+    "componentName": "NasmPlain",
+    "tags": ["assembler", "language", "programming"]
+  },
+  {
+    "name": "Nasm Plain Wordmark",
+    "componentName": "NasmPlainWordmark",
+    "tags": ["assembler", "language", "programming"]
+  },
+  {
     "name": "Nats Original",
     "componentName": "NatsOriginal",
     "tags": ["streaming", "open-source", "go"]
