@@ -3005,6 +3005,21 @@
     "tags": ["documentation", "pages", "git", "markup"]
   },
   {
+    "name": "Gitea Original",
+    "componentName": "GiteaOriginal",
+    "tags": ["version-control", "git"]
+  },
+  {
+    "name": "Gitea Original Wordmark",
+    "componentName": "GiteaOriginalWordmark",
+    "tags": ["version-control", "git"]
+  },
+  {
+    "name": "Gitea Plain Wordmark",
+    "componentName": "GiteaPlainWordmark",
+    "tags": ["version-control", "git"]
+  },
+  {
     "name": "Github Original",
     "componentName": "GithubOriginal",
     "tags": ["version-control"]
@@ -3138,6 +3153,21 @@
       "programming-environment",
       "collaborative-environment"
     ]
+  },
+  {
+    "name": "Gnuradio Original",
+    "componentName": "GnuradioOriginal",
+    "tags": ["open-source", "software-radio", "signal-processing"]
+  },
+  {
+    "name": "Gnuradio Original Wordmark",
+    "componentName": "GnuradioOriginalWordmark",
+    "tags": ["open-source", "software-radio", "signal-processing"]
+  },
+  {
+    "name": "Gnuradio Plain Wordmark",
+    "componentName": "GnuradioPlainWordmark",
+    "tags": ["open-source", "software-radio", "signal-processing"]
   },
   {
     "name": "Go Line",
@@ -3493,6 +3523,26 @@
     "tags": ["framework"]
   },
   {
+    "name": "Haproxy Original",
+    "componentName": "HaproxyOriginal",
+    "tags": ["proxy", "loadbalancer"]
+  },
+  {
+    "name": "Haproxy Original Wordmark",
+    "componentName": "HaproxyOriginalWordmark",
+    "tags": ["proxy", "loadbalancer"]
+  },
+  {
+    "name": "Haproxy Plain",
+    "componentName": "HaproxyPlain",
+    "tags": ["proxy", "loadbalancer"]
+  },
+  {
+    "name": "Haproxy Plain Wordmark",
+    "componentName": "HaproxyPlainWordmark",
+    "tags": ["proxy", "loadbalancer"]
+  },
+  {
     "name": "Harbor Line",
     "componentName": "HarborLine",
     "tags": ["docker", "artifact", "oci", "registry"]
@@ -3761,6 +3811,26 @@
     "name": "Hyperv Plain",
     "componentName": "HypervPlain",
     "tags": ["hypervisor", "operating-system"]
+  },
+  {
+    "name": "Hyprland Original",
+    "componentName": "HyprlandOriginal",
+    "tags": ["tiling", "window manager", "wayland"]
+  },
+  {
+    "name": "Hyprland Original Wordmark",
+    "componentName": "HyprlandOriginalWordmark",
+    "tags": ["tiling", "window manager", "wayland"]
+  },
+  {
+    "name": "Hyprland Plain",
+    "componentName": "HyprlandPlain",
+    "tags": ["tiling", "window manager", "wayland"]
+  },
+  {
+    "name": "Hyprland Plain Wordmark",
+    "componentName": "HyprlandPlainWordmark",
+    "tags": ["tiling", "window manager", "wayland"]
   },
   {
     "name": "Ie10 Original",
@@ -4213,6 +4283,21 @@
     "name": "Julia Plain Wordmark",
     "componentName": "JuliaPlainWordmark",
     "tags": ["programming", "language"]
+  },
+  {
+    "name": "Junie Original",
+    "componentName": "JunieOriginal",
+    "tags": ["ai", "coding", "agent"]
+  },
+  {
+    "name": "Junie Original Wordmark",
+    "componentName": "JunieOriginalWordmark",
+    "tags": ["ai", "coding", "agent"]
+  },
+  {
+    "name": "Junie Plain Wordmark",
+    "componentName": "JuniePlainWordmark",
+    "tags": ["ai", "coding", "agent"]
   },
   {
     "name": "Junit Line",
@@ -5396,6 +5481,16 @@
     ]
   },
   {
+    "name": "Mongock Original",
+    "componentName": "MongockOriginal",
+    "tags": ["database", "migration", "nosql"]
+  },
+  {
+    "name": "Mongock Plain",
+    "componentName": "MongockPlain",
+    "tags": ["database", "migration", "nosql"]
+  },
+  {
     "name": "Mongodb Original",
     "componentName": "MongodbOriginal",
     "tags": ["database"]
@@ -6415,6 +6510,26 @@
     "name": "Opera Plain Wordmark",
     "componentName": "OperaPlainWordmark",
     "tags": ["browser"]
+  },
+  {
+    "name": "Opnsense Line",
+    "componentName": "OpnsenseLine",
+    "tags": ["FreeBSD", "firewall"]
+  },
+  {
+    "name": "Opnsense Original",
+    "componentName": "OpnsenseOriginal",
+    "tags": ["FreeBSD", "firewall"]
+  },
+  {
+    "name": "Opnsense Original Wordmark",
+    "componentName": "OpnsenseOriginalWordmark",
+    "tags": ["FreeBSD", "firewall"]
+  },
+  {
+    "name": "Opnsense Plain Wordmark",
+    "componentName": "OpnsensePlainWordmark",
+    "tags": ["FreeBSD", "firewall"]
   },
   {
     "name": "Oracle Original",
