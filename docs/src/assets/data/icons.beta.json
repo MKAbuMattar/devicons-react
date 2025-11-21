@@ -345,6 +345,26 @@
     "tags": ["platform", "pipeline", "orchestrator", "open-source"]
   },
   {
+    "name": "Apacheignite Line",
+    "componentName": "ApacheigniteLine",
+    "tags": ["distributed", "database"]
+  },
+  {
+    "name": "Apacheignite Original",
+    "componentName": "ApacheigniteOriginal",
+    "tags": ["distributed", "database"]
+  },
+  {
+    "name": "Apacheignite Original Wordmark",
+    "componentName": "ApacheigniteOriginalWordmark",
+    "tags": ["distributed", "database"]
+  },
+  {
+    "name": "Apacheignite Plain Wordmark",
+    "componentName": "ApacheignitePlainWordmark",
+    "tags": ["distributed", "database"]
+  },
+  {
     "name": "Apachekafka Original",
     "componentName": "ApachekafkaOriginal",
     "tags": ["streaming", "open-source"]
@@ -373,6 +393,26 @@
     "name": "Apex Original",
     "componentName": "ApexOriginal",
     "tags": ["language"]
+  },
+  {
+    "name": "Apify Original",
+    "componentName": "ApifyOriginal",
+    "tags": ["web", "scraping", "platform"]
+  },
+  {
+    "name": "Apify Original Wordmark",
+    "componentName": "ApifyOriginalWordmark",
+    "tags": ["web", "scraping", "platform"]
+  },
+  {
+    "name": "Apify Plain",
+    "componentName": "ApifyPlain",
+    "tags": ["web", "scraping", "platform"]
+  },
+  {
+    "name": "Apify Plain Wordmark",
+    "componentName": "ApifyPlainWordmark",
+    "tags": ["web", "scraping", "platform"]
   },
   {
     "name": "Apl Original",
@@ -1039,6 +1079,36 @@
     "tags": ["javascript", "zig", "language"]
   },
   {
+    "name": "Burpsuite Line",
+    "componentName": "BurpsuiteLine",
+    "tags": ["application", "security", "testing"]
+  },
+  {
+    "name": "Burpsuite Line Wordmark",
+    "componentName": "BurpsuiteLineWordmark",
+    "tags": ["application", "security", "testing"]
+  },
+  {
+    "name": "Burpsuite Original",
+    "componentName": "BurpsuiteOriginal",
+    "tags": ["application", "security", "testing"]
+  },
+  {
+    "name": "Burpsuite Original Wordmark",
+    "componentName": "BurpsuiteOriginalWordmark",
+    "tags": ["application", "security", "testing"]
+  },
+  {
+    "name": "Burpsuite Plain",
+    "componentName": "BurpsuitePlain",
+    "tags": ["application", "security", "testing"]
+  },
+  {
+    "name": "Burpsuite Plain Wordmark",
+    "componentName": "BurpsuitePlainWordmark",
+    "tags": ["application", "security", "testing"]
+  },
+  {
     "name": "C Line",
     "componentName": "CLine",
     "tags": ["language"]
@@ -1157,6 +1227,21 @@
     "name": "Centos Plain Wordmark",
     "componentName": "CentosPlainWordmark",
     "tags": ["server", "linux"]
+  },
+  {
+    "name": "Ceph Original",
+    "componentName": "CephOriginal",
+    "tags": ["distributed", "storage", "resilience"]
+  },
+  {
+    "name": "Ceph Original Wordmark",
+    "componentName": "CephOriginalWordmark",
+    "tags": ["distributed", "storage", "resilience"]
+  },
+  {
+    "name": "Ceph Plain Wordmark",
+    "componentName": "CephPlainWordmark",
+    "tags": ["distributed", "storage", "resilience"]
   },
   {
     "name": "Ceylon Original",
@@ -3060,6 +3145,36 @@
     "tags": ["development", "remote-development", "editor", "browser", "cloud"]
   },
   {
+    "name": "Githubcopilot Line",
+    "componentName": "GithubcopilotLine",
+    "tags": ["automation", "AI", "code-completion"]
+  },
+  {
+    "name": "Githubcopilot Line Wordmark",
+    "componentName": "GithubcopilotLineWordmark",
+    "tags": ["automation", "AI", "code-completion"]
+  },
+  {
+    "name": "Githubcopilot Original",
+    "componentName": "GithubcopilotOriginal",
+    "tags": ["automation", "AI", "code-completion"]
+  },
+  {
+    "name": "Githubcopilot Original Wordmark",
+    "componentName": "GithubcopilotOriginalWordmark",
+    "tags": ["automation", "AI", "code-completion"]
+  },
+  {
+    "name": "Githubcopilot Plain",
+    "componentName": "GithubcopilotPlain",
+    "tags": ["automation", "AI", "code-completion"]
+  },
+  {
+    "name": "Githubcopilot Plain Wordmark",
+    "componentName": "GithubcopilotPlainWordmark",
+    "tags": ["automation", "AI", "code-completion"]
+  },
+  {
     "name": "Gitkraken Original",
     "componentName": "GitkrakenOriginal",
     "tags": ["git", "version-control"]
@@ -3638,6 +3753,21 @@
     "tags": ["language"]
   },
   {
+    "name": "Helix Line",
+    "componentName": "HelixLine",
+    "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
+  },
+  {
+    "name": "Helix Original",
+    "componentName": "HelixOriginal",
+    "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
+  },
+  {
+    "name": "Helix Plain",
+    "componentName": "HelixPlain",
+    "tags": ["text editor", "editor", "ide", "IDE", "open-source"]
+  },
+  {
     "name": "Helm Line",
     "componentName": "HelmLine",
     "tags": ["package", "manager", "kubernetes"]
@@ -3956,6 +4086,16 @@
     "name": "Ionic Original Wordmark",
     "componentName": "IonicOriginalWordmark",
     "tags": ["framework"]
+  },
+  {
+    "name": "Istio Original",
+    "componentName": "IstioOriginal",
+    "tags": ["service-mesh", "cloud-native", "kubernetes"]
+  },
+  {
+    "name": "Istio Original Wordmark",
+    "componentName": "IstioOriginalWordmark",
+    "tags": ["service-mesh", "cloud-native", "kubernetes"]
   },
   {
     "name": "Jaegertracing Original",
@@ -6940,6 +7080,21 @@
     "tags": ["docker", "kubernetes", "orchestrator"]
   },
   {
+    "name": "Positron Line",
+    "componentName": "PositronLine",
+    "tags": ["ide", "data science", "python", "r"]
+  },
+  {
+    "name": "Positron Original",
+    "componentName": "PositronOriginal",
+    "tags": ["ide", "data science", "python", "r"]
+  },
+  {
+    "name": "Positron Plain",
+    "componentName": "PositronPlain",
+    "tags": ["ide", "data science", "python", "r"]
+  },
+  {
     "name": "Postcss Original",
     "componentName": "PostcssOriginal",
     "tags": ["pre-processor", "css", "framework"]
@@ -7575,6 +7730,26 @@
     "tags": ["arm", "computer"]
   },
   {
+    "name": "Ravendb Line",
+    "componentName": "RavendbLine",
+    "tags": ["database", "nosql"]
+  },
+  {
+    "name": "Ravendb Line Wordmark",
+    "componentName": "RavendbLineWordmark",
+    "tags": ["database", "nosql"]
+  },
+  {
+    "name": "Ravendb Original",
+    "componentName": "RavendbOriginal",
+    "tags": ["database", "nosql"]
+  },
+  {
+    "name": "Ravendb Original Wordmark",
+    "componentName": "RavendbOriginalWordmark",
+    "tags": ["database", "nosql"]
+  },
+  {
     "name": "Reach Original",
     "componentName": "ReachOriginal",
     "tags": ["web3", "blockchain", "development"]
@@ -8173,6 +8348,16 @@
     "name": "Sequelize Plain Wordmark",
     "componentName": "SequelizePlainWordmark",
     "tags": ["database", "language"]
+  },
+  {
+    "name": "Sfml Original",
+    "componentName": "SfmlOriginal",
+    "tags": ["graphics", "game", "development", "c++"]
+  },
+  {
+    "name": "Sfml Plain",
+    "componentName": "SfmlPlain",
+    "tags": ["graphics", "game", "development", "c++"]
   },
   {
     "name": "Shopware Original",
@@ -8886,6 +9071,26 @@
     "tags": ["nodejs", "rust", "desktop", "framework", "programming"]
   },
   {
+    "name": "Teamcity Original",
+    "componentName": "TeamcityOriginal",
+    "tags": ["cicd", "build", "pipelines", "testing"]
+  },
+  {
+    "name": "Teamcity Original Wordmark",
+    "componentName": "TeamcityOriginalWordmark",
+    "tags": ["cicd", "build", "pipelines", "testing"]
+  },
+  {
+    "name": "Teamcity Plain",
+    "componentName": "TeamcityPlain",
+    "tags": ["cicd", "build", "pipelines", "testing"]
+  },
+  {
+    "name": "Teamcity Plain Wordmark",
+    "componentName": "TeamcityPlainWordmark",
+    "tags": ["cicd", "build", "pipelines", "testing"]
+  },
+  {
     "name": "Teleport Line",
     "componentName": "TeleportLine",
     "tags": ["ssh", "security", "auth", "authentication", "infrastructure"]
@@ -9055,6 +9260,21 @@
     "name": "Thymeleaf Plain Wordmark",
     "componentName": "ThymeleafPlainWordmark",
     "tags": ["engine", "html", "java", "server"]
+  },
+  {
+    "name": "Tigerbeetle Line",
+    "componentName": "TigerbeetleLine",
+    "tags": ["database", "performance", "zig"]
+  },
+  {
+    "name": "Tigerbeetle Original",
+    "componentName": "TigerbeetleOriginal",
+    "tags": ["database", "performance", "zig"]
+  },
+  {
+    "name": "Tigerbeetle Original Wordmark",
+    "componentName": "TigerbeetleOriginalWordmark",
+    "tags": ["database", "performance", "zig"]
   },
   {
     "name": "Titaniumsdk Original",
@@ -9295,6 +9515,36 @@
     "name": "Twitter Original",
     "componentName": "TwitterOriginal",
     "tags": ["auth"]
+  },
+  {
+    "name": "Typeorm Line",
+    "componentName": "TypeormLine",
+    "tags": ["database", "orm", "typescript", "javascript"]
+  },
+  {
+    "name": "Typeorm Line Wordmark",
+    "componentName": "TypeormLineWordmark",
+    "tags": ["database", "orm", "typescript", "javascript"]
+  },
+  {
+    "name": "Typeorm Original",
+    "componentName": "TypeormOriginal",
+    "tags": ["database", "orm", "typescript", "javascript"]
+  },
+  {
+    "name": "Typeorm Original Wordmark",
+    "componentName": "TypeormOriginalWordmark",
+    "tags": ["database", "orm", "typescript", "javascript"]
+  },
+  {
+    "name": "Typeorm Plain",
+    "componentName": "TypeormPlain",
+    "tags": ["database", "orm", "typescript", "javascript"]
+  },
+  {
+    "name": "Typeorm Plain Wordmark",
+    "componentName": "TypeormPlainWordmark",
+    "tags": ["database", "orm", "typescript", "javascript"]
   },
   {
     "name": "Typescript Original",
@@ -10160,6 +10410,26 @@
     "name": "Yii Plain Wordmark",
     "componentName": "YiiPlainWordmark",
     "tags": ["php", "framework"]
+  },
+  {
+    "name": "Youtrack Original",
+    "componentName": "YoutrackOriginal",
+    "tags": ["planning", "project", "management", "team"]
+  },
+  {
+    "name": "Youtrack Original Wordmark",
+    "componentName": "YoutrackOriginalWordmark",
+    "tags": ["planning", "project", "management", "team"]
+  },
+  {
+    "name": "Youtrack Plain",
+    "componentName": "YoutrackPlain",
+    "tags": ["planning", "project", "management", "team"]
+  },
+  {
+    "name": "Youtrack Plain Wordmark",
+    "componentName": "YoutrackPlainWordmark",
+    "tags": ["planning", "project", "management", "team"]
   },
   {
     "name": "Yugabytedb Original",
