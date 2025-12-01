@@ -2759,6 +2759,16 @@
     "tags": ["browser"]
   },
   {
+    "name": "Fish Original",
+    "componentName": "FishOriginal",
+    "tags": ["shell", "programming", "language", "unix"]
+  },
+  {
+    "name": "Fish Plain",
+    "componentName": "FishPlain",
+    "tags": ["shell", "programming", "language", "unix"]
+  },
+  {
     "name": "Flask Original",
     "componentName": "FlaskOriginal",
     "tags": ["python", "framework"]
@@ -2832,16 +2842,6 @@
     "name": "Foundation Plain Wordmark",
     "componentName": "FoundationPlainWordmark",
     "tags": ["framework", "css"]
-  },
-  {
-    "name": "Framermotion Original",
-    "componentName": "FramermotionOriginal",
-    "tags": ["library", "open-source", "react", "animation"]
-  },
-  {
-    "name": "Framermotion Original Wordmark",
-    "componentName": "FramermotionOriginalWordmark",
-    "tags": ["library", "open-source", "react", "animation"]
   },
   {
     "name": "Framework7 Original",
@@ -5706,6 +5706,11 @@
     "tags": ["platform"]
   },
   {
+    "name": "Motion Original",
+    "componentName": "MotionOriginal",
+    "tags": ["library", "open-source", "reactjs", "vuejs", "js", "animation"]
+  },
+  {
     "name": "Msdos Line",
     "componentName": "MsdosLine",
     "tags": ["os"]
@@ -5734,6 +5739,16 @@
     "name": "Mysql Plain Wordmark",
     "componentName": "MysqlPlainWordmark",
     "tags": ["database", "language"]
+  },
+  {
+    "name": "N8n Original Wordmark",
+    "componentName": "N8nOriginalWordmark",
+    "tags": ["ai"]
+  },
+  {
+    "name": "N8n Plain Wordmark",
+    "componentName": "N8nPlainWordmark",
+    "tags": ["ai"]
   },
   {
     "name": "Nano Original",
