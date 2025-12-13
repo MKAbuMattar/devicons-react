@@ -1799,6 +1799,16 @@
     "tags": ["language", "programming"]
   },
   {
+    "name": "Css Original",
+    "componentName": "CssOriginal",
+    "tags": ["language", "programming"]
+  },
+  {
+    "name": "Css Plain",
+    "componentName": "CssPlain",
+    "tags": ["language", "programming"]
+  },
+  {
     "name": "Cucumber Plain",
     "componentName": "CucumberPlain",
     "tags": ["framework"]
@@ -8263,6 +8273,26 @@
     "name": "Scala Plain Wordmark",
     "componentName": "ScalaPlainWordmark",
     "tags": ["programming", "language", "jvm"]
+  },
+  {
+    "name": "Scaleway Line",
+    "componentName": "ScalewayLine",
+    "tags": ["cloud", "hosting", "server"]
+  },
+  {
+    "name": "Scaleway Line Wordmark",
+    "componentName": "ScalewayLineWordmark",
+    "tags": ["cloud", "hosting", "server"]
+  },
+  {
+    "name": "Scaleway Original",
+    "componentName": "ScalewayOriginal",
+    "tags": ["cloud", "hosting", "server"]
+  },
+  {
+    "name": "Scaleway Original Wordmark",
+    "componentName": "ScalewayOriginalWordmark",
+    "tags": ["cloud", "hosting", "server"]
   },
   {
     "name": "Scalingo Line",
