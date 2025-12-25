@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/MKAbuMattar/devicons-react/issues"
   },
-  "homepage": "https://devicons-react.vercel.app/",
+  "homepage": "https://devicons-react.mkabumattar.com/",
   "scripts": {
     "clean:devicon": "rm -rf devicon",
     "clean:svg": "rm -rf svg",

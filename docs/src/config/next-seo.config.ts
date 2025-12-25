@@ -5,7 +5,7 @@ export const metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_IE',
-    url: 'https://devicons-react.vercel.app/',
+    url: 'https://devicons-react.mkabumattar.com/',
     site_name: 'Devicons React',
   },
   twitter: {
