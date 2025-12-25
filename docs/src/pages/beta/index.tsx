@@ -7,7 +7,6 @@ import Navbar from '@/components/Navbar';
 
 const DynamicMain = dynamic(() => import('@/components/Main'), {
   loading: () => <Loader />,
-  suspense: true,
 });
 
 //data

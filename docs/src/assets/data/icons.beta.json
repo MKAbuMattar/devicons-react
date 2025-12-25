@@ -60,6 +60,26 @@
     "tags": ["video", "editor"]
   },
   {
+    "name": "Aiassistant Original",
+    "componentName": "AiassistantOriginal",
+    "tags": ["ai", "assistant"]
+  },
+  {
+    "name": "Aiassistant Original Wordmark",
+    "componentName": "AiassistantOriginalWordmark",
+    "tags": ["ai", "assistant"]
+  },
+  {
+    "name": "Aiassistant Plain",
+    "componentName": "AiassistantPlain",
+    "tags": ["ai", "assistant"]
+  },
+  {
+    "name": "Aiassistant Plain Wordmark",
+    "componentName": "AiassistantPlainWordmark",
+    "tags": ["ai", "assistant"]
+  },
+  {
     "name": "Akka Original",
     "componentName": "AkkaOriginal",
     "tags": ["framework", "java", "scala", "open-source"]
@@ -1819,6 +1839,21 @@
     "tags": ["framework"]
   },
   {
+    "name": "Cursor Original",
+    "componentName": "CursorOriginal",
+    "tags": ["ide", "ai", "code", "editor"]
+  },
+  {
+    "name": "Cursor Original Wordmark",
+    "componentName": "CursorOriginalWordmark",
+    "tags": ["ide", "ai", "code", "editor"]
+  },
+  {
+    "name": "Cursor Plain",
+    "componentName": "CursorPlain",
+    "tags": ["ide", "ai", "code", "editor"]
+  },
+  {
     "name": "Cypressio Line",
     "componentName": "CypressioLine",
     "tags": ["testing", "framework"]
@@ -2797,6 +2832,16 @@
     "name": "Flutter Plain",
     "componentName": "FlutterPlain",
     "tags": ["framework", "sdk"]
+  },
+  {
+    "name": "Flyway Original",
+    "componentName": "FlywayOriginal",
+    "tags": ["java", "migration", "database"]
+  },
+  {
+    "name": "Flyway Original Wordmark",
+    "componentName": "FlywayOriginalWordmark",
+    "tags": ["java", "migration", "database"]
   },
   {
     "name": "Forgejo Line",
@@ -3918,6 +3963,36 @@
     "tags": ["framework", "web", "html", "ui"]
   },
   {
+    "name": "Huggingface Line",
+    "componentName": "HuggingfaceLine",
+    "tags": ["machinelearning", "ML", "AI"]
+  },
+  {
+    "name": "Huggingface Line Wordmark",
+    "componentName": "HuggingfaceLineWordmark",
+    "tags": ["machinelearning", "ML", "AI"]
+  },
+  {
+    "name": "Huggingface Original",
+    "componentName": "HuggingfaceOriginal",
+    "tags": ["machinelearning", "ML", "AI"]
+  },
+  {
+    "name": "Huggingface Original Wordmark",
+    "componentName": "HuggingfaceOriginalWordmark",
+    "tags": ["machinelearning", "ML", "AI"]
+  },
+  {
+    "name": "Huggingface Plain",
+    "componentName": "HuggingfacePlain",
+    "tags": ["machinelearning", "ML", "AI"]
+  },
+  {
+    "name": "Huggingface Plain Wordmark",
+    "componentName": "HuggingfacePlainWordmark",
+    "tags": ["machinelearning", "ML", "AI"]
+  },
+  {
     "name": "Hugo Original",
     "componentName": "HugoOriginal",
     "tags": ["framework", "ssg", "static-site-generator", "go", "html", "css"]
@@ -4498,6 +4573,26 @@
     "name": "Jupyter Plain Wordmark",
     "componentName": "JupyterPlainWordmark",
     "tags": ["programming", "language"]
+  },
+  {
+    "name": "Jwt Original",
+    "componentName": "JwtOriginal",
+    "tags": ["security", "authentication", "token"]
+  },
+  {
+    "name": "Jwt Original Wordmark",
+    "componentName": "JwtOriginalWordmark",
+    "tags": ["security", "authentication", "token"]
+  },
+  {
+    "name": "Jwt Plain",
+    "componentName": "JwtPlain",
+    "tags": ["security", "authentication", "token"]
+  },
+  {
+    "name": "Jwt Plain Wordmark",
+    "componentName": "JwtPlainWordmark",
+    "tags": ["security", "authentication", "token"]
   },
   {
     "name": "K3os Line",
@@ -6338,6 +6433,16 @@
     "tags": ["project-management"]
   },
   {
+    "name": "Novelwriter Original",
+    "componentName": "NovelwriterOriginal",
+    "tags": ["editor", "text editor"]
+  },
+  {
+    "name": "Novelwriter Plain",
+    "componentName": "NovelwriterPlain",
+    "tags": ["editor", "text editor"]
+  },
+  {
     "name": "Npm Original",
     "componentName": "NpmOriginal",
     "tags": ["package", "manager"]
@@ -6501,6 +6606,11 @@
     "name": "Okta Plain Wordmark",
     "componentName": "OktaPlainWordmark",
     "tags": ["auth", "security"]
+  },
+  {
+    "name": "Ollama Original",
+    "componentName": "OllamaOriginal",
+    "tags": ["llm", "server"]
   },
   {
     "name": "Openal Original",
@@ -8350,6 +8460,26 @@
     "tags": ["library", "cross-platform", "multimedia", "game"]
   },
   {
+    "name": "Seaborn Original",
+    "componentName": "SeabornOriginal",
+    "tags": ["python", "library", "visualization"]
+  },
+  {
+    "name": "Seaborn Original Wordmark",
+    "componentName": "SeabornOriginalWordmark",
+    "tags": ["python", "library", "visualization"]
+  },
+  {
+    "name": "Seaborn Plain",
+    "componentName": "SeabornPlain",
+    "tags": ["python", "library", "visualization"]
+  },
+  {
+    "name": "Seaborn Plain Wordmark",
+    "componentName": "SeabornPlainWordmark",
+    "tags": ["python", "library", "visualization"]
+  },
+  {
     "name": "Selenium Original",
     "componentName": "SeleniumOriginal",
     "tags": ["webdrive", "automation"]
@@ -8779,6 +8909,26 @@
     "name": "Stackoverflow Plain Wordmark",
     "componentName": "StackoverflowPlainWordmark",
     "tags": ["website", "development", "community"]
+  },
+  {
+    "name": "Starship Original",
+    "componentName": "StarshipOriginal",
+    "tags": ["shell", "terminal", "tool"]
+  },
+  {
+    "name": "Starship Original Wordmark",
+    "componentName": "StarshipOriginalWordmark",
+    "tags": ["shell", "terminal", "tool"]
+  },
+  {
+    "name": "Starship Plain",
+    "componentName": "StarshipPlain",
+    "tags": ["shell", "terminal", "tool"]
+  },
+  {
+    "name": "Starship Plain Wordmark",
+    "componentName": "StarshipPlainWordmark",
+    "tags": ["shell", "terminal", "tool"]
   },
   {
     "name": "Stata Original Wordmark",
@@ -9224,6 +9374,21 @@
     "name": "Terramate Original Wordmark",
     "componentName": "TerramateOriginalWordmark",
     "tags": ["deployment", "devops", "automation"]
+  },
+  {
+    "name": "Testrail Original",
+    "componentName": "TestrailOriginal",
+    "tags": ["testing", "tool"]
+  },
+  {
+    "name": "Testrail Original Wordmark",
+    "componentName": "TestrailOriginalWordmark",
+    "tags": ["testing", "tool"]
+  },
+  {
+    "name": "Testrail Plain Wordmark",
+    "componentName": "TestrailPlainWordmark",
+    "tags": ["testing", "tool"]
   },
   {
     "name": "Tex Original",
@@ -10280,6 +10445,26 @@
     "name": "Windows8 Original Wordmark",
     "componentName": "Windows8OriginalWordmark",
     "tags": ["os"]
+  },
+  {
+    "name": "Wireguard Line",
+    "componentName": "WireguardLine",
+    "tags": ["linux", "vpn"]
+  },
+  {
+    "name": "Wireguard Original",
+    "componentName": "WireguardOriginal",
+    "tags": ["linux", "vpn"]
+  },
+  {
+    "name": "Wireguard Original Wordmark",
+    "componentName": "WireguardOriginalWordmark",
+    "tags": ["linux", "vpn"]
+  },
+  {
+    "name": "Wireguard Plain Wordmark",
+    "componentName": "WireguardPlainWordmark",
+    "tags": ["linux", "vpn"]
   },
   {
     "name": "Wolfram Original",
