@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://devicons-react.vercel.app/">
+  <a href="https://devicons-react.mkabumattar.com/">
     <img src="https://raw.githubusercontent.com/MKAbuMattar/devicons-react/main/src/assets/devicons-react-original.svg" alt="Devicon Logo" height="140" />
   </a>
 
   <h1>Devicons React</h1>
 
-<a href="https://devicons-react.vercel.app/">https://devicons-react.vercel.app/</a>
+<a href="https://devicons-react.mkabumattar.com/">https://devicons-react.mkabumattar.com/</a>
 
   <p>Devicons React is a comprehensive collection of icons representing programming languages, design tools, and development software, built on top of <a href="https://github.com/devicons/devicon">Devicon</a>. Perfect for React projects!</p>
 </div>

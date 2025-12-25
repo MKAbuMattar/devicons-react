@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://devicons-react.vercel.app/">
+  <a href="https://devicons-react.mkabumattar.com/">
     <img src="https://raw.githubusercontent.com/MKAbuMattar/devicons-react/main/src/assets/devicons-react-original.svg" alt="Devicon Logo" height="140" />
   </a>
 
   <h1>Devicons React</h1>
 
-<a href="https://devicons-react.vercel.app/">https://devicons-react.vercel.app/</a>
+<a href="https://devicons-react.mkabumattar.com/">https://devicons-react.mkabumattar.com/</a>
 
   <br/>
 
@@ -66,7 +66,7 @@ pnpm add devicons-react@beta
 <p>Default behavior for icon</p>
 
 ```js
-import { Aarch64Plain } from 'devicons-react';
+import { Aarch64Plain } from "devicons-react";
 
 const App = () => {
   return (
@@ -82,8 +82,8 @@ export default App;
 <p>Change size and color for icon</p>
 
 ```js
-import { Aarch64Plain, ReactOriginal } from 'devicons-react';
-import AndroidOriginal from 'devicons-react/icons/AndroidOriginal';
+import { Aarch64Plain, ReactOriginal } from "devicons-react";
+import AndroidOriginal from "devicons-react/icons/AndroidOriginal";
 
 const App = () => {
   return (
