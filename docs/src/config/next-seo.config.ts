@@ -1,4 +1,4 @@
-export default {
+export const metadata = {
   title: 'Devicons React',
   description:
     'Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.',
@@ -14,3 +14,5 @@ export default {
     cardType: 'summary_large_image',
   },
 };
+
+export default metadata;
