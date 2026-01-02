@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@devicons-react/beta':
-        specifier: npm:devicons-react@1.6.0-beta.9
-        version: devicons-react@1.6.0-beta.9(react@19.2.3)
+        specifier: npm:devicons-react@1.6.0-beta.10
+        version: devicons-react@1.6.0-beta.10(react@19.2.3)
       '@devicons-react/latest':
         specifier: npm:devicons-react@1.5.0
         version: devicons-react@1.5.0(react@19.2.3)
@@ -328,8 +328,8 @@ packages:
   camelize@1.0.1:
     resolution: {integrity: sha512-dU+Tx2fsypxTgtLoE36npi3UqcjSSMNYfkqgmoEhtZrraP5VWq0K7FkWVTYa8eMPtnU/G2txVsfdCJTn9uzpuQ==}
 
-  caniuse-lite@1.0.30001761:
-    resolution: {integrity: sha512-JF9ptu1vP2coz98+5051jZ4PwQgd2ni8A+gYSN7EA7dPKIMf0pDlSUxhdmVOaV3/fYK5uWBkgSXJaRLr4+3A6g==}
+  caniuse-lite@1.0.30001762:
+    resolution: {integrity: sha512-PxZwGNvH7Ak8WX5iXzoK1KPZttBXNPuaOvI2ZYU7NrlM+d9Ov+TUvlLOBNGzVXAntMSMMlJPd+jY6ovrVjSmUw==}
 
   client-only@0.0.1:
     resolution: {integrity: sha512-IV3Ou0jSMzZrd3pZ48nLkT9DA7Ag1pnPzaiQhpW7c3RbcqqzvzzVu+L8gfqMp/8IM2MQtSiqaCxrrcfu8I8rMA==}
@@ -356,8 +356,8 @@ packages:
     peerDependencies:
       react: '*'
 
-  devicons-react@1.6.0-beta.9:
-    resolution: {integrity: sha512-CDmuR1NqjWNbUbvetLNhAp8oOp7xaq4mSfkCYE4ilz7qN9RcEQz8/vsqRTLJbw4MDhnKvNW3O769Fr3CYLkAaw==}
+  devicons-react@1.6.0-beta.10:
+    resolution: {integrity: sha512-Of2WPGrNHECsSDWR5pXGeTC1JIezNZcQDnPnrp74CKo6LHMIyYBxai0DjMgcJ4WFqBsB2aVVFMToFxm+jKB36g==}
     peerDependencies:
       react: '*'
 
@@ -675,7 +675,7 @@ snapshots:
 
   camelize@1.0.1: {}
 
-  caniuse-lite@1.0.30001761: {}
+  caniuse-lite@1.0.30001762: {}
 
   client-only@0.0.1: {}
 
@@ -698,7 +698,7 @@ snapshots:
     dependencies:
       react: 19.2.3
 
-  devicons-react@1.6.0-beta.9(react@19.2.3):
+  devicons-react@1.6.0-beta.10(react@19.2.3):
     dependencies:
       react: 19.2.3
 
@@ -711,7 +711,7 @@ snapshots:
       '@next/env': 16.1.1
       '@swc/helpers': 0.5.15
       baseline-browser-mapping: 2.9.11
-      caniuse-lite: 1.0.30001761
+      caniuse-lite: 1.0.30001762
       postcss: 8.4.31
       react: 19.2.3
       react-dom: 19.2.3(react@19.2.3)

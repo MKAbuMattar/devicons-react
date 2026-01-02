@@ -3065,6 +3065,21 @@
     "tags": ["linux", "distribution", "desktop"]
   },
   {
+    "name": "Ghidra Line",
+    "componentName": "GhidraLine",
+    "tags": ["binary-analysis", "reverse-engineering"]
+  },
+  {
+    "name": "Ghidra Original",
+    "componentName": "GhidraOriginal",
+    "tags": ["binary-analysis", "reverse-engineering"]
+  },
+  {
+    "name": "Ghidra Plain",
+    "componentName": "GhidraPlain",
+    "tags": ["binary-analysis", "reverse-engineering"]
+  },
+  {
     "name": "Ghost Original",
     "componentName": "GhostOriginal",
     "tags": ["cms"]
