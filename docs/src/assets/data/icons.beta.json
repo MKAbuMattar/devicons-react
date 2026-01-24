@@ -8550,6 +8550,11 @@
     "tags": ["graphics", "game", "development", "c++"]
   },
   {
+    "name": "Shadcn Original",
+    "componentName": "ShadcnOriginal",
+    "tags": ["ui", "components", "reactjs", "library"]
+  },
+  {
     "name": "Shopware Original",
     "componentName": "ShopwareOriginal",
     "tags": ["cloud", "platform"]
@@ -8969,6 +8974,21 @@
     "name": "Stenciljs Plain Wordmark",
     "componentName": "StenciljsPlainWordmark",
     "tags": ["framework", "ui"]
+  },
+  {
+    "name": "Stimulus Original",
+    "componentName": "StimulusOriginal",
+    "tags": ["framework", "javascript", "js", "library"]
+  },
+  {
+    "name": "Stimulus Original Wordmark",
+    "componentName": "StimulusOriginalWordmark",
+    "tags": ["framework", "javascript", "js", "library"]
+  },
+  {
+    "name": "Stimulus Plain Wordmark",
+    "componentName": "StimulusPlainWordmark",
+    "tags": ["framework", "javascript", "js", "library"]
   },
   {
     "name": "Storybook Original",
