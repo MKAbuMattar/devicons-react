@@ -1,15 +1,15 @@
 {
-  "$schema": "https://biomejs.dev/schemas/2.3.10/schema.json",
+  "$schema": "https://biomejs.dev/schemas/2.3.12/schema.json",
   "formatter": {
     "indentStyle": "space",
     "lineWidth": 80,
-    "lineEnding": "lf"
+    "lineEnding": "lf",
   },
   "javascript": {
     "formatter": {
       "bracketSpacing": false,
-      "quoteStyle": "single"
-    }
+      "quoteStyle": "single",
+    },
   },
   "assist": { "actions": { "source": { "organizeImports": "on" } } },
   "linter": {
@@ -18,7 +18,7 @@
       "recommended": true,
       "suspicious": {
         "noExplicitAny": "off",
-        "noConfusingVoidType": "off"
+        "noConfusingVoidType": "off",
       },
       "style": {
         "noUselessElse": "off",
@@ -31,11 +31,11 @@
         "useSingleVarDeclarator": "error",
         "noUnusedTemplateLiteral": "error",
         "useNumberNamespace": "error",
-        "noInferrableTypes": "error"
+        "noInferrableTypes": "error",
       },
       "complexity": {
-        "noForEach": "off"
-      }
-    }
-  }
+        "noForEach": "off",
+      },
+    },
+  },
 }
