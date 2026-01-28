@@ -35,7 +35,7 @@
     "@devicons-react/beta": "npm:devicons-react@1.6.0-beta.11",
     "@devicons-react/latest": "npm:devicons-react@1.5.0",
     "highlight.js": "11.11.1",
-    "next": "16.1.4",
+    "next": "16.1.5",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-highlight-syntax": "1.3.0",
