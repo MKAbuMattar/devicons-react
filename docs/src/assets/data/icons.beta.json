@@ -5265,6 +5265,26 @@
     "tags": ["logs", "elastic"]
   },
   {
+    "name": "Lovable Original",
+    "componentName": "LovableOriginal",
+    "tags": ["ai"]
+  },
+  {
+    "name": "Lovable Original Wordmark",
+    "componentName": "LovableOriginalWordmark",
+    "tags": ["ai"]
+  },
+  {
+    "name": "Lovable Plain",
+    "componentName": "LovablePlain",
+    "tags": ["ai"]
+  },
+  {
+    "name": "Lovable Plain Wordmark",
+    "componentName": "LovablePlainWordmark",
+    "tags": ["ai"]
+  },
+  {
     "name": "Love2d Line",
     "componentName": "Love2dLine",
     "tags": ["programming", "game-engine"]
@@ -6917,6 +6937,16 @@
     "tags": ["authentication", "security"]
   },
   {
+    "name": "Payloadcms Original",
+    "componentName": "PayloadcmsOriginal",
+    "tags": ["cms", "headless-cms"]
+  },
+  {
+    "name": "Payloadcms Original Wordmark",
+    "componentName": "PayloadcmsOriginalWordmark",
+    "tags": ["cms", "headless-cms"]
+  },
+  {
     "name": "Perl Original",
     "componentName": "PerlOriginal",
     "tags": ["programming", "language"]
@@ -7318,6 +7348,26 @@
     "name": "Premierepro Plain",
     "componentName": "PremiereproPlain",
     "tags": ["editor", "video"]
+  },
+  {
+    "name": "Prestashop Original",
+    "componentName": "PrestashopOriginal",
+    "tags": ["ecommerce", "cms", "php"]
+  },
+  {
+    "name": "Prestashop Original Wordmark",
+    "componentName": "PrestashopOriginalWordmark",
+    "tags": ["ecommerce", "cms", "php"]
+  },
+  {
+    "name": "Prestashop Plain",
+    "componentName": "PrestashopPlain",
+    "tags": ["ecommerce", "cms", "php"]
+  },
+  {
+    "name": "Prestashop Plain Wordmark",
+    "componentName": "PrestashopPlainWordmark",
+    "tags": ["ecommerce", "cms", "php"]
   },
   {
     "name": "Primeng Original",
@@ -9790,6 +9840,36 @@
     "name": "Typeorm Plain Wordmark",
     "componentName": "TypeormPlainWordmark",
     "tags": ["database", "orm", "typescript", "javascript"]
+  },
+  {
+    "name": "Typer Line",
+    "componentName": "TyperLine",
+    "tags": ["cli"]
+  },
+  {
+    "name": "Typer Line Wordmark",
+    "componentName": "TyperLineWordmark",
+    "tags": ["cli"]
+  },
+  {
+    "name": "Typer Original",
+    "componentName": "TyperOriginal",
+    "tags": ["cli"]
+  },
+  {
+    "name": "Typer Original Wordmark",
+    "componentName": "TyperOriginalWordmark",
+    "tags": ["cli"]
+  },
+  {
+    "name": "Typer Plain",
+    "componentName": "TyperPlain",
+    "tags": ["cli"]
+  },
+  {
+    "name": "Typer Plain Wordmark",
+    "componentName": "TyperPlainWordmark",
+    "tags": ["cli"]
   },
   {
     "name": "Typescript Original",
