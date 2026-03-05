@@ -144,6 +144,12 @@ export default ${reactName};`;
           `module.exports = {${index.map((e) => e[0]).join(',')}}`,
       );
       await fsAsync.writeFile(
+        `${__dirname}/../../build/index.esm.js`,
+        index
+          .map((e) => `export { default as ${e[0]} } from "${e[1]}"`)
+          .join(';\n'),
+      );
+      await fsAsync.writeFile(
         `${__dirname}/../../build/index.d.ts`,
         index
           .map((e) => `export { default as ${e[0]} } from "${e[1]}"`)
