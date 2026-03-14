@@ -5851,6 +5851,21 @@
     "tags": ["library", "open-source", "reactjs", "vuejs", "js", "animation"]
   },
   {
+    "name": "Msbuild Line",
+    "componentName": "MsbuildLine",
+    "tags": ["build", "dotnet"]
+  },
+  {
+    "name": "Msbuild Original",
+    "componentName": "MsbuildOriginal",
+    "tags": ["build", "dotnet"]
+  },
+  {
+    "name": "Msbuild Plain",
+    "componentName": "MsbuildPlain",
+    "tags": ["build", "dotnet"]
+  },
+  {
     "name": "Msdos Line",
     "componentName": "MsdosLine",
     "tags": ["os"]
