@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "downlevelIteration": true,
     "lib": [
       "dom",
       "es5",
@@ -19,7 +18,7 @@
     "esModuleInterop": true,
     "module": "esnext",
     "resolveJsonModule": true,
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "isolatedModules": true,
     "jsx": "react-jsx",
     "baseUrl": "./src",
