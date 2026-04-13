@@ -2449,6 +2449,21 @@
     "tags": ["editor"]
   },
   {
+    "name": "Emailjs Original",
+    "componentName": "EmailjsOriginal",
+    "tags": ["javascript"]
+  },
+  {
+    "name": "Emailjs Original Wordmark",
+    "componentName": "EmailjsOriginalWordmark",
+    "tags": ["javascript"]
+  },
+  {
+    "name": "Emailjs Plain Wordmark",
+    "componentName": "EmailjsPlainWordmark",
+    "tags": ["javascript"]
+  },
+  {
     "name": "Embeddedc Original",
     "componentName": "EmbeddedcOriginal",
     "tags": ["language", "programming"]
@@ -2923,6 +2938,26 @@
       "ios",
       "open-source"
     ]
+  },
+  {
+    "name": "Frankenphp Original",
+    "componentName": "FrankenphpOriginal",
+    "tags": ["programming", "language", "php"]
+  },
+  {
+    "name": "Frankenphp Original Wordmark",
+    "componentName": "FrankenphpOriginalWordmark",
+    "tags": ["programming", "language", "php"]
+  },
+  {
+    "name": "Frankenphp Plain",
+    "componentName": "FrankenphpPlain",
+    "tags": ["programming", "language", "php"]
+  },
+  {
+    "name": "Frankenphp Plain Wordmark",
+    "componentName": "FrankenphpPlainWordmark",
+    "tags": ["programming", "language", "php"]
   },
   {
     "name": "Fsharp Original",
