@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is archived.** Development moved to [MKAbuMattar/devicons-pack](https://github.com/MKAbuMattar/devicons-pack) — one monorepo publishing [`@devicons-pack/*`](https://www.npmjs.com/org/devicons-pack) packages for SVG, React, Preact, Vue, Solid, Svelte, Astro, Angular, Lit, Web Components, Alpine.js and htmx.
+>
+> The npm package `devicons-react` is superseded by `@devicons-pack/react` (import from `@devicons-pack/react/original`).
+
 <div align="center">
   <a href="https://devicons-react.mkabumattar.com/">
     <img src="https://raw.githubusercontent.com/MKAbuMattar/devicons-react/main/src/assets/devicons-react-original.svg" alt="Devicon Logo" height="140" />
