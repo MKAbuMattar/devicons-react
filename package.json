@@ -1,6 +1,6 @@
 {
   "name": "devicons-react",
-  "version": "1.6.0-beta.15",
+  "version": "1.6.0-beta.16",
   "description": "Devicons React is a collection of icons that symbolize programming languages, design tools, and development software.",
   "keywords": [
     "programming",
@@ -50,26 +50,26 @@
     "react": "*"
   },
   "devDependencies": {
-    "@babel/cli": "7.28.6",
-    "@babel/core": "7.29.0",
-    "@babel/plugin-syntax-jsx": "7.28.6",
-    "@babel/plugin-transform-parameters": "7.27.7",
-    "@babel/preset-react": "7.28.5",
-    "@biomejs/biome": "2.4.11",
+    "@babel/cli": "7.29.7",
+    "@babel/core": "7.29.7",
+    "@babel/plugin-syntax-jsx": "7.29.7",
+    "@babel/plugin-transform-parameters": "7.29.7",
+    "@babel/preset-react": "7.29.7",
+    "@biomejs/biome": "2.4.16",
     "@types/fs-plus": "3.0.6",
-    "@types/jsdom": "28.0.1",
-    "@types/node": "25.6.0",
-    "@types/react": "19.2.14",
+    "@types/jsdom": "28.0.3",
+    "@types/node": "25.9.2",
+    "@types/react": "19.2.17",
     "babel-preset-minify": "0.5.2",
     "fs-plus": "3.1.1",
-    "jsdom": "29.0.2",
-    "react": "19.2.5",
+    "jsdom": "29.1.1",
+    "react": "^19.2.7",
     "recursive-directory": "1.2.3",
     "svg-to-jsx": "1.0.4",
     "svgo": "4.0.1",
     "svgson": "5.3.1",
-    "tsx": "4.21.0",
-    "typescript": "6.0.2"
+    "tsx": "4.22.4",
+    "typescript": "6.0.3"
   },
   "sideEffects": false,
   "exports": {
